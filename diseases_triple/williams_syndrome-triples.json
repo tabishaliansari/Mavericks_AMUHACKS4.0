@@ -1,0 +1,3952 @@
+[
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "moderate intellectual disability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "deficits in visuospatial skills"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "atypical associations between words in the semantic networks"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "microdeletion of a critical region on chromosome 7q11.23"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "GTF2I gene"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "GTF2IRD1 gene"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "altered structure of semantic memory"
+  },
+  {
+    "subject": "Williams syndrome-associated cardiac pathologies",
+    "relation": "has_symptom",
+    "object": "heart failure"
+  },
+  {
+    "subject": "Williams syndrome-associated cardiac pathologies",
+    "relation": "has_symptom",
+    "object": "severe global left ventricular dysfunction"
+  },
+  {
+    "subject": "Williams syndrome-associated cardiac pathologies",
+    "relation": "has_symptom",
+    "object": "hypertension"
+  },
+  {
+    "subject": "Williams syndrome-associated cardiac pathologies",
+    "relation": "treated_by",
+    "object": "heart transplantation"
+  },
+  {
+    "subject": "Williams syndrome-associated cardiac pathologies",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Williams syndrome-associated cardiac pathologies",
+    "relation": "has_cause",
+    "object": "underlying vascular pathology"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "cardiovascular abnormalities"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "facial features"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "enuresis"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "arterial hypertension"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "hypercalcemia"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "hypercalciuria"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "nephrocardiosis"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "urinary tract abnormalities"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "deletion of a segment of DNA on chromosome 7q11.23"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "endocrine manifestations"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "urological manifestations"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "gastrointestinal manifestations"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "multidisciplinary management"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "pediatric nephrology"
+  },
+  {
+    "subject": "Congenital supravalvular aortic stenosis",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Congenital supravalvular aortic stenosis",
+    "relation": "treated_by",
+    "object": "Slide aortoplasty"
+  },
+  {
+    "subject": "Congenital supravalvular aortic stenosis",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Congenital supravalvular aortic stenosis",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "microdeletion of 25 to 27 genes on chromosome 7q11.23"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "nonsuicidal self-injurious behavior"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "neuropsychiatric symptoms"
+  },
+  {
+    "subject": "nonsuicidal self-injurious behavior",
+    "relation": "treated_by",
+    "object": "N-acetylcysteine"
+  },
+  {
+    "subject": "Williams Beuren syndrome",
+    "relation": "associated_with",
+    "object": "non-Hodgkin lymphoma"
+  },
+  {
+    "subject": "non-Hodgkin lymphoma",
+    "relation": "has_cause",
+    "object": "Williams Beuren syndrome"
+  },
+  {
+    "subject": "Williams Beuren syndrome",
+    "relation": "treated_by",
+    "object": "cancer surveillance"
+  },
+  {
+    "subject": "non-Hodgkin lymphoma",
+    "relation": "treated_by",
+    "object": "cancer surveillance"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Anxiety"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "Buspirone"
+  },
+  {
+    "subject": "Anxiety",
+    "relation": "treated_by",
+    "object": "Buspirone"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "elastin dysfunction"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "associated_with",
+    "object": "elastin dysfunction"
+  },
+  {
+    "subject": "Autosomal dominant cutis laxa",
+    "relation": "associated_with",
+    "object": "elastin dysfunction"
+  },
+  {
+    "subject": "ELN-related vascular and connective tissue dysfunction",
+    "relation": "associated_with",
+    "object": "elastin dysfunction"
+  },
+  {
+    "subject": "Elastin-related disease",
+    "relation": "has_cause",
+    "object": "inadequate elastin deposition"
+  },
+  {
+    "subject": "Elastin-related disease",
+    "relation": "has_cause",
+    "object": "production of poor-quality elastic fibers"
+  },
+  {
+    "subject": "Elastin-related disease",
+    "relation": "has_cause",
+    "object": "increased destruction of previously deposited elastin"
+  },
+  {
+    "subject": "Elastin-related disease",
+    "relation": "treated_by",
+    "object": "novel therapeutics aimed at abnormal elastin production and maintenance processes"
+  },
+  {
+    "subject": "Elastin-related disease",
+    "relation": "has_symptom",
+    "object": "vascular dysfunction"
+  },
+  {
+    "subject": "Elastin-related disease",
+    "relation": "has_symptom",
+    "object": "connective tissue dysfunction"
+  },
+  {
+    "subject": "Elastin-related disease",
+    "relation": "has_symptom",
+    "object": "aortic stenosis"
+  },
+  {
+    "subject": "Elastin-related disease",
+    "relation": "has_symptom",
+    "object": "cutis laxa"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_cause",
+    "object": "microdeletion on chromosome 7"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Hearing loss"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal functions of the middle ear"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal functions of the inner ear"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "subclinical cochlear active mechanism dysfunction"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "delayed myelination of auditory nerve"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "conductive Hearing loss"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "sensorineural Hearing loss"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "mixed Hearing loss"
+  },
+  {
+    "subject": "Hearing loss",
+    "relation": "treated_by",
+    "object": "long-term and regular hearing follow-up"
+  },
+  {
+    "subject": "Hearing loss",
+    "relation": "treated_by",
+    "object": "early detection and treatment of diseases that may contribute to Hearing loss"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "challenged verbal long-term memory"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "developmental disorders in verbal long-term memory"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "atypical processing during navigation"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "replacements and confusion during navigation"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "errors in completing tasks"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "developmental disorders"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "weakness in grammatical abilities"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "strength in pragmatic abilities"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "strength in grammatical abilities"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "weakness in pragmatic abilities"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "weakness in microstructure"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "strength in macrostructure"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "strength in microstructure"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Aortic stenosis"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Abnormal blood flow velocity"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Abnormal pressure differences"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "treated_by",
+    "object": "Surgical repair"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "overuse of holistically stored, familiar phrases"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "fewer complex sentences"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "shorter utterances"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "more frequent function words"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "grammatical difficulties"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "morphosyntactic errors"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "language difficulties"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "has_symptom",
+    "object": "Esotropia"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "has_symptom",
+    "object": "Exotropia"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "treated_by",
+    "object": "Strabismus surgery"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "associated_with",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "associated_with",
+    "object": "Down syndrome"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "associated_with",
+    "object": "Fetal alcohol syndrome"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "associated_with",
+    "object": "Fragile X syndrome"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "associated_with",
+    "object": "Angelman syndrome"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "associated_with",
+    "object": "Cerebral palsy"
+  },
+  {
+    "subject": "Strabismus",
+    "relation": "associated_with",
+    "object": "Cohen syndrome"
+  },
+  {
+    "subject": "Developmental delay",
+    "relation": "has_cause",
+    "object": "Fetal alcohol syndrome"
+  },
+  {
+    "subject": "Developmental delay",
+    "relation": "associated_with",
+    "object": "Down syndrome"
+  },
+  {
+    "subject": "Developmental delay",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Developmental delay",
+    "relation": "associated_with",
+    "object": "Fragile X syndrome"
+  },
+  {
+    "subject": "Developmental delay",
+    "relation": "associated_with",
+    "object": "Angelman syndrome"
+  },
+  {
+    "subject": "Developmental delay",
+    "relation": "associated_with",
+    "object": "Cerebral palsy"
+  },
+  {
+    "subject": "Developmental delay",
+    "relation": "associated_with",
+    "object": "Cohen syndrome"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_cause",
+    "object": "microdeletion in chromosome 7q11.23"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "elevated alanine"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "elevated proline"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "elevated arginine"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "dysregulation of long-chain saturated fatty acids"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "downregulation of long-chain unsaturated fatty acids"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "disruptions in arginine synthesis"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "arginine/proline metabolism disruption"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "alanine, aspartate and glutamate metabolism disruption"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "biosynthesis of unsaturated fatty acids disruption"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "linoleic acid metabolism disruption"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "arachidonic acid metabolism disruption"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "investigated_by",
+    "object": "liquid chromatography-tandem mass spectrometry (LC-MS/MS)"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "treated_by",
+    "object": "potential therapeutic targets"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive dissonance"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "linguistic dissonance"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "gross motor delay"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "fine motor delay"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "language ability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "Global developmental delay"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "inherited"
+  },
+  {
+    "subject": "Mental health conditions",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Mental health conditions",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Mental health conditions",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Mental health conditions",
+    "relation": "associated_with",
+    "object": "Age"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "atypical social cognition"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "linguistic register acquisition issues"
+  },
+  {
+    "subject": "Autism",
+    "relation": "associated_with",
+    "object": "atypical social cognition"
+  },
+  {
+    "subject": "Autism",
+    "relation": "associated_with",
+    "object": "linguistic register acquisition issues"
+  },
+  {
+    "subject": "linguistic register acquisition issues",
+    "relation": "has_cause",
+    "object": "atypical social cognition"
+  },
+  {
+    "subject": "linguistic register acquisition issues",
+    "relation": "has_cause",
+    "object": "motivation issues"
+  },
+  {
+    "subject": "22q11.2 deletion syndrome",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "treated_by",
+    "object": "medication"
+  },
+  {
+    "subject": "22q11.2 deletion syndrome",
+    "relation": "treated_by",
+    "object": "psychological support"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "treated_by",
+    "object": "psychological support"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Rare paediatric neurological diseases",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "22q11.2 deletion syndrome",
+    "relation": "has_cause",
+    "object": "22q11.2 deletion"
+  },
+  {
+    "subject": "Rare paediatric neurological diseases",
+    "relation": "associated_with",
+    "object": "caregiver burden"
+  },
+  {
+    "subject": "Rare paediatric neurological diseases",
+    "relation": "associated_with",
+    "object": "reduced quality of life"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "associated_with",
+    "object": "delayed diagnosis"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "associated_with",
+    "object": "unnecessary hospitalisations"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "associated_with",
+    "object": "caregiver burden"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "lower caregiver burden"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Attention Problems"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Emotional Reactivity"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Somatic Complaints"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Withdrawal"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Affective Problems"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Anxiety Problems"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Attention Deficit/Hyperactivity Problems"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "developmental diagnoses"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "psychological diagnoses"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "microdeletion of chromosome 7"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "deletion of elastin gene"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "diverticular disease"
+  },
+  {
+    "subject": "Diverticular disease",
+    "relation": "has_symptom",
+    "object": "diverticulitis"
+  },
+  {
+    "subject": "Complicated diverticulitis (Hinchey III)",
+    "relation": "treated_by",
+    "object": "surgical resection of sigmoid and colostomy (Hartmann procedure)"
+  },
+  {
+    "subject": "Complicated diverticulitis (Hinchey III)",
+    "relation": "treated_by",
+    "object": "anastomosis"
+  },
+  {
+    "subject": "Complicated diverticulitis (Hinchey III)",
+    "relation": "treated_by",
+    "object": "laparoscopic lavage and primary closure of the perforation"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "gastrointestinal pathology"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "diverticulitis"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_symptom",
+    "object": "Synaptic dysfunction"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_symptom",
+    "object": "Hypomyelination"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_symptom",
+    "object": "Impaired impulse transmission"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_symptom",
+    "object": "Functional underconnectivity"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_symptom",
+    "object": "Functional overconnectivity"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_cause",
+    "object": "Copy number repeat variants in DNA"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_cause",
+    "object": "Low immature production of IgF-1"
+  },
+  {
+    "subject": "Autism",
+    "relation": "associated_with",
+    "object": "Tuberous sclerosis"
+  },
+  {
+    "subject": "Autism",
+    "relation": "associated_with",
+    "object": "Williams-syndrome"
+  },
+  {
+    "subject": "Autism",
+    "relation": "associated_with",
+    "object": "Phelan McDermid syndrome"
+  },
+  {
+    "subject": "Autism",
+    "relation": "associated_with",
+    "object": "Sphrintzen syndrome"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_cause",
+    "object": "Chromosome deletions and duplications"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "cardiovascular anomalies"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "persistent left superior vena cava"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "intrauterine growth retardation (IUGR)"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "polycystic kidney dysplasia"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "mild tricuspid regurgitation"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_cause",
+    "object": "deletion at 7q11.23"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "associated_with",
+    "object": "CNVs larger than 100 kilobase pairs (Kb)"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "associated_with",
+    "object": "regions of homozygosity (ROH) larger than 5 Mb"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "diagnosed_by",
+    "object": "Chromosomal microarray analysis (CMA)"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "diagnosed_by",
+    "object": "whole genome sequencing (WES)"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "diagnosed_by",
+    "object": "ultrasound"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Irritability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Gastrointestinal reflux"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Slow growth"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Food intolerance"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Reflux"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Dysphagia"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Choking/gagging"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Vomiting"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Constipation"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Bloating"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Diarrhea"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Hematochezia"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Rectal prolapse"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Abdominal pain"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Weight loss"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "Deletion of 25-27 coding genes on human chromosome 7"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "Diverticular disease"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "GI medications"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "Specialty care"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "Procedures"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "Supplemental feeds"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "palpitation"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "Wolff-Parkinson-White syndrome"
+  },
+  {
+    "subject": "Wolff-Parkinson-White syndrome",
+    "relation": "has_symptom",
+    "object": "palpitation"
+  },
+  {
+    "subject": "Wolff-Parkinson-White syndrome",
+    "relation": "has_symptom",
+    "object": "paroxysmal reentrant tachycardia"
+  },
+  {
+    "subject": "Wolff-Parkinson-White syndrome",
+    "relation": "has_symptom",
+    "object": "atrial fibrillation"
+  },
+  {
+    "subject": "Wolff-Parkinson-White syndrome",
+    "relation": "treated_by",
+    "object": "radiofrequency ablation"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "sudden cardiac death"
+  },
+  {
+    "subject": "Wolff-Parkinson-White syndrome",
+    "relation": "associated_with",
+    "object": "sudden cardiac death"
+  },
+  {
+    "subject": "sudden cardiac death",
+    "relation": "has_cause",
+    "object": "accessory pathway effective refractory period under 250 ms"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "Intellectual disabilities"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "Intellectual disabilities"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "Exploration difficulties"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "Navigation difficulties"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Exploration difficulties"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Navigation difficulties"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "Poor navigation"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "Weak exploration behavior"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Atypical exploration behavior"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Increased revisits during exploration"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Intellectual disability",
+    "relation": "has_symptom",
+    "object": "Poor navigation"
+  },
+  {
+    "subject": "22q11.2 deletion syndrome",
+    "relation": "has_symptom",
+    "object": "facial dysmorphisms"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "facial dysmorphisms"
+  },
+  {
+    "subject": "22q11.2 deletion syndrome",
+    "relation": "associated_with",
+    "object": "genetic syndromes"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "genetic syndromes"
+  },
+  {
+    "subject": "22q11.2 deletion syndrome",
+    "relation": "has_cause",
+    "object": "genetic deletion"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "genetic syndromes",
+    "relation": "diagnosed_by",
+    "object": "Face2Gene tool"
+  },
+  {
+    "subject": "genetic syndromes",
+    "relation": "diagnosed_by",
+    "object": "specific tests"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "impaired hippocampus-dependent place learning"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "impaired hippocampus-dependent place learning"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "genetic origins"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_cause",
+    "object": "genetic origins"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "deficits in hippocampus-dependent learning"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "deficits in executive functions"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "deficits in hippocampus-dependent learning"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "deficits in executive functions"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "minimization of distractors"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "treated_by",
+    "object": "minimization of distractors"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "congruent feedback"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "treated_by",
+    "object": "congruent feedback"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "microdeletion in chromosome 7q11.23"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "cardiovascular disorders"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "nervous system disorders"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "human induced pluripotent stem cell (iPSC) based therapeutics"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "motor skills impairment"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "sensory processing issues"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "feeding issues"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "physical therapy"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "preterm birth"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "small left ventricle"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "cardiovascular abnormality"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "diagnosed_by",
+    "object": "Chromosomal microarray analysis"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "screened_by",
+    "object": "Noninvasive prenatal screening"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "caused_by",
+    "object": "heterozygous deletion at the 7q11.23 region"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "has_symptom",
+    "object": "Aortic stenosis"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "has_symptom",
+    "object": "Pulmonary stenosis"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "treated_by",
+    "object": "Surgical repair"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "treated_by",
+    "object": "McGoon repair"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "treated_by",
+    "object": "Doty repair"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "has_cause",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "associated_with",
+    "object": "Preoperative gradient ≥ 90 mmHg"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "associated_with",
+    "object": "Preoperative sinotubular junction z-score < -3.5"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "has_symptom",
+    "object": "Electrocardiographic abnormalities"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "has_symptom",
+    "object": "Ventricular dysfunction"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "has_symptom",
+    "object": "Non-specific clinical manifestations"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "has_symptom",
+    "object": "Progressively deteriorating haemodynamic status"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "has_cause",
+    "object": "Congenital coronary anomalies"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "has_cause",
+    "object": "Kawasaki disease"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "has_cause",
+    "object": "Cardiac allograft microangiopathy"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "has_cause",
+    "object": "Thromboembolic coronary artery incidents"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "associated_with",
+    "object": "Pulmonary atresia with intact ventricular septum"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "treated_by",
+    "object": "Extracorporeal membrane oxygenation support"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "treated_by",
+    "object": "Heart transplant"
+  },
+  {
+    "subject": "Myocardial Infarction",
+    "relation": "treated_by",
+    "object": "Prompt treatment"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive phenotypes"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral phenotypes"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "social characteristics"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "social skills training program"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "difficulties with executive functioning"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "difficulties with executive functioning"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "externalising behaviours"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "internalising behaviours"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "impairments in almost all BRIEF-A scales"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "maladaptive functioning"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "maladaptive functioning"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "adaptive functioning"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "adaptive functioning"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "intellectual ability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "intellectual ability"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "treated_by",
+    "object": "targeted cognitive interventions"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "targeted cognitive interventions"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_cause",
+    "object": "genetic syndrome"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "genetic syndrome"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "has_symptom",
+    "object": "Elevated flow velocities"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "has_symptom",
+    "object": "High wall shear stress"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "has_symptom",
+    "object": "High pressure drop"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "has_symptom",
+    "object": "Increased cardiac workload"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "treated_by",
+    "object": "Surgical intervention"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "Congenital arterial stenosis"
+  },
+  {
+    "subject": "Congenital heart defects",
+    "relation": "has_symptom",
+    "object": "Elevated flow velocities"
+  },
+  {
+    "subject": "Congenital heart defects",
+    "relation": "treated_by",
+    "object": "Surgical intervention"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "medical concerns"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral concerns"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "educational concerns"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "younger age"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "lower income levels"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "increased distances to providers knowledgeable about WS"
+  },
+  {
+    "subject": "Barriers to health care for patients with Williams syndrome",
+    "relation": "treated_by",
+    "object": "providers knowledgeable about WS"
+  },
+  {
+    "subject": "Neurodevelopmental Disorders",
+    "relation": "has_symptom",
+    "object": "Sensory Processing Challenges"
+  },
+  {
+    "subject": "Genetic Conditions",
+    "relation": "has_symptom",
+    "object": "Sensory Processing Challenges"
+  },
+  {
+    "subject": "Sensory Processing Challenges",
+    "relation": "treated_by",
+    "object": "Evidence-based Interventions"
+  },
+  {
+    "subject": "Sensory Processing Challenges",
+    "relation": "treated_by",
+    "object": "Tailored Interventions"
+  },
+  {
+    "subject": "Neurodevelopmental Disorders",
+    "relation": "associated_with",
+    "object": "Autism Spectrum Disorder"
+  },
+  {
+    "subject": "Neurodevelopmental Disorders",
+    "relation": "associated_with",
+    "object": "Attention Deficit Hyperactivity Disorder"
+  },
+  {
+    "subject": "Neurodevelopmental Disorders",
+    "relation": "associated_with",
+    "object": "Developmental Delays"
+  },
+  {
+    "subject": "Neurodevelopmental Disorders",
+    "relation": "associated_with",
+    "object": "Learning Disorders"
+  },
+  {
+    "subject": "Genetic Conditions",
+    "relation": "associated_with",
+    "object": "22q11.2 Deletion Syndrome"
+  },
+  {
+    "subject": "Genetic Conditions",
+    "relation": "associated_with",
+    "object": "Williams Syndrome"
+  },
+  {
+    "subject": "Genetic Conditions",
+    "relation": "associated_with",
+    "object": "Pseudohypoparathyroidism"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Infantile hypercalcemia"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Acute kidney injury"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Severe hypercalcemia"
+  },
+  {
+    "subject": "Severe hypercalcemia",
+    "relation": "has_cause",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Williams syndrome with severe hypercalcemia",
+    "relation": "treated_by",
+    "object": "Pamidronate therapy"
+  },
+  {
+    "subject": "Williams syndrome with severe hypercalcemia",
+    "relation": "treated_by",
+    "object": "Intravenous pamidronate"
+  },
+  {
+    "subject": "Acute kidney injury",
+    "relation": "associated_with",
+    "object": "Severe hypercalcemia"
+  },
+  {
+    "subject": "Acute kidney injury",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Impaired motor performance"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Impaired daily living performance"
+  },
+  {
+    "subject": "Down Syndrome",
+    "relation": "has_symptom",
+    "object": "Impaired motor performance"
+  },
+  {
+    "subject": "Down Syndrome",
+    "relation": "has_symptom",
+    "object": "Impaired daily living performance"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Difficulty getting dressed"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Difficulty using a knife and fork"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Difficulty washing up"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Difficulty clearing up"
+  },
+  {
+    "subject": "Down Syndrome",
+    "relation": "has_symptom",
+    "object": "Difficulty getting dressed"
+  },
+  {
+    "subject": "Down Syndrome",
+    "relation": "has_symptom",
+    "object": "Difficulty using a knife and fork"
+  },
+  {
+    "subject": "Down Syndrome",
+    "relation": "has_symptom",
+    "object": "Difficulty washing up"
+  },
+  {
+    "subject": "Down Syndrome",
+    "relation": "has_symptom",
+    "object": "Difficulty clearing up"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "treated_by",
+    "object": "Training to improve motor competence"
+  },
+  {
+    "subject": "Down Syndrome",
+    "relation": "treated_by",
+    "object": "Training to improve motor competence"
+  },
+  {
+    "subject": "Impaired daily living performance",
+    "relation": "associated_with",
+    "object": "Impaired motor competence"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "Impaired motor competence"
+  },
+  {
+    "subject": "Down Syndrome",
+    "relation": "associated_with",
+    "object": "Impaired motor competence"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual/learning disabilities"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "anxiety/mood disorder"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "treatment-resistant schizoaffective disorder"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "parkinsonism"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "generalized dystonia"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "chromosome 7q11.23 deletion"
+  },
+  {
+    "subject": "treatment-resistant schizoaffective disorder",
+    "relation": "treated_by",
+    "object": "antipsychotic treatments"
+  },
+  {
+    "subject": "parkinsonism",
+    "relation": "treated_by",
+    "object": "levodopa"
+  },
+  {
+    "subject": "generalized dystonia",
+    "relation": "treated_by",
+    "object": "levodopa"
+  },
+  {
+    "subject": "parkinsonism",
+    "relation": "has_cause",
+    "object": "antipsychotic treatments"
+  },
+  {
+    "subject": "generalized dystonia",
+    "relation": "has_cause",
+    "object": "antipsychotic treatments"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorder"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "psychiatric disorders"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "movement disorders"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_cause",
+    "object": "microdeletion of one copy of 25-27 genes"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "neuronal deficits"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal proliferation and differentiation capabilities"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "aberrant generation of excitatory neurons"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "neurogenic deficits"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "GTF2IRD1 gene"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "treated_by",
+    "object": "exogenous TTR"
+  },
+  {
+    "subject": "Williams-Campbell syndrome",
+    "relation": "has_symptom",
+    "object": "congenital bronchiectasis"
+  },
+  {
+    "subject": "Williams-Campbell syndrome",
+    "relation": "has_symptom",
+    "object": "congenital cystic degeneration of the upper lobes of both lungs"
+  },
+  {
+    "subject": "Williams-Campbell syndrome",
+    "relation": "treated_by",
+    "object": "lung transplantation"
+  },
+  {
+    "subject": "Williams-Campbell syndrome",
+    "relation": "associated_with",
+    "object": "long-COVID"
+  },
+  {
+    "subject": "Williams-Campbell syndrome",
+    "relation": "has_cause",
+    "object": "congenital condition"
+  },
+  {
+    "subject": "Genetic Syndromes",
+    "relation": "associated_with",
+    "object": "Odontogenic Tumors"
+  },
+  {
+    "subject": "Gardner Syndrome",
+    "relation": "associated_with",
+    "object": "Odontogenic Tumors"
+  },
+  {
+    "subject": "Gorlin Syndrome",
+    "relation": "associated_with",
+    "object": "Odontogenic Tumors"
+  },
+  {
+    "subject": "Schimmelpenning Syndrome",
+    "relation": "associated_with",
+    "object": "Odontogenic Tumors"
+  },
+  {
+    "subject": "Odontogenic Tumors",
+    "relation": "has_cause",
+    "object": "Genetic Factors"
+  },
+  {
+    "subject": "Odontogenic Tumors",
+    "relation": "treated_by",
+    "object": "Early Intervention"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "has_cause",
+    "object": "Chromosomal Abnormalities"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "associated_with",
+    "object": "Chromosomal Copy Number Variants (CNVs)"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "has_symptom",
+    "object": "Intellectual Disabilities"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "has_symptom",
+    "object": "Central Nervous System Malformations"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "has_symptom",
+    "object": "Cardiac Malformations"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "has_symptom",
+    "object": "Skeletal Malformations"
+  },
+  {
+    "subject": "Chromosomal Abnormalities",
+    "relation": "diagnosed_by",
+    "object": "Chromosomal Microarray Testing"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "treated_by",
+    "object": "Molecular Karyotyping"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "associated_with",
+    "object": "Williams Syndrome"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "associated_with",
+    "object": "Koolen de Vries Syndrome"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "associated_with",
+    "object": "Prader-Willi Syndrome"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "associated_with",
+    "object": "Miller-Dieker Syndrome"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "associated_with",
+    "object": "DiGeorge Syndrome"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "associated_with",
+    "object": "7q11.23 Microduplication Syndrome"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "associated_with",
+    "object": "16p13.11 Microdeletion Syndrome"
+  },
+  {
+    "subject": "Small for Gestational Age Birth",
+    "relation": "associated_with",
+    "object": "1q21.1 Microdeletion Syndrome"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "hypersociability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "neurocognitive abnormalities"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "heterozygous microdeletion"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "myelination deficits"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "clemastine"
+  },
+  {
+    "subject": "myelination deficits",
+    "relation": "treated_by",
+    "object": "clemastine"
+  },
+  {
+    "subject": "Gtf2i deletion",
+    "relation": "associated_with",
+    "object": "myelination deficits"
+  },
+  {
+    "subject": "Gtf2i deletion",
+    "relation": "associated_with",
+    "object": "altered microglia properties"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Hyperphagia"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "has_symptom",
+    "object": "Hyperphagia"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Hyperphagic symptoms"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Externalizing behavior"
+  },
+  {
+    "subject": "Hyperphagia",
+    "relation": "treated_by",
+    "object": "Syndrome-specific treatments"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Neurogenetic conditions"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "has_cause",
+    "object": "Neurogenetic conditions"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "Neurogenetic conditions"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "cardiovascular disease"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "distinctive facial traits"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "neurobehavioral disorders"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "transient infantile hypercalcemia"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "arterial stenosis"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "left ventricular endocardial calcification"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "novel heterozygous deletion"
+  },
+  {
+    "subject": "endocardial calcification",
+    "relation": "associated_with",
+    "object": "severe myocardial injuries"
+  },
+  {
+    "subject": "arterial stenosis",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "left ventricular endocardial calcification",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "high social motivation"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "limited social cognition"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "developmental disorder"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "generous sharing behavior after modeling"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "preventing disadvantageous outcomes"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "distinct facies"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "supravalvar aortic stenosis (SVAS)"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "arrhythmia"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "sudden cardiac death (SCD)"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_cause",
+    "object": "chromosomal microdeletion at 7q11.23"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "associated_with",
+    "object": "autonomic abnormalities"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "associated_with",
+    "object": "coronary artery disease (CAD)"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "associated_with",
+    "object": "atherosclerosis"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "treated_by",
+    "object": "heart rate fragmentation (HRF) analysis"
+  },
+  {
+    "subject": "sudden cardiac death (SCD)",
+    "relation": "treated_by",
+    "object": "heart rate fragmentation (HRF) analysis"
+  },
+  {
+    "subject": "arrhythmia",
+    "relation": "treated_by",
+    "object": "heart rate fragmentation (HRF) analysis"
+  },
+  {
+    "subject": "ventricular fibrillation",
+    "relation": "treated_by",
+    "object": "heart rate fragmentation (HRF) analysis"
+  },
+  {
+    "subject": "ventricular tachycardia",
+    "relation": "treated_by",
+    "object": "heart rate fragmentation (HRF) analysis"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "missing of low-copy DNA elements"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "congenital heart disease"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "coarctation of the aorta"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "diagnosed_by",
+    "object": "diagnostic signatures (ST8SIA5, RAP1GAP, PLAU, RGMA)"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "treated_by",
+    "object": "personalized therapy"
+  },
+  {
+    "subject": "Coarctation of the aorta",
+    "relation": "treated_by",
+    "object": "surgical repairing"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "increased social drive"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "particular interest in faces"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "difficulty in visuospatial processing"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "fusiform hyperactivation"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "bilateral intraparietal sulcus hypoactivation"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "hemideletion of ~26 7q11.23 genes"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "altered fusiform gyrus function"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "hypoactivation of the intraparietal sulcus"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "behaviours"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "health problems"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "mood swings"
+  },
+  {
+    "subject": "Caring for Williams syndrome child",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Caring for Williams syndrome child",
+    "relation": "has_symptom",
+    "object": "intimacy problems"
+  },
+  {
+    "subject": "Caring for Williams syndrome child",
+    "relation": "has_symptom",
+    "object": "deterioration of mental health"
+  },
+  {
+    "subject": "Caring for Williams syndrome child",
+    "relation": "has_symptom",
+    "object": "role captivity"
+  },
+  {
+    "subject": "Caring for Williams syndrome child",
+    "relation": "has_symptom",
+    "object": "role overload"
+  },
+  {
+    "subject": "Caring for Williams syndrome child",
+    "relation": "has_symptom",
+    "object": "impatience"
+  },
+  {
+    "subject": "Caring for Williams syndrome child",
+    "relation": "has_symptom",
+    "object": "emotional lability"
+  },
+  {
+    "subject": "Caring for Williams syndrome child",
+    "relation": "has_symptom",
+    "object": "helplessness"
+  },
+  {
+    "subject": "Caring for Williams syndrome child",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Caring for Williams syndrome child",
+    "relation": "has_symptom",
+    "object": "depression"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "medical care"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "specialist care"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "caregiver mental health issues"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "caregiver role overload"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "caregiver distress"
+  },
+  {
+    "subject": "Chromosomal abnormalities",
+    "relation": "has_symptom",
+    "object": "Congenital malformations"
+  },
+  {
+    "subject": "Chromosomal abnormalities associated with cardiovascular diseases",
+    "relation": "has_symptom",
+    "object": "Arrhythmias"
+  },
+  {
+    "subject": "Chromosomal abnormalities associated with cardiovascular diseases",
+    "relation": "has_symptom",
+    "object": "Cardiac arrest"
+  },
+  {
+    "subject": "Chromosomal abnormalities associated with cardiovascular diseases",
+    "relation": "has_symptom",
+    "object": "Sudden cardiac death"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "has_symptom",
+    "object": "Structural or functional alterations of the heart"
+  },
+  {
+    "subject": "Chromosomal abnormalities",
+    "relation": "has_cause",
+    "object": "Inherited or spontaneous changes in chromosomes"
+  },
+  {
+    "subject": "Chromosomal abnormalities associated with cardiovascular diseases",
+    "relation": "associated_with",
+    "object": "Cardiovascular diseases"
+  },
+  {
+    "subject": "Chromosomal abnormalities associated with cardiovascular diseases",
+    "relation": "treated_by",
+    "object": "Early diagnosis and adequate management"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "treated_by",
+    "object": "Prevention strategies"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "language comprehension problems"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "problems with adaptation to linguistic context"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "problems with verbal communication"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "problems with understanding figurative language"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "treated_by",
+    "object": "language intervention"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "social cognition deficits"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "problematic food-related behaviors"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "reduced eye gaze"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "high social drive"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "social skills training"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "adapted exposure therapy"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "cognitive behavioral therapy"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "genetic syndrome"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "being underweight"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "being overweight"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "difficulties within social communication"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "social cognition difficulties"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "repetitive behaviours"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "atypical sensory reactivity"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "autistic behaviours"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "autism"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "attention deficit hyperactivity disorder (ADHD)"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "cooccurring psychiatric conditions"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "clinical management"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "anxiety disorders"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "anxiety",
+    "relation": "treated_by",
+    "object": "buspirone"
+  },
+  {
+    "subject": "buspirone",
+    "relation": "has_side_effect",
+    "object": "nausea"
+  },
+  {
+    "subject": "buspirone",
+    "relation": "has_side_effect",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "buspirone"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_cause",
+    "object": "genetic"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "learning disability"
+  },
+  {
+    "subject": "Fragile X syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Fragile X syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Fragile X syndrome",
+    "relation": "has_cause",
+    "object": "genetic"
+  },
+  {
+    "subject": "Fragile X syndrome",
+    "relation": "associated_with",
+    "object": "learning disability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "genetic"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "learning disability"
+  },
+  {
+    "subject": "Hearing Loss",
+    "relation": "treated_by",
+    "object": "Auditory Interventions"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Sensory Sensitivity"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Sensation Seeking"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Sensation Avoiding"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Low Registration"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "Autism spectrum disorder"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "has_symptom",
+    "object": "Sensory Sensitivity"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "has_symptom",
+    "object": "Sensation Seeking"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "has_symptom",
+    "object": "Sensation Avoiding"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "has_symptom",
+    "object": "Low Registration"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "medical concerns"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral concerns"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "educational concerns"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "younger age"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "lower income levels"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "increased distances to providers knowledgeable about WS"
+  },
+  {
+    "subject": "Congenital adrenal hyperplasia",
+    "relation": "has_symptom",
+    "object": "Virilization of the external genitalia"
+  },
+  {
+    "subject": "Congenital adrenal hyperplasia",
+    "relation": "has_symptom",
+    "object": "Early puberty"
+  },
+  {
+    "subject": "Congenital adrenal hyperplasia",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Congenital adrenal hyperplasia",
+    "relation": "has_cause",
+    "object": "Mutations in the CYP21A2 gene"
+  },
+  {
+    "subject": "Congenital adrenal hyperplasia",
+    "relation": "treated_by",
+    "object": "Corticosteroid therapy"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Distinctive facial features"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Unique personality traits"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Early puberty"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "has_cause",
+    "object": "Microdeletion of 7q11.23"
+  },
+  {
+    "subject": "Congenital adrenal hyperplasia",
+    "relation": "associated_with",
+    "object": "Central precocious puberty"
+  },
+  {
+    "subject": "Williams Syndrome",
+    "relation": "associated_with",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "Severe aortopathy"
+  },
+  {
+    "subject": "Severe aortopathy",
+    "relation": "has_symptom",
+    "object": "Ascending aortic pathology"
+  },
+  {
+    "subject": "Severe aortopathy",
+    "relation": "has_symptom",
+    "object": "Distal multilevel obstruction"
+  },
+  {
+    "subject": "Severe aortopathy",
+    "relation": "treated_by",
+    "object": "Comprehensive surgical approach"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "has_symptom",
+    "object": "abnormal echocardiography findings"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "22q11.2 microdeletion syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "treated_by",
+    "object": "Chromosomal Microarray Analysis"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "treated_by",
+    "object": "Next Generation Sequencing"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "has_cause",
+    "object": "genetic causes"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "microdeletion of one copy of 25-27 genes"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "neuronal deficits"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal proliferation and differentiation capabilities"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "aberrant generation of excitatory neurons"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "neurodevelopmental deficits"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "GTF2IRD1 gene"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "exogenous TTR"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "TTR-ERK pathway dysregulation"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "has_symptom",
+    "object": "congenital heart defect"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "has_symptom",
+    "object": "moderate mental developmental delay"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "has_symptom",
+    "object": "motor developmental delay"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "has_cause",
+    "object": "chromosomal microdeletion"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "associated_with",
+    "object": "neuropsychological developmental disorders"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "treated_by",
+    "object": "targeted therapies"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Neurodevelopmental Disorders",
+    "relation": "has_symptom",
+    "object": "Sensory Processing Challenges"
+  },
+  {
+    "subject": "Genetic Conditions",
+    "relation": "has_symptom",
+    "object": "Sensory Processing Challenges"
+  },
+  {
+    "subject": "Sensory Processing Challenges",
+    "relation": "treated_by",
+    "object": "Evidence-based Interventions"
+  },
+  {
+    "subject": "Sensory Processing Challenges",
+    "relation": "treated_by",
+    "object": "Tailored Interventions"
+  },
+  {
+    "subject": "Neurodevelopmental Disorders",
+    "relation": "associated_with",
+    "object": "Autism Spectrum Disorder"
+  },
+  {
+    "subject": "Neurodevelopmental Disorders",
+    "relation": "associated_with",
+    "object": "Attention Deficit Hyperactivity Disorder"
+  },
+  {
+    "subject": "Neurodevelopmental Disorders",
+    "relation": "associated_with",
+    "object": "Developmental Delays"
+  },
+  {
+    "subject": "Neurodevelopmental Disorders",
+    "relation": "associated_with",
+    "object": "Learning Disorders"
+  },
+  {
+    "subject": "Genetic Conditions",
+    "relation": "associated_with",
+    "object": "22q11.2 Deletion Syndrome"
+  },
+  {
+    "subject": "Genetic Conditions",
+    "relation": "associated_with",
+    "object": "Williams Syndrome"
+  },
+  {
+    "subject": "Genetic Conditions",
+    "relation": "associated_with",
+    "object": "Pseudohypoparathyroidism"
+  },
+  {
+    "subject": "Williams Beuren Syndrome",
+    "relation": "has_symptom",
+    "object": "congenital heart defects"
+  },
+  {
+    "subject": "Williams Beuren Syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Williams Beuren Syndrome",
+    "relation": "has_symptom",
+    "object": "hypercalcemia"
+  },
+  {
+    "subject": "Williams Beuren Syndrome",
+    "relation": "has_symptom",
+    "object": "characteristic facial features"
+  },
+  {
+    "subject": "Williams Beuren Syndrome",
+    "relation": "has_cause",
+    "object": "1.5 - 1.8 Mb heterozygous deletion of chromosome 7q11.23"
+  },
+  {
+    "subject": "Williams Beuren Syndrome",
+    "relation": "treated_by",
+    "object": "semi-quantitative PCR (sqPCR) method"
+  },
+  {
+    "subject": "Williams Beuren Syndrome",
+    "relation": "treated_by",
+    "object": "whole exome sequencing"
+  },
+  {
+    "subject": "Williams Beuren Syndrome",
+    "relation": "treated_by",
+    "object": "fluorescence in-situ hybridization (FISH)"
+  },
+  {
+    "subject": "Renal artery stenosis",
+    "relation": "has_symptom",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Middle aortic syndrome",
+    "relation": "has_symptom",
+    "object": "Severe hypertension"
+  },
+  {
+    "subject": "Middle aortic syndrome",
+    "relation": "has_cause",
+    "object": "Genetic disorders"
+  },
+  {
+    "subject": "Middle aortic syndrome",
+    "relation": "has_cause",
+    "object": "Acquired disorders"
+  },
+  {
+    "subject": "Renal artery stenosis",
+    "relation": "associated_with",
+    "object": "Middle aortic syndrome"
+  },
+  {
+    "subject": "Middle aortic syndrome",
+    "relation": "associated_with",
+    "object": "Renal artery stenosis"
+  },
+  {
+    "subject": "Middle aortic syndrome",
+    "relation": "has_cause",
+    "object": "Idiopathic causes"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "treated_by",
+    "object": "Surgery"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "LIM domain kinase-related disease",
+    "relation": "has_cause",
+    "object": "LIMK1 dysregulation"
+  },
+  {
+    "subject": "LIM domain kinase-related disease",
+    "relation": "has_cause",
+    "object": "LIMK2 dysregulation"
+  },
+  {
+    "subject": "LIM domain kinase-related disease",
+    "relation": "associated_with",
+    "object": "Actin depolymerization disorders"
+  },
+  {
+    "subject": "LIM domain kinase-related disease",
+    "relation": "has_symptom",
+    "object": "Cytoskeleton abnormalities"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "has_symptom",
+    "object": "Peak supravalvar velocity of ≥2 meters/second"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "has_symptom",
+    "object": "Sinotubular junction or ascending aortic Z score <-2.0"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "has_symptom",
+    "object": "Sinotubular junction Z score <-1.5 with family history of SVAS"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "treated_by",
+    "object": "Gene sequencing using a multigene panel or exome analysis"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "has_cause",
+    "object": "Genetic mutations (e.g. ELN, PTPN11, JAG1, NF1, LDLR1)"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "associated_with",
+    "object": "Williams-Beuren syndrome"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "associated_with",
+    "object": "Alagille syndrome"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "associated_with",
+    "object": "Neurofibromatosis"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "associated_with",
+    "object": "Homozygous familial hypercholesterolemia"
+  },
+  {
+    "subject": "Supravalvar aortic stenosis",
+    "relation": "associated_with",
+    "object": "Hypercholesterolemia"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "associated_with",
+    "object": "Autism"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Restricted scan paths"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Eye-region avoidance"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_symptom",
+    "object": "Restricted scan paths"
+  },
+  {
+    "subject": "Autism",
+    "relation": "has_symptom",
+    "object": "Eye-region avoidance"
+  },
+  {
+    "subject": "Autism",
+    "relation": "associated_with",
+    "object": "ADHD"
+  },
+  {
+    "subject": "Autism",
+    "relation": "associated_with",
+    "object": "Anxiety"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "treated_by",
+    "object": "Eye-tracking technology"
+  },
+  {
+    "subject": "Peripheral pulmonary stenosis",
+    "relation": "has_symptom",
+    "object": "narrowing of the pulmonary arteries"
+  },
+  {
+    "subject": "Peripheral pulmonary stenosis",
+    "relation": "has_symptom",
+    "object": "impairs blood flow to the lung"
+  },
+  {
+    "subject": "Peripheral pulmonary stenosis",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Peripheral pulmonary stenosis",
+    "relation": "has_cause",
+    "object": "PTGIS variants"
+  },
+  {
+    "subject": "Peripheral pulmonary stenosis",
+    "relation": "treated_by",
+    "object": "PTGIS as a therapeutic target"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "has_symptom",
+    "object": "intimal thickening of the aortic media at the sinotubular junction"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "has_symptom",
+    "object": "discrete thickening above the sinuses of Valsalva"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "has_symptom",
+    "object": "diffuse narrowing along the ascending aorta"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "treated_by",
+    "object": "patch aortoplasty"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "treated_by",
+    "object": "surgical relief"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "treated_by",
+    "object": "flap plasty"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "treated_by",
+    "object": "single-patch expansion"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "has_cause",
+    "object": "congenital abnormality"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "associated_with",
+    "object": "coronary artery stenosis"
+  },
+  {
+    "subject": "Supravalvular aortic stenosis",
+    "relation": "associated_with",
+    "object": "cardiac anomalies"
+  },
+  {
+    "subject": "Aortic Arch Obstruction",
+    "relation": "has_symptom",
+    "object": "Coarctation"
+  },
+  {
+    "subject": "Aortic Arch Obstruction",
+    "relation": "treated_by",
+    "object": "Surgery"
+  },
+  {
+    "subject": "Aortic Arch Obstruction",
+    "relation": "treated_by",
+    "object": "Direct Anastomosis"
+  },
+  {
+    "subject": "Aortic Arch Obstruction",
+    "relation": "treated_by",
+    "object": "Patch"
+  },
+  {
+    "subject": "Aortic Arch Obstruction",
+    "relation": "treated_by",
+    "object": "Interposition Graft"
+  },
+  {
+    "subject": "Aortic Arch Obstruction",
+    "relation": "associated_with",
+    "object": "Williams Syndrome"
+  },
+  {
+    "subject": "Aortic Arch Obstruction",
+    "relation": "associated_with",
+    "object": "Hypoplastic Left Heart Syndrome"
+  },
+  {
+    "subject": "Aortic Arch Obstruction",
+    "relation": "associated_with",
+    "object": "Heterotaxia"
+  },
+  {
+    "subject": "Surgery for Aortic Arch Obstruction",
+    "relation": "has_complication",
+    "object": "Neurologic Injury"
+  },
+  {
+    "subject": "Surgery for Aortic Arch Obstruction",
+    "relation": "has_complication",
+    "object": "Recurrent Laryngeal Nerve Paralysis"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "hypersocial phenotype"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "hemizygous loss of 26-28 genes at 7q11.23"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "altered sociality"
+  },
+  {
+    "subject": "GTF2I mutations",
+    "relation": "associated_with",
+    "object": "altered sociality"
+  },
+  {
+    "subject": "GTF2I-KO progenitors",
+    "relation": "has_symptom",
+    "object": "increased proliferation"
+  },
+  {
+    "subject": "GTF2I-KO progenitors",
+    "relation": "has_symptom",
+    "object": "cell-cycle alterations"
+  },
+  {
+    "subject": "Cortical organoids and neurons with GTF2I-KO",
+    "relation": "has_symptom",
+    "object": "increased cell death"
+  },
+  {
+    "subject": "Cortical organoids and neurons with GTF2I-KO",
+    "relation": "has_symptom",
+    "object": "synaptic dysregulation"
+  },
+  {
+    "subject": "Cortical organoids and neurons with GTF2I-KO",
+    "relation": "has_symptom",
+    "object": "synaptic structural dysfunction"
+  },
+  {
+    "subject": "Cortical organoids and neurons with GTF2I-KO",
+    "relation": "has_symptom",
+    "object": "decreased electrophysiological activity"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "Cardiovascular abnormalities"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "unique neuropsychiatric profile"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "analgosedative medications"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "morphine equivalents"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "midazolam equivalents"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "dexmedetomidine"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "major ACE"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "mortality"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "cardiac surgery"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "dysmorphic characteristics"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "dysmorphic characteristics"
+  },
+  {
+    "subject": "Turner syndrome",
+    "relation": "has_symptom",
+    "object": "dysmorphic characteristics"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "dysmorphic characteristics"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "treated_by",
+    "object": "deep learning-based classifier models"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "medical complexities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "medical complexities"
+  },
+  {
+    "subject": "Turner syndrome",
+    "relation": "associated_with",
+    "object": "medical complexities"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "medical complexities"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "associated_with",
+    "object": "health issues"
+  },
+  {
+    "subject": "Rare neurodevelopmental disorders (RNDDs)",
+    "relation": "has_symptom",
+    "object": "Communication impairments"
+  },
+  {
+    "subject": "Rare neurodevelopmental disorders (RNDDs)",
+    "relation": "associated_with",
+    "object": "Parent-reported communication measures"
+  },
+  {
+    "subject": "Rare neurodevelopmental disorders (RNDDs)",
+    "relation": "treated_by",
+    "object": "Disease modifying therapies"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "has_symptom",
+    "object": "abnormal echocardiography findings"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "22q11.2 microdeletion"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "treated_by",
+    "object": "chromosomal microarray analysis"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "treated_by",
+    "object": "next-generation sequencing"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "has_cause",
+    "object": "genetic causes"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "cardiovascular symptoms"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "neuropsychological symptoms"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "motor deficits"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "hypersociability"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive impairments"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "microdeletion on chromosome 7q11.23"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "loss of a single copy of 25-27 genes"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "vascular malformations"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "altered cerebrovascular function"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "treated_by",
+    "object": "non-invasive evaluation of complex vascular abnormalities"
+  },
+  {
+    "subject": "Aortic Stenosis",
+    "relation": "has_symptom",
+    "object": "Valve Stenosis"
+  },
+  {
+    "subject": "Pulmonary Stenosis",
+    "relation": "has_symptom",
+    "object": "Valve Stenosis"
+  },
+  {
+    "subject": "Aortic Stenosis",
+    "relation": "treated_by",
+    "object": "TAVR"
+  },
+  {
+    "subject": "Pulmonary Stenosis",
+    "relation": "treated_by",
+    "object": "PBPV"
+  },
+  {
+    "subject": "Aortic Stenosis",
+    "relation": "associated_with",
+    "object": "Pulmonary Stenosis"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "slow growth"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "vascular stenosis"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "gastrointestinal complaints"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_symptom",
+    "object": "constipation"
+  },
+  {
+    "subject": "BAZ1B deficiency",
+    "relation": "has_symptom",
+    "object": "prolonged neonatal cyanosis"
+  },
+  {
+    "subject": "BAZ1B deficiency",
+    "relation": "has_symptom",
+    "object": "patent ductus arteriosus"
+  },
+  {
+    "subject": "BAZ1B deficiency",
+    "relation": "has_symptom",
+    "object": "reduced lung aeration"
+  },
+  {
+    "subject": "BAZ1B deficiency",
+    "relation": "has_symptom",
+    "object": "bowel dilation"
+  },
+  {
+    "subject": "BAZ1B deficiency",
+    "relation": "has_symptom",
+    "object": "agnathia"
+  },
+  {
+    "subject": "BAZ1B deficiency",
+    "relation": "has_symptom",
+    "object": "microphthalmia"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "associated_with",
+    "object": "BAZ1B deletion"
+  },
+  {
+    "subject": "BAZ1B deficiency",
+    "relation": "has_cause",
+    "object": "reduced BAZ1B copy number"
+  },
+  {
+    "subject": "Williams syndrome",
+    "relation": "has_cause",
+    "object": "deletion of 25-27 coding genes including BAZ1B"
+  },
+  {
+    "subject": "BAZ1B deficiency",
+    "relation": "treated_by",
+    "object": "none mentioned"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "distinct facial features"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "delayed growth"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "distinct facial features"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "delayed growth"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "has_symptom",
+    "object": "distinct facial features"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "has_symptom",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "has_symptom",
+    "object": "delayed growth"
+  },
+  {
+    "subject": "Genetic syndromes",
+    "relation": "has_symptom",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Genetic syndromes",
+    "relation": "treated_by",
+    "object": "facial recognition-based model"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "associated_with",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "associated_with",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Genetic syndromes",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "has_symptom",
+    "object": "congenital heart defect"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "has_symptom",
+    "object": "moderate mental developmental delay"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "has_symptom",
+    "object": "motor developmental delay"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "has_cause",
+    "object": "chromosomal microdeletion"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "associated_with",
+    "object": "neurological abnormalities"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "associated_with",
+    "object": "neuropsychological developmental disorders"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "treated_by",
+    "object": "targeted therapies"
+  },
+  {
+    "subject": "7p22.3 microdeletion",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  }
+]

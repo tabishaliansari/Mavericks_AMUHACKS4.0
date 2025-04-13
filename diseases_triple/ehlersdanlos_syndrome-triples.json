@@ -1,0 +1,4067 @@
+[
+  {
+    "subject": "Autism Spectrum Disorders",
+    "relation": "associated_with",
+    "object": "Joint Hypermobility"
+  },
+  {
+    "subject": "Autism Spectrum Disorders",
+    "relation": "associated_with",
+    "object": "Hypermobility Spectrum Disorders"
+  },
+  {
+    "subject": "Autism Spectrum Disorders",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos Syndromes"
+  },
+  {
+    "subject": "Kyphoscoliotic Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Kyphoscoliotic Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Congenital kyphoscoliosis"
+  },
+  {
+    "subject": "Kyphoscoliotic Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Eye fragility"
+  },
+  {
+    "subject": "Kyphoscoliotic Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Hyperextensible skin"
+  },
+  {
+    "subject": "Kyphoscoliotic Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Marfanoid habitus"
+  },
+  {
+    "subject": "Kyphoscoliotic Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Joint hypermobility"
+  },
+  {
+    "subject": "Kyphoscoliotic Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Arachnodactyly"
+  },
+  {
+    "subject": "Kyphoscoliotic Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Biallelic deleterious variants in PLOD1"
+  },
+  {
+    "subject": "Kyphoscoliotic Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Loss-of-function alleles"
+  },
+  {
+    "subject": "Kyphoscoliotic Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Multi-OMIC analysis"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_symptom",
+    "object": "Symptom Y"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "treated_by",
+    "object": "Treatment Z"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_cause",
+    "object": "Cause W"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "associated_with",
+    "object": "Condition V"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "myopia"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "dry eye"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "angioid streaks"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "idiopathic intracranial hypertension"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_treatment",
+    "object": "ophthalmology referral"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "ocular pathology"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Arterial fragility"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Masked hypertension"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Celiprolol"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Inherited connective tissue disorder"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Vascular events"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "High short-term pulse pressure variability"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Chronic pain"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Chronic fatigue"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Migraines"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Dysautonomia"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Gastroesophageal reflux disease"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Irritable bowel syndrome"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Nausea"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Diarrhea"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Gastroparesis"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Dysmenorrhea"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Anxiety"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Depression"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Attention deficit hyperactivity disorder"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Mast cell activation disorder"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Postural orthostatic tachycardia syndrome"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Being transgender or gender diverse"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "arterial events"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "arterial lesions"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "defective type III collagen"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "celiprolol"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "irbesartan"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "arterial morbidity"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "arterial mortality"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "high risk of arterial events"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Upper spine morphological deviations"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Posterior arch deficiencies"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Extended head posture"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Upper spine fusion anomalies"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Diagnostics"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Treatment"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Anxiety"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Loneliness"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Comorbidities"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "Self-management techniques"
+  },
+  {
+    "subject": "Classical-like Ehlers-Danlos syndrome type 1",
+    "relation": "has_symptom",
+    "object": "Gastrointestinal tract perforations"
+  },
+  {
+    "subject": "Classical-like Ehlers-Danlos syndrome type 1",
+    "relation": "has_symptom",
+    "object": "Tracheal ruptures"
+  },
+  {
+    "subject": "Classical-like Ehlers-Danlos syndrome type 1",
+    "relation": "has_symptom",
+    "object": "Severe diverticulosis"
+  },
+  {
+    "subject": "Classical-like Ehlers-Danlos syndrome type 1",
+    "relation": "has_symptom",
+    "object": "Connective tissue symptoms"
+  },
+  {
+    "subject": "Classical-like Ehlers-Danlos syndrome type 1",
+    "relation": "has_cause",
+    "object": "Tenascin-X deficiency"
+  },
+  {
+    "subject": "Classical-like Ehlers-Danlos syndrome type 1",
+    "relation": "treated_by",
+    "object": "Specialized care"
+  },
+  {
+    "subject": "Classical-like Ehlers-Danlos syndrome type 1",
+    "relation": "associated_with",
+    "object": "Gastrointestinal perforations"
+  },
+  {
+    "subject": "Classical-like Ehlers-Danlos syndrome type 1",
+    "relation": "associated_with",
+    "object": "Tissue fragility"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "skin hyperextensibility"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "higher pain threshold"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "bleeding"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "pregnancy complications"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "hemorrhagic complications"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "Cesarean delivery"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "regional anesthesia"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Interference with daily activities"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Walking issues"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "has_symptom",
+    "object": "Interference with daily activities"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "has_symptom",
+    "object": "Walking issues"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Generalized Hypermobility Spectrum Disorder"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "Treatment plans"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "treated_by",
+    "object": "Treatment plans"
+  },
+  {
+    "subject": "Periodontal Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "early-onset periodontitis"
+  },
+  {
+    "subject": "Periodontal Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "heterozygous pathogenic mutation in C1R and/or C1S genes"
+  },
+  {
+    "subject": "Periodontal Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "disrupted collagen metabolism"
+  },
+  {
+    "subject": "Periodontal Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "heightened inflammatory response"
+  },
+  {
+    "subject": "Periodontal Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "targeting collagen metabolism and inflammation for therapeutic interventions"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Preterm birth"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Miscarriage"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Severe perineal tears"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Postpartum haemorrhage"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "has_cause",
+    "object": "Pathogenic/likely pathogenic COL3A1 variants"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Glycine substitution in COL3A1"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "Shared decision-making process"
+  },
+  {
+    "subject": "Gastrointestinal perforation",
+    "relation": "has_symptom",
+    "object": "Abdominal pain"
+  },
+  {
+    "subject": "Gastrointestinal perforation",
+    "relation": "has_cause",
+    "object": "Fish bone"
+  },
+  {
+    "subject": "Gastrointestinal perforation",
+    "relation": "treated_by",
+    "object": "Emergency laparotomy"
+  },
+  {
+    "subject": "Gastrointestinal perforation",
+    "relation": "associated_with",
+    "object": "Vascular Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Gastrointestinal perforation"
+  },
+  {
+    "subject": "Small bowel perforation",
+    "relation": "has_symptom",
+    "object": "Right lower abdominal pain"
+  },
+  {
+    "subject": "Small bowel perforation",
+    "relation": "has_cause",
+    "object": "Fish bone"
+  },
+  {
+    "subject": "Small bowel perforation",
+    "relation": "treated_by",
+    "object": "Resection of small intestine"
+  },
+  {
+    "subject": "Small bowel perforation",
+    "relation": "associated_with",
+    "object": "Vascular Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Emergency laparotomy",
+    "relation": "has_complication",
+    "object": "Paralytic ileus"
+  },
+  {
+    "subject": "Thoracic Aortic Aneurysms",
+    "relation": "has_cause",
+    "object": "inherited disorders"
+  },
+  {
+    "subject": "Thoracic Aortic Aneurysms",
+    "relation": "has_cause",
+    "object": "mitochondrial dysfunction"
+  },
+  {
+    "subject": "Thoracic Aortic Aneurysms",
+    "relation": "associated_with",
+    "object": "Marfan syndrome"
+  },
+  {
+    "subject": "Thoracic Aortic Aneurysms",
+    "relation": "associated_with",
+    "object": "Loeys-Dietz syndrome"
+  },
+  {
+    "subject": "Thoracic Aortic Aneurysms",
+    "relation": "associated_with",
+    "object": "vascular Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Thoracic Aortic Aneurysms",
+    "relation": "associated_with",
+    "object": "Familial Thoracic Aortic Aneurysms and Dissections"
+  },
+  {
+    "subject": "Thoracic Aortic Aneurysms",
+    "relation": "treated_by",
+    "object": "nicotinamide riboside"
+  },
+  {
+    "subject": "Thoracic Aortic Aneurysms",
+    "relation": "has_symptom",
+    "object": "vascular conditions"
+  },
+  {
+    "subject": "Thoracic Aortic Aneurysms",
+    "relation": "has_symptom",
+    "object": "impaired oxidative phosphorylation"
+  },
+  {
+    "subject": "Thoracic Aortic Aneurysms",
+    "relation": "has_symptom",
+    "object": "shift in metabolism toward glycolysis"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Joint Instability"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Dislocation"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Periprosthetic Fracture"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Wound Complications"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Hematoma"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_cause",
+    "object": "Aberrant Collagen Synthesis and Processing"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Connective Tissue Disorders"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "Total Joint Arthroplasty"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "Total Hip Arthroplasty"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "Total Knee Arthroplasty"
+  },
+  {
+    "subject": "Total Joint Arthroplasty",
+    "relation": "has_complication",
+    "object": "Aseptic Loosening"
+  },
+  {
+    "subject": "Total Joint Arthroplasty",
+    "relation": "has_complication",
+    "object": "Periprosthetic Joint Infection"
+  },
+  {
+    "subject": "Total Joint Arthroplasty",
+    "relation": "has_complication",
+    "object": "Medical Complications"
+  },
+  {
+    "subject": "Total Joint Arthroplasty",
+    "relation": "has_complication",
+    "object": "Readmissions"
+  },
+  {
+    "subject": "Hypermobility Ehlers Danlos syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "chronic pain"
+  },
+  {
+    "subject": "Hypermobility Ehlers Danlos syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "hypermobility"
+  },
+  {
+    "subject": "Hypermobility Ehlers Danlos syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "tissue fragility"
+  },
+  {
+    "subject": "Hypermobility Ehlers Danlos syndrome (hEDS)",
+    "relation": "associated_with",
+    "object": "alexithymia"
+  },
+  {
+    "subject": "Hypermobility Ehlers Danlos syndrome (hEDS)",
+    "relation": "associated_with",
+    "object": "psychological variables"
+  },
+  {
+    "subject": "Hypermobility Ehlers Danlos syndrome (hEDS)",
+    "relation": "treated_by",
+    "object": "rehabilitative approach"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "low bone mass"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "calcium and phosphate metabolism abnormalities"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "hypermobile Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "low bone mineral density"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "regular monitoring"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "extreme skin fragility"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "redundant skin folds"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "iatrogenic injury"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "acute pain"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "multiple fractures"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "has_cause",
+    "object": "biallelic pathogenic variants in ADAMTS2"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "associated_with",
+    "object": "diaphragmatic hernia"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "associated_with",
+    "object": "gastric volvulus"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "associated_with",
+    "object": "reduced bone mineral density"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "treated_by",
+    "object": "surgical resection"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "treated_by",
+    "object": "careful skin closure techniques"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "treated_by",
+    "object": "manual handling"
+  },
+  {
+    "subject": "Dermatosparaxis Ehlers Danlos syndrome",
+    "relation": "treated_by",
+    "object": "monitoring for reduced bone mineral density"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "has_symptom",
+    "object": "complex symptomology"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "associated_with",
+    "object": "Health-Related Quality of Life issues"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "has_symptom",
+    "object": "functional status issues"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "arterial rupture"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "uterine rupture"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "intestinal rupture"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "intestinal perforation"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "short bowel syndrome"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "collagen type III deficiency"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "intestinal failure"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "surgical complications"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "anastomotic leaks"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "fistulae"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "recurrent perforations"
+  },
+  {
+    "subject": "Intestinal failure secondary to Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "parenteral nutrition"
+  },
+  {
+    "subject": "Intestinal complications in Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "surgical management"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "gastrointestinal complications"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "skin hyperextensibility"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "atrophic scars"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "motor developmental delay"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "cranio-cervical instability"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "mutations in COL5A1 and COL5A2 genes"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "vitamin D supplementation"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "iron supplementation"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "physiotherapy"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "avoidance of excessive stretching"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "surgical intervention"
+  },
+  {
+    "subject": "Classical Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "cervical dislocation"
+  },
+  {
+    "subject": "Postural Orthostatic Tachycardia Syndrome",
+    "relation": "associated_with",
+    "object": "Mast Cell Activation Disorders"
+  },
+  {
+    "subject": "Postural Orthostatic Tachycardia Syndrome",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos Syndrome"
+  },
+  {
+    "subject": "Postural Orthostatic Tachycardia Syndrome",
+    "relation": "associated_with",
+    "object": "Hereditary Alpha Tryptasemia"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Mast Cell Activation Disorders"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Hereditary Alpha Tryptasemia"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Postural Orthostatic Tachycardia Syndrome"
+  },
+  {
+    "subject": "Mast Cell Activation Disorders",
+    "relation": "associated_with",
+    "object": "Hereditary Alpha Tryptasemia"
+  },
+  {
+    "subject": "Mast Cell Activation Disorders",
+    "relation": "associated_with",
+    "object": "Postural Orthostatic Tachycardia Syndrome"
+  },
+  {
+    "subject": "Mast Cell Activation Disorders",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos Syndrome"
+  },
+  {
+    "subject": "Hereditary Alpha Tryptasemia",
+    "relation": "associated_with",
+    "object": "Postural Orthostatic Tachycardia Syndrome"
+  },
+  {
+    "subject": "Hereditary Alpha Tryptasemia",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos Syndrome"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Acute right-sided weakness"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Altered consciousness"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Skin hyperextensibility"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Joint hypermobility"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "has_cause",
+    "object": "COL3A1 mutation"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Hemorrhagic infarct"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "Blood pressure control"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "Potassium replacement"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "Intracranial pressure reduction"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "Anxiety"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "Depression"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "Poor sleep"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "associated_with",
+    "object": "Psychiatric disorders"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "associated_with",
+    "object": "Sleep disorders"
+  },
+  {
+    "subject": "Anxiety",
+    "relation": "treated_by",
+    "object": "Clinical focus on anxiety"
+  },
+  {
+    "subject": "Pain",
+    "relation": "treated_by",
+    "object": "Clinical focus on pain"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders (HSD)",
+    "relation": "has_symptom",
+    "object": "gastrointestinal symptoms"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "gastrointestinal symptoms"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders (HSD)",
+    "relation": "associated_with",
+    "object": "antroduodenal dysmotility"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome (hEDS)",
+    "relation": "associated_with",
+    "object": "antroduodenal dysmotility"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders (HSD)",
+    "relation": "treated_by",
+    "object": "antroduodenal manometry (ADM)"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome (hEDS)",
+    "relation": "treated_by",
+    "object": "antroduodenal manometry (ADM)"
+  },
+  {
+    "subject": "gastrointestinal symptoms",
+    "relation": "diagnosed_by",
+    "object": "antroduodenal manometry (ADM)"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders (HSD)",
+    "relation": "has_symptom",
+    "object": "delayed gastric emptying"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "delayed gastric emptying"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders (HSD)",
+    "relation": "associated_with",
+    "object": "enteric dysmotility"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome (hEDS)",
+    "relation": "associated_with",
+    "object": "enteric dysmotility"
+  },
+  {
+    "subject": "Hypermobility",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "Chronic Pain"
+  },
+  {
+    "subject": "Chronic Pain",
+    "relation": "has_symptom",
+    "object": "Pain Interference"
+  },
+  {
+    "subject": "Chronic Pain",
+    "relation": "has_symptom",
+    "object": "Pain-related Distress"
+  },
+  {
+    "subject": "Chronic Pain",
+    "relation": "has_symptom",
+    "object": "Avoidance"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "associated_with",
+    "object": "Chronic Pain"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "associated_with",
+    "object": "Connective Tissue Disorders"
+  },
+  {
+    "subject": "Hypermobility",
+    "relation": "associated_with",
+    "object": "Chronic Fatigue"
+  },
+  {
+    "subject": "Chronic Pain",
+    "relation": "treated_by",
+    "object": "Multidisciplinary Treatment"
+  },
+  {
+    "subject": "Chronic Pain",
+    "relation": "treated_by",
+    "object": "Rehabilitation"
+  },
+  {
+    "subject": "Hypermobility",
+    "relation": "treated_by",
+    "object": "Multidisciplinary Treatment"
+  },
+  {
+    "subject": "Hypermobility",
+    "relation": "treated_by",
+    "object": "Rehabilitation"
+  },
+  {
+    "subject": "Ehlers-Danlos syndromes",
+    "relation": "has_symptom",
+    "object": "joint subluxations"
+  },
+  {
+    "subject": "Ehlers-Danlos syndromes",
+    "relation": "has_symptom",
+    "object": "dislocations"
+  },
+  {
+    "subject": "Ehlers-Danlos syndromes",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Ehlers-Danlos syndromes",
+    "relation": "treated_by",
+    "object": "orthopaedic surgery"
+  },
+  {
+    "subject": "Ehlers-Danlos syndromes",
+    "relation": "associated_with",
+    "object": "unsuccessful surgeries"
+  },
+  {
+    "subject": "joint subluxations",
+    "relation": "treated_by",
+    "object": "surgical interventions"
+  },
+  {
+    "subject": "dislocations",
+    "relation": "treated_by",
+    "object": "surgical interventions"
+  },
+  {
+    "subject": "pain",
+    "relation": "treated_by",
+    "object": "surgical interventions"
+  },
+  {
+    "subject": "Gastroparesis",
+    "relation": "has_symptom",
+    "object": "Impaired oral intake"
+  },
+  {
+    "subject": "Gastroparesis",
+    "relation": "treated_by",
+    "object": "Jejunal tubes placement"
+  },
+  {
+    "subject": "Gastroparesis",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos Syndrome"
+  },
+  {
+    "subject": "Jejunal tubes placement",
+    "relation": "has_complication",
+    "object": "Tube occlusion"
+  },
+  {
+    "subject": "Jejunal tubes placement",
+    "relation": "has_complication",
+    "object": "Dislodgement"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "instability"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "chronic pain"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "hippotherapy rehabilitation"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "inherited condition"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "rapid decline in functional abilities"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "lack of knowledge from provider"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "lack of satisfaction with provider"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "lack of available time with provider"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "social connections and networks"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "providers utilizing social networks"
+  },
+  {
+    "subject": "Vascular Ehlers Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "abdominal pain"
+  },
+  {
+    "subject": "Vascular Ehlers Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "subcapsular liver hemorrhage"
+  },
+  {
+    "subject": "Vascular Ehlers Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "groin hematoma"
+  },
+  {
+    "subject": "Vascular Ehlers Danlos syndrome",
+    "relation": "has_complication",
+    "object": "pulmonary embolism"
+  },
+  {
+    "subject": "Vascular Ehlers Danlos syndrome",
+    "relation": "has_complication",
+    "object": "groin infection"
+  },
+  {
+    "subject": "Vascular Ehlers Danlos syndrome",
+    "relation": "has_cause",
+    "object": "heritable connective tissue disorder"
+  },
+  {
+    "subject": "Vascular Ehlers Danlos syndrome",
+    "relation": "associated_with",
+    "object": "multiorgan involvement"
+  },
+  {
+    "subject": "Vascular Ehlers Danlos syndrome",
+    "relation": "treated_by",
+    "object": "cutdown access in the OR for angiography"
+  },
+  {
+    "subject": "Vascular Ehlers Danlos syndrome",
+    "relation": "treated_by",
+    "object": "preservation of the liver capsule"
+  },
+  {
+    "subject": "Vascular Ehlers Danlos syndrome",
+    "relation": "treated_by",
+    "object": "surgical repair of arterial injury"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Arterial fragility"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Celiprolol"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Genetic mutation"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Connective tissue disorder"
+  },
+  {
+    "subject": "Descemet's membrane detachment",
+    "relation": "has_treatment",
+    "object": "intracameral sulfur hexafluoride"
+  },
+  {
+    "subject": "Descemet's membrane detachment",
+    "relation": "has_treatment",
+    "object": "descemetopexy"
+  },
+  {
+    "subject": "Descemet's membrane detachment",
+    "relation": "has_symptom",
+    "object": "corneal rupture"
+  },
+  {
+    "subject": "Descemet's membrane detachment",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos Syndrome"
+  },
+  {
+    "subject": "corneal rupture",
+    "relation": "treated_by",
+    "object": "cyanoacrylate glue"
+  },
+  {
+    "subject": "corneal rupture",
+    "relation": "treated_by",
+    "object": "bandage contact lens"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Descemet's membrane detachment"
+  },
+  {
+    "subject": "corneal rupture",
+    "relation": "has_cause",
+    "object": "Ehlers-Danlos Syndrome"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Arterial rupture"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Organ rupture"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Fragility of soft connective tissues"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Dominant mutations in COL3A1"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Impaired extracellular matrix homeostasis"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Impaired ECM organization"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Impaired autophagy"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Cellular stress responses"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Inhibition of miR-29b-3p"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "skin hyperextensibility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "chronic fatigue"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "gastrointestinal dysfunction"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_cause",
+    "object": "mitochondrial dysfunction"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_cause",
+    "object": "non-mitochondrial pathways"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Fabry disease"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "fragile X premutation carriers"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "targeted interventions"
+  },
+  {
+    "subject": "EDS/JHMS",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "EDS/JHMS",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "EDS/JHMS",
+    "relation": "has_symptom",
+    "object": "low quality of life"
+  },
+  {
+    "subject": "EDS/JHMS",
+    "relation": "treated_by",
+    "object": "psychosocial interventions"
+  },
+  {
+    "subject": "EDS/JHMS",
+    "relation": "treated_by",
+    "object": "mindfulness"
+  },
+  {
+    "subject": "EDS/JHMS",
+    "relation": "treated_by",
+    "object": "CBT"
+  },
+  {
+    "subject": "EDS/JHMS",
+    "relation": "associated_with",
+    "object": "chronic pain conditions"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Bleeding tendencies"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Vascular wall fragility"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Recurrent joint sprains"
+  },
+  {
+    "subject": "Sticky platelet syndrome",
+    "relation": "has_symptom",
+    "object": "Atypical arterial thrombosis"
+  },
+  {
+    "subject": "Sticky platelet syndrome",
+    "relation": "has_symptom",
+    "object": "Venous thrombosis"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Sticky platelet syndrome"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Subclinical hypothyroidism"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Minor thalassemia"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "High myopia"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Anterior mitral valve prolapse"
+  },
+  {
+    "subject": "Sticky platelet syndrome",
+    "relation": "has_cause",
+    "object": "Platelet hyperaggregability"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Connective tissue weakness"
+  },
+  {
+    "subject": "Sticky platelet syndrome",
+    "relation": "treated_by",
+    "object": "Personalized treatment algorithms"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Multidisciplinary strategy"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Ongoing surveillance"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "frequent dislocations"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "chronic pain"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "chronic abdominal pain"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "adnexal torsion"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "irritable bowel syndrome"
+  },
+  {
+    "subject": "Adnexal torsion",
+    "relation": "has_symptom",
+    "object": "recurrent lower abdominal pain"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "missense mutation in COL1A1 gene"
+  },
+  {
+    "subject": "Adnexal torsion",
+    "relation": "treated_by",
+    "object": "laparoscopic right oophoropexy"
+  },
+  {
+    "subject": "Adnexal torsion",
+    "relation": "treated_by",
+    "object": "exploratory laparotomies"
+  },
+  {
+    "subject": "Adnexal torsion",
+    "relation": "treated_by",
+    "object": "left adnexectomy"
+  },
+  {
+    "subject": "Adnexal torsion",
+    "relation": "treated_by",
+    "object": "right detorsion with hydrosalpinx drainage"
+  },
+  {
+    "subject": "Marfan syndrome",
+    "relation": "has_diagnostic_criteria",
+    "object": "Updated diagnostic criteria"
+  },
+  {
+    "subject": "Aortopathies",
+    "relation": "treated_by",
+    "object": "International guidelines in management"
+  },
+  {
+    "subject": "Achondroplasia",
+    "relation": "treated_by",
+    "object": "International guidelines in management"
+  },
+  {
+    "subject": "Genetic connective tissue disorders",
+    "relation": "associated_with",
+    "object": "Increased morbidity and mortality"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "has_risk",
+    "object": "50% risk of an offspring inheriting the disorder"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_section",
+    "object": "Expanded section"
+  },
+  {
+    "subject": "Familial cerebral cavernous malformation",
+    "relation": "has_section",
+    "object": "New section"
+  },
+  {
+    "subject": "Genetic syndromes",
+    "relation": "managed_by",
+    "object": "Multidisciplinary care teams"
+  },
+  {
+    "subject": "Spontaneous pneumothorax",
+    "relation": "has_symptom",
+    "object": "abnormal gas accumulation in the chest cavity"
+  },
+  {
+    "subject": "Spontaneous pneumothorax",
+    "relation": "has_cause",
+    "object": "COL3A1 mutation"
+  },
+  {
+    "subject": "Spontaneous pneumothorax",
+    "relation": "associated_with",
+    "object": "vascular Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Spontaneous pneumothorax",
+    "relation": "has_cause",
+    "object": "bullae of the lungs"
+  },
+  {
+    "subject": "Spontaneous pneumothorax",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "vascular aneurysms"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "dissections"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "spontaneous colonic rupture"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "mutation in COL3A1 gene"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "vascular catastrophe"
+  },
+  {
+    "subject": "vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "surgical management"
+  },
+  {
+    "subject": "vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "devastating mortality"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "vascular dissections"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "ruptures"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "prominent eyes"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "COL3A1 pathogenic variants"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "early mortality"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "hypermobile EDS"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "guideline-based management"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "AI-based facial analysis"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Arm fatigue"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Heaviness"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Paresthesias"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Neck pain"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Upper back pain"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Generalized fatigue"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Cognitive fogginess"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Lightheadedness"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Racing heart"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Diaphoresis"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Dyspnea"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "has_symptom",
+    "object": "Nausea"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "associated_with",
+    "object": "Orthostatic intolerance"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "associated_with",
+    "object": "Joint hypermobility"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "associated_with",
+    "object": "Thoracic outlet syndrome"
+  },
+  {
+    "subject": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "relation": "associated_with",
+    "object": "Brachial plexus dysfunction"
+  },
+  {
+    "subject": "Scoliosis",
+    "relation": "has_symptom",
+    "object": "Dextroscoliosis curve"
+  },
+  {
+    "subject": "Scoliosis",
+    "relation": "treated_by",
+    "object": "Boston brace"
+  },
+  {
+    "subject": "Scoliosis",
+    "relation": "treated_by",
+    "object": "MAGEC growing rods"
+  },
+  {
+    "subject": "Scoliosis",
+    "relation": "treated_by",
+    "object": "Wood-Rigo-Cheneau derotational brace"
+  },
+  {
+    "subject": "Scoliosis",
+    "relation": "associated_with",
+    "object": "Arthrochalasia Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "has_symptom",
+    "object": "anxiety disorders"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "has_symptom",
+    "object": "depressive symptoms"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "has_symptom",
+    "object": "Posttraumatic Stress Disorder"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "has_symptom",
+    "object": "disordered eating"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "has_symptom",
+    "object": "self-harm"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "has_symptom",
+    "object": "suicidal behaviour"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "has_symptom",
+    "object": "anxiety disorders"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "has_symptom",
+    "object": "depressive symptoms"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "has_symptom",
+    "object": "Posttraumatic Stress Disorder"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "has_symptom",
+    "object": "disordered eating"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "has_symptom",
+    "object": "self-harm"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "has_symptom",
+    "object": "suicidal behaviour"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "associated_with",
+    "object": "Generalized Hypermobility Spectrum Disorder"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndromes",
+    "relation": "treated_by",
+    "object": "psychological support"
+  },
+  {
+    "subject": "Generalized Hypermobility Spectrum Disorder",
+    "relation": "treated_by",
+    "object": "psychological support"
+  },
+  {
+    "subject": "Ehlers Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Ehlers Danlos Syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Ehlers Danlos Syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Ehlers Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "discomfort with the diagnosis"
+  },
+  {
+    "subject": "Marfan syndrome",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndromes",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Fatigue",
+    "relation": "associated_with",
+    "object": "Depression"
+  },
+  {
+    "subject": "Fatigue",
+    "relation": "associated_with",
+    "object": "Insomnia"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndromes",
+    "relation": "has_symptom",
+    "object": "Insomnia"
+  },
+  {
+    "subject": "Marfan syndrome",
+    "relation": "has_symptom",
+    "object": "Insomnia"
+  },
+  {
+    "subject": "Fatigue",
+    "relation": "has_cause",
+    "object": "Depression"
+  },
+  {
+    "subject": "Fatigue",
+    "relation": "has_cause",
+    "object": "Insomnia"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndromes",
+    "relation": "associated_with",
+    "object": "Female sex"
+  },
+  {
+    "subject": "Fatigue",
+    "relation": "treated_by",
+    "object": "Multidisciplinary management strategies"
+  },
+  {
+    "subject": "Fatigue",
+    "relation": "treated_by",
+    "object": "Psychotherapy"
+  },
+  {
+    "subject": "Temporomandibular disorders",
+    "relation": "has_symptom",
+    "object": "TMD pain symptoms"
+  },
+  {
+    "subject": "Temporomandibular disorders",
+    "relation": "has_symptom",
+    "object": "Temporomandibular joint clicking"
+  },
+  {
+    "subject": "Temporomandibular disorders",
+    "relation": "has_symptom",
+    "object": "Crepitation"
+  },
+  {
+    "subject": "Temporomandibular disorders",
+    "relation": "has_symptom",
+    "object": "Orofacial pain"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders",
+    "relation": "associated_with",
+    "object": "Temporomandibular disorders"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Temporomandibular disorders"
+  },
+  {
+    "subject": "Temporomandibular disorders",
+    "relation": "has_cause",
+    "object": "General joint hypermobility"
+  },
+  {
+    "subject": "Temporomandibular disorders",
+    "relation": "treated_by",
+    "object": "Management strategies"
+  },
+  {
+    "subject": "Impaired Oral health-related quality of life",
+    "relation": "has_cause",
+    "object": "Self-reported bruxism"
+  },
+  {
+    "subject": "Impaired Oral health-related quality of life",
+    "relation": "has_cause",
+    "object": "Poor general health"
+  },
+  {
+    "subject": "Impaired Oral health-related quality of life",
+    "relation": "has_cause",
+    "object": "Comorbid symptoms"
+  },
+  {
+    "subject": "Impaired Oral health-related quality of life",
+    "relation": "associated_with",
+    "object": "Hypermobility Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Impaired Oral health-related quality of life",
+    "relation": "associated_with",
+    "object": "Hypermobility spectrum disorders"
+  },
+  {
+    "subject": "Joint Hypermobility",
+    "relation": "has_symptom",
+    "object": "Poor Balance"
+  },
+  {
+    "subject": "Joint Hypermobility",
+    "relation": "has_symptom",
+    "object": "Falls"
+  },
+  {
+    "subject": "Joint Hypermobility",
+    "relation": "has_symptom",
+    "object": "Fear of Falling"
+  },
+  {
+    "subject": "Joint Hypermobility",
+    "relation": "has_symptom",
+    "object": "Increased Sway"
+  },
+  {
+    "subject": "Joint Hypermobility",
+    "relation": "has_symptom",
+    "object": "Different Muscle Activity"
+  },
+  {
+    "subject": "Joint Hypermobility",
+    "relation": "has_symptom",
+    "object": "Different Kinematics"
+  },
+  {
+    "subject": "Joint Hypermobility",
+    "relation": "associated_with",
+    "object": "Young Women"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "has_cause",
+    "object": "Dural injury"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "has_cause",
+    "object": "Head trauma"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "has_cause",
+    "object": "Surgery"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "has_cause",
+    "object": "Infection"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "has_cause",
+    "object": "Valsalva"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "has_cause",
+    "object": "Fistulization between air-containing organs and intracranial structures"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "has_cause",
+    "object": "Vascular air embolism"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "associated_with",
+    "object": "Tension pneumocephalus"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "associated_with",
+    "object": "Cerebral infarction"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "associated_with",
+    "object": "Air embolism"
+  },
+  {
+    "subject": "Pneumocephalus",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Air embolism",
+    "relation": "associated_with",
+    "object": "Pulmonary cavitary lesion"
+  },
+  {
+    "subject": "Air embolism",
+    "relation": "associated_with",
+    "object": "Pulmonary vascular malformation"
+  },
+  {
+    "subject": "Air embolism",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "has_symptom",
+    "object": "paraesthesia"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "has_symptom",
+    "object": "hand function impairment"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "treated_by",
+    "object": "wrist stabilisation exercises"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "treated_by",
+    "object": "hand orthosis"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "associated_with",
+    "object": "hypermobility Ehlers Danlos Syndrome"
+  },
+  {
+    "subject": "Hypermobility Ehlers Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Hypermobility Ehlers Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "paraesthesia"
+  },
+  {
+    "subject": "Hypermobility Ehlers Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "wrist stabilisation exercises"
+  },
+  {
+    "subject": "Hypermobility Ehlers Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "hand orthosis"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "gastrointestinal complications"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "neurological complications"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "immune complications"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "gastrointestinal dysmotility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_cause",
+    "object": "impaired mitochondrial function"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "Alzheimer's Type II astrocytes"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "surgical interventions"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "targeted therapies"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "personalized treatment strategies"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "skin elasticity"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "tissue fragility"
+  },
+  {
+    "subject": "Dermatosparaxis-type EDS",
+    "relation": "has_symptom",
+    "object": "significant skin fragility"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "mutations in genes involved in the synthesis and metabolism of collagens"
+  },
+  {
+    "subject": "Dermatosparaxis-type EDS",
+    "relation": "has_cause",
+    "object": "mutations in the ADAMTS2 gene"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "dermatological manifestations"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "orthopedic manifestations"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "cardiovascular manifestations"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "individualized care plans"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Arterial dissection"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Organ rupture"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Pneumothorax"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Aneurysm"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Pathogenic variants in COL3A1 gene"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Lower Left ventricular ejection fraction"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Larger cardiac size"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Antihypertensive medication"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders",
+    "relation": "has_symptom",
+    "object": "autonomic dysfunction"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders",
+    "relation": "associated_with",
+    "object": "hypermobile Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "autonomic dysfunction"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "sexual dysfunction"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders",
+    "relation": "has_symptom",
+    "object": "sexual dysfunction"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "postural orthostatic tachycardia syndrome"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders",
+    "relation": "associated_with",
+    "object": "postural orthostatic tachycardia syndrome"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "targeted diagnostic and therapeutic approaches"
+  },
+  {
+    "subject": "Hypermobility spectrum disorders",
+    "relation": "treated_by",
+    "object": "targeted diagnostic and therapeutic approaches"
+  },
+  {
+    "subject": "Sexual dysfunction in women with h-EDS/HSD",
+    "relation": "has_cause",
+    "object": "h-EDS/HSD"
+  },
+  {
+    "subject": "Erythematous annular nodule",
+    "relation": "has_symptom",
+    "object": "Pruritus"
+  },
+  {
+    "subject": "Erythematous annular nodule",
+    "relation": "has_symptom",
+    "object": "Weeping lesion"
+  },
+  {
+    "subject": "Erythematous annular nodule",
+    "relation": "has_symptom",
+    "object": "Raw inflamed skin"
+  },
+  {
+    "subject": "Erythematous annular nodule",
+    "relation": "treated_by",
+    "object": "Clobetasol propionate ointment"
+  },
+  {
+    "subject": "Erythematous annular nodule",
+    "relation": "treated_by",
+    "object": "Ciprofloxacin"
+  },
+  {
+    "subject": "Erythematous annular nodule",
+    "relation": "treated_by",
+    "object": "Povidone iodine dressings"
+  },
+  {
+    "subject": "Erythematous annular nodule",
+    "relation": "treated_by",
+    "object": "Antihistamines"
+  },
+  {
+    "subject": "Erythematous annular nodule",
+    "relation": "associated_with",
+    "object": "Hypermoble Ehlers Danlos syndrome type 3 (hEDS)"
+  },
+  {
+    "subject": "Erythematous annular nodule",
+    "relation": "has_cause",
+    "object": "Unknown"
+  },
+  {
+    "subject": "Pruritus",
+    "relation": "treated_by",
+    "object": "Antihistamines"
+  },
+  {
+    "subject": "Pruritus",
+    "relation": "treated_by",
+    "object": "Ice application"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "skin extensibility"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "tissue fragility"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "joint dislocations"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "arterial dissections"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "organ ruptures"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "hemoptysis"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "hematoma"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "increased awareness for improved survival outcomes"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "diagnosis and treatment"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "connective tissue disorders"
+  },
+  {
+    "subject": "Hypermobile EDS",
+    "relation": "associated_with",
+    "object": "newly established clinical diagnostic guidelines"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "headache"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "vision problems"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "hearing problems"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "equilibrium problems"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "brainstem dysfunction"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "cerebellar dysfunction"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "motor dysfunction"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "cardiovascular dysfunction"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "sensory and pain problems"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "high cortical dysfunction"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "GI dysfunction"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "bladder dysfunction"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "treated_by",
+    "object": "surgical fusion"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "treated_by",
+    "object": "halo-vest traction"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos Syndrome"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_cause",
+    "object": "connective tissue disorders"
+  },
+  {
+    "subject": "Axillary Artery Aneurysm",
+    "relation": "has_cause",
+    "object": "Trauma"
+  },
+  {
+    "subject": "Axillary Artery Aneurysm",
+    "relation": "has_cause",
+    "object": "Arterial Dysplasia"
+  },
+  {
+    "subject": "Axillary Artery Aneurysm",
+    "relation": "has_cause",
+    "object": "Idiopathic"
+  },
+  {
+    "subject": "Axillary Artery Aneurysm",
+    "relation": "treated_by",
+    "object": "Surgical Repair with Autogenous Venous Interposition"
+  },
+  {
+    "subject": "Pediatric Nonaortic Aneurysm",
+    "relation": "associated_with",
+    "object": "Peripheral Aneurysms"
+  },
+  {
+    "subject": "Axillary Artery Aneurysm",
+    "relation": "has_symptom",
+    "object": "Aneurysm"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "gastrointestinal perforation"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "functional gastrointestinal symptoms"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "digestive arterial disorders"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "visceral prolapse"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "intestinal volvulus"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "COL3A1 gene mutation"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "vascular-EDS"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "hypermobile-EDS"
+  },
+  {
+    "subject": "vascular-EDS",
+    "relation": "has_symptom",
+    "object": "gastrointestinal perforation"
+  },
+  {
+    "subject": "vascular-EDS",
+    "relation": "has_symptom",
+    "object": "arterial lesions"
+  },
+  {
+    "subject": "vascular-EDS",
+    "relation": "has_symptom",
+    "object": "functional gastrointestinal symptoms"
+  },
+  {
+    "subject": "hypermobile-EDS",
+    "relation": "has_symptom",
+    "object": "functional gastrointestinal symptoms"
+  },
+  {
+    "subject": "hypermobile-EDS",
+    "relation": "has_symptom",
+    "object": "visceral prolapse"
+  },
+  {
+    "subject": "hypermobile-EDS",
+    "relation": "has_symptom",
+    "object": "intestinal volvulus"
+  },
+  {
+    "subject": "Dermatofibromas",
+    "relation": "has_symptom",
+    "object": "Purple nodules"
+  },
+  {
+    "subject": "Dermatofibromas",
+    "relation": "has_symptom",
+    "object": "Dimple sign"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Hyperextensibility of the skin"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Fragility of the skin"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Wide atrophic scars"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Hypermobility of joints"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Swan neck deformities of the digits"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Nodules on the knee"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Striae alba on the leg"
+  },
+  {
+    "subject": "Dermatofibromas",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Dermatofibromas",
+    "relation": "associated_with",
+    "object": "Asthma"
+  },
+  {
+    "subject": "Dermatofibromas",
+    "relation": "associated_with",
+    "object": "Atopic dermatitis"
+  },
+  {
+    "subject": "Dermatofibromas",
+    "relation": "treated_by",
+    "object": "Biopsy"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Chronic pain"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Hypermobility"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Tissue fragility"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Alexithymia"
+  },
+  {
+    "subject": "Hypermobility Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Psychological intervention programs"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "has_symptom",
+    "object": "symptomatic joint hypermobility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "symptomatic joint hypermobility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "extracellular matrix disorganization"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "associated_with",
+    "object": "extracellular matrix disorganization"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "treated_by",
+    "object": "therapeutic trials focused on restoring ECM homeostasis"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "treated_by",
+    "object": "therapeutic trials focused on restoring ECM homeostasis"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "has_cause",
+    "object": "matrix metalloproteinase-generated fragments"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "has_cause",
+    "object": "matrix metalloproteinase-generated fragments"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "FN and COLLI fragment signature"
+  },
+  {
+    "subject": "Hypermobility Spectrum Disorders",
+    "relation": "associated_with",
+    "object": "FN and COLLI fragment signature"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "skin laxity"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "tissue fragility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "diagnostic tool"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "diagnostic odyssey"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "inherited connective tissue disorder"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "challenging symptoms"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "associated_with",
+    "object": "social withdrawal"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "hypochondria"
+  },
+  {
+    "subject": "hypermobile EDS",
+    "relation": "treated_by",
+    "object": "canine companionship"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Aortic dissection"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Aortic rupture"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Heterozygous mutations in the COL3A1 gene"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Connective tissue disorder"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Pharmacologic strategies aimed at mimicking the effect of the natural protective pathway"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "ERK antagonism"
+  },
+  {
+    "subject": "Aortic rupture",
+    "relation": "treated_by",
+    "object": "ERK antagonism"
+  },
+  {
+    "subject": "Aortic rupture",
+    "relation": "associated_with",
+    "object": "Reduced protein phosphatase 1 activity"
+  },
+  {
+    "subject": "Aortic rupture",
+    "relation": "associated_with",
+    "object": "Increased PKC and ERK phosphorylation"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "Complex symptomology"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "associated_with",
+    "object": "Social isolation"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "associated_with",
+    "object": "Loneliness"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "treated_by",
+    "object": "Targeted interventions to reduce loneliness"
+  },
+  {
+    "subject": "Social isolation",
+    "relation": "has_cause",
+    "object": "Complex and misunderstood symptomology"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos Syndrome (hEDS)",
+    "relation": "has_symptom",
+    "object": "Wide-ranging symptomology"
+  },
+  {
+    "subject": "Loneliness",
+    "relation": "has_effect",
+    "object": "Poor health and wellbeing outcomes"
+  },
+  {
+    "subject": "Perceived support from friends",
+    "relation": "has_effect",
+    "object": "Improved health and wellbeing outcomes"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "has_symptom",
+    "object": "giving-way sensation"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "has_symptom",
+    "object": "absent straight-leg raise"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "has_symptom",
+    "object": "palpable gap between the distal pole of the patella and patellar tendon"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "treated_by",
+    "object": "operative management"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "treated_by",
+    "object": "bilateral direct patellar tendon repair utilizing the Krackow technique with transosseous fixation"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "has_cause",
+    "object": "connective tissue disorders"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "has_cause",
+    "object": "systemic disorders weakening collagen structures"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "has_cause",
+    "object": "chronic stress around the patellar tendon"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "has_cause",
+    "object": "medications"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "has_cause",
+    "object": "obesity"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "has_cause",
+    "object": "sedentary lifestyles"
+  },
+  {
+    "subject": "Bilateral spontaneous patellar tendon ruptures",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos syndrome (EDS)"
+  },
+  {
+    "subject": "Fibrosis",
+    "relation": "has_cause",
+    "object": "Alterations to the strength and stiffness of the human extracellular matrix"
+  },
+  {
+    "subject": "Fibrosis",
+    "relation": "associated_with",
+    "object": "Ehlers Danlos syndrome"
+  },
+  {
+    "subject": "Fibrosis",
+    "relation": "treated_by",
+    "object": "incyclinide"
+  },
+  {
+    "subject": "Fibrosis",
+    "relation": "treated_by",
+    "object": "PAT-1251"
+  },
+  {
+    "subject": "Fibrosis",
+    "relation": "has_symptom",
+    "object": "increased levels of collagen"
+  },
+  {
+    "subject": "Fibrosis",
+    "relation": "has_symptom",
+    "object": "increased strength and stiffness of the ECM"
+  },
+  {
+    "subject": "Ehlers Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Alterations to the strength and stiffness of the human extracellular matrix"
+  },
+  {
+    "subject": "Fibrotic environment",
+    "relation": "associated_with",
+    "object": "TGF-β1"
+  },
+  {
+    "subject": "Diseases of the ECM",
+    "relation": "treated_by",
+    "object": "incyclinide"
+  },
+  {
+    "subject": "Diseases of the ECM",
+    "relation": "treated_by",
+    "object": "PAT-1251"
+  },
+  {
+    "subject": "Diffuse coronary aneurysms",
+    "relation": "has_cause",
+    "object": "COL3A1 gene variant p.P517R"
+  },
+  {
+    "subject": "Diffuse coronary aneurysms",
+    "relation": "associated_with",
+    "object": "COL3A1 gene mutation"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "COL3A1 gene mutation"
+  },
+  {
+    "subject": "Aortic aneurysms",
+    "relation": "associated_with",
+    "object": "COL3A1 gene mutation"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "skin hyperextensibility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "tissue fragility"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent infections"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "mast cell hypersensitivity"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "mast cell activation syndrome"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "genetic variants in MT-CYB, HTT, MUC3A, HLA-B and HLA-DRB1"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "antihistamine"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "chronic pain"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "joint issues"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "joint hypermobility"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "skin hyperextensibility"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "tissue fragility"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "physical complications"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "psychological complications"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "inherited connective tissue disorders"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Aortic root dilation"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Echocardiography"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Genetic factors"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Aortic dissection"
+  },
+  {
+    "subject": "Aortic root dilation",
+    "relation": "treated_by",
+    "object": "Serial echocardiographic examinations"
+  },
+  {
+    "subject": "Hypermobile Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Cardiac findings"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Subarachnoid hemorrhage"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Bilateral hemothoraces"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Hemopericardium"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Laceration of the interatrial septum"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Laceration of the left pulmonary artery"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Chronic alveolar hemorrhage"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Genetic mutation"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Aneurysm of the right internal carotid artery"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "diagnosed_by",
+    "object": "Genetic exome testing"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "has_symptom",
+    "object": "Bowel perforations"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "has_symptom",
+    "object": "Aneurysms"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "has_symptom",
+    "object": "Infections"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "has_symptom",
+    "object": "Symptomatic wrist aneurysm"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "has_cause",
+    "object": "de novo variant in the COL3A1 gene"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "treated_by",
+    "object": "Surgical interventions"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "treated_by",
+    "object": "Medical interventions"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "treated_by",
+    "object": "Radiological interventions"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "treated_by",
+    "object": "Antibiotics"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "associated_with",
+    "object": "Multiple aneurysms"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "associated_with",
+    "object": "Hepatic aneurysm"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos",
+    "relation": "associated_with",
+    "object": "Paraspinal aneurysm"
+  },
+  {
+    "subject": "Reactive Hypoglycemia",
+    "relation": "has_symptom",
+    "object": "Postprandial Hypoglycemia"
+  },
+  {
+    "subject": "Reactive Hypoglycemia",
+    "relation": "has_symptom",
+    "object": "Fasting Hypoglycemia"
+  },
+  {
+    "subject": "Reactive Hypoglycemia",
+    "relation": "has_symptom",
+    "object": "Activity-induced Hypoglycemia"
+  },
+  {
+    "subject": "Reactive Hypoglycemia",
+    "relation": "has_symptom",
+    "object": "Autonomic Dysfunction"
+  },
+  {
+    "subject": "Reactive Hypoglycemia",
+    "relation": "has_symptom",
+    "object": "Gastrointestinal Symptoms"
+  },
+  {
+    "subject": "Reactive Hypoglycemia",
+    "relation": "treated_by",
+    "object": "Medical Nutrition Therapy"
+  },
+  {
+    "subject": "Reactive Hypoglycemia",
+    "relation": "treated_by",
+    "object": "Continuous Glucose Monitoring"
+  },
+  {
+    "subject": "Reactive Hypoglycemia",
+    "relation": "treated_by",
+    "object": "Medication"
+  },
+  {
+    "subject": "Reactive Hypoglycemia",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos Syndrome"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome",
+    "relation": "has_symptom",
+    "object": "Joint Hypermobility"
+  },
+  {
+    "subject": "M. goodii infection",
+    "relation": "has_symptom",
+    "object": "severe left leg pain"
+  },
+  {
+    "subject": "M. goodii infection",
+    "relation": "has_symptom",
+    "object": "purulent discharge"
+  },
+  {
+    "subject": "M. goodii infection",
+    "relation": "has_symptom",
+    "object": "abscess"
+  },
+  {
+    "subject": "M. goodii infection",
+    "relation": "treated_by",
+    "object": "antibiotics"
+  },
+  {
+    "subject": "M. goodii infection",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "M. goodii infection",
+    "relation": "associated_with",
+    "object": "orthopedic complications"
+  },
+  {
+    "subject": "M. goodii infection",
+    "relation": "associated_with",
+    "object": "immunocompromised patients"
+  },
+  {
+    "subject": "M. goodii infection",
+    "relation": "has_cause",
+    "object": "nosocomial mycobacterial species"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "has_symptom",
+    "object": "Dysphagia"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "associated_with",
+    "object": "Ehlers Danlos syndrome"
+  },
+  {
+    "subject": "Craniocervical pathologies",
+    "relation": "treated_by",
+    "object": "Occipitocervical arthrodesis"
+  },
+  {
+    "subject": "Atlantoaxial pathologies",
+    "relation": "treated_by",
+    "object": "Occipitocervical arthrodesis"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "treated_by",
+    "object": "Occipitocervical fusion"
+  },
+  {
+    "subject": "Atlantoaxial instability",
+    "relation": "associated_with",
+    "object": "Rheumatoid arthritis"
+  },
+  {
+    "subject": "Craniocervical instability",
+    "relation": "associated_with",
+    "object": "Rheumatoid arthritis"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Generalized joint hypermobility"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Soft and hyperextensible skin"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Atrophic scars"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Easy bruising"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Periodontitis"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Cervical spine instability"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Collapse of larynx cartilage"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Collapse of trachea"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Scoliosis"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Spondylosis"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Meningeal Tarlov cysts"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Postdural puncture headache"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Resistance to local anesthetics"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Mitral valve prolapse"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Aortic root dilation"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Cutaneous psoriasis"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Polycystic ovarian syndrome"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Bilateral hip dysplasia"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Lung protective ventilation"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "General anesthesia"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Videolaryngoscopy"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Balanced anesthesia with volatile anesthetics"
+  },
+  {
+    "subject": "Hypermoble Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Careful patient positioning and padding"
+  },
+  {
+    "subject": "Multiple Arterial Aneurysms",
+    "relation": "has_cause",
+    "object": "Genetic Variants"
+  },
+  {
+    "subject": "Multiple Arterial Aneurysms",
+    "relation": "associated_with",
+    "object": "Loeys-Dietz Syndrome 3"
+  },
+  {
+    "subject": "Multiple Arterial Aneurysms",
+    "relation": "associated_with",
+    "object": "Ehlers-Danlos Syndrome (classical-like)"
+  },
+  {
+    "subject": "Multiple Arterial Aneurysms",
+    "relation": "associated_with",
+    "object": "Clonal Hematopoiesis of Indeterminate Potential (CHIP)"
+  },
+  {
+    "subject": "Multiple Arterial Aneurysms",
+    "relation": "treated_by",
+    "object": "Whole Exome Sequencing (WES)"
+  },
+  {
+    "subject": "Loeys-Dietz Syndrome 3",
+    "relation": "has_cause",
+    "object": "SMAD3 Variant"
+  },
+  {
+    "subject": "Ehlers-Danlos Syndrome (classical-like)",
+    "relation": "has_cause",
+    "object": "TNXB Variant"
+  },
+  {
+    "subject": "Clonal Hematopoiesis of Indeterminate Potential (CHIP)",
+    "relation": "has_cause",
+    "object": "TET2 Variant"
+  },
+  {
+    "subject": "Clonal Hematopoiesis of Indeterminate Potential (CHIP)",
+    "relation": "has_cause",
+    "object": "PPM1D Variant"
+  },
+  {
+    "subject": "Multiple Arterial Aneurysms",
+    "relation": "has_symptom",
+    "object": "Aneurysms at different arterial locations"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "vascular lesions"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "headache"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "pulsatile tinnitus"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "collagen type III alpha 1 chain gene abnormality"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "spontaneous carotid-cavernous fistula"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "vascular arteriopathy complications"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "pseudoaneurysm"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "dissection of the left external iliac artery"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "retroperitoneal hematoma"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "hypervolemic therapy"
+  },
+  {
+    "subject": "spontaneous carotid-cavernous fistula",
+    "relation": "treated_by",
+    "object": "Internal trapping with coils"
+  },
+  {
+    "subject": "spontaneous carotid-cavernous fistula",
+    "relation": "treated_by",
+    "object": "Angio-Seal hemostasis device"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Dislocation"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Aseptic loosening"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Aseptic revision"
+  },
+  {
+    "subject": "Total hip arthroplasty complications in EDS patients",
+    "relation": "treated_by",
+    "object": "Careful surgical planning"
+  },
+  {
+    "subject": "Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Total hip arthroplasty complications"
+  },
+  {
+    "subject": "Severe osteoarthritis of the hip",
+    "relation": "treated_by",
+    "object": "Total hip arthroplasty"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Vascular complications"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Uterine complications"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Digestive complications"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Uterine rupture"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Vascular events"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Digestive events"
+  },
+  {
+    "subject": "Pregnancy in women with Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Miscarriage"
+  },
+  {
+    "subject": "Pregnancy in women with Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Premature birth"
+  },
+  {
+    "subject": "Pregnancy in women with Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Obstetric anal sphincter injuries"
+  },
+  {
+    "subject": "Pregnancy in women with Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "Maternal mortality"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "Infertility"
+  },
+  {
+    "subject": "Pregnancy in women with Vascular Ehlers-Danlos syndrome",
+    "relation": "treated_by",
+    "object": "Caesarean section"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "Hereditary connective tissue disorder"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_symptom",
+    "object": "abdominal cramping"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the collagen type III gene"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "medium-sized artery aneurysms"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "dissections"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "ruptures"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "splanchnic artery dissections"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "renal infarctions"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "small bowel infarctions"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "popliteal artery pseudoaneurysm rupture"
+  },
+  {
+    "subject": "Vascular Ehlers-Danlos syndrome",
+    "relation": "associated_with",
+    "object": "sigmoid bowel perforation"
+  },
+  {
+    "subject": "Medial dissection and rupture of the superior mesenteric artery",
+    "relation": "has_symptom",
+    "object": "hemoperitoneum"
+  },
+  {
+    "subject": "Medial dissection and rupture of the superior mesenteric artery",
+    "relation": "has_symptom",
+    "object": "abdominal cramping"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "has_cause",
+    "object": "Degenerative aetiologies"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "has_cause",
+    "object": "Congenital aetiologies"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "has_cause",
+    "object": "Inflammatory aetiologies"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "has_cause",
+    "object": "Infectious aetiologies"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "has_cause",
+    "object": "Endocarditis"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "has_cause",
+    "object": "Aortic dissection"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "has_cause",
+    "object": "Calcific aortic valve disease"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "has_cause",
+    "object": "Connective tissue disorders"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "has_cause",
+    "object": "Bicuspid valve phenotypes"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "associated_with",
+    "object": "Aortopathy"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "associated_with",
+    "object": "Annular dilatation"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "treated_by",
+    "object": "Aortic valve replacement"
+  },
+  {
+    "subject": "Aortic regurgitation",
+    "relation": "treated_by",
+    "object": "Transcatheter aortic valve implantation"
+  }
+]

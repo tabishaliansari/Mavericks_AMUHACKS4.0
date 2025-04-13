@@ -1,0 +1,4032 @@
+[
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "Copper histidinate injection"
+  },
+  {
+    "subject": "Copper histidinate injection",
+    "relation": "has_formulation",
+    "object": "Cu-Hi<sub>inj</sub> 1:3"
+  },
+  {
+    "subject": "Cu-Hi<sub>inj</sub> 1:3",
+    "relation": "has_characteristic",
+    "object": "Enhanced stability"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "lethality"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutations preventing Cu transport to mitochondria"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Copper deficiency"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "ES-Cu"
+  },
+  {
+    "subject": "ES-Cu",
+    "relation": "has_side_effect",
+    "object": "cuproptosis"
+  },
+  {
+    "subject": "Copper deficiency",
+    "relation": "associated_with",
+    "object": "lethal pediatric diseases"
+  },
+  {
+    "subject": "Copper deficiency",
+    "relation": "has_symptom",
+    "object": "mitochondrial Cu deficiency"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "ATP7A variants"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "Newborn screening"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "Abnormal copper metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "fine, 'kinky' hair"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "connective tissue dysfunction"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "developmental regression"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "disturbances in copper absorption and metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "variant in the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "X-linked recessive inheritance"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "ultrarapid genome sequencing"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "rapid DNA-based diagnosis"
+  },
+  {
+    "subject": "Maternal placental dysplasia",
+    "relation": "associated_with",
+    "object": "Abnormal copper metabolism"
+  },
+  {
+    "subject": "Gestational diabetes mellitus (GDM)",
+    "relation": "associated_with",
+    "object": "Abnormal copper metabolism"
+  },
+  {
+    "subject": "Gestational hypertension (PIH)",
+    "relation": "associated_with",
+    "object": "Abnormal copper metabolism"
+  },
+  {
+    "subject": "Preterm birth or abortion",
+    "relation": "associated_with",
+    "object": "Abnormal copper metabolism"
+  },
+  {
+    "subject": "Intrauterine growth restriction (IUGR)",
+    "relation": "associated_with",
+    "object": "Abnormal copper metabolism"
+  },
+  {
+    "subject": "Allergic disease",
+    "relation": "associated_with",
+    "object": "Abnormal copper metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Abnormal copper metabolism"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "Abnormal copper metabolism"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_cause",
+    "object": "Copper overload"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_symptom",
+    "object": "Proteotoxic stress"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_symptom",
+    "object": "Cell death"
+  },
+  {
+    "subject": "Infantile reversible cytochrome c oxidase (COX) deficiency myopathy",
+    "relation": "has_symptom",
+    "object": "generalized muscle weakness"
+  },
+  {
+    "subject": "Infantile reversible cytochrome c oxidase (COX) deficiency myopathy",
+    "relation": "has_symptom",
+    "object": "severe hypotonia"
+  },
+  {
+    "subject": "Infantile reversible cytochrome c oxidase (COX) deficiency myopathy",
+    "relation": "associated_with",
+    "object": "mitochondrial myopathies"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_cause",
+    "object": "Copper depletion"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_cause",
+    "object": "Copper accumulation"
+  },
+  {
+    "subject": "Tumor",
+    "relation": "treated_by",
+    "object": "Copper depletion-based cuproptosis"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "Disruption of copper homeostasis"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "Cancer"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "recurrent seizures"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "cognitive developmental lags"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "intellectual developmental lags"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "growth developmental lags"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "gross motor developmental lags"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "precision movement developmental lags"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "language developmental lags"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "increased intracranial vascular tortuosity"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "cerebral atrophy"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "cerebellar atrophy"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "white matter changes"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "basal ganglia abnormalities"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "wormian bones"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "rib flaring"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "metaphyseal spurring"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "periosteal reactions in the long bones of the limbs"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "symptomatic and supportive treatment"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "pathogenic variant in ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "low serum copper"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "low serum ceruloplasmin"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "copper metabolism disorder"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Delayed motor milestones"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Abnormal hair"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Skeletal abnormalities"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Dental abnormalities"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Skin problems"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Hernia"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Sensorineural hearing loss"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Cerebellar ataxia"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Refractory epilepsy"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_cause",
+    "object": "Mutations in the ATP7A gene"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "associated_with",
+    "object": "Coronary artery aneurysm"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "associated_with",
+    "object": "Patent foramen ovale"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "associated_with",
+    "object": "Unspecific pregnancy or delivery complications"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Mutations in the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Defective copper metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Defective copper metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "RNA editing system"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_symptom",
+    "object": "occipital exostosis"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_symptom",
+    "object": "cutis laxa"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_symptom",
+    "object": "widely opened skull sutures"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_symptom",
+    "object": "wide fontanels"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_cause",
+    "object": "faulty ATP7A gene"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "treated_by",
+    "object": "multidisciplinary management"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "associated_with",
+    "object": "copper transport disorder"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "associated_with",
+    "object": "musculoskeletal affections"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "associated_with",
+    "object": "connective tissue affections"
+  },
+  {
+    "subject": "Copper Deficiency",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Copper Deficiency",
+    "relation": "has_symptom",
+    "object": "Neurodegeneration"
+  },
+  {
+    "subject": "Copper Deficiency",
+    "relation": "has_symptom",
+    "object": "Dendritic arborization defects"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Mutations in ATP7A"
+  },
+  {
+    "subject": "CTR1 deficiency",
+    "relation": "has_cause",
+    "object": "Mutations in SLC31A1"
+  },
+  {
+    "subject": "Copper Deficiency",
+    "relation": "associated_with",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "Copper Deficiency",
+    "relation": "associated_with",
+    "object": "Menkes disease"
+  },
+  {
+    "subject": "Copper Deficiency",
+    "relation": "associated_with",
+    "object": "CTR1 deficiency"
+  },
+  {
+    "subject": "Copper Deficiency",
+    "relation": "treated_by",
+    "object": "Increased S6k expression"
+  },
+  {
+    "subject": "Copper Deficiency",
+    "relation": "treated_by",
+    "object": "4E-BP1 (Thor) RNAi"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "cuproptosis"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "cuproptosis"
+  },
+  {
+    "subject": "Cuproptosis-related diseases",
+    "relation": "treated_by",
+    "object": "copper ion chelators"
+  },
+  {
+    "subject": "Cuproptosis-related diseases",
+    "relation": "treated_by",
+    "object": "copper ion carriers"
+  },
+  {
+    "subject": "Cuproptosis-related diseases",
+    "relation": "treated_by",
+    "object": "copper nanomaterials"
+  },
+  {
+    "subject": "Cuproptosis-related diseases",
+    "relation": "treated_by",
+    "object": "tumor therapy"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "glutathione synthesis inhibition"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "ubiquitin-proteasome system inhibition"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_cause",
+    "object": "copper"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Disruptions in copper homeostasis"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "Disruptions in copper homeostasis"
+  },
+  {
+    "subject": "neurodegenerative disorders",
+    "relation": "has_cause",
+    "object": "Disruptions in copper homeostasis"
+  },
+  {
+    "subject": "anemia",
+    "relation": "has_cause",
+    "object": "Disruptions in copper homeostasis"
+  },
+  {
+    "subject": "cardiovascular diseases",
+    "relation": "has_cause",
+    "object": "Disruptions in copper homeostasis"
+  },
+  {
+    "subject": "kidney diseases",
+    "relation": "has_cause",
+    "object": "Disruptions in copper homeostasis"
+  },
+  {
+    "subject": "kidney diseases",
+    "relation": "associated_with",
+    "object": "intracellular copper overload"
+  },
+  {
+    "subject": "kidney diseases",
+    "relation": "associated_with",
+    "object": "chronic kidney disease"
+  },
+  {
+    "subject": "chronic kidney disease",
+    "relation": "associated_with",
+    "object": "intracellular copper overload"
+  },
+  {
+    "subject": "kidney diseases",
+    "relation": "treated_by",
+    "object": "copper regulation network"
+  },
+  {
+    "subject": "kidney-related diseases",
+    "relation": "treated_by",
+    "object": "potential therapeutic targets"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutation in the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "progressive changes in the central nervous system"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "disorders of the connective tissue"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "mutation of the ATP7B gene"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "liver symptoms"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "psychiatric symptoms"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "treated_by",
+    "object": "zinc preparations"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "treated_by",
+    "object": "chelating drugs"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "copper homeostasis disorders"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "copper homeostasis disorders"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "excess copper accumulation in the liver"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "excess copper accumulation in the brain"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "global development delay"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "facial dysmorphism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "sparse and curly hair"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "increased lactate"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "increased pyruvate"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "decreased cuprin"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "multifocal spikes on EEG"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "tortuous vascular shadows on cranial MRI"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "c.3076delA (p.Ile1026*) variant of the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "ATP7A gene mutation"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "kinky hair"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "wiry hair"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "steely hair"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "abnormal copper metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "copper deficiency"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "abnormal ceruloplasmin levels"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "proper management"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "parental counseling"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "prenatal diagnosis"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Disorders of copper metabolism"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_cause",
+    "object": "Disorders of copper metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Neurological consequences"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "associated_with",
+    "object": "Neurological consequences"
+  },
+  {
+    "subject": "SOD1-linked amyotrophic lateral sclerosis",
+    "relation": "has_cause",
+    "object": "Dysfunction of copper-requiring enzymes"
+  },
+  {
+    "subject": "SOD1-linked amyotrophic lateral sclerosis",
+    "relation": "associated_with",
+    "object": "Neurological consequences"
+  },
+  {
+    "subject": "Disorders of copper metabolism",
+    "relation": "has_symptom",
+    "object": "Neurological consequences"
+  },
+  {
+    "subject": "Dysfunction of copper-requiring enzymes",
+    "relation": "has_symptom",
+    "object": "Neurological consequences"
+  },
+  {
+    "subject": "X",
+    "relation": "has_symptom",
+    "object": "Y"
+  },
+  {
+    "subject": "X",
+    "relation": "treated_by",
+    "object": "Z"
+  },
+  {
+    "subject": "X",
+    "relation": "has_cause",
+    "object": "W"
+  },
+  {
+    "subject": "X",
+    "relation": "associated_with",
+    "object": "V"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Copper metabolism disorder"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "Copper metabolism disorder"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "Novel approaches to Cu metabolism treatment"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "treated_by",
+    "object": "Novel approaches to Cu metabolism treatment"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "Targeting Cu homeostatic pathways"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "associated_with",
+    "object": "Cu homeostatic pathways"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "has_symptom",
+    "object": "Metastatic growth"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Disorders of Cu homeostasis"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "Disorders of Cu homeostasis"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "associated_with",
+    "object": "Cuproptosis"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutations in the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "defective copper metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "RNA base editing via human RNA-guided cytidine deaminases"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "recessive X chromosome-linked hereditary syndrome"
+  },
+  {
+    "subject": "Alzheimer's",
+    "relation": "has_cause",
+    "object": "Irregularities in metal binding"
+  },
+  {
+    "subject": "Neurodegenerative disorders",
+    "relation": "has_cause",
+    "object": "Irregularities in metal binding"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "Irregularities in metal binding"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Irregularities in metal binding"
+  },
+  {
+    "subject": "Alzheimer's",
+    "relation": "associated_with",
+    "object": "Neurodegenerative disorders"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "Menkes disease"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "Therapeutic peptides"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "Anticancer peptides"
+  },
+  {
+    "subject": "Neurodegenerative disorders",
+    "relation": "treated_by",
+    "object": "Anti-neurodegenerative peptides"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "hepatic symptoms"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "psychiatric symptoms"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "neurologic symptoms"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_cause",
+    "object": "copper accumulation"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_cause",
+    "object": "disorder of copper metabolism"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "associated_with",
+    "object": "liver damage"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "associated_with",
+    "object": "brain damage"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "treated_by",
+    "object": "WD-specific lab tests and treatments"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "treated_by",
+    "object": "WD-specific treatments"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis (ALS)",
+    "relation": "has_cause",
+    "object": "Copper deficiency"
+  },
+  {
+    "subject": "Parkinson's disease (PD)",
+    "relation": "has_cause",
+    "object": "Copper deficiency"
+  },
+  {
+    "subject": "Menkes disease (MS)",
+    "relation": "has_cause",
+    "object": "Copper deficiency"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis (ALS)",
+    "relation": "treated_by",
+    "object": "MOF-74(Cu)"
+  },
+  {
+    "subject": "Parkinson's disease (PD)",
+    "relation": "treated_by",
+    "object": "MOF-74(Cu)"
+  },
+  {
+    "subject": "Menkes disease (MS)",
+    "relation": "treated_by",
+    "object": "MOF-74(Cu)"
+  },
+  {
+    "subject": "Copper deficiency",
+    "relation": "associated_with",
+    "object": "Amyotrophic Lateral Sclerosis (ALS)"
+  },
+  {
+    "subject": "Copper deficiency",
+    "relation": "associated_with",
+    "object": "Parkinson's disease (PD)"
+  },
+  {
+    "subject": "Copper deficiency",
+    "relation": "associated_with",
+    "object": "Menkes disease (MS)"
+  },
+  {
+    "subject": "Menkes disease (MS)",
+    "relation": "has_symptom",
+    "object": "compromise the development of living beings"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis (ALS)",
+    "relation": "has_symptom",
+    "object": "neuronal deterioration"
+  },
+  {
+    "subject": "Parkinson's disease (PD)",
+    "relation": "has_symptom",
+    "object": "neuronal deterioration"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "ATP7A gene variant"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "c.3294+1G>A variant"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "c.77266650_77267178del variant"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "ATP7A gene mutation"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_symptom",
+    "object": "muscular dystrophy"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "has_symptom",
+    "object": "acidemia"
+  },
+  {
+    "subject": "Spinal muscular atrophy",
+    "relation": "has_symptom",
+    "object": "muscular atrophy"
+  },
+  {
+    "subject": "Infantile neuroaxonal dystrophy",
+    "relation": "has_symptom",
+    "object": "neuroaxonal dystrophy"
+  },
+  {
+    "subject": "Cockayne syndrome",
+    "relation": "has_symptom",
+    "object": "syndrome"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "disease"
+  },
+  {
+    "subject": "Spinocerebellar ataxia",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Glycine encephalopathy with epilepsy",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "has_symptom",
+    "object": "disease"
+  },
+  {
+    "subject": "Mucopolysaccharidosis",
+    "relation": "has_symptom",
+    "object": "disorder"
+  },
+  {
+    "subject": "Aicardi-Goutieres syndrome",
+    "relation": "has_symptom",
+    "object": "syndrome"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "has_symptom",
+    "object": "dystrophy"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "has_symptom",
+    "object": "disorder"
+  },
+  {
+    "subject": "Amyotrophic lateral sclerosis",
+    "relation": "has_symptom",
+    "object": "sclerosis"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "has_symptom",
+    "object": "syndrome"
+  },
+  {
+    "subject": "Hereditary neurological diseases",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Metabolic diseases",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Spinal muscular atrophy",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Infantile neuroaxonal dystrophy",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Cockayne syndrome",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Spinocerebellar ataxia",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Glycine encephalopathy with epilepsy",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Mucopolysaccharidosis",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Aicardi-Goutieres syndrome",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Amyotrophic lateral sclerosis",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing"
+  },
+  {
+    "subject": "Hereditary neurological diseases",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Metabolic diseases",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Spinal muscular atrophy",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Hereditary neurological diseases",
+    "relation": "associated_with",
+    "object": "nervous system phenotypes"
+  },
+  {
+    "subject": "Metabolic diseases",
+    "relation": "associated_with",
+    "object": "nervous system phenotypes"
+  },
+  {
+    "subject": "Infantile neuroaxonal dystrophy",
+    "relation": "associated_with",
+    "object": "intellectual developmental disorder"
+  },
+  {
+    "subject": "Glycine encephalopathy with epilepsy",
+    "relation": "associated_with",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_affected_people",
+    "object": "473 million people worldwide"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "dysfunction of ATP7 proteins"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "dysfunction of ATP7 proteins"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "abnormal copper transport and accumulation"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "abnormal copper transport and accumulation"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "significant health complications"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "significant health complications"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "potential therapeutic interventions"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "treated_by",
+    "object": "potential therapeutic interventions"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "abnormal copper homeostasis"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "abnormal copper homeostasis"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "copper accumulation"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "copper accumulation"
+  },
+  {
+    "subject": "Pediatric macrocytic anemia",
+    "relation": "has_cause",
+    "object": "Copper deficiency"
+  },
+  {
+    "subject": "Pediatric macrocytic anemia",
+    "relation": "has_cause",
+    "object": "Folate deficiency"
+  },
+  {
+    "subject": "Pediatric macrocytic anemia",
+    "relation": "has_cause",
+    "object": "B12 deficiency"
+  },
+  {
+    "subject": "Pediatric macrocytic anemia",
+    "relation": "has_cause",
+    "object": "Micronutrient deficiencies"
+  },
+  {
+    "subject": "Pediatric macrocytic anemia",
+    "relation": "has_symptom",
+    "object": "Hematological abnormalities"
+  },
+  {
+    "subject": "Pediatric macrocytic anemia",
+    "relation": "treated_by",
+    "object": "Copper supplementation"
+  },
+  {
+    "subject": "Pediatric macrocytic anemia",
+    "relation": "associated_with",
+    "object": "Enteral nutrition"
+  },
+  {
+    "subject": "Pediatric macrocytic anemia",
+    "relation": "associated_with",
+    "object": "Gastrojejunal tube dependency"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "Hepatic manifestations"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "Neurological manifestations"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "Psychiatric manifestations"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "treated_by",
+    "object": "D-penicillamine"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_cause",
+    "object": "Copper metabolism disorder"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "associated_with",
+    "object": "Copper deposition in liver"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "associated_with",
+    "object": "Copper deposition in brain"
+  },
+  {
+    "subject": "Infantile dystonia-parkinsonism type 2",
+    "relation": "has_cause",
+    "object": "mutation in SLC18A2 gene"
+  },
+  {
+    "subject": "Infantile dystonia-parkinsonism type 2",
+    "relation": "treated_by",
+    "object": "dopaminergic drugs"
+  },
+  {
+    "subject": "Infantile dystonia-parkinsonism type 2",
+    "relation": "treated_by",
+    "object": "levodopa"
+  },
+  {
+    "subject": "Infantile dystonia-parkinsonism type 2",
+    "relation": "treated_by",
+    "object": "pramipexole"
+  },
+  {
+    "subject": "Infantile dystonia-parkinsonism type 2",
+    "relation": "treated_by",
+    "object": "methylphenidate"
+  },
+  {
+    "subject": "Infantile dystonia-parkinsonism type 2",
+    "relation": "treated_by",
+    "object": "antiepileptics"
+  },
+  {
+    "subject": "Infantile dystonia-parkinsonism type 2",
+    "relation": "has_symptom",
+    "object": "abnormalities in development"
+  },
+  {
+    "subject": "Infantile dystonia-parkinsonism type 2",
+    "relation": "has_symptom",
+    "object": "neurological examination abnormalities"
+  },
+  {
+    "subject": "Infantile dystonia-parkinsonism type 2",
+    "relation": "associated_with",
+    "object": "homozygous pathologic variant NM_003054.4:c.1107dup, p.(Val370Serfs*91) in SLC18A2 gene"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Parkinson's",
+    "relation": "has_cause",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Parkinson's",
+    "relation": "associated_with",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Metabolic bone disease of infancy",
+    "relation": "has_symptom",
+    "object": "unexplained fractures"
+  },
+  {
+    "subject": "Metabolic bone disease of infancy",
+    "relation": "has_symptom",
+    "object": "bone fragility"
+  },
+  {
+    "subject": "Metabolic bone disease of infancy",
+    "relation": "has_cause",
+    "object": "decreased fetal bone loading"
+  },
+  {
+    "subject": "Metabolic bone disease of infancy",
+    "relation": "has_cause",
+    "object": "maternal vitamin D deficiency"
+  },
+  {
+    "subject": "Metabolic bone disease of infancy",
+    "relation": "has_cause",
+    "object": "fetal exposure to drugs that can decrease bone strength"
+  },
+  {
+    "subject": "Metabolic bone disease of infancy",
+    "relation": "has_cause",
+    "object": "prematurity"
+  },
+  {
+    "subject": "Metabolic bone disease of infancy",
+    "relation": "associated_with",
+    "object": "hypermobility Ehlers Danlos Syndrome"
+  },
+  {
+    "subject": "Metabolic bone disease of infancy",
+    "relation": "associated_with",
+    "object": "gestational diabetes mellitus"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutation in ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "fatal outcome"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "X-linked disorder"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "genetic screening"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "ART pregnancies"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "neurodevelopmental delay"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutations in the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "severe copper deficiency"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "low serum copper"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "low ceruloplasmin"
+  },
+  {
+    "subject": "Aminoacylase-1 deficiency",
+    "relation": "has_symptom",
+    "object": "increased urinary excretion of N-acetyl amino acids"
+  },
+  {
+    "subject": "Aminoacylase-1 deficiency",
+    "relation": "has_cause",
+    "object": "homozygous or compound heterozygous variant in the ACY1 gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "unknown"
+  },
+  {
+    "subject": "Aminoacylase-1 deficiency",
+    "relation": "treated_by",
+    "object": "unknown"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "has_cause",
+    "object": "Inherited"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "has_cause",
+    "object": "Idiopathic"
+  },
+  {
+    "subject": "Dopa-responsive dystonia",
+    "relation": "has_symptom",
+    "object": "Classic phenotype"
+  },
+  {
+    "subject": "Dopa-responsive dystonia",
+    "relation": "treated_by",
+    "object": "Dopa"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "associated_with",
+    "object": "GCH1 variants"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "associated_with",
+    "object": "Homozygous Asp119Asn variant"
+  },
+  {
+    "subject": "Classical Menkes disease",
+    "relation": "has_symptom",
+    "object": "Early seizures"
+  },
+  {
+    "subject": "Classical Menkes disease",
+    "relation": "has_symptom",
+    "object": "Early-onset neurodegenerative disease"
+  },
+  {
+    "subject": "Atypical Menkes disease",
+    "relation": "has_symptom",
+    "object": "Ataxia"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_symptom",
+    "object": "Bony exostoses"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_symptom",
+    "object": "Radial head dislocations"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_symptom",
+    "object": "Herniations"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_symptom",
+    "object": "Dental abnormalities"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_symptom",
+    "object": "Connective tissue manifestations"
+  },
+  {
+    "subject": "ATP7A-related disorders",
+    "relation": "has_symptom",
+    "object": "Intracranial tortuosity"
+  },
+  {
+    "subject": "ATP7A-related disorders",
+    "relation": "has_symptom",
+    "object": "Bladder diverticula"
+  },
+  {
+    "subject": "ATP7A-related disorders",
+    "relation": "treated_by",
+    "object": "Counseling"
+  },
+  {
+    "subject": "ATP7A-related disorders",
+    "relation": "has_cause",
+    "object": "Truncating mutations"
+  },
+  {
+    "subject": "Classical Menkes disease",
+    "relation": "has_cause",
+    "object": "Truncating mutations"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_cause",
+    "object": "Splice site mutations"
+  },
+  {
+    "subject": "Occipital horn syndrome",
+    "relation": "has_cause",
+    "object": "Intronic mutations"
+  },
+  {
+    "subject": "ATP7A-related disorders",
+    "relation": "associated_with",
+    "object": "Low ceruloplasmin"
+  },
+  {
+    "subject": "ATP7A-related disorders",
+    "relation": "associated_with",
+    "object": "Serum copper"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_symptom",
+    "object": "Feeding difficulties"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_symptom",
+    "object": "Abnormal muscle tone"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_symptom",
+    "object": "Neurological issues"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_symptom",
+    "object": "Cranial MR abnormalities"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "associated_with",
+    "object": "Multiple malformations"
+  },
+  {
+    "subject": "Infants with Feeding difficulties",
+    "relation": "treated_by",
+    "object": "Tube feeding"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "diagnosed_by",
+    "object": "Whole-exome sequencing"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_cause",
+    "object": "Genetic variation"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "Excessive accumulation of free copper"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "associated_with",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "Copper-responsive therapies"
+  },
+  {
+    "subject": "Copper-related diseases",
+    "relation": "treated_by",
+    "object": "Copper-responsive therapies"
+  },
+  {
+    "subject": "Tumorigenesis",
+    "relation": "associated_with",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Tumor progression",
+    "relation": "associated_with",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Metastasis",
+    "relation": "associated_with",
+    "object": "Copper imbalance"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_cause",
+    "object": "Copper-induced cell death"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "dermatological manifestations"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "dermatological manifestations"
+  },
+  {
+    "subject": "Acrodermatitis enteropathica",
+    "relation": "has_symptom",
+    "object": "dermatological manifestations"
+  },
+  {
+    "subject": "Allergic dermatitis",
+    "relation": "has_symptom",
+    "object": "dermatological manifestations"
+  },
+  {
+    "subject": "Inflammatory diseases",
+    "relation": "treated_by",
+    "object": "zinc"
+  },
+  {
+    "subject": "Inflammatory diseases",
+    "relation": "treated_by",
+    "object": "selenium"
+  },
+  {
+    "subject": "Inflammatory diseases",
+    "relation": "treated_by",
+    "object": "copper"
+  },
+  {
+    "subject": "Skin cancer",
+    "relation": "treated_by",
+    "object": "zinc"
+  },
+  {
+    "subject": "Skin cancer",
+    "relation": "treated_by",
+    "object": "selenium"
+  },
+  {
+    "subject": "Skin cancer",
+    "relation": "treated_by",
+    "object": "copper"
+  },
+  {
+    "subject": "Photoaging",
+    "relation": "treated_by",
+    "object": "zinc"
+  },
+  {
+    "subject": "Photoaging",
+    "relation": "treated_by",
+    "object": "selenium"
+  },
+  {
+    "subject": "Photoaging",
+    "relation": "treated_by",
+    "object": "copper"
+  },
+  {
+    "subject": "Genodermatoses",
+    "relation": "associated_with",
+    "object": "micromineral imbalances"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "associated_with",
+    "object": "micromineral imbalances"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "micromineral imbalances"
+  },
+  {
+    "subject": "Acrodermatitis enteropathica",
+    "relation": "associated_with",
+    "object": "micromineral imbalances"
+  },
+  {
+    "subject": "Allergic dermatitis",
+    "relation": "associated_with",
+    "object": "micromineral imbalances"
+  },
+  {
+    "subject": "Genodermatoses",
+    "relation": "has_cause",
+    "object": "micromineral imbalances"
+  },
+  {
+    "subject": "Copper deficiency-related diseases",
+    "relation": "treated_by",
+    "object": "[Cu(His)<sub>2</sub>Cl<sub>2</sub>]"
+  },
+  {
+    "subject": "Copper deficiency-related diseases",
+    "relation": "treated_by",
+    "object": "[Cu(Ser)<sub>2</sub>]"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Deregulation of copper homoeostasis"
+  },
+  {
+    "subject": "Hypertrophic cardioencephalomyopathy",
+    "relation": "has_cause",
+    "object": "Deregulation of copper homoeostasis"
+  },
+  {
+    "subject": "Copper deficiency-related diseases",
+    "relation": "associated_with",
+    "object": "Deregulation of copper homoeostasis"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutations in the copper-ATPases ATP7A"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "mutations in the copper-ATPases ATP7B"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "central copper dysregulations"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "associated_with",
+    "object": "central copper dysregulations"
+  },
+  {
+    "subject": "amyotrophic lateral sclerosis",
+    "relation": "associated_with",
+    "object": "central copper dysregulations"
+  },
+  {
+    "subject": "multiple sclerosis",
+    "relation": "associated_with",
+    "object": "central copper dysregulations"
+  },
+  {
+    "subject": "central nervous system disorders",
+    "relation": "treated_by",
+    "object": "therapeutic approaches modulating copper availability"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "central nervous system disorders"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "central nervous system disorders"
+  },
+  {
+    "subject": "central nervous system disorders",
+    "relation": "has_cause",
+    "object": "alterations in copper metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "sparse, coarse hair"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "neurological deterioration"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutations in the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "disorders related to copper metabolism"
+  },
+  {
+    "subject": "Intellectual and Developmental Disabilities",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Intellectual and Developmental Disabilities",
+    "relation": "treated_by",
+    "object": "Homecare"
+  },
+  {
+    "subject": "Intellectual and Developmental Disabilities",
+    "relation": "treated_by",
+    "object": "Hospitalization"
+  },
+  {
+    "subject": "Intellectual and Developmental Disabilities",
+    "relation": "treated_by",
+    "object": "Virtual Physician Visits"
+  },
+  {
+    "subject": "Intellectual and Developmental Disabilities",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Intellectual and Developmental Disabilities",
+    "relation": "associated_with",
+    "object": "Increased Healthcare Use"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutations in the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "Copper deficiency"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_cause",
+    "object": "toxic copper accumulation"
+  },
+  {
+    "subject": "Colorectal cancer",
+    "relation": "associated_with",
+    "object": "disruption of copper homeostasis"
+  },
+  {
+    "subject": "Colorectal cancer",
+    "relation": "associated_with",
+    "object": "excessive cuproplasia"
+  },
+  {
+    "subject": "Colorectal cancer",
+    "relation": "treated_by",
+    "object": "copper chelators"
+  },
+  {
+    "subject": "Colorectal cancer",
+    "relation": "treated_by",
+    "object": "copper ion carriers"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_cause",
+    "object": "enhanced mitochondrial metabolism"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_cause",
+    "object": "intracellular copper accumulation"
+  },
+  {
+    "subject": "Tumor cells",
+    "relation": "treated_by",
+    "object": "copper and its complexes"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "Disruptions in copper homeostasis"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "Copper accumulation in brain tissue"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "Neuroinflammation"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "Protein misfolding"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "Copper accumulation"
+  },
+  {
+    "subject": "Menkes' disease",
+    "relation": "associated_with",
+    "object": "Copper deficiency"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Copper binding to proteins"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "associated_with",
+    "object": "Copper binding to alpha-synuclein"
+  },
+  {
+    "subject": "Amyotrophic lateral sclerosis",
+    "relation": "associated_with",
+    "object": "Copper binding to superoxide dismutase 1"
+  },
+  {
+    "subject": "Huntington's disease",
+    "relation": "associated_with",
+    "object": "Copper binding to huntingtin"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "D-penicillamine"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "5,7-dichloro-2-[(dimethylamino)methyl]-8-hydroxyquinoline"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_symptom",
+    "object": "Neurotoxicity"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_symptom",
+    "object": "Cell death"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_symptom",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "copper toxicity"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "copper deficiency"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_cause",
+    "object": "Copper ionophores"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_cause",
+    "object": "Elevated intracellular copper levels"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "Copper ionophores"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "Copper nanomaterials"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "Copper chelators"
+  },
+  {
+    "subject": "Copper toxicity",
+    "relation": "has_symptom",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Copper toxicity",
+    "relation": "has_symptom",
+    "object": "Cell death"
+  },
+  {
+    "subject": "Copper toxicity",
+    "relation": "has_symptom",
+    "object": "Disrupted mitochondrial respiration"
+  },
+  {
+    "subject": "Copper toxicity",
+    "relation": "has_symptom",
+    "object": "Disrupted protein lipoylation"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "Cancer"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "Copper-related disorders"
+  },
+  {
+    "subject": "Molybdenum cofactor deficiency",
+    "relation": "has_symptom",
+    "object": "Neonatal epileptic encephalopathy"
+  },
+  {
+    "subject": "Pyridoxamine sulphate oxidase deficiency",
+    "relation": "treated_by",
+    "object": "Pyridoxamine sulphate"
+  },
+  {
+    "subject": "Biotinidase deficiency",
+    "relation": "treated_by",
+    "object": "Biotin"
+  },
+  {
+    "subject": "Homocystinuria",
+    "relation": "has_symptom",
+    "object": "Late onset epilepsy"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "Difficult to control epilepsy"
+  },
+  {
+    "subject": "GLUT-1 deficiency",
+    "relation": "has_symptom",
+    "object": "Generalized discharges in electroencephalogram"
+  },
+  {
+    "subject": "Propionic acidemia",
+    "relation": "has_symptom",
+    "object": "Infantile spasms"
+  },
+  {
+    "subject": "Nonketotic hyperglycinemia",
+    "relation": "has_symptom",
+    "object": "Neonatal epileptic encephalopathy"
+  },
+  {
+    "subject": "Metabolic epilepsy",
+    "relation": "has_symptom",
+    "object": "Early onset epilepsy"
+  },
+  {
+    "subject": "Metabolic epilepsy",
+    "relation": "has_symptom",
+    "object": "Refractory epilepsy"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Lysosomal deficiencies",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Peroxisomal disorders",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Glycosylation disorder",
+    "relation": "has_symptom",
+    "object": "Infantile spasms"
+  },
+  {
+    "subject": "Organic aminoacidopathies",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Oxidative phosphorylation deficiencies",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_symptom",
+    "object": "aberrant lipoylated protein aggregation"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_symptom",
+    "object": "proteotoxic stress"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_symptom",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_cause",
+    "object": "Cu homeostasis dysregulation"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "genetic diseases"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "neurodegenerative diseases"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "cardiovascular diseases"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "associated_with",
+    "object": "tumoral diseases"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "treated_by",
+    "object": "cuproptosis inhibitors"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "treated_by",
+    "object": "small molecule compounds"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "treated_by",
+    "object": "transcription factors"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "treated_by",
+    "object": "ncRNAs"
+  },
+  {
+    "subject": "Impaired copper trafficking disease",
+    "relation": "has_symptom",
+    "object": "Respiratory distress"
+  },
+  {
+    "subject": "Impaired copper trafficking disease",
+    "relation": "has_symptom",
+    "object": "Multifocal brain hemorrhages"
+  },
+  {
+    "subject": "Impaired copper trafficking disease",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Impaired copper trafficking disease",
+    "relation": "has_symptom",
+    "object": "Coma"
+  },
+  {
+    "subject": "Impaired copper trafficking disease",
+    "relation": "has_cause",
+    "object": "Homozygous pathogenic variant in SLC31A1"
+  },
+  {
+    "subject": "Impaired copper trafficking disease",
+    "relation": "associated_with",
+    "object": "Pulmonary hypoplasia"
+  },
+  {
+    "subject": "Impaired copper trafficking disease",
+    "relation": "associated_with",
+    "object": "Increased tortuosity of cerebral arteries"
+  },
+  {
+    "subject": "Impaired copper trafficking disease",
+    "relation": "treated_by",
+    "object": "Antiepileptic drugs"
+  },
+  {
+    "subject": "Impaired copper trafficking disease",
+    "relation": "treated_by",
+    "object": "Mechanical ventilation"
+  },
+  {
+    "subject": "Copper deficiency disorders",
+    "relation": "has_treatment",
+    "object": "Elesclomol"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_treatment",
+    "object": "Elesclomol"
+  },
+  {
+    "subject": "Copper deficiency disorders",
+    "relation": "associated_with",
+    "object": "Mitochondrial copper homeostasis perturbation"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "is_a",
+    "object": "Copper deficiency disorders"
+  },
+  {
+    "subject": "Fatal genetic disorders",
+    "relation": "has_cause",
+    "object": "Mutations in copper transporters and chaperones"
+  },
+  {
+    "subject": "Copper deficiency disorders",
+    "relation": "has_symptom",
+    "object": "Mitochondrial energy generation impairment"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_symptom",
+    "object": "Sensory dysfunction"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_symptom",
+    "object": "Bowel-bladder dysfunction"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_symptom",
+    "object": "Spastic gait"
+  },
+  {
+    "subject": "Copper deficiency myelopathy",
+    "relation": "has_symptom",
+    "object": "Sensory complaints"
+  },
+  {
+    "subject": "Copper deficiency myelopathy",
+    "relation": "has_symptom",
+    "object": "Spastic gait"
+  },
+  {
+    "subject": "Copper deficiency myelopathy",
+    "relation": "treated_by",
+    "object": "Copper supplementation (implied)"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_cause",
+    "object": "Bacterial infections"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_cause",
+    "object": "Fungal infections"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_cause",
+    "object": "Viral infections"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_cause",
+    "object": "Cancer"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_cause",
+    "object": "Autoimmune diseases"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_cause",
+    "object": "Vascular problems"
+  },
+  {
+    "subject": "Transverse myelitis",
+    "relation": "has_cause",
+    "object": "Environmental variables"
+  },
+  {
+    "subject": "Copper deficiency myelopathy",
+    "relation": "has_cause",
+    "object": "Copper deficiency"
+  },
+  {
+    "subject": "Copper deficiency myelopathy",
+    "relation": "associated_with",
+    "object": "Non-compressive inflammatory myelopathy"
+  },
+  {
+    "subject": "Copper deficiency myelopathy",
+    "relation": "associated_with",
+    "object": "Debilitating paraplegia"
+  },
+  {
+    "subject": "Copper deficiency myelopathy",
+    "relation": "associated_with",
+    "object": "Peripartum women"
+  },
+  {
+    "subject": "Childhood-onset progressive neurological disorders",
+    "relation": "has_symptom",
+    "object": "Encephalopathy"
+  },
+  {
+    "subject": "Childhood-onset progressive neurological disorders",
+    "relation": "has_symptom",
+    "object": "Neuromuscular disorders"
+  },
+  {
+    "subject": "Childhood-onset progressive neurological disorders",
+    "relation": "has_symptom",
+    "object": "Movement disorders"
+  },
+  {
+    "subject": "Childhood-onset progressive neurological disorders",
+    "relation": "has_symptom",
+    "object": "Hemiplegic migraine"
+  },
+  {
+    "subject": "Childhood encephalopathies",
+    "relation": "has_cause",
+    "object": "De novo variants"
+  },
+  {
+    "subject": "Childhood-onset progressive neurological disorders",
+    "relation": "treated_by",
+    "object": "Whole-exome sequencing"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "MECP2"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "ATP7A"
+  },
+  {
+    "subject": "Childhood-onset progressive neurological disorders",
+    "relation": "associated_with",
+    "object": "Genetic etiology"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "hepatic symptoms"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "neurologic symptoms"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_symptom",
+    "object": "psychiatric symptoms"
+  },
+  {
+    "subject": "Wilson disease (hepatic)",
+    "relation": "has_symptom",
+    "object": "liver signs and symptoms"
+  },
+  {
+    "subject": "Wilson disease (neurologic)",
+    "relation": "has_symptom",
+    "object": "cognitive defects"
+  },
+  {
+    "subject": "Wilson disease (psychiatric)",
+    "relation": "has_symptom",
+    "object": "mood disorders"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "associated_with",
+    "object": "comorbidities"
+  },
+  {
+    "subject": "Copper excess or deficiency",
+    "relation": "has_cause",
+    "object": "Dysregulation of copper homeostasis"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "associated_with",
+    "object": "Cuproptosis"
+  },
+  {
+    "subject": "Liver diseases",
+    "relation": "associated_with",
+    "object": "Cuproptosis"
+  },
+  {
+    "subject": "Neurodegenerative disorders",
+    "relation": "associated_with",
+    "object": "Cuproptosis"
+  },
+  {
+    "subject": "Various cancers",
+    "relation": "associated_with",
+    "object": "Cuproptosis"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "has_symptom",
+    "object": "Intracellular copper overload"
+  },
+  {
+    "subject": "Cuproptosis",
+    "relation": "treated_by",
+    "object": "Targeted therapeutic agents"
+  },
+  {
+    "subject": "Diseases caused by copper excess or deficiency",
+    "relation": "treated_by",
+    "object": "Therapeutic interventions"
+  },
+  {
+    "subject": "Non-alcoholic fatty liver disease",
+    "relation": "has_symptom",
+    "object": "Abdominal obesity"
+  },
+  {
+    "subject": "Non-alcoholic fatty liver disease",
+    "relation": "has_cause",
+    "object": "Low copper intake"
+  },
+  {
+    "subject": "Non-alcoholic fatty liver disease",
+    "relation": "associated_with",
+    "object": "High protein intake"
+  },
+  {
+    "subject": "Non-alcoholic fatty liver disease",
+    "relation": "associated_with",
+    "object": "Low energy intake"
+  },
+  {
+    "subject": "Non-alcoholic fatty liver disease",
+    "relation": "associated_with",
+    "object": "Low carbohydrate intake"
+  },
+  {
+    "subject": "Non-alcoholic fatty liver disease",
+    "relation": "has_symptom",
+    "object": "Elevated liver aminotransferases"
+  },
+  {
+    "subject": "Non-alcoholic fatty liver disease",
+    "relation": "associated_with",
+    "object": "Elevated ferritin"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "has_symptom",
+    "object": "Low bone mineral density"
+  },
+  {
+    "subject": "Osteopenia",
+    "relation": "has_symptom",
+    "object": "Low bone mineral density"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "associated_with",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Osteopenia",
+    "relation": "associated_with",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "treated_by",
+    "object": "Higher dietary copper intake"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "treated_by",
+    "object": "Higher dietary zinc intake"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "has_cause",
+    "object": "Low dietary copper intake"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "has_cause",
+    "object": "Low dietary zinc intake"
+  },
+  {
+    "subject": "age-related macular degeneration",
+    "relation": "has_cause",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "diabetic retinopathy",
+    "relation": "has_cause",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "cataracts",
+    "relation": "has_cause",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "glaucoma",
+    "relation": "has_cause",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "ocular degenerative diseases",
+    "relation": "has_cause",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "ocular degenerative diseases",
+    "relation": "has_symptom",
+    "object": "structural and functional changes in eye tissues"
+  },
+  {
+    "subject": "age-related macular degeneration",
+    "relation": "treated_by",
+    "object": "antioxidant supplementation"
+  },
+  {
+    "subject": "diabetic retinopathy",
+    "relation": "treated_by",
+    "object": "antioxidant supplementation"
+  },
+  {
+    "subject": "cataracts",
+    "relation": "treated_by",
+    "object": "antioxidant supplementation"
+  },
+  {
+    "subject": "glaucoma",
+    "relation": "treated_by",
+    "object": "antioxidant supplementation"
+  },
+  {
+    "subject": "ocular degenerative diseases",
+    "relation": "treated_by",
+    "object": "antioxidant supplementation"
+  },
+  {
+    "subject": "ocular degenerative diseases",
+    "relation": "associated_with",
+    "object": "imbalance between reactive oxygen species (ROS) and antioxidants"
+  },
+  {
+    "subject": "ocular health",
+    "relation": "associated_with",
+    "object": "essential trace elements"
+  },
+  {
+    "subject": "antioxidant systems",
+    "relation": "associated_with",
+    "object": "essential trace elements"
+  },
+  {
+    "subject": "ocular degenerative diseases",
+    "relation": "associated_with",
+    "object": "deficiency of essential trace elements"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "associated_with",
+    "object": "Poor bone health"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "has_cause",
+    "object": "Low copper intake"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "treated_by",
+    "object": "Copper intake"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "has_symptom",
+    "object": "Poor bone health"
+  },
+  {
+    "subject": "Alzheimer's",
+    "relation": "has_cause",
+    "object": "Irregularities in metal binding"
+  },
+  {
+    "subject": "Neurodegenerative disorders",
+    "relation": "has_cause",
+    "object": "Irregularities in metal binding"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "Irregularities in metal binding"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Irregularities in metal binding"
+  },
+  {
+    "subject": "Alzheimer's",
+    "relation": "associated_with",
+    "object": "Neurodegenerative disorders"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "Menkes disease"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Neurodegenerative disorders"
+  },
+  {
+    "subject": "Alzheimer's",
+    "relation": "associated_with",
+    "object": "Menkes disease"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "Neurodegenerative disorders"
+  },
+  {
+    "subject": "Alzheimer's",
+    "relation": "associated_with",
+    "object": "Wilson's disease"
+  },
+  {
+    "subject": "Growing Skull Fracture",
+    "relation": "has_cause",
+    "object": "Dural Injury"
+  },
+  {
+    "subject": "Growing Skull Fracture",
+    "relation": "has_cause",
+    "object": "Skull Fracture"
+  },
+  {
+    "subject": "Growing Skull Fracture",
+    "relation": "has_symptom",
+    "object": "Widening of Fracture"
+  },
+  {
+    "subject": "Growing Skull Fracture",
+    "relation": "has_symptom",
+    "object": "Herniation of Arachnoid Membrane or Brain Parenchyma"
+  },
+  {
+    "subject": "Growing Skull Fracture",
+    "relation": "treated_by",
+    "object": "Surgical Intervention"
+  },
+  {
+    "subject": "Growing Skull Fracture",
+    "relation": "associated_with",
+    "object": "Chronic Complication"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "has_symptom",
+    "object": "Invasion depth of GC lesions"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "associated_with",
+    "object": "ATP7A overexpression"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "associated_with",
+    "object": "Older age"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "has_cause",
+    "object": "ATP7A overexpression"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "treated_by",
+    "object": "ATP7A silencing"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "associated_with",
+    "object": "Advanced pathological stages"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "associated_with",
+    "object": "Shorter survival time"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "associated_with",
+    "object": "Immune infiltration"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "associated_with",
+    "object": "Expression of immune checkpoints"
+  },
+  {
+    "subject": "Giant Axonal Neuropathy",
+    "relation": "has_symptom",
+    "object": "Curly and Tangled Hair"
+  },
+  {
+    "subject": "Giant Axonal Neuropathy",
+    "relation": "has_symptom",
+    "object": "Dystrophic Hair"
+  },
+  {
+    "subject": "Giant Axonal Neuropathy",
+    "relation": "has_symptom",
+    "object": "Trichorrhexis Nodosa"
+  },
+  {
+    "subject": "Giant Axonal Neuropathy",
+    "relation": "has_symptom",
+    "object": "Tricoptylosis"
+  },
+  {
+    "subject": "Griscelli Syndrome",
+    "relation": "has_symptom",
+    "object": "Silvery Blond Hair"
+  },
+  {
+    "subject": "Griscelli Syndrome",
+    "relation": "has_symptom",
+    "object": "Pigment Deposition in Hair Shaft"
+  },
+  {
+    "subject": "Griscelli Syndrome",
+    "relation": "has_symptom",
+    "object": "Dystrophic Hair"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Sparse Hair"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Coarse Hair"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Light-Colored Hair"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Pili Torti"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "has_symptom",
+    "object": "Dystrophic Hair"
+  },
+  {
+    "subject": "Autosomal Recessive Woolly Hair Disease",
+    "relation": "has_symptom",
+    "object": "Hypotrichosis"
+  },
+  {
+    "subject": "Autosomal Recessive Woolly Hair Disease",
+    "relation": "has_symptom",
+    "object": "Dystrophic Hair"
+  },
+  {
+    "subject": "Giant Axonal Neuropathy",
+    "relation": "diagnosed_by",
+    "object": "Hair Microscopy"
+  },
+  {
+    "subject": "Griscelli Syndrome",
+    "relation": "diagnosed_by",
+    "object": "Hair Microscopy"
+  },
+  {
+    "subject": "Menkes Disease",
+    "relation": "diagnosed_by",
+    "object": "Hair Microscopy"
+  },
+  {
+    "subject": "Autosomal Recessive Woolly Hair Disease",
+    "relation": "diagnosed_by",
+    "object": "Hair Microscopy"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "systemic copper deficiency"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "functional dysfunction of ATP7A"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "copper therapy"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "renal copper overload"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "anemia"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "cardiomyopathy"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutations in the ATP7A copper transporter"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "copper deficiency"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "elesclomol (ES)"
+  },
+  {
+    "subject": "Copper deficiency",
+    "relation": "has_symptom",
+    "object": "anemia"
+  },
+  {
+    "subject": "Copper deficiency",
+    "relation": "has_symptom",
+    "object": "cardiomyopathy"
+  },
+  {
+    "subject": "Copper deficiency",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Copper deficiency",
+    "relation": "treated_by",
+    "object": "elesclomol (ES)"
+  },
+  {
+    "subject": "Wilson's Disease",
+    "relation": "has_cause",
+    "object": "Dysregulation of copper metabolism"
+  },
+  {
+    "subject": "Wilson's Disease",
+    "relation": "associated_with",
+    "object": "Menkes disease"
+  },
+  {
+    "subject": "Wilson's Disease",
+    "relation": "treated_by",
+    "object": "Disease management"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Cu imbalances"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_cause",
+    "object": "Cu imbalances"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "Cu imbalances"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_cause",
+    "object": "Cu imbalances"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "neurologic disorders"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "associated_with",
+    "object": "neurologic disorders"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "neurologic disorders"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "associated_with",
+    "object": "neurologic disorders"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "has_symptom",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "has_symptom",
+    "object": "Neonatal Seizures"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "has_symptom",
+    "object": "Infantile Spasms"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "has_symptom",
+    "object": "Myoclonic Seizures"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "has_symptom",
+    "object": "Characteristic EEG patterns"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "treated_by",
+    "object": "Treatment for underlying metabolic defect"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "associated_with",
+    "object": "Cofactor and mineral metabolism disorders"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "associated_with",
+    "object": "Intermediary nutrient metabolism disorders"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "epileptic seizures"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "physical functioning impairment"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "emotional functioning impairment"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "abnormalities in copper metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "copper histidine"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "comorbidities"
+  },
+  {
+    "subject": "Pseudoaneurysm",
+    "relation": "has_cause",
+    "object": "Iatrogenic"
+  },
+  {
+    "subject": "Pseudoaneurysm",
+    "relation": "has_cause",
+    "object": "Intravenous drug use"
+  },
+  {
+    "subject": "Pseudoaneurysm",
+    "relation": "has_cause",
+    "object": "Penetrating trauma"
+  },
+  {
+    "subject": "Pseudoaneurysm",
+    "relation": "has_cause",
+    "object": "Gunshot wound"
+  },
+  {
+    "subject": "Brachial artery pseudoaneurysm",
+    "relation": "associated_with",
+    "object": "Fall episode"
+  },
+  {
+    "subject": "Pseudoaneurysm",
+    "relation": "treated_by",
+    "object": "Medical care"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "Abnormal hair growth"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "Prolonged jaundice"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "Feeding difficulties"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "Neurological disturbances"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "Copper injections"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "Mutations in ATP7A"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Copper deficiency"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Connective tissue disorders"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Neurological disorders"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "has_cause",
+    "object": "ATP7B mutants"
+  },
+  {
+    "subject": "Wilson disease",
+    "relation": "associated_with",
+    "object": "Copper homeostasis dysregulation"
+  },
+  {
+    "subject": "Copper toxicity",
+    "relation": "has_cause",
+    "object": "Accumulation of Cu"
+  },
+  {
+    "subject": "Copper toxicity",
+    "relation": "has_cause",
+    "object": "High amount of accumulated Cu in cells"
+  },
+  {
+    "subject": "Copper toxicity",
+    "relation": "has_symptom",
+    "object": "Production of reactive oxygen species (ROS)"
+  },
+  {
+    "subject": "Copper toxicity",
+    "relation": "has_symptom",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Copper toxicity",
+    "relation": "has_symptom",
+    "object": "Cuproptosis"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "Elesclomol (ELC)"
+  },
+  {
+    "subject": "Tuberculosis",
+    "relation": "treated_by",
+    "object": "Elesclomol (ELC)"
+  },
+  {
+    "subject": "SARS-CoV-2 infection",
+    "relation": "treated_by",
+    "object": "Elesclomol (ELC)"
+  },
+  {
+    "subject": "Copper-associated disorders",
+    "relation": "treated_by",
+    "object": "Elesclomol (ELC)"
+  },
+  {
+    "subject": "Copper toxicity",
+    "relation": "associated_with",
+    "object": "Various diseases"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "loss of achieved milestones"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "skin changes"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "hair changes"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "cyanosis"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "dyspnea"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "X-linked recessive disorder of copper metabolism"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "low serum copper"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "low ceruloplasmin"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "diffuse atrophy of the cerebrum"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "diffuse atrophy of the cerebellum"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "tortuosity of intracranial vessels"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "dense gliosis"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "myelin loss"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "loss of neurons in the cortex"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "aberrant dendritic arborization"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "somal sprouts"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "axonal torpedoes within the Purkinje neurons"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "bladder diverticula"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "recurrent urinary tract infection"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "urosepsis"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "pyelonephritis"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "renal stones"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "ruptured ureter"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "hypokalemia"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "hypophosphatemia"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "normal anion gap metabolic acidosis"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "renal tubular dysfunction"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "electrolyte supplement"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "potassium citrate supplement"
+  },
+  {
+    "subject": "recurrent urinary tract infection",
+    "relation": "has_cause",
+    "object": "urea-splitting organisms"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "renal problems"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "urological problems"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "Copper(II) amino acid compounds"
+  },
+  {
+    "subject": "Copper(II) amino acid compounds",
+    "relation": "has_cause",
+    "object": "Copper(II) exchange reactions"
+  },
+  {
+    "subject": "Copper(II) amino acid compounds",
+    "relation": "treated_by",
+    "object": "Copper(II)-binding drugs"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutation of the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "systemic deficiency of copper"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "severe neurodegenerative disorders"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "CuGTSM"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "nCuGTSM"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "copper deficiency"
+  },
+  {
+    "subject": "Copper Metabolism Disorder",
+    "relation": "has_cause",
+    "object": "Microbial infection"
+  },
+  {
+    "subject": "Copper Metabolism Disorder",
+    "relation": "associated_with",
+    "object": "Salmonella enterica infection"
+  },
+  {
+    "subject": "Copper Metabolism Disorder",
+    "relation": "associated_with",
+    "object": "Cryptococcus infection"
+  },
+  {
+    "subject": "Copper Metabolism Disorder",
+    "relation": "associated_with",
+    "object": "Influenza A virus infection"
+  },
+  {
+    "subject": "Copper Metabolism Disorder",
+    "relation": "associated_with",
+    "object": "Zika virus infection"
+  },
+  {
+    "subject": "Cranial Exostosis",
+    "relation": "has_cause",
+    "object": "ATP7A gene variation"
+  },
+  {
+    "subject": "Horn Size/Presence Condition",
+    "relation": "has_cause",
+    "object": "ATP7A gene variation"
+  },
+  {
+    "subject": "Cranial Exostosis",
+    "relation": "associated_with",
+    "object": "Abnormal Horn Growth"
+  },
+  {
+    "subject": "Abnormal Horn Growth",
+    "relation": "has_symptom",
+    "object": "Cranial Exostosis"
+  },
+  {
+    "subject": "Horn Size/Presence Condition",
+    "relation": "associated_with",
+    "object": "ATP7A gene expression levels"
+  },
+  {
+    "subject": "Copper imbalances",
+    "relation": "associated_with",
+    "object": "chronic inflammatory diseases"
+  },
+  {
+    "subject": "Copper imbalances",
+    "relation": "associated_with",
+    "object": "pathologies"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "progressive muscle hypotonia"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "neurological damage"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "hair shaft dysplasia"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "pili torti"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutations in the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "impaired copper distribution"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "malfunction of several copper-dependent enzymes"
+  },
+  {
+    "subject": "pili torti",
+    "relation": "diagnosed_by",
+    "object": "trichoscopy"
+  },
+  {
+    "subject": "pili torti",
+    "relation": "diagnosed_by",
+    "object": "hair light microscopy"
+  },
+  {
+    "subject": "Ischaemic brain injury",
+    "relation": "has_cause",
+    "object": "Ischaemic damage to the brain"
+  },
+  {
+    "subject": "Ischaemic brain injury",
+    "relation": "has_cause",
+    "object": "Cardiac arrest"
+  },
+  {
+    "subject": "Ischaemic brain injury",
+    "relation": "treated_by",
+    "object": "Early reperfusion"
+  },
+  {
+    "subject": "Ischaemic brain injury",
+    "relation": "associated_with",
+    "object": "Reperfusion injury"
+  },
+  {
+    "subject": "Ischaemic brain injury",
+    "relation": "associated_with",
+    "object": "Cell death"
+  },
+  {
+    "subject": "Ischaemic brain injury",
+    "relation": "associated_with",
+    "object": "Cerebral ischaemia injury"
+  },
+  {
+    "subject": "Cerebral ischaemia injury",
+    "relation": "treated_by",
+    "object": "Targeted inhibition of cerebral ischaemia"
+  },
+  {
+    "subject": "Ischaemic brain injury",
+    "relation": "has_symptom",
+    "object": "Brain injury"
+  },
+  {
+    "subject": "Menkes' disease",
+    "relation": "has_symptom",
+    "object": "DNA double-strand breaks"
+  },
+  {
+    "subject": "Menkes' disease",
+    "relation": "has_symptom",
+    "object": "radiosensitivity"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "DNA double-strand breaks"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "radiosensitivity"
+  },
+  {
+    "subject": "Menkes' disease",
+    "relation": "has_cause",
+    "object": "mutations of the ATP7A ATPase gene"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "mutations of the ATP7B ATPase gene"
+  },
+  {
+    "subject": "Menkes' disease",
+    "relation": "associated_with",
+    "object": "copper metabolism disorder"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "copper metabolism disorder"
+  },
+  {
+    "subject": "Menkes' disease",
+    "relation": "treated_by",
+    "object": "Cu pre-treatment"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "treated_by",
+    "object": "Cu pre-treatment"
+  },
+  {
+    "subject": "Copper deficiency disorders",
+    "relation": "treated_by",
+    "object": "Elesclomol (ES)"
+  },
+  {
+    "subject": "Copper deficiency disorders",
+    "relation": "associated_with",
+    "object": "Reduced cytochrome c oxidase abundance and activity"
+  },
+  {
+    "subject": "Copper deficiency disorders",
+    "relation": "has_symptom",
+    "object": "Reduced cytochrome c oxidase abundance and activity"
+  },
+  {
+    "subject": "ICA tortuosity",
+    "relation": "has_cause",
+    "object": "age"
+  },
+  {
+    "subject": "VA tortuosity",
+    "relation": "has_cause",
+    "object": "age"
+  },
+  {
+    "subject": "VA tortuosity",
+    "relation": "has_cause",
+    "object": "smoking history"
+  },
+  {
+    "subject": "ICA tortuosity",
+    "relation": "associated_with",
+    "object": "female"
+  },
+  {
+    "subject": "VA tortuosity",
+    "relation": "associated_with",
+    "object": "female"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "has_symptom",
+    "object": "proteinuria"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "has_symptom",
+    "object": "haematuria"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "has_symptom",
+    "object": "pancytopenia"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "has_symptom",
+    "object": "hypocomplementemia"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "has_symptom",
+    "object": "elevated liver enzymes"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "elevated liver enzymes"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "chronic active hepatitis"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "moderate inflammation"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "moderate-severe fibrosis"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "local cirrhosis"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "compound heterozygous mutations in the ATP7B gene"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "associated_with",
+    "object": "Wilson's disease"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "treated_by",
+    "object": "high-zinc/low-copper diet"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "treated_by",
+    "object": "liver transplantation"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "not_treated_by",
+    "object": "penicillamine"
+  },
+  {
+    "subject": "Vascular-type senile dementia",
+    "relation": "has_cause",
+    "object": "Excess Zn secretion to synaptic clefts"
+  },
+  {
+    "subject": "Vascular-type senile dementia",
+    "relation": "has_cause",
+    "object": "Zn-induced neurotoxicity"
+  },
+  {
+    "subject": "Vascular-type senile dementia",
+    "relation": "associated_with",
+    "object": "Transient global ischemia"
+  },
+  {
+    "subject": "Zn-induced neurotoxicity",
+    "relation": "exacerbated_by",
+    "object": "Low concentrations of Cu"
+  },
+  {
+    "subject": "Zn-induced neurotoxicity",
+    "relation": "has_cause",
+    "object": "Ca homeostasis disruption"
+  },
+  {
+    "subject": "Vascular-type senile dementia",
+    "relation": "has_symptom",
+    "object": "Neuronal death"
+  },
+  {
+    "subject": "Vascular-type senile dementia",
+    "relation": "has_symptom",
+    "object": "Memory loss"
+  },
+  {
+    "subject": "Inflammatory Bowel Disease (IBD)",
+    "relation": "has_cause",
+    "object": "Higher levels of sodium"
+  },
+  {
+    "subject": "Inflammatory Bowel Disease (IBD)",
+    "relation": "has_cause",
+    "object": "Higher levels of potassium"
+  },
+  {
+    "subject": "Inflammatory Bowel Disease (IBD)",
+    "relation": "has_cause",
+    "object": "Higher levels of boron"
+  },
+  {
+    "subject": "Inflammatory Bowel Disease (IBD)",
+    "relation": "has_cause",
+    "object": "Lower levels of zinc"
+  },
+  {
+    "subject": "Inflammatory Bowel Disease (IBD)",
+    "relation": "has_cause",
+    "object": "Lower levels of uranium"
+  },
+  {
+    "subject": "Inflammatory Bowel Disease (IBD)",
+    "relation": "has_cause",
+    "object": "Lower levels of copper"
+  },
+  {
+    "subject": "Inflammatory Bowel Disease (IBD)",
+    "relation": "has_cause",
+    "object": "Lower levels of germanium"
+  },
+  {
+    "subject": "Inflammatory Bowel Disease (IBD)",
+    "relation": "associated_with",
+    "object": "Colorectal cancer screening"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "treated_by",
+    "object": "Copper (II) histidinate injection solution"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "sparse, coarse hair"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "copper deficiency"
+  }
+]

@@ -1,0 +1,3952 @@
+[
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "hearing impairment"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "ear malformation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "heart malformation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "choanal stenosis"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "renal malformation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal malformation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 gene mutations"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "heart disease"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "genital hypoplasia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "ear anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "deafness"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "central nervous system anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "retarded growth"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "atresia choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "growth retardation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "genital abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "ear anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "athymia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "heterotaxy"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal olfactory sulci"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "major congenital heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 gene mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Arhinencephaly"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "diagnosed_by",
+    "object": "trio-based clinical exome sequencing"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "diagnosed_by",
+    "object": "MRI"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "identified_by",
+    "object": "olfactory sulci assessment"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 pathogenic variants"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Wolf-Hirschhorn syndrome"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "1q21 deletion syndrome"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "19q13 microdeletion"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "PLCB4 pathogenic variants"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "TRRAP pathogenic variants"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "OTX2 pathogenic variants"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_symptom",
+    "object": "typical facial features"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal anomalies"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_symptom",
+    "object": "delayed neuropsychomotor development"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_symptom",
+    "object": "growth anomalies"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_symptom",
+    "object": "cardiac anomalies"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_symptom",
+    "object": "genitourinary anomalies"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_symptom",
+    "object": "gastrointestinal anomalies"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_symptom",
+    "object": "endocrine anomalies"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_symptom",
+    "object": "dental anomalies"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_symptom",
+    "object": "primary hypoparathyroidism"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_cause",
+    "object": "missense variant in exon 38 of the KMT2D gene"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Coloboma of the eye"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Atresia of the nasal choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Restricted intellectual development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Genitourinary malformations"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Ear anomalies"
+  },
+  {
+    "subject": "MRD74",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "MRD74",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "MRD74",
+    "relation": "has_symptom",
+    "object": "dysmorphic features"
+  },
+  {
+    "subject": "HNRNPC Arg99Gln-related phenotype",
+    "relation": "has_symptom",
+    "object": "distinctive facial features"
+  },
+  {
+    "subject": "HNRNPC Arg99Gln-related phenotype",
+    "relation": "has_symptom",
+    "object": "cochlear aplasia"
+  },
+  {
+    "subject": "HNRNPC Arg99Gln-related phenotype",
+    "relation": "has_symptom",
+    "object": "bilateral colobomatous microphthalmia"
+  },
+  {
+    "subject": "MRD74",
+    "relation": "has_cause",
+    "object": "HNRNPC variants"
+  },
+  {
+    "subject": "MRD74",
+    "relation": "has_cause",
+    "object": "exon deletions"
+  },
+  {
+    "subject": "MRD74",
+    "relation": "has_cause",
+    "object": "splice site variants"
+  },
+  {
+    "subject": "MRD74",
+    "relation": "has_cause",
+    "object": "frameshift variants"
+  },
+  {
+    "subject": "HNRNPC Arg99Gln-related phenotype",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "MRD74",
+    "relation": "treated_by",
+    "object": "none mentioned"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "congenital heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "atresia of the choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "retardation of development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "genital hypoplasia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "ear anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants within CHD7"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 haploinsufficiency"
+  },
+  {
+    "subject": "Hearing loss",
+    "relation": "treated_by",
+    "object": "early intervention"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "temporal bone analysis"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "microcephaly"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "olfactory bulb agenesis"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "brain anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Haploinsufficiency of CHD7"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7-associated neurodevelopmental diseases"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "inhibition of H3K27me3 methyltransferase EZH2"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "has_symptom",
+    "object": "Hearing Loss"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "treated_by",
+    "object": "Cochlear Implantation"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "associated_with",
+    "object": "Developmental Delay"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "associated_with",
+    "object": "Valvular Heart Disease"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "associated_with",
+    "object": "Waardenburg syndrome"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "associated_with",
+    "object": "Down syndrome"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "associated_with",
+    "object": "Cerebral Palsy"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "associated_with",
+    "object": "Cryptorchidism"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "has_cause",
+    "object": "Cochlear Anomalies"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "has_cause",
+    "object": "Absent Modiolus"
+  },
+  {
+    "subject": "Deafness",
+    "relation": "has_cause",
+    "object": "Cochlear Nerve Deficits"
+  },
+  {
+    "subject": "CHARGE Syndrome",
+    "relation": "has_symptom",
+    "object": "Dysphagia"
+  },
+  {
+    "subject": "CHARGE Syndrome",
+    "relation": "has_symptom",
+    "object": "Feeding disorders"
+  },
+  {
+    "subject": "CHARGE Syndrome",
+    "relation": "has_symptom",
+    "object": "Swallowing disorders"
+  },
+  {
+    "subject": "CHARGE Syndrome",
+    "relation": "treated_by",
+    "object": "Global Intensive Feeding Therapy (GIFT)"
+  },
+  {
+    "subject": "Dysphagia",
+    "relation": "treated_by",
+    "object": "Global Intensive Feeding Therapy (GIFT)"
+  },
+  {
+    "subject": "Feeding disorders",
+    "relation": "treated_by",
+    "object": "Global Intensive Feeding Therapy (GIFT)"
+  },
+  {
+    "subject": "Swallowing disorders",
+    "relation": "treated_by",
+    "object": "Global Intensive Feeding Therapy (GIFT)"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "deafness"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 gene mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "early intervention"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "early rehabilitation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "diagnosed_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "syndromic deafness",
+    "relation": "treated_by",
+    "object": "early intervention"
+  },
+  {
+    "subject": "syndromic deafness",
+    "relation": "treated_by",
+    "object": "early rehabilitation"
+  },
+  {
+    "subject": "syndromic deafness",
+    "relation": "diagnosed_by",
+    "object": "hearing screening"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "syndromic deafness"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 dysfunction"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 dysfunction"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Atresia of the choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Restricted growth and development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Genital abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Ear abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 gene mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "c.2972T>C (p.L991S) missense variant"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Congenital anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Developmental issues"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "micropenis"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "bilateral cryptorchidism"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "cupped ear"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "right facial nerve palsy"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "bilateral hearing loss"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "genital abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "SOX2 anophthalmia syndrome"
+  },
+  {
+    "subject": "SOX2 anophthalmia syndrome",
+    "relation": "has_symptom",
+    "object": "hypogonadism"
+  },
+  {
+    "subject": "SOX2 anophthalmia syndrome",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "SOX2 anophthalmia syndrome",
+    "relation": "has_symptom",
+    "object": "optic nerve hypoplasia"
+  },
+  {
+    "subject": "SOX2 anophthalmia syndrome",
+    "relation": "has_cause",
+    "object": "SOX2 mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "genetic analysis"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "growth retardation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "breathing difficulties"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "swallowing difficulties"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "feeding difficulties"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal external genitalia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "hearing impairment"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "lack of secondary sexual characteristics during puberty"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 gene variants"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "genetic heterogeneity"
+  },
+  {
+    "subject": "HYAL2 deficiency",
+    "relation": "has_symptom",
+    "object": "cleft lip and palate"
+  },
+  {
+    "subject": "HYAL2 deficiency",
+    "relation": "has_symptom",
+    "object": "growth deficiency"
+  },
+  {
+    "subject": "HYAL2 deficiency",
+    "relation": "has_symptom",
+    "object": "congenital heart disease"
+  },
+  {
+    "subject": "HYAL2 deficiency",
+    "relation": "has_symptom",
+    "object": "craniofacial dysmorphism"
+  },
+  {
+    "subject": "HYAL2 deficiency",
+    "relation": "has_symptom",
+    "object": "micropenis"
+  },
+  {
+    "subject": "HYAL2 deficiency",
+    "relation": "has_symptom",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "HYAL2 deficiency",
+    "relation": "has_cause",
+    "object": "novel compound heterozygous variants of the HYAL2 gene"
+  },
+  {
+    "subject": "HYAL2 deficiency",
+    "relation": "associated_with",
+    "object": "CHARGE-like syndrome"
+  },
+  {
+    "subject": "HYAL2 deficiency",
+    "relation": "associated_with",
+    "object": "primary testicular dysfunction"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Ear abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Developmental delays"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Cochlear nerve deficiency"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "Cochlear implantation"
+  },
+  {
+    "subject": "Cochlear nerve deficiency",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Ear abnormalities",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Developmental delays",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Syndromic hearing loss",
+    "relation": "has_symptom",
+    "object": "Hearing loss"
+  },
+  {
+    "subject": "Waardenburg syndrome",
+    "relation": "has_symptom",
+    "object": "Hearing loss"
+  },
+  {
+    "subject": "Branchio-Oto-Renal syndrome",
+    "relation": "has_symptom",
+    "object": "Hearing loss"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Hearing loss"
+  },
+  {
+    "subject": "Treacher Collins syndrome",
+    "relation": "has_symptom",
+    "object": "Hearing loss"
+  },
+  {
+    "subject": "Syndromic hearing loss",
+    "relation": "treated_by",
+    "object": "Whole exome sequencing"
+  },
+  {
+    "subject": "Syndromic hearing loss",
+    "relation": "treated_by",
+    "object": "Neonatal hearing screening"
+  },
+  {
+    "subject": "Syndromic hearing loss",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Waardenburg syndrome",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "Branchio-Oto-Renal syndrome",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "Treacher Collins syndrome",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "Kleefstra syndrome",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "Muenke syndrome",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "Osteopathia Striata with Cranial Sclerosis",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "Ayme-Gripp syndrome",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "Tatton-Brown-Rahman syndrome",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "Stickler syndrome",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "Stapes Ankylosis with Broad Thumbs and Toes",
+    "relation": "associated_with",
+    "object": "Syndromic hearing loss"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Pathogenic variants in CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Aberrant neural crest development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Neurocristopathies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "micrognathia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "cardiac defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "facial defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "increased nuchal translucency"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "isolated fetal growth restriction"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "polyhydramnios"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "cystic hygroma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "Exome sequencing"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "intrauterine fetal demise"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "choanal atresia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "delayed growth"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "ear anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "audiovestibular impairment"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "nonsyndromic hearing loss"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "inner ear malformations"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "autism spectrum disorder"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "gonadotropin-releasing hormone deficiency"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "comprehensive clinical evaluation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "congenital anomalies"
+  },
+  {
+    "subject": "Cowden disease",
+    "relation": "associated_with",
+    "object": "multiple hamartomas"
+  },
+  {
+    "subject": "Cowden disease",
+    "relation": "associated_with",
+    "object": "increased cancer risk"
+  },
+  {
+    "subject": "POEMS syndrome",
+    "relation": "has_symptom",
+    "object": "polyneuropathy"
+  },
+  {
+    "subject": "POEMS syndrome",
+    "relation": "has_symptom",
+    "object": "organomegaly"
+  },
+  {
+    "subject": "POEMS syndrome",
+    "relation": "has_symptom",
+    "object": "endocrinopathy"
+  },
+  {
+    "subject": "POEMS syndrome",
+    "relation": "has_symptom",
+    "object": "monoclonal gammopathy"
+  },
+  {
+    "subject": "POEMS syndrome",
+    "relation": "has_symptom",
+    "object": "skin changes"
+  },
+  {
+    "subject": "Rheumatic fever",
+    "relation": "has_cause",
+    "object": "Streptococcus pyogenes infection"
+  },
+  {
+    "subject": "Rheumatic fever",
+    "relation": "has_symptom",
+    "object": "heart issues"
+  },
+  {
+    "subject": "Tuberous sclerosis",
+    "relation": "associated_with",
+    "object": "non-cancerous tumors"
+  },
+  {
+    "subject": "Tuberous sclerosis",
+    "relation": "has_symptom",
+    "object": "tumors in various body parts"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "dyspnea"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "inspiratory dyspnea"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "feeding difficulties"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "micrognathia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "high palatal arch"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "cleft palate"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "glossoptosis"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "oblique mouth"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "mutation in CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Pierre-Robin syndrome"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "ventilator-assisted ventilation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "nutrition"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "surgical ligation of patent ductus arteriosus"
+  },
+  {
+    "subject": "Anophthalmia",
+    "relation": "has_cause",
+    "object": "Genetic factors"
+  },
+  {
+    "subject": "Anophthalmia",
+    "relation": "has_cause",
+    "object": "Environmental factors"
+  },
+  {
+    "subject": "Anophthalmia",
+    "relation": "has_cause",
+    "object": "Chromosomal aberrations"
+  },
+  {
+    "subject": "Anophthalmia",
+    "relation": "has_cause",
+    "object": "Mutations in genes such as PAX6, SOX2, OTX2, and CHD7"
+  },
+  {
+    "subject": "Anophthalmia",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Anophthalmia",
+    "relation": "has_symptom",
+    "object": "Blindness"
+  },
+  {
+    "subject": "Microphthalmia",
+    "relation": "has_cause",
+    "object": "Genetic factors"
+  },
+  {
+    "subject": "Microphthalmia",
+    "relation": "has_cause",
+    "object": "Environmental factors"
+  },
+  {
+    "subject": "Microphthalmia",
+    "relation": "has_cause",
+    "object": "Chromosomal aberrations"
+  },
+  {
+    "subject": "Microphthalmia",
+    "relation": "has_cause",
+    "object": "Mutations in genes such as PAX6, SOX2, OTX2, and CHD7"
+  },
+  {
+    "subject": "Microphthalmia",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Microphthalmia",
+    "relation": "has_symptom",
+    "object": "Blindness"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "has_cause",
+    "object": "Genetic factors"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "has_cause",
+    "object": "Environmental factors"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "has_cause",
+    "object": "Chromosomal aberrations"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "has_cause",
+    "object": "Mutations in genes such as PAX6, SOX2, OTX2, and CHD7"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "has_symptom",
+    "object": "Blindness"
+  },
+  {
+    "subject": "AMC",
+    "relation": "treated_by",
+    "object": "Timely intervention"
+  },
+  {
+    "subject": "AMC",
+    "relation": "treated_by",
+    "object": "Genetic counseling"
+  },
+  {
+    "subject": "AMC",
+    "relation": "has_symptom",
+    "object": "Blindness"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Heart defect"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Atresia choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Retarded growth and development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Genital hypoplasia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Ear anomalies/deafness"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Optic nerve/chorioretinal colobomas"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Microphthalmia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Cataract"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Iris colobomas"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Strabismus"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Nasolacrimal duct obstructions"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Cranial nerve VII palsy"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Punctal agenesis"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 variants"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Splicing variants"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Frameshift variants"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "fetal external ear abnormality"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "atrial septal defect"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "de novo pathogenic nonsense mutation in the CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "fetal ear abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "sensory motor impairment"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "deafblindness"
+  },
+  {
+    "subject": "CHARGE syndrome with deafblindness",
+    "relation": "treated_by",
+    "object": "accommodations for sensory deficits"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "atresia choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "restricted growth and development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "genital abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "ear abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "hypogonadism"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "facial deformities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "stunted growth"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "mutation in the Chromodomain helicase DNA binding protein 7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "genetic sequencing"
+  },
+  {
+    "subject": "Sturge Weber Syndrome",
+    "relation": "has_symptom",
+    "object": "Port wine stain"
+  },
+  {
+    "subject": "Sturge Weber Syndrome",
+    "relation": "has_symptom",
+    "object": "High Intraocular pressure"
+  },
+  {
+    "subject": "Sturge Weber Syndrome",
+    "relation": "has_symptom",
+    "object": "Foveal coloboma"
+  },
+  {
+    "subject": "Sturge Weber Syndrome",
+    "relation": "has_symptom",
+    "object": "Diffuse choroidal hemangioma"
+  },
+  {
+    "subject": "Sturge Weber Syndrome",
+    "relation": "associated_with",
+    "object": "Secondary open angle glaucoma"
+  },
+  {
+    "subject": "Sturge Weber Syndrome",
+    "relation": "associated_with",
+    "object": "Anisometropic amblyopia"
+  },
+  {
+    "subject": "Sturge Weber Syndrome",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "High Intraocular pressure",
+    "relation": "treated_by",
+    "object": "Micropulse Cyclophotocoagulation"
+  },
+  {
+    "subject": "Foveal coloboma",
+    "relation": "has_cause",
+    "object": "Genetic disorders"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "ear anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "limb anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "unilateral monodactyly"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in the CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "autosomal dominant syndrome"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "maternal allele-specific methylation of CHD7"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "genetic variations at individual alleles"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "vertebral defects"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "anal atresia"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "cardiac defects"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "tracheoesophageal fistula"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "renal anomalies"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "limb abnormalities"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "bicuspid aortic valve"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "patent foramen ovale"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "asymmetric crying facies"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "microphallus"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "single inguinal testis"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_cause",
+    "object": "environmental factors"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Cochlear nerve deficiency",
+    "relation": "has_symptom",
+    "object": "Congenital hearing loss"
+  },
+  {
+    "subject": "Cochlear nerve deficiency",
+    "relation": "treated_by",
+    "object": "Cochlear implant"
+  },
+  {
+    "subject": "Cochlear nerve deficiency",
+    "relation": "treated_by",
+    "object": "Auditory brainstem implants"
+  },
+  {
+    "subject": "Cochlear nerve deficiency",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "has_symptom",
+    "object": "Low SpO2"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "has_symptom",
+    "object": "High AHI"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "has_symptom",
+    "object": "High OAHI"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "has_symptom",
+    "object": "High TcCO2"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "treated_by",
+    "object": "Nasopharyngeal Airway"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "treated_by",
+    "object": "Tracheostomy"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "associated_with",
+    "object": "Pierre Robin sequence"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "associated_with",
+    "object": "Treacher Collins syndrome"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "associated_with",
+    "object": "Stickler syndrome"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "associated_with",
+    "object": "Crouzon syndrome"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "associated_with",
+    "object": "Bohring-Opitz syndrome"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "associated_with",
+    "object": "Isolated cleft palate"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "associated_with",
+    "object": "Beckwith-Wiedemann syndrome"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "associated_with",
+    "object": "Chromosome 3 deletion"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "associated_with",
+    "object": "VACTERL association"
+  },
+  {
+    "subject": "Upper Airway Obstruction",
+    "relation": "has_cause",
+    "object": "Anatomical mid-face structural differences"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 gonosomal mosaicism"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "diagnosed_by",
+    "object": "trio-based whole-exome sequencing and Sanger sequencing"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "hypogonadotropic hypogonadism"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "digenic CHD7 and SMCHD1 mutations"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "idiopathic hypogonadotropic hypogonadism (IHH)"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "timely treatment"
+  },
+  {
+    "subject": "Cerebellar heterotopia",
+    "relation": "has_symptom",
+    "object": "language development delay"
+  },
+  {
+    "subject": "Cerebellar heterotopia",
+    "relation": "has_symptom",
+    "object": "behavioral problems"
+  },
+  {
+    "subject": "Cerebellar heterotopia",
+    "relation": "has_symptom",
+    "object": "motor difficulties"
+  },
+  {
+    "subject": "Cerebellar heterotopia",
+    "relation": "associated_with",
+    "object": "cerebellar dysgenesis"
+  },
+  {
+    "subject": "Cerebellar heterotopia",
+    "relation": "associated_with",
+    "object": "syndromic conditions"
+  },
+  {
+    "subject": "Cerebellar heterotopia",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Cerebellar heterotopia",
+    "relation": "associated_with",
+    "object": "cerebral malformations"
+  },
+  {
+    "subject": "Cerebellar heterotopia",
+    "relation": "has_cause",
+    "object": "genetic disruption"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "heterozygous mutations in the CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Severe combined immunodeficiency (SCID)"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "congenital athymia"
+  },
+  {
+    "subject": "CHARGE/complete DiGeorge syndrome",
+    "relation": "has_cause",
+    "object": "congenital athymia"
+  },
+  {
+    "subject": "athymic CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "hematopoietic cell transplantation (HCT)"
+  },
+  {
+    "subject": "athymic CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "cultured thymus tissue implantation (CTTI)"
+  },
+  {
+    "subject": "athymic CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "cardiopulmonary failure"
+  },
+  {
+    "subject": "athymic CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "significant infections"
+  },
+  {
+    "subject": "athymic CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "acute graft-versus-host disease"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "has_symptom",
+    "object": "Abnormal echocardiography findings"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "22q11.2 microdeletion syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "associated_with",
+    "object": "Williams syndrome"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "diagnosed_by",
+    "object": "Chromosomal microarray analysis"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "diagnosed_by",
+    "object": "Next-generation sequencing"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "has_cause",
+    "object": "Genetic causes"
+  },
+  {
+    "subject": "Anomalous origin of the brachiocephalic trunk from the pulmonary trunk",
+    "relation": "has_symptom",
+    "object": "Pulmonary hypertension"
+  },
+  {
+    "subject": "Anomalous origin of the brachiocephalic trunk from the pulmonary trunk",
+    "relation": "diagnosed_by",
+    "object": "CT angiography"
+  },
+  {
+    "subject": "Anomalous origin of the brachiocephalic trunk from the pulmonary trunk",
+    "relation": "treated_by",
+    "object": "Valvuloplasty"
+  },
+  {
+    "subject": "Anomalous origin of the brachiocephalic trunk from the pulmonary trunk",
+    "relation": "associated_with",
+    "object": "Congenital heart disease"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "has_symptom",
+    "object": "Respiratory complications"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "has_symptom",
+    "object": "Septic complications"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "has_symptom",
+    "object": "Multi-organ failure"
+  },
+  {
+    "subject": "Congenital heart disease",
+    "relation": "treated_by",
+    "object": "Multidisciplinary management"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Executive dysfunctions"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Deafblindness"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Auditory impairments"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Underdeveloped executive functions"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Neurogenetic factors"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Environmental factors"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "Interventions"
+  },
+  {
+    "subject": "Executive dysfunctions",
+    "relation": "treated_by",
+    "object": "Interventions"
+  },
+  {
+    "subject": "Refractory sialorrhea",
+    "relation": "has_symptom",
+    "object": "Pulmonary aspiration"
+  },
+  {
+    "subject": "Refractory sialorrhea",
+    "relation": "has_symptom",
+    "object": "Irreversible lung damage"
+  },
+  {
+    "subject": "Refractory sialorrhea",
+    "relation": "has_symptom",
+    "object": "Pulmonary inflammation"
+  },
+  {
+    "subject": "Refractory sialorrhea",
+    "relation": "treated_by",
+    "object": "DROOL procedure"
+  },
+  {
+    "subject": "Refractory sialorrhea",
+    "relation": "has_symptom",
+    "object": "Secretion management issues"
+  },
+  {
+    "subject": "Refractory sialorrhea",
+    "relation": "associated_with",
+    "object": "Respiratory illness"
+  },
+  {
+    "subject": "Refractory sialorrhea",
+    "relation": "associated_with",
+    "object": "Impaired secretion management"
+  },
+  {
+    "subject": "Deafblindness",
+    "relation": "has_symptom",
+    "object": "Communication difficulties"
+  },
+  {
+    "subject": "Deafblindness in siblings",
+    "relation": "has_symptom",
+    "object": "Feelings of neglect"
+  },
+  {
+    "subject": "Deafblindness in siblings",
+    "relation": "has_symptom",
+    "object": "Resentment"
+  },
+  {
+    "subject": "Deafblindness in siblings",
+    "relation": "has_symptom",
+    "object": "Embarrassment"
+  },
+  {
+    "subject": "Deafblindness in siblings",
+    "relation": "has_symptom",
+    "object": "Jealousy"
+  },
+  {
+    "subject": "Deafblindness in siblings",
+    "relation": "has_symptom",
+    "object": "Anxiety"
+  },
+  {
+    "subject": "Deafblindness in siblings",
+    "relation": "has_symptom",
+    "object": "Feelings of exclusion"
+  },
+  {
+    "subject": "Deafblindness in siblings",
+    "relation": "has_symptom",
+    "object": "Insecurity"
+  },
+  {
+    "subject": "Deafblindness in siblings",
+    "relation": "treated_by",
+    "object": "Interventions to improve psycho-emotional needs"
+  },
+  {
+    "subject": "Deafblindness in siblings",
+    "relation": "treated_by",
+    "object": "Promoting positive social interactions"
+  },
+  {
+    "subject": "Deafblindness",
+    "relation": "associated_with",
+    "object": "Psychological challenges in siblings"
+  },
+  {
+    "subject": "Deafblindness",
+    "relation": "associated_with",
+    "object": "Social challenges in siblings"
+  },
+  {
+    "subject": "Deafblindness",
+    "relation": "associated_with",
+    "object": "Significant responsibilities within the family"
+  },
+  {
+    "subject": "Deafblindness",
+    "relation": "associated_with",
+    "object": "Obstacles in forming relationships outside the family"
+  },
+  {
+    "subject": "Kallmann syndrome",
+    "relation": "has_symptom",
+    "object": "hypogonadotropic hypogonadism"
+  },
+  {
+    "subject": "Kallmann syndrome",
+    "relation": "has_symptom",
+    "object": "anosmia"
+  },
+  {
+    "subject": "Kallmann syndrome",
+    "relation": "has_symptom",
+    "object": "hyposmia"
+  },
+  {
+    "subject": "Kallmann syndrome",
+    "relation": "has_cause",
+    "object": "congenital defects in the development of GnRH and olfactory neurons"
+  },
+  {
+    "subject": "Kallmann syndrome",
+    "relation": "associated_with",
+    "object": "mutations in several genes"
+  },
+  {
+    "subject": "Kallmann syndrome",
+    "relation": "treated_by",
+    "object": "genetic diagnosis"
+  },
+  {
+    "subject": "hypogonadism",
+    "relation": "treated_by",
+    "object": "reversal treatment"
+  },
+  {
+    "subject": "Dental Pulp Cell Collection",
+    "relation": "has_problem",
+    "object": "Low Recovery Rates"
+  },
+  {
+    "subject": "Dental Pulp Cell Collection",
+    "relation": "has_problem",
+    "object": "Reduced Cell Survival"
+  },
+  {
+    "subject": "Dental Pulp Cell Collection",
+    "relation": "has_cause",
+    "object": "Enzymatic Digestion"
+  },
+  {
+    "subject": "SCIP Method",
+    "relation": "treated_by",
+    "object": "One-step Cultivation Process"
+  },
+  {
+    "subject": "SCIP Method",
+    "relation": "associated_with",
+    "object": "Regenerative Medicine Research"
+  },
+  {
+    "subject": "SCIP Method",
+    "relation": "associated_with",
+    "object": "Clinical Applications"
+  },
+  {
+    "subject": "Dental Pulp Cells",
+    "relation": "has_symptom",
+    "object": "Low Cell Yield"
+  },
+  {
+    "subject": "Dental Pulp Cells",
+    "relation": "has_treatment",
+    "object": "SCIP Method"
+  },
+  {
+    "subject": "Genetic Diseases",
+    "relation": "associated_with",
+    "object": "Dental Pulp Cells"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "retarded growth development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "genital hypoplasia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "visual defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "auditory defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "olfactory defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "delayed psychomotor development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "receptive communication disorders"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "expressive communication disorders"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "attention deficit"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "learning disabilities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 gene mutations"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "multidisciplinary care"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "molecular analysis"
+  },
+  {
+    "subject": "CHARGE",
+    "relation": "has_symptom",
+    "object": "Intellectual Disability"
+  },
+  {
+    "subject": "CHARGE",
+    "relation": "has_symptom",
+    "object": "Atypical Development"
+  },
+  {
+    "subject": "CHARGE",
+    "relation": "associated_with",
+    "object": "Global Cognition Issues"
+  },
+  {
+    "subject": "CHARGE",
+    "relation": "associated_with",
+    "object": "Adaptive Behavior Issues"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "diagnosed_by",
+    "object": "DSM-5 guidelines"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "assessed_by",
+    "object": "Wechsler Intelligence Scales"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "assessed_by",
+    "object": "Vineland Adaptive Behavioral Scale"
+  },
+  {
+    "subject": "CHARGE",
+    "relation": "has_cause",
+    "object": "Genetic factors"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Congenital heart diseases"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Feeding disorders"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Atrial septal defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Ventricular septal defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Tetralogy of Fallot"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Aortic abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Patent ductus arteriosus"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Genetic mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Congenital heart diseases"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "Cardiac surgery"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "fetal heart abnormality"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "left foot varus"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 gene mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "autosomal dominant disorder"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "multi-system disorder"
+  },
+  {
+    "subject": "Congenital heart defects",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Congenital heart defects",
+    "relation": "associated_with",
+    "object": "Syndromes"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "has_symptom",
+    "object": "Musculoskeletal anomalies"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "has_symptom",
+    "object": "Cardiovascular anomalies"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "has_symptom",
+    "object": "Central nervous system anomalies"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "associated_with",
+    "object": "Trisomy 13"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "associated_with",
+    "object": "Trisomy 18"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "associated_with",
+    "object": "Amniotic bands sequence"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "associated_with",
+    "object": "Oculo-auriculo-vertebral spectrum"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "associated_with",
+    "object": "VACTERL association"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "associated_with",
+    "object": "Multiple congenital anomalies"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "has_cause",
+    "object": "Chromosomal abnormalities"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "treated_by",
+    "object": "Genetic counselling"
+  },
+  {
+    "subject": "Anophthalmia and Microphthalmia",
+    "relation": "treated_by",
+    "object": "Routine screening for other anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "congenital anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "congenital hypogonadotropic hypogonadism"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "combined pituitary hormone deficiency"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "mild intellectual disability"
+  },
+  {
+    "subject": "Combined Pituitary Hormone Deficiency",
+    "relation": "has_symptom",
+    "object": "primary amenorrhea"
+  },
+  {
+    "subject": "Combined Pituitary Hormone Deficiency",
+    "relation": "has_symptom",
+    "object": "growth hormone deficiency"
+  },
+  {
+    "subject": "Combined Pituitary Hormone Deficiency",
+    "relation": "has_symptom",
+    "object": "central hypothyroidism"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 mutation"
+  },
+  {
+    "subject": "Combined Pituitary Hormone Deficiency",
+    "relation": "has_cause",
+    "object": "CHD7 mutation"
+  },
+  {
+    "subject": "Isolated Hypogonadotropic Hypogonadism",
+    "relation": "has_cause",
+    "object": "CHD7 mutation"
+  },
+  {
+    "subject": "CHD7 mutation",
+    "relation": "associated_with",
+    "object": "CHD7-associated syndrome"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7-associated syndrome"
+  },
+  {
+    "subject": "Combined Pituitary Hormone Deficiency",
+    "relation": "associated_with",
+    "object": "CHD7-associated syndrome"
+  },
+  {
+    "subject": "External Ear Malformations",
+    "relation": "associated_with",
+    "object": "cardiac anomalies"
+  },
+  {
+    "subject": "External Ear Malformations",
+    "relation": "associated_with",
+    "object": "renal anomalies"
+  },
+  {
+    "subject": "External Ear Malformations",
+    "relation": "has_symptom",
+    "object": "VSD"
+  },
+  {
+    "subject": "External Ear Malformations",
+    "relation": "has_symptom",
+    "object": "renal agenesis"
+  },
+  {
+    "subject": "External Ear Malformations",
+    "relation": "treated_by",
+    "object": "thorough clinical evaluations"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "oxygen desaturations"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "decreased respiratory rates"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "heart rate abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "mutations in CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Central congenital hypoventilation syndrome (CCHS)"
+  },
+  {
+    "subject": "Central congenital hypoventilation syndrome (CCHS)",
+    "relation": "has_symptom",
+    "object": "hypoventilation during sleep"
+  },
+  {
+    "subject": "Central congenital hypoventilation syndrome (CCHS)",
+    "relation": "has_cause",
+    "object": "Loss of PHOX2B"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "multiple surgeries"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "anesthesia"
+  },
+  {
+    "subject": "Complete isolation of the left innominate artery",
+    "relation": "has_symptom",
+    "object": "Unknown/Not specified"
+  },
+  {
+    "subject": "Complete isolation of the left innominate artery",
+    "relation": "treated_by",
+    "object": "Transcatheter approach"
+  },
+  {
+    "subject": "Complete isolation of the left innominate artery",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Atresia choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Growth retardation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Genital abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Ear abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Unknown/Not specified"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Atresia of choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Retardation of growth and development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Genital hypoplasia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Ear anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Strabismus"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Nystagmus"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Microphthalmia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Iris coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Facial nerve palsy"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Decreased visual acuity"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Myopic refractive error"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Reduced contrast sensitivity"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Deaf-blindness"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "Optometric evaluation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "Multidisciplinary management"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "Habilitative management"
+  },
+  {
+    "subject": "Developmental Delays and Syndromes",
+    "relation": "has_symptom",
+    "object": "Low Social Quotient"
+  },
+  {
+    "subject": "Developmental Delays and Syndromes",
+    "relation": "has_symptom",
+    "object": "Inner Ear Anomalies"
+  },
+  {
+    "subject": "Developmental Delays and Syndromes",
+    "relation": "treated_by",
+    "object": "Cochlear Implantation"
+  },
+  {
+    "subject": "Developmental Delays and Syndromes",
+    "relation": "associated_with",
+    "object": "Additional Needs"
+  },
+  {
+    "subject": "Developmental Delays and Syndromes",
+    "relation": "associated_with",
+    "object": "Low Intellectual Capacity"
+  },
+  {
+    "subject": "Hearing Loss",
+    "relation": "treated_by",
+    "object": "Cochlear Implantation"
+  },
+  {
+    "subject": "Low Social Quotient",
+    "relation": "has_cause",
+    "object": "Developmental Delays and Syndromes"
+  },
+  {
+    "subject": "Chromatinopathies",
+    "relation": "has_symptom",
+    "object": "diverse clinical presentations"
+  },
+  {
+    "subject": "Chromatinopathies",
+    "relation": "has_cause",
+    "object": "germline mutations in epigenes"
+  },
+  {
+    "subject": "Chromatinopathies",
+    "relation": "associated_with",
+    "object": "human developmental disorders"
+  },
+  {
+    "subject": "Chromatinopathies",
+    "relation": "associated_with",
+    "object": "Cornelia de Lange syndrome"
+  },
+  {
+    "subject": "Chromatinopathies",
+    "relation": "treated_by",
+    "object": "targeted therapies tailored to the underlying epigenetic dysregulation"
+  },
+  {
+    "subject": "Chromatinopathies",
+    "relation": "treated_by",
+    "object": "novel treatment options"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Coloboma of the eye"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Atresia choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Retardation of growth and/or development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Genital abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Ear abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Mutation in CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Oligodendrocyte migration issues"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Myelination issues"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "choanal atresia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "genital abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "retarded growth"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "ear malformation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "orofacial cleft"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "distinctive facial appearance"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "tracheoesophageal fistula"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "limb abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "immune deficiencies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "vision loss"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "gastrointestinal problems"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "abnormal semicircular canals"
+  },
+  {
+    "subject": "Keratosis pilaris",
+    "relation": "has_symptom",
+    "object": "keratotic follicular papules"
+  },
+  {
+    "subject": "Keratosis pilaris",
+    "relation": "has_symptom",
+    "object": "perifollicular erythema"
+  },
+  {
+    "subject": "Keratosis pilaris",
+    "relation": "has_cause",
+    "object": "testosterone injections"
+  },
+  {
+    "subject": "Keratosis pilaris",
+    "relation": "associated_with",
+    "object": "atopic dermatitis"
+  },
+  {
+    "subject": "Keratosis pilaris",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_symptom",
+    "object": "Ocular abnormalities"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_symptom",
+    "object": "Coloboma"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_symptom",
+    "object": "Microphthalmia"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_symptom",
+    "object": "Optic disc anomalies"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_symptom",
+    "object": "Refraction errors"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_symptom",
+    "object": "Astigmatism"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_symptom",
+    "object": "Myopia"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_symptom",
+    "object": "Hypermetropia"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_symptom",
+    "object": "Cataract"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_symptom",
+    "object": "Kidney failure"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "has_cause",
+    "object": "Genetic basis"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "associated_with",
+    "object": "Ocular anomalies"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "treated_by",
+    "object": "Ophthalmic review"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "treated_by",
+    "object": "Monitoring"
+  },
+  {
+    "subject": "Congenital anomalies of the kidney and urinary tract (CAKUT)",
+    "relation": "treated_by",
+    "object": "Treatment to preserve vision"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Coloboma of the eye"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Atresia of the choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Retardation of growth"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Genital anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Ear abnormalities"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Motor coordination deficits"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Executive dysfunction"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Brain hypoplasia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "White matter integrity defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in the gene encoding CHD7"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Autism spectrum disorder"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental disorders"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "has_symptom",
+    "object": "social impairment"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "has_symptom",
+    "object": "repetitive behaviors"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "has_symptom",
+    "object": "restricted interests"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_diagnostic_test",
+    "object": "NGS gene panel"
+  },
+  {
+    "subject": "Cornelia de Lange syndrome",
+    "relation": "has_diagnostic_test",
+    "object": "NGS gene panel"
+  },
+  {
+    "subject": "Treacher Collins syndrome",
+    "relation": "has_diagnostic_test",
+    "object": "NGS gene panel"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_diagnostic_test",
+    "object": "NGS gene panel"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "diagnosed_by",
+    "object": "NGS gene panel"
+  },
+  {
+    "subject": "Rare genetic disorders",
+    "relation": "has_management",
+    "object": "Improved patient management"
+  },
+  {
+    "subject": "Rare genetic disorders",
+    "relation": "has_prognosis",
+    "object": "Improved prognosis"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "treated_by",
+    "object": "Genetic diagnostic services"
+  },
+  {
+    "subject": "Rare monogenic disorders",
+    "relation": "diagnosed_by",
+    "object": "Molecular diagnosis"
+  },
+  {
+    "subject": "Bilateral Congenital Choanal Atresia",
+    "relation": "has_symptom",
+    "object": "Cyanosis"
+  },
+  {
+    "subject": "Bilateral Congenital Choanal Atresia",
+    "relation": "has_symptom",
+    "object": "Breathing difficulties"
+  },
+  {
+    "subject": "Bilateral Congenital Choanal Atresia",
+    "relation": "has_symptom",
+    "object": "Respiratory distress"
+  },
+  {
+    "subject": "Bilateral Congenital Choanal Atresia",
+    "relation": "treated_by",
+    "object": "Endoscopic transnasal surgery"
+  },
+  {
+    "subject": "Bilateral Congenital Choanal Atresia",
+    "relation": "treated_by",
+    "object": "Stent placement"
+  },
+  {
+    "subject": "Bilateral Congenital Choanal Atresia",
+    "relation": "has_cause",
+    "object": "Obstruction of the posterior nasal airway"
+  },
+  {
+    "subject": "Bilateral Congenital Choanal Atresia",
+    "relation": "associated_with",
+    "object": "Restenosis"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "mild intellectual disability"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "myopia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "astigmatism"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "laryngotracheal malacia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "hypogonadism"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "clival hypoplasia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "inner ear malformation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "heterozygous variants in the CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "patent ductus arteriosus"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "acute myelogenous leukemia"
+  },
+  {
+    "subject": "Truncus arteriosus",
+    "relation": "associated_with",
+    "object": "22q11.2 deletion syndrome"
+  },
+  {
+    "subject": "Truncus arteriosus",
+    "relation": "has_cause",
+    "object": "Variants in genes encoding TBX, GATA, and NKX transcription factors"
+  },
+  {
+    "subject": "Truncus arteriosus",
+    "relation": "has_cause",
+    "object": "Variants in genes encoding some signaling proteins"
+  },
+  {
+    "subject": "Truncus arteriosus",
+    "relation": "associated_with",
+    "object": "Other congenital malformation syndromes"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "coloboma"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "heart defects"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "atresia of choanae"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "retardation of growth and/or development"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "drug screening"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 c.2939 T > C mutation"
+  },
+  {
+    "subject": "Congenital deafness",
+    "relation": "has_symptom",
+    "object": "Vestibular disorders"
+  },
+  {
+    "subject": "Congenital deafness",
+    "relation": "has_symptom",
+    "object": "Vertigo"
+  },
+  {
+    "subject": "Congenital deafness",
+    "relation": "has_symptom",
+    "object": "Balance disorders"
+  },
+  {
+    "subject": "Congenital deafness",
+    "relation": "has_cause",
+    "object": "Congenital abnormalities"
+  },
+  {
+    "subject": "Congenital deafness",
+    "relation": "has_cause",
+    "object": "Perinatal infectious diseases"
+  },
+  {
+    "subject": "Congenital deafness",
+    "relation": "has_cause",
+    "object": "Genetic syndromes"
+  },
+  {
+    "subject": "Congenital deafness",
+    "relation": "associated_with",
+    "object": "Pathological vestibular system"
+  },
+  {
+    "subject": "Congenital deafness",
+    "relation": "treated_by",
+    "object": "Personalized therapies"
+  },
+  {
+    "subject": "Congenital deafness",
+    "relation": "treated_by",
+    "object": "Precision medicine approaches"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Cochlear hypoplasia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Absent or markedly hypoplastic semicircular canals"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Small, misshapen vestibules"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Stenotic cochlear aperture"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 gene mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "Surgical treatment"
+  },
+  {
+    "subject": "Cochlear hypoplasia",
+    "relation": "associated_with",
+    "object": "Hypoplastic or absent cochlear nerve"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variant in CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "de novo mutations"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "unilateral external ear malformation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "bilateral semicircular canal aplasia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "polydactyly"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "vertebral body fusion"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "heart defect"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "unilateral sensorineural hearing impairment"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "unilateral mandibular palpebral synkinesia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "orofacial cleft"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "dysphagia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic CHD7 variant"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "noncanonical intronic CHD7 variant"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "diagnosed_by",
+    "object": "detection of a pathogenic CHD7 variant"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 variant"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Syndromic ears"
+  },
+  {
+    "subject": "MFDGA syndrome",
+    "relation": "has_symptom",
+    "object": "Syndromic ears"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Genetic factors"
+  },
+  {
+    "subject": "MFDGA syndrome",
+    "relation": "has_cause",
+    "object": "Genetic factors"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "MFDGA syndrome"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Cleft palate"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Cleft lip"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Cardiac anomalies"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "Feeding difficulties"
+  },
+  {
+    "subject": "Cleft palate",
+    "relation": "treated_by",
+    "object": "Cleft repair surgery"
+  },
+  {
+    "subject": "Cleft lip",
+    "relation": "treated_by",
+    "object": "Lip repair surgery"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "CHD7 mutation"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Severe systemic disease"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "Complex medical problems"
+  },
+  {
+    "subject": "Cleft palate and/or lip",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Tetralogy of Fallot",
+    "relation": "has_cause",
+    "object": "genetic alterations"
+  },
+  {
+    "subject": "Tetralogy of Fallot",
+    "relation": "has_cause",
+    "object": "chromosomal abnormalities"
+  },
+  {
+    "subject": "Tetralogy of Fallot",
+    "relation": "has_cause",
+    "object": "mutations in NKX2-5"
+  },
+  {
+    "subject": "Tetralogy of Fallot",
+    "relation": "has_cause",
+    "object": "mutations in GATA4"
+  },
+  {
+    "subject": "Tetralogy of Fallot",
+    "relation": "has_cause",
+    "object": "mutations in HAND2"
+  },
+  {
+    "subject": "Tetralogy of Fallot",
+    "relation": "associated_with",
+    "object": "Holt-Oram syndrome"
+  },
+  {
+    "subject": "Tetralogy of Fallot",
+    "relation": "associated_with",
+    "object": "DiGeorge syndrome"
+  },
+  {
+    "subject": "Tetralogy of Fallot",
+    "relation": "associated_with",
+    "object": "multiorgan syndromes"
+  },
+  {
+    "subject": "Double-outlet right ventricle",
+    "relation": "has_cause",
+    "object": "genetic alterations"
+  },
+  {
+    "subject": "Double-outlet right ventricle",
+    "relation": "has_cause",
+    "object": "chromosomal abnormalities"
+  },
+  {
+    "subject": "Double-outlet right ventricle",
+    "relation": "associated_with",
+    "object": "multiorgan syndromes"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "has_symptom",
+    "object": "Low vision"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "has_symptom",
+    "object": "Headache"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "has_cause",
+    "object": "Incomplete closure of the embryonic fissure of the choroid part of eye"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "associated_with",
+    "object": "High intraocular pressure"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "associated_with",
+    "object": "Refractive error"
+  },
+  {
+    "subject": "High intraocular pressure",
+    "relation": "treated_by",
+    "object": "Anti-glaucoma drops"
+  },
+  {
+    "subject": "Refractive error",
+    "relation": "treated_by",
+    "object": "Glasses"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "treated_by",
+    "object": "Anti-glaucoma drops"
+  },
+  {
+    "subject": "Coloboma",
+    "relation": "treated_by",
+    "object": "Glasses"
+  },
+  {
+    "subject": "Atrial Septal Defects",
+    "relation": "has_symptom",
+    "object": "Developmental Delay"
+  },
+  {
+    "subject": "Atrial Septal Defects",
+    "relation": "has_cause",
+    "object": "Genetic Alterations"
+  },
+  {
+    "subject": "Atrial Septal Defects",
+    "relation": "associated_with",
+    "object": "Syndromes"
+  },
+  {
+    "subject": "Atrial Septal Defects",
+    "relation": "associated_with",
+    "object": "Extracardiac Abnormalities"
+  },
+  {
+    "subject": "Atrial Septal Defects",
+    "relation": "has_cause",
+    "object": "Dysregulation of Cardiomyogenesis"
+  },
+  {
+    "subject": "Congenital cardiac outflow malformations",
+    "relation": "has_cause",
+    "object": "Genetic insults"
+  },
+  {
+    "subject": "Congenital cardiac outflow malformations",
+    "relation": "has_cause",
+    "object": "Environmental insults"
+  },
+  {
+    "subject": "Congenital cardiac outflow malformations",
+    "relation": "associated_with",
+    "object": "Perturbation in caudal pharynx"
+  },
+  {
+    "subject": "Congenital cardiac outflow malformations",
+    "relation": "associated_with",
+    "object": "Perturbation in outflow tract"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "Heterozygous mutation of CHD7 gene"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 gene expression in brain"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 gene expression in eye"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "CHD7 gene expression in intestinal stem cells"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "has_symptom",
+    "object": "patent ductus arteriosus"
+  },
+  {
+    "subject": "VACTERL association",
+    "relation": "associated_with",
+    "object": "adult presentations"
+  },
+  {
+    "subject": "46,XY disorders of sex development",
+    "relation": "has_symptom",
+    "object": "incomplete masculinization of genitalia"
+  },
+  {
+    "subject": "46,XY disorders of sex development",
+    "relation": "has_symptom",
+    "object": "reduced androgenization"
+  },
+  {
+    "subject": "46,XY disorders of sex development",
+    "relation": "has_symptom",
+    "object": "atypical phenotypes"
+  },
+  {
+    "subject": "46,XY disorders of sex development",
+    "relation": "treated_by",
+    "object": "targeted next-generation sequencing"
+  },
+  {
+    "subject": "46,XY disorders of sex development",
+    "relation": "has_cause",
+    "object": "genetic variants"
+  },
+  {
+    "subject": "46,XY disorders of sex development",
+    "relation": "associated_with",
+    "object": "variants of uncertain significance"
+  },
+  {
+    "subject": "46,XY disorders of sex development",
+    "relation": "associated_with",
+    "object": "oligogenic variants"
+  },
+  {
+    "subject": "46,XY disorders of sex development",
+    "relation": "associated_with",
+    "object": "mutations in SRD5A2, AR, FGFR1, LHCGR, NR5A1, CHD7"
+  },
+  {
+    "subject": "Enlargement of the endolymphatic sac, duct, and vestibular aqueduct (EVA)",
+    "relation": "has_symptom",
+    "object": "sensorineural hearing loss"
+  },
+  {
+    "subject": "Enlargement of the endolymphatic sac, duct, and vestibular aqueduct (EVA)",
+    "relation": "associated_with",
+    "object": "pathogenic variants in SLC26A4"
+  },
+  {
+    "subject": "Enlargement of the endolymphatic sac, duct, and vestibular aqueduct (EVA)",
+    "relation": "has_cause",
+    "object": "CHD7 variants"
+  },
+  {
+    "subject": "Enlargement of the endolymphatic sac, duct, and vestibular aqueduct (EVA)",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "pathogenic variants in CHD7"
+  },
+  {
+    "subject": "Enlargement of the endolymphatic sac, duct, and vestibular aqueduct (EVA)",
+    "relation": "treated_by",
+    "object": "DNA sequence analyses to detect pathogenic variants"
+  },
+  {
+    "subject": "sensorineural hearing loss",
+    "relation": "has_cause",
+    "object": "CHD7 variants"
+  },
+  {
+    "subject": "sensorineural hearing loss",
+    "relation": "has_cause",
+    "object": "pathogenic variants in SLC26A4"
+  },
+  {
+    "subject": "Hypoplastic left heart syndrome",
+    "relation": "has_symptom",
+    "object": "Hypoplasia of the left ventricle"
+  },
+  {
+    "subject": "Hypoplastic left heart syndrome",
+    "relation": "has_symptom",
+    "object": "Atresia or stenosis of aortic and mitral valves"
+  },
+  {
+    "subject": "Hypoplastic left heart syndrome",
+    "relation": "has_cause",
+    "object": "Genetic origins"
+  },
+  {
+    "subject": "Hypoplastic left heart syndrome",
+    "relation": "associated_with",
+    "object": "Cytogenetic abnormalities"
+  },
+  {
+    "subject": "Hypoplastic left heart syndrome",
+    "relation": "associated_with",
+    "object": "Turner syndrome"
+  },
+  {
+    "subject": "Hypoplastic left heart syndrome",
+    "relation": "treated_by",
+    "object": "Surgical management"
+  },
+  {
+    "subject": "Hypoplastic left heart syndrome",
+    "relation": "associated_with",
+    "object": "Related cardiovascular malformations"
+  },
+  {
+    "subject": "Congenital Sensorineural Hearing Loss",
+    "relation": "has_symptom",
+    "object": "Hearing Loss"
+  },
+  {
+    "subject": "Congenital Sensorineural Hearing Loss",
+    "relation": "has_cause",
+    "object": "Congenital Cochleovestibular Malformations"
+  },
+  {
+    "subject": "Congenital Sensorineural Hearing Loss",
+    "relation": "associated_with",
+    "object": "Labyrinthine Aplasia"
+  },
+  {
+    "subject": "Congenital Sensorineural Hearing Loss",
+    "relation": "associated_with",
+    "object": "Isolated Large Vestibular Aqueducts"
+  },
+  {
+    "subject": "Congenital Sensorineural Hearing Loss",
+    "relation": "associated_with",
+    "object": "Incomplete Partitions"
+  },
+  {
+    "subject": "Congenital Sensorineural Hearing Loss",
+    "relation": "associated_with",
+    "object": "Cochlear Hypoplasia"
+  },
+  {
+    "subject": "Congenital Sensorineural Hearing Loss",
+    "relation": "treated_by",
+    "object": "Cochlear Implantation"
+  },
+  {
+    "subject": "Congenital unilateral renal agenesis",
+    "relation": "has_cause",
+    "object": "CHD7 gene variant"
+  },
+  {
+    "subject": "Congenital unilateral renal agenesis",
+    "relation": "has_cause",
+    "object": "PROKR2 gene variant"
+  },
+  {
+    "subject": "Congenital unilateral renal agenesis",
+    "relation": "associated_with",
+    "object": "Idiopathic hypogonadotropic hypogonadism"
+  },
+  {
+    "subject": "Congenital unilateral renal agenesis",
+    "relation": "associated_with",
+    "object": "CHARGE syndrome"
+  },
+  {
+    "subject": "Renal Ectopy",
+    "relation": "has_cause",
+    "object": "NRIP1 gene variant"
+  },
+  {
+    "subject": "Congenital anomalies of the kidneys and urinary tract",
+    "relation": "has_cause",
+    "object": "NRIP1 gene variant"
+  },
+  {
+    "subject": "Congenital unilateral renal agenesis",
+    "relation": "diagnosed_by",
+    "object": "Postnatal renal ultrasound examination"
+  },
+  {
+    "subject": "Congenital unilateral renal agenesis",
+    "relation": "treated_by",
+    "object": "Genetic counseling"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "weak sucking"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "poor coordination between breathing and swallowing"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "tube feeding dependence"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "dysphagia"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "aspiration"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "feeding problems"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_symptom",
+    "object": "swallowing dysfunction"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "treated_by",
+    "object": "prolonged oral-motor treatments with speech language therapists"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "structural problems in the mouth, throat, or esophagus"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "has_cause",
+    "object": "neurological impairment"
+  },
+  {
+    "subject": "CHARGE syndrome",
+    "relation": "associated_with",
+    "object": "feeding and swallowing disorders"
+  }
+]

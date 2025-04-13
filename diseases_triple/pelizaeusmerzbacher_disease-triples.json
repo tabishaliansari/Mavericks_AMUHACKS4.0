@@ -1,0 +1,3552 @@
+[
+  {
+    "subject": "Hereditary Spastic Paraplegia",
+    "relation": "has_symptom",
+    "object": "Spastic Paraplegia"
+  },
+  {
+    "subject": "Hereditary Spastic Paraplegia",
+    "relation": "has_symptom",
+    "object": "Neurodegenerative Conditions"
+  },
+  {
+    "subject": "Hereditary Spastic Paraplegia",
+    "relation": "has_symptom",
+    "object": "Decline in Neurocognitive Functions"
+  },
+  {
+    "subject": "Hereditary Spastic Paraplegia",
+    "relation": "has_cause",
+    "object": "Copy Number Variant (CNV) loss in PLP1 gene"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Variants in PLP1 gene"
+  },
+  {
+    "subject": "Hereditary Spastic Paraplegia",
+    "relation": "associated_with",
+    "object": "Variants in PLP1 gene"
+  },
+  {
+    "subject": "Hypomyelination disorders",
+    "relation": "associated_with",
+    "object": "Variants in PLP1 gene"
+  },
+  {
+    "subject": "Hereditary Spastic Paraplegia",
+    "relation": "treated_by",
+    "object": "Molecular Genetic Assays"
+  },
+  {
+    "subject": "Hereditary Spastic Paraplegia",
+    "relation": "treated_by",
+    "object": "Whole Exome Sequencing (WES)"
+  },
+  {
+    "subject": "Hereditary Spastic Paraplegia",
+    "relation": "treated_by",
+    "object": "Whole Genome Sequencing (WGS)"
+  },
+  {
+    "subject": "Hereditary Spastic Paraplegia",
+    "relation": "treated_by",
+    "object": "PCR amplification with fragment analysis on gel electrophoresis"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "spastic paraparesis"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "optic atrophy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "dysphagia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "appendicular ataxia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "progressive head tremor"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 variant NM_000533.5:c.62 C > T"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "hypomyelination"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "diffuse white matter hyperintensity"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "atrophy of the corpus callosum"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "atrophy of the cerebellum"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophy Type 1 (HLD1)",
+    "relation": "has_cause",
+    "object": "Incomplete or defective oligodendroglial cell myelin sheath formation"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophy Type 1 (HLD1)",
+    "relation": "has_cause",
+    "object": "ER stress"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophy Type 1 (HLD1)",
+    "relation": "has_cause",
+    "object": "Unfolded protein response (UPR)"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophy Type 1 (HLD1)",
+    "relation": "associated_with",
+    "object": "Proteolipid protein 1 (PLP1) gene mutation"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophy Type 1 (HLD1)",
+    "relation": "treated_by",
+    "object": "Rab7B knockdown"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophy Type 1 (HLD1)",
+    "relation": "treated_by",
+    "object": "CRISPR-CasRx system-mediated Rab7B knockdown"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophy Type 1 (HLD1)",
+    "relation": "has_symptom",
+    "object": "Incomplete cell shapes"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophy Type 1 (HLD1)",
+    "relation": "has_symptom",
+    "object": "Defective oligodendroglial cell morphological differentiation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "audiological deficit"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "abnormal auditory brainstem response"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "delayed latencies in cervical vestibular evoked myogenic potential"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "X-linked recessive inheritance"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "audiological evaluation"
+  },
+  {
+    "subject": "18q chromosomal abnormalities",
+    "relation": "has_symptom",
+    "object": "delayed myelination"
+  },
+  {
+    "subject": "18q chromosomal abnormalities",
+    "relation": "has_symptom",
+    "object": "white matter changes"
+  },
+  {
+    "subject": "18q chromosomal abnormalities",
+    "relation": "has_symptom",
+    "object": "structural abnormalities of the pons"
+  },
+  {
+    "subject": "18q chromosomal abnormalities",
+    "relation": "has_symptom",
+    "object": "structural abnormalities of the cerebellum"
+  },
+  {
+    "subject": "18q chromosomal abnormalities",
+    "relation": "has_cause",
+    "object": "chromosome 18 abnormalities"
+  },
+  {
+    "subject": "18q chromosomal abnormalities",
+    "relation": "associated_with",
+    "object": "Pelizaeus-Merzbacher disease-like pattern"
+  },
+  {
+    "subject": "Ring chromosome 18",
+    "relation": "has_symptom",
+    "object": "multifocal white matter changes"
+  },
+  {
+    "subject": "Ring chromosome 18",
+    "relation": "has_symptom",
+    "object": "myelination lag"
+  },
+  {
+    "subject": "Trisomy 18",
+    "relation": "has_symptom",
+    "object": "smaller pons dimensions"
+  },
+  {
+    "subject": "Trisomy 18",
+    "relation": "has_symptom",
+    "object": "smaller cerebellar dimensions"
+  },
+  {
+    "subject": "18q deletion",
+    "relation": "associated_with",
+    "object": "18q chromosomal abnormalities"
+  },
+  {
+    "subject": "Trisomy 18",
+    "relation": "associated_with",
+    "object": "18q chromosomal abnormalities"
+  },
+  {
+    "subject": "Ring chromosome 18",
+    "relation": "associated_with",
+    "object": "18q chromosomal abnormalities"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "mutations in the proteolipid protein 1 (PLP1) gene"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "severe white matter deficits"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "PLP1 suppression"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "cell transplantation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "iron chelation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "intracellular stress modulation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "symptomatic treatments"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "white matter degeneration"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "mutations affecting glial cells"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "pathologic gene expressions"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "genetic neurologic disorders"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "targeted therapeutic strategies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "astroglial leukodystrophies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "oligodendroglial leukodystrophies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "microglial leukodystrophies"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "myelin deficit"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "myelination deficiency"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "myelin-modulating therapies"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "hypomyelinating leukodystrophy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "leukodystrophy"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "has_symptom",
+    "object": "neurologic symptoms"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "hemizygous pathogenic variants in the PLP1 gene"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "has_cause",
+    "object": "biallelic pathogenic variants in the GJC2 gene"
+  },
+  {
+    "subject": "POLR3-related leukodystrophy",
+    "relation": "has_cause",
+    "object": "biallelic pathogenic variants in genes encoding specific subunits of RNA polymerase III"
+  },
+  {
+    "subject": "POLR3-related leukodystrophy",
+    "relation": "associated_with",
+    "object": "hypomyelination"
+  },
+  {
+    "subject": "POLR3-related leukodystrophy",
+    "relation": "associated_with",
+    "object": "hypodontia"
+  },
+  {
+    "subject": "POLR3-related leukodystrophy",
+    "relation": "associated_with",
+    "object": "hypogonadotropic hypogonadism"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "treated_by",
+    "object": "supportive therapies"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "treated_by",
+    "object": "future therapies"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "MRI patterns"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Pelizeaus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "gross motor dysfunction"
+  },
+  {
+    "subject": "Pelizeaus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "functional disability"
+  },
+  {
+    "subject": "Pelizeaus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "curcumin"
+  },
+  {
+    "subject": "Pelizeaus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "Genetic alterations in the PLP1 gene"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "Point mutations"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 duplications"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 variant in codon 33"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "Amino acid change from cysteine to tyrosine"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "Bioengineered neuronal organoids (BENOs)"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Demyelinating disease"
+  },
+  {
+    "subject": "inherited syndromes",
+    "relation": "has_cause",
+    "object": "ODIRA"
+  },
+  {
+    "subject": "cancers",
+    "relation": "associated_with",
+    "object": "palindromes"
+  },
+  {
+    "subject": "inherited syndromes",
+    "relation": "has_cause",
+    "object": "inverted triplication"
+  },
+  {
+    "subject": "inverted structural variants",
+    "relation": "has_cause",
+    "object": "secondary rearrangement of palindromes"
+  },
+  {
+    "subject": "complex architectures",
+    "relation": "has_cause",
+    "object": "aberrant forms of DNA replication"
+  },
+  {
+    "subject": "complex architectures",
+    "relation": "has_cause",
+    "object": "non-allelic homologous recombination"
+  },
+  {
+    "subject": "complex architectures",
+    "relation": "has_cause",
+    "object": "DNA breaks"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "seizure-like activity"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "stridor"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "mutation on the X chromosome"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "tracheostomy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "gastrostomy tube"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "neurological issues"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Cerebral lesions"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Demyelinating patterns"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Follow up imaging strategy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Genetics"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "MRI"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "Blood work"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "Emerging diagnostics"
+  },
+  {
+    "subject": "X-linked adrenoleukodystrophy",
+    "relation": "is_a",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "is_a",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Krabbe’s disease",
+    "relation": "is_a",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "is_a",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Alexander’s disease",
+    "relation": "is_a",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "is_a",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Aicardi-Goutières Syndrome",
+    "relation": "is_a",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "Mitochondrial malfunction"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "Mitochondrial DNA mutations"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "Reactive oxygen species"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "associated_with",
+    "object": "Mitochondrial defects"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "Mitochondria-specific antioxidants"
+  },
+  {
+    "subject": "Alzheimer's",
+    "relation": "associated_with",
+    "object": "Mitochondrial defects"
+  },
+  {
+    "subject": "Parkinson's",
+    "relation": "associated_with",
+    "object": "Mitochondrial defects"
+  },
+  {
+    "subject": "Huntington's",
+    "relation": "associated_with",
+    "object": "Mitochondrial defects"
+  },
+  {
+    "subject": "Amyotrophic lateral sclerosis",
+    "relation": "associated_with",
+    "object": "Mitochondrial defects"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Mitochondrial defects"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "spastic paresis"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "mutations at the level of proteolipid protein 1 (PLP1) gene"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "spastic paraplegia type 2 (SPG2)"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "hypomyelinating leukodystrophies (HLD)"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Pelizaeus-Merzbacher-Like disease (PMLD)"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-Like disease (PMLD)",
+    "relation": "has_cause",
+    "object": "mutation at the level of GJC2 gene"
+  },
+  {
+    "subject": "PLP-1 null syndrome",
+    "relation": "has_cause",
+    "object": "causative mutation leading to peripheral nervous system demyelination"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "progressive disorder"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "Single gene disorders"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "X-linked adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Globoid cell leukodystrophy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Giant axonal neuropathy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Gene therapy",
+    "relation": "associated_with",
+    "object": "Genotoxicity"
+  },
+  {
+    "subject": "Gene therapy",
+    "relation": "associated_with",
+    "object": "Immunotoxicity"
+  },
+  {
+    "subject": "Gene therapy",
+    "relation": "associated_with",
+    "object": "Insertional mutagenesis"
+  },
+  {
+    "subject": "Gene therapy",
+    "relation": "associated_with",
+    "object": "Immune responses"
+  },
+  {
+    "subject": "Pelizaeus Merzbacher disease",
+    "relation": "associated_with",
+    "object": "PLP1 gene duplications"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "deficits in gross and fine motor skills"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "speech and communication deficits"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "difficulty crawling"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "difficulty standing"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "difficulty walking"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "constipation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "difficulty with sleep"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "manual dexterity issues"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "improved mobility treatment"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "improved communication treatment"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "central nervous system hypomyelination"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "X-linked genetic mutation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "motor impairment"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "delays in motor development"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "delays in language development"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 gene duplication"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "PLP1-related disorders"
+  },
+  {
+    "subject": "Autosomal dominant adult-onset demyelinating leukodystrophy",
+    "relation": "has_cause",
+    "object": "Duplications or noncoding deletions in the LMNB1 locus"
+  },
+  {
+    "subject": "Autosomal dominant adult-onset demyelinating leukodystrophy",
+    "relation": "associated_with",
+    "object": "Structural variants in the LMNB1 locus"
+  },
+  {
+    "subject": "Autosomal dominant adult-onset demyelinating leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Demyelination"
+  },
+  {
+    "subject": "Autosomal dominant adult-onset demyelinating leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Clinical variability"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher",
+    "relation": "has_cause",
+    "object": "PLP1"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher",
+    "relation": "associated_with",
+    "object": "demyelinating diseases"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher",
+    "relation": "has_symptom",
+    "object": "demyelination"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "endoplasmic reticulum stress"
+  },
+  {
+    "subject": "hypomyelinating leukodystrophy type 1",
+    "relation": "has_cause",
+    "object": "endoplasmic reticulum stress"
+  },
+  {
+    "subject": "hypomyelinating leukodystrophy type 1",
+    "relation": "has_cause",
+    "object": "PLP1 mutant protein"
+  },
+  {
+    "subject": "oligodendroglial cell diseases",
+    "relation": "has_cause",
+    "object": "endoplasmic reticulum stress"
+  },
+  {
+    "subject": "hypomyelinating leukodystrophy type 1",
+    "relation": "associated_with",
+    "object": "PLP1 mutant protein"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "hypomyelinating leukodystrophy type 1"
+  },
+  {
+    "subject": "Rab9",
+    "relation": "treated_by",
+    "object": "knockdown"
+  },
+  {
+    "subject": "hypomyelinating leukodystrophy type 1",
+    "relation": "treated_by",
+    "object": "Rab9 knockdown"
+  },
+  {
+    "subject": "oligodendroglial cell diseases",
+    "relation": "has_symptom",
+    "object": "defective cell morphological changes"
+  },
+  {
+    "subject": "hypomyelinating leukodystrophy type 1",
+    "relation": "has_symptom",
+    "object": "defective cell morphological changes"
+  },
+  {
+    "subject": "oligodendroglial cell diseases",
+    "relation": "has_symptom",
+    "object": "ER stress"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Psychomotor regression"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Progressive myoclonic epilepsy syndrome"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Spastic ataxia"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Psychomotor regression"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Progressive myoclonic epilepsy syndrome"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Spastic ataxia"
+  },
+  {
+    "subject": "Genetic White Matter Disorders",
+    "relation": "treated_by",
+    "object": "Clinical Exome Sequencing"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "associated_with",
+    "object": "Genetic Leukoencephalopathy"
+  },
+  {
+    "subject": "Genetic White Matter Disorders",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_cause",
+    "object": "Mutations in ARSA gene"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_cause",
+    "object": "Mutations in CLN5 gene"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_cause",
+    "object": "Mutations in ABCD1 gene"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_cause",
+    "object": "Mutations in CLN6 gene"
+  },
+  {
+    "subject": "Genetic White Matter Disorders",
+    "relation": "associated_with",
+    "object": "Myelin disorders"
+  },
+  {
+    "subject": "Genetic White Matter Disorders",
+    "relation": "associated_with",
+    "object": "Leuko-axonopathies"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_cause",
+    "object": "copy-number variation"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "associated_with",
+    "object": "MECP2 gene duplication"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "associated_with",
+    "object": "IRAK1 gene duplication"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "treated_by",
+    "object": "CRISPR-Cas9 gene editing"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_symptom",
+    "object": "neurological disorder"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_symptom",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 triplication"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 triplication"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "PGT-M"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "treated_by",
+    "object": "PGT-M"
+  },
+  {
+    "subject": "Xq chromosome duplication",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Xq chromosome duplication",
+    "relation": "associated_with",
+    "object": "Pelizaeus-Merzbacher disease"
+  },
+  {
+    "subject": "Xq chromosome duplication",
+    "relation": "associated_with",
+    "object": "MECP2 duplication syndrome"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "ER stress"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "Tunicamycin-induced endoplasmic reticulum stress"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Hypomyelination"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "Knocking down Rab7B"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Oligodendroglial cell dysfunction"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Hereditary hypomyelinating disorders"
+  },
+  {
+    "subject": "TCEAL1 loss-of-function syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "TCEAL1 loss-of-function syndrome",
+    "relation": "has_cause",
+    "object": "3.5-Mb microdeletion in Xq22"
+  },
+  {
+    "subject": "TCEAL1 loss-of-function syndrome",
+    "relation": "associated_with",
+    "object": "PLP1 involvement"
+  },
+  {
+    "subject": "early-onset neurological disease trait (EONDT)",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "early-onset neurological disease trait (EONDT)",
+    "relation": "has_cause",
+    "object": "3.5-Mb microdeletion in Xq22"
+  },
+  {
+    "subject": "early-onset neurological disease trait (EONDT)",
+    "relation": "associated_with",
+    "object": "PLP1 involvement"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "mutations affecting the major myelin protein, proteolipid protein 1"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "widespread degradation in the neuropil content/maintenance"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "reduction in the high-energy phosphate utilization"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "proteolipid protein 1 duplications"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "treatment intervention (not specified)"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "altered neurochemistry"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "membrane phospholipid metabolite deficits"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "duplication of PLP1"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "progressive hypomyelinating leukodystrophy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "atypical clinical presentation"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "associated_with",
+    "object": "public health cost"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Spasticity"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "Dysmyelination"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Bilateral hip subluxation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "Soft-tissue release surgery"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "General anesthesia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "Epidural anesthesia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "Continuous epidural analgesia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "Oral acetaminophen"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "endoplasmic reticulum stress"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "tunicamycin"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "hypomyelinating disorders"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "knocking down Rab7B"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "oligodendroglial diseases"
+  },
+  {
+    "subject": "oligodendroglial diseases",
+    "relation": "treated_by",
+    "object": "signaling mechanisms"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher Disease",
+    "relation": "has_symptom",
+    "object": "multiple caries"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher Disease",
+    "relation": "treated_by",
+    "object": "neuromuscular blockade management"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher Disease",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher Disease",
+    "relation": "associated_with",
+    "object": "prolonged neuromuscular blockade"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Central nervous system white matter damage"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Symptomatic treatment"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "Genetic disorders"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Diagnostic challenge"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Clinical trials"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Demyelination"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Increased Tau-positive cells"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "modeled_by",
+    "object": "Proteolipid protein 1 transgenic model"
+  },
+  {
+    "subject": "Multiple sclerosis",
+    "relation": "associated_with",
+    "object": "Decreased Tau expression"
+  },
+  {
+    "subject": "Multiple sclerosis",
+    "relation": "modeled_by",
+    "object": "Cuprizone-induced model"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "white matter imaging abnormalities"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "delayed developmental milestones"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "cognitive or motor developmental delay"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "repurposing of existing small molecules"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "gene therapies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "differences in normal myelin development and maintenance"
+  },
+  {
+    "subject": "Krabbe Disease",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Aicardi Goutières Syndrome (AGS)",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy (MLD)",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Alexander Disease (AxD)",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher Disease (PMD)",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "X-Linked Adrenoleukodystrophy (X-ALD)",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "has_symptom",
+    "object": "Neurological symptoms"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "treated_by",
+    "object": "Dietary patterns and nutritional compounds"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "associated_with",
+    "object": "Reduced life expectancy"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "associated_with",
+    "object": "Relevant mortality rate in childhood"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "associated_with",
+    "object": "Rare brain tumors"
+  },
+  {
+    "subject": "Colitis",
+    "relation": "has_treatment_related_to",
+    "object": "TPC inhibition or knockdown"
+  },
+  {
+    "subject": "Colitis",
+    "relation": "associated_with",
+    "object": "TPC dysfunction"
+  },
+  {
+    "subject": "Anaphylaxis",
+    "relation": "associated_with",
+    "object": "TPC1 deficiency"
+  },
+  {
+    "subject": "Anaphylaxis",
+    "relation": "has_symptom",
+    "object": "Severe allergic reaction"
+  },
+  {
+    "subject": "Immune dysfunction",
+    "relation": "has_symptom",
+    "object": "Impaired phagocytosis"
+  },
+  {
+    "subject": "Immune dysfunction",
+    "relation": "has_symptom",
+    "object": "Impaired phagosome resolution"
+  },
+  {
+    "subject": "TPC dysfunction",
+    "relation": "has_cause",
+    "object": "Genetic or molecular alterations in TPCs"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Prolonged T2 values in white matter"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Higher apparent diffusion coefficient values in white matter"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Higher N-acetylaspartate values"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Higher N-acetylaspartate + N-acetylaspartylglutamate values"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Lower glycerophosphocholine + phosphocholine values"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Dysmyelination"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "X-linked recessive genetic disorder"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Central nervous system disorders"
+  },
+  {
+    "subject": "4H leukodystrophy",
+    "relation": "has_symptom",
+    "object": "delayed psychomotor development"
+  },
+  {
+    "subject": "4H leukodystrophy",
+    "relation": "has_symptom",
+    "object": "progressive neurologic symptoms"
+  },
+  {
+    "subject": "4H leukodystrophy",
+    "relation": "has_symptom",
+    "object": "ataxic features"
+  },
+  {
+    "subject": "4H leukodystrophy",
+    "relation": "has_symptom",
+    "object": "global development delay"
+  },
+  {
+    "subject": "4H leukodystrophy",
+    "relation": "has_symptom",
+    "object": "hypomyelination"
+  },
+  {
+    "subject": "4H leukodystrophy",
+    "relation": "has_symptom",
+    "object": "hypodontia"
+  },
+  {
+    "subject": "4H leukodystrophy",
+    "relation": "has_symptom",
+    "object": "hypogonadotropic hypogonadism"
+  },
+  {
+    "subject": "4H leukodystrophy",
+    "relation": "has_cause",
+    "object": "POLR3B gene mutation"
+  },
+  {
+    "subject": "4H leukodystrophy",
+    "relation": "associated_with",
+    "object": "mitochondrial disease"
+  },
+  {
+    "subject": "4H leukodystrophy",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Muscle Stiffness"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Developmental Delay"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Neurological Impairments"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "MRI Pattern Recognition"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "Next-Generation Sequencing"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophy-13",
+    "relation": "has_cause",
+    "object": "Pathogenic Homozygous Variant"
+  },
+  {
+    "subject": "Hypomyelinating Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Absence of Myelin Deposition"
+  },
+  {
+    "subject": "Leukoencephalopathy caused by EIF2AK2 variants",
+    "relation": "has_symptom",
+    "object": "Nystagmus"
+  },
+  {
+    "subject": "Leukoencephalopathy caused by EIF2AK2 variants",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Leukoencephalopathy caused by EIF2AK2 variants",
+    "relation": "has_symptom",
+    "object": "Global developmental delay"
+  },
+  {
+    "subject": "Leukoencephalopathy caused by EIF2AK2 variants",
+    "relation": "has_symptom",
+    "object": "Ataxia"
+  },
+  {
+    "subject": "Leukoencephalopathy caused by EIF2AK2 variants",
+    "relation": "has_symptom",
+    "object": "Spasticity"
+  },
+  {
+    "subject": "Leukoencephalopathy caused by EIF2AK2 variants",
+    "relation": "has_symptom",
+    "object": "Diffuse hypomyelination"
+  },
+  {
+    "subject": "Leukoencephalopathy caused by EIF2AK2 variants",
+    "relation": "has_cause",
+    "object": "De novo EIF2AK2 variants"
+  },
+  {
+    "subject": "Leukoencephalopathy caused by EIF2AK2 variants",
+    "relation": "associated_with",
+    "object": "Pelizaeus-Merzbacher disease"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy",
+    "relation": "has_cause",
+    "object": "Mutations in MAL"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Abnormal development of cerebral white matter"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy",
+    "relation": "associated_with",
+    "object": "Pelizaeus-Merzbacher disease"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy",
+    "relation": "treated_by",
+    "object": "4-phenylbutyrate"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "Mutations in PLP1"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Hypomyelinating leukodystrophy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like leukodystrophy",
+    "relation": "has_symptom",
+    "object": "delayed motor development"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like leukodystrophy",
+    "relation": "has_symptom",
+    "object": "tonic absent seizures"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like leukodystrophy",
+    "relation": "has_symptom",
+    "object": "generalized dystonia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like leukodystrophy",
+    "relation": "has_cause",
+    "object": "CLDN25 mutation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like leukodystrophy",
+    "relation": "associated_with",
+    "object": "CLDN25 haploinsufficiency"
+  },
+  {
+    "subject": "Infantile onset transient hypomyelination",
+    "relation": "has_symptom",
+    "object": "transient motor impairment"
+  },
+  {
+    "subject": "Infantile onset transient hypomyelination",
+    "relation": "has_symptom",
+    "object": "delayed central nervous system myelination"
+  },
+  {
+    "subject": "Infantile onset transient hypomyelination",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Infantile onset transient hypomyelination",
+    "relation": "has_symptom",
+    "object": "delayed motor milestones"
+  },
+  {
+    "subject": "Infantile onset transient hypomyelination",
+    "relation": "associated_with",
+    "object": "macrocephaly"
+  },
+  {
+    "subject": "Infantile onset transient hypomyelination",
+    "relation": "associated_with",
+    "object": "macrosomia"
+  },
+  {
+    "subject": "Infantile onset transient hypomyelination",
+    "relation": "has_cause",
+    "object": "mutation in TMEM63A gene"
+  },
+  {
+    "subject": "Infantile onset transient hypomyelination",
+    "relation": "treated_by",
+    "object": "genetic analysis"
+  },
+  {
+    "subject": "Infantile transient hypomyelinating leukodystrophy type 19",
+    "relation": "has_cause",
+    "object": "paternally inherited variant in TMEM63A"
+  },
+  {
+    "subject": "Infantile onset transient hypomyelination",
+    "relation": "associated_with",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Infantile onset transient hypomyelination",
+    "relation": "treated_by",
+    "object": "Whole-Exome Sequencing"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP"
+  },
+  {
+    "subject": "Spastic paraplegia type 2",
+    "relation": "has_cause",
+    "object": "PLP"
+  },
+  {
+    "subject": "Multiple sclerosis",
+    "relation": "associated_with",
+    "object": "PLP"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "CNS neuropathies"
+  },
+  {
+    "subject": "Spastic paraplegia type 2",
+    "relation": "associated_with",
+    "object": "CNS neuropathies"
+  },
+  {
+    "subject": "Multiple sclerosis",
+    "relation": "associated_with",
+    "object": "CNS neuropathies"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "movement disorders"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 point mutations"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 duplications"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "PLP1 duplication"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "PLP1 point mutations"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "progressive weakness"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "spasticity of bilateral lower limbs"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 gene mutation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "cerebral palsy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "comprehensive rehabilitation program"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy type 10",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy type 10",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy type 10",
+    "relation": "has_symptom",
+    "object": "convulsions"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy type 10",
+    "relation": "has_symptom",
+    "object": "upward gaze"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy type 10",
+    "relation": "has_cause",
+    "object": "nonsense homozygous mutation in the PYCR2 gene"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy type 10",
+    "relation": "diagnosed_by",
+    "object": "whole exome sequencing"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy type 10",
+    "relation": "associated_with",
+    "object": "complex neurological disorders"
+  },
+  {
+    "subject": "Gastroesophageal reflux disease (GERD)",
+    "relation": "has_symptom",
+    "object": "Aspiration"
+  },
+  {
+    "subject": "Gastroesophageal reflux disease (GERD)",
+    "relation": "has_symptom",
+    "object": "Regurgitation"
+  },
+  {
+    "subject": "Gastroesophageal reflux disease (GERD)",
+    "relation": "treated_by",
+    "object": "Fundoplication"
+  },
+  {
+    "subject": "Gastroesophageal reflux disease (GERD)",
+    "relation": "associated_with",
+    "object": "Pulmonary comorbidity"
+  },
+  {
+    "subject": "Gastroesophageal reflux disease (GERD)",
+    "relation": "associated_with",
+    "object": "Neurological impairment"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_symptom",
+    "object": "central and peripheral nervous system affectation"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "Cellular therapies"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "neural stem progenitors"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "differentiated neural cells"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "non-neural cells"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "associated_with",
+    "object": "rare diseases"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "galactosylceramidase deficiency"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "LUNAR-human galactosylceramidase mRNA"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "damage to oligodendrocytes"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "neurological disorders"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Multiple sclerosis"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_genetic_linkage_with",
+    "object": "Multiple sclerosis"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "shares_common_DEGs_with",
+    "object": "Multiple sclerosis"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "exocytosis"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "synaptic vesicle cycle"
+  },
+  {
+    "subject": "Multiple sclerosis",
+    "relation": "associated_with",
+    "object": "exocytosis"
+  },
+  {
+    "subject": "Multiple sclerosis",
+    "relation": "associated_with",
+    "object": "synaptic vesicle cycle"
+  },
+  {
+    "subject": "CCL2",
+    "relation": "is_hub_gene_in",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "CD44",
+    "relation": "is_hub_gene_in",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "GFAP",
+    "relation": "is_hub_gene_in",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "NEFM",
+    "relation": "is_hub_gene_in",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "STXBP1",
+    "relation": "is_hub_gene_in",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "TCEAL6",
+    "relation": "is_hub_gene_in",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "CCL2",
+    "relation": "is_hub_gene_in",
+    "object": "Multiple sclerosis"
+  },
+  {
+    "subject": "CD44",
+    "relation": "is_hub_gene_in",
+    "object": "Multiple sclerosis"
+  },
+  {
+    "subject": "GFAP",
+    "relation": "is_hub_gene_in",
+    "object": "Multiple sclerosis"
+  },
+  {
+    "subject": "NEFM",
+    "relation": "is_hub_gene_in",
+    "object": "Multiple sclerosis"
+  },
+  {
+    "subject": "STXBP1",
+    "relation": "is_hub_gene_in",
+    "object": "Multiple sclerosis"
+  },
+  {
+    "subject": "TCEAL6",
+    "relation": "is_hub_gene_in",
+    "object": "Multiple sclerosis"
+  },
+  {
+    "subject": "FOXC1",
+    "relation": "regulates",
+    "object": "hub genes"
+  },
+  {
+    "subject": "hsa-mir-16-5p",
+    "relation": "regulates",
+    "object": "hub genes"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Reduced muscle tension"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Nystagmus"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Poor motor development"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Tremor of eyeballs"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "Copy number variation at chrX: 102 192 246-103 045 526"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Absence of myelinization of white matter"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "Genetic counseling"
+  },
+  {
+    "subject": "HIV-associated neurocognitive disorders",
+    "relation": "associated_with",
+    "object": "white matter deficits"
+  },
+  {
+    "subject": "HIV-associated neurocognitive disorders",
+    "relation": "treated_by",
+    "object": "antiretroviral therapy"
+  },
+  {
+    "subject": "White matter deficits",
+    "relation": "has_cause",
+    "object": "bictegravir"
+  },
+  {
+    "subject": "Impaired oligodendrocyte differentiation",
+    "relation": "has_cause",
+    "object": "lysosomal deacidification"
+  },
+  {
+    "subject": "Lysosomal dysfunction",
+    "relation": "associated_with",
+    "object": "white matter abnormalities"
+  },
+  {
+    "subject": "HIV-associated neurocognitive disorders",
+    "relation": "has_symptom",
+    "object": "white matter alterations"
+  },
+  {
+    "subject": "infantile-onset transient hypomyelination",
+    "relation": "has_symptom",
+    "object": "hypomyelination"
+  },
+  {
+    "subject": "infantile-onset transient hypomyelination",
+    "relation": "has_symptom",
+    "object": "unilateral eyelid twitching"
+  },
+  {
+    "subject": "infantile-onset transient hypomyelination",
+    "relation": "has_symptom",
+    "object": "spinal cord involvement"
+  },
+  {
+    "subject": "infantile-onset transient hypomyelination",
+    "relation": "associated_with",
+    "object": "Pelizaeus-Merzbacher Disease"
+  },
+  {
+    "subject": "infantile-onset transient hypomyelination",
+    "relation": "has_cause",
+    "object": "Monoallelic mutations on TMEM63A"
+  },
+  {
+    "subject": "infantile-onset transient hypomyelination",
+    "relation": "treated_by",
+    "object": "none"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "demyelination"
+  },
+  {
+    "subject": "multiple sclerosis",
+    "relation": "has_symptom",
+    "object": "demyelination"
+  },
+  {
+    "subject": "dysmyelinating disorders",
+    "relation": "has_cause",
+    "object": "dysregulation of oligodendrocyte differentiation"
+  },
+  {
+    "subject": "demyelinating diseases",
+    "relation": "has_cause",
+    "object": "dysregulation of oligodendrocyte differentiation"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "dysregulation of oligodendrocyte differentiation"
+  },
+  {
+    "subject": "psychiatric disorders",
+    "relation": "associated_with",
+    "object": "dysregulation of oligodendrocyte differentiation"
+  },
+  {
+    "subject": "dysmyelinating disorders",
+    "relation": "treated_by",
+    "object": "therapeutic interventions targeting oligodendrocyte development"
+  },
+  {
+    "subject": "demyelinating diseases",
+    "relation": "treated_by",
+    "object": "therapeutic interventions targeting oligodendrocyte development"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "treated_by",
+    "object": "therapeutic interventions targeting oligodendrocyte development"
+  },
+  {
+    "subject": "psychiatric disorders",
+    "relation": "treated_by",
+    "object": "therapeutic interventions targeting oligodendrocyte development"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "dysregulation of oligodendrocyte differentiation"
+  },
+  {
+    "subject": "multiple sclerosis",
+    "relation": "associated_with",
+    "object": "dysregulation of oligodendrocyte differentiation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "plp1 gene mutation"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "plp1 gene multiplication"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "plp1 gene deletion"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Impairments of myelination"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "Impairments of motor function"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Congenital hypomyelinating disorder"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "MEK2K101A (kinase-deficient dominant-inhibitory mutant)"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "MAPK/ERK inhibition"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Neuropathy"
+  },
+  {
+    "subject": "Pelizaeus–Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 mutations"
+  },
+  {
+    "subject": "Pelizaeus–Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 duplication"
+  },
+  {
+    "subject": "PLP1 duplication",
+    "relation": "has_symptom",
+    "object": "mitochondrial dysfunction"
+  },
+  {
+    "subject": "PLP1 duplication",
+    "relation": "has_symptom",
+    "object": "closer ER-mitochondrion interfaces"
+  },
+  {
+    "subject": "Pelizaeus–Merzbacher disease",
+    "relation": "associated_with",
+    "object": "hypomyelinating leukodystrophies"
+  },
+  {
+    "subject": "Pelizaeus–Merzbacher disease",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "intention tremors"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "progressively worsening motor dysfunction"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "mutations in the proteolipid protein-1 (PLP1) gene"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "hypomyelinating disorder of the central nervous system"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "preclinical studies that aim to promote myelination"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "focal seizures"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "jerky head movements"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "rehabilitation training"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "abnormal myelin formation in the central nervous system"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Genomic Rearrangements",
+    "relation": "associated_with",
+    "object": "Olfactory receptors"
+  },
+  {
+    "subject": "Genomic Rearrangements",
+    "relation": "associated_with",
+    "object": "Immune response genes"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "redox imbalance"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_cause",
+    "object": "redox imbalance"
+  },
+  {
+    "subject": "amyotrophic lateral sclerosis",
+    "relation": "has_cause",
+    "object": "redox imbalance"
+  },
+  {
+    "subject": "X-adrenoleukodystrophies",
+    "relation": "has_cause",
+    "object": "redox imbalance"
+  },
+  {
+    "subject": "spinal muscular atrophy",
+    "relation": "has_cause",
+    "object": "redox imbalance"
+  },
+  {
+    "subject": "mucopolysaccharidoses",
+    "relation": "has_cause",
+    "object": "redox imbalance"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher Disease",
+    "relation": "has_cause",
+    "object": "redox imbalance"
+  },
+  {
+    "subject": "hypoxia",
+    "relation": "has_cause",
+    "object": "oxygen imbalance"
+  },
+  {
+    "subject": "hyperoxia",
+    "relation": "has_cause",
+    "object": "oxygen imbalance"
+  },
+  {
+    "subject": "protein misfolding",
+    "relation": "has_cause",
+    "object": "oxygen imbalance"
+  },
+  {
+    "subject": "mitochondria dysfunction",
+    "relation": "has_cause",
+    "object": "oxygen imbalance"
+  },
+  {
+    "subject": "alterations in heme metabolism",
+    "relation": "has_cause",
+    "object": "oxygen imbalance"
+  },
+  {
+    "subject": "neuroinflammation",
+    "relation": "has_cause",
+    "object": "oxygen imbalance"
+  },
+  {
+    "subject": "neurological alterations",
+    "relation": "has_cause",
+    "object": "dysfunctions"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative disorders"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative disorders"
+  },
+  {
+    "subject": "amyotrophic lateral sclerosis",
+    "relation": "associated_with",
+    "object": "neurodegenerative disorders"
+  },
+  {
+    "subject": "X-adrenoleukodystrophies",
+    "relation": "associated_with",
+    "object": "pediatric neurological disorders"
+  },
+  {
+    "subject": "spinal muscular atrophy",
+    "relation": "associated_with",
+    "object": "pediatric neurological disorders"
+  },
+  {
+    "subject": "mucopolysaccharidoses",
+    "relation": "associated_with",
+    "object": "pediatric neurological disorders"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher Disease",
+    "relation": "associated_with",
+    "object": "pediatric neurological disorders"
+  },
+  {
+    "subject": "neurodegenerative disorders",
+    "relation": "treated_by",
+    "object": "potential therapeutic strategies"
+  },
+  {
+    "subject": "pediatric neurological disorders",
+    "relation": "treated_by",
+    "object": "potential therapeutic strategies"
+  },
+  {
+    "subject": "Xq22.1-q22.3 deletion",
+    "relation": "has_cause",
+    "object": "Genetic inheritance"
+  },
+  {
+    "subject": "Xq22.1-q22.3 deletion",
+    "relation": "associated_with",
+    "object": "Morbidity due to affected genes (TIMM8A, BTK, GLA, HNRNPH2, GPRASP2, PLP1, SERPINA7)"
+  },
+  {
+    "subject": "Xq22.1-q22.3 deletion",
+    "relation": "managed_by",
+    "object": "Prenatal diagnosis and genetic counselling"
+  },
+  {
+    "subject": "Xq22.1-q22.3 deletion",
+    "relation": "has_symptom",
+    "object": "Normal phenotype and normal intelligence"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_treatment",
+    "object": "Stem cell therapies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_treatment",
+    "object": "Ex vivo gene therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_treatment",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_treatment",
+    "object": "RNA therapies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_treatment",
+    "object": "Small molecule therapies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_treatment",
+    "object": "Protein therapies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_treatment",
+    "object": "Intrathecal enzyme replacement therapy"
+  },
+  {
+    "subject": "X-linked adrenoleukodystrophy",
+    "relation": "has_treatment",
+    "object": "Ex vivo gene therapy"
+  },
+  {
+    "subject": "X-linked adrenoleukodystrophy",
+    "relation": "has_treatment",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "has_treatment",
+    "object": "Ex vivo gene therapy"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "has_treatment",
+    "object": "Intrathecal enzyme replacement therapy"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "has_treatment",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_treatment",
+    "object": "RNA therapies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Inherited white matter disorders"
+  },
+  {
+    "subject": "X-linked adrenoleukodystrophy",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "643C>T mutation in proteolipid protein 1 (PLP1) gene"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "hemizygous mutation"
+  },
+  {
+    "subject": "Hypomyelination of early myelinating structures (HEMS)",
+    "relation": "has_cause",
+    "object": "altered PLP1 splicing"
+  },
+  {
+    "subject": "Hypomyelination of early myelinating structures (HEMS)",
+    "relation": "has_cause",
+    "object": "deep intronic deletion in intron 3 of PLP1"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "abnormal PLP1 splicing"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "severe phenotype"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "has_symptom",
+    "object": "peripheral neuropathy"
+  },
+  {
+    "subject": "Inherited peripheral neuropathies",
+    "relation": "has_symptom",
+    "object": "peripheral neuropathy"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Inherited peripheral neuropathies",
+    "relation": "has_cause",
+    "object": "repeat expansions"
+  },
+  {
+    "subject": "Inherited peripheral neuropathies",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Inherited peripheral neuropathies",
+    "relation": "associated_with",
+    "object": "complex syndromes"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "associated_with",
+    "object": "complex syndromes"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "point mutations in PLP1"
+  },
+  {
+    "subject": "spastic paraplegia type 2",
+    "relation": "has_cause",
+    "object": "point mutations in PLP1"
+  },
+  {
+    "subject": "multiple sclerosis",
+    "relation": "has_symptom",
+    "object": "disabling disease of the brain and spinal cord"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "PLP1 mutations"
+  },
+  {
+    "subject": "spastic paraplegia type 2",
+    "relation": "associated_with",
+    "object": "PLP1 mutations"
+  },
+  {
+    "subject": "multiple sclerosis",
+    "relation": "associated_with",
+    "object": "PLP1 missense point mutations"
+  },
+  {
+    "subject": "multiple sclerosis",
+    "relation": "treated_by",
+    "object": "therapeutic strategies"
+  },
+  {
+    "subject": "Pelizaeus Merzbacher disease",
+    "relation": "has_cause",
+    "object": "mutations in the proteolipid protein 1 (PLP1) gene"
+  },
+  {
+    "subject": "Pelizaeus Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "increased cell death"
+  },
+  {
+    "subject": "Pelizaeus Merzbacher disease",
+    "relation": "associated_with",
+    "object": "hypomyelinating leukodystrophy"
+  },
+  {
+    "subject": "Pelizaeus Merzbacher disease",
+    "relation": "treated_by",
+    "object": "human cell-based disease models"
+  },
+  {
+    "subject": "Pelizaeus Merzbacher disease",
+    "relation": "treated_by",
+    "object": "myelinating cell grafts"
+  },
+  {
+    "subject": "leukodystrophies",
+    "relation": "treated_by",
+    "object": "cell transplantation-based therapies"
+  },
+  {
+    "subject": "Pediatric disease",
+    "relation": "has_cause",
+    "object": "Genetic etiology"
+  },
+  {
+    "subject": "Pediatric disease",
+    "relation": "treated_by",
+    "object": "Tailored treatment"
+  },
+  {
+    "subject": "Pediatric disease",
+    "relation": "treated_by",
+    "object": "Pharmacogenomics"
+  },
+  {
+    "subject": "Rare disease",
+    "relation": "diagnosed_by",
+    "object": "Genomic approaches"
+  },
+  {
+    "subject": "Common diseases",
+    "relation": "diagnosed_by",
+    "object": "Genomic approaches"
+  },
+  {
+    "subject": "Rare disease",
+    "relation": "associated_with",
+    "object": "Genetic information"
+  },
+  {
+    "subject": "Pelizaeus Merzbacher like disease",
+    "relation": "has_cause",
+    "object": "Mutations in GJC2"
+  },
+  {
+    "subject": "Hereditary spastic paraparesis (SPG44)",
+    "relation": "has_cause",
+    "object": "Mutations in GJC2"
+  },
+  {
+    "subject": "Subclinical leukodystrophy",
+    "relation": "has_cause",
+    "object": "Mutations in GJC2"
+  },
+  {
+    "subject": "Pelizaeus Merzbacher like disease",
+    "relation": "associated_with",
+    "object": "Mutations in GJC2"
+  },
+  {
+    "subject": "Hereditary spastic paraparesis (SPG44)",
+    "relation": "associated_with",
+    "object": "Mutations in GJC2"
+  },
+  {
+    "subject": "Subclinical leukodystrophy",
+    "relation": "associated_with",
+    "object": "Mutations in GJC2"
+  },
+  {
+    "subject": "Xq22 deletions",
+    "relation": "has_symptom",
+    "object": "severe intellectual disability"
+  },
+  {
+    "subject": "Xq22 deletions",
+    "relation": "has_symptom",
+    "object": "behavioral abnormalities"
+  },
+  {
+    "subject": "Xq22 deletions",
+    "relation": "has_cause",
+    "object": "Large deletions in Xq22"
+  },
+  {
+    "subject": "Xq22 deletions",
+    "relation": "associated_with",
+    "object": "skewed X-chromosome inactivation"
+  },
+  {
+    "subject": "Xq22 deletions",
+    "relation": "associated_with",
+    "object": "haploinsufficiency of BEX2"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "paraplegia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_symptom",
+    "object": "white matter abnormalities"
+  },
+  {
+    "subject": "Myotilinopathy",
+    "relation": "has_symptom",
+    "object": "Distal muscle weakness"
+  },
+  {
+    "subject": "Myotilinopathy",
+    "relation": "has_symptom",
+    "object": "Muscle hypertrophy"
+  },
+  {
+    "subject": "Myotilinopathy",
+    "relation": "has_cause",
+    "object": "Dominant missense mutations in the MYOT gene"
+  },
+  {
+    "subject": "Myotilinopathy",
+    "relation": "has_cause",
+    "object": "Duplication of the entire MYOT gene"
+  },
+  {
+    "subject": "Myotilinopathy",
+    "relation": "associated_with",
+    "object": "Myofibrillar myopathies"
+  },
+  {
+    "subject": "Myotilinopathy",
+    "relation": "associated_with",
+    "object": "Distal myopathies"
+  },
+  {
+    "subject": "Myotilinopathy",
+    "relation": "treated_by",
+    "object": "Long-read sequencing"
+  },
+  {
+    "subject": "Cerebral visual impairments",
+    "relation": "has_symptom",
+    "object": "visual defects"
+  },
+  {
+    "subject": "Cerebral visual impairments",
+    "relation": "associated_with",
+    "object": "genetic brain disorders"
+  },
+  {
+    "subject": "Cerebral visual impairments",
+    "relation": "treated_by",
+    "object": "molecular diagnostics"
+  },
+  {
+    "subject": "Cerebral visual impairments",
+    "relation": "has_cause",
+    "object": "mutation hotspots"
+  },
+  {
+    "subject": "Cerebral visual impairments",
+    "relation": "associated_with",
+    "object": "ciliopathies"
+  },
+  {
+    "subject": "Cerebral visual impairments",
+    "relation": "associated_with",
+    "object": "demyelination diseases"
+  },
+  {
+    "subject": "Cerebral visual impairments",
+    "relation": "associated_with",
+    "object": "transcriptional deregulation diseases"
+  },
+  {
+    "subject": "Cerebral visual impairments",
+    "relation": "associated_with",
+    "object": "compromised peroxisome disorders"
+  },
+  {
+    "subject": "Cerebral visual impairments",
+    "relation": "associated_with",
+    "object": "channelopathies"
+  },
+  {
+    "subject": "Cerebral visual impairments",
+    "relation": "treated_by",
+    "object": "gene editing strategies"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "is_a",
+    "object": "ciliopathies"
+  },
+  {
+    "subject": "Bardet-Biedl syndrome",
+    "relation": "is_a",
+    "object": "ciliopathies"
+  },
+  {
+    "subject": "Alstrom syndrome",
+    "relation": "is_a",
+    "object": "ciliopathies"
+  },
+  {
+    "subject": "multiple sclerosis",
+    "relation": "is_a",
+    "object": "demyelination diseases"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "is_a",
+    "object": "demyelination diseases"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "is_a",
+    "object": "demyelination diseases"
+  },
+  {
+    "subject": "Mowat-Wilson disease",
+    "relation": "is_a",
+    "object": "transcriptional deregulation diseases"
+  },
+  {
+    "subject": "Pitt-Hopkins disease",
+    "relation": "is_a",
+    "object": "transcriptional deregulation diseases"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "is_a",
+    "object": "transcriptional deregulation diseases"
+  },
+  {
+    "subject": "Cockayne syndrome",
+    "relation": "is_a",
+    "object": "transcriptional deregulation diseases"
+  },
+  {
+    "subject": "X-linked alpha-thalassaemia mental retardation",
+    "relation": "is_a",
+    "object": "transcriptional deregulation diseases"
+  },
+  {
+    "subject": "Zellweger spectrum disorder",
+    "relation": "is_a",
+    "object": "compromised peroxisome disorders"
+  },
+  {
+    "subject": "Refsum disease",
+    "relation": "is_a",
+    "object": "compromised peroxisome disorders"
+  },
+  {
+    "subject": "neuromyelitis optica spectrum disorder",
+    "relation": "is_a",
+    "object": "channelopathies"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "axial hypotonia"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "appendicular hypertonia"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "episodic neurologic regression"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "has_cause",
+    "object": "de novo missense single nucleotide variants in EIF2AK2"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "associated_with",
+    "object": "Pelizaeus-Merzbacher disease"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "associated_with",
+    "object": "hypomyelinating leukodystrophies"
+  },
+  {
+    "subject": "EIF2AK2-related leukoencephalopathy",
+    "relation": "associated_with",
+    "object": "febrile viral illnesses"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "mutations in the proteolipid protein 1 gene"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "leukodystrophy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease type 1",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease type 1",
+    "relation": "has_symptom",
+    "object": "cerebellar ataxia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease type 1",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease type 1",
+    "relation": "has_symptom",
+    "object": "changes in CNS white matter"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease type 1",
+    "relation": "has_cause",
+    "object": "mutations in GJC2"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease type 1",
+    "relation": "associated_with",
+    "object": "defective protein trafficking"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease type 1",
+    "relation": "associated_with",
+    "object": "activation of the cellular stress"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease type 1",
+    "relation": "associated_with",
+    "object": "apoptotic pathways"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease type 1",
+    "relation": "associated_with",
+    "object": "ER retention of Cx47"
+  },
+  {
+    "subject": "spastic paraplegia type 44",
+    "relation": "has_symptom",
+    "object": "spastic paraplegia"
+  },
+  {
+    "subject": "spastic paraplegia type 44",
+    "relation": "has_cause",
+    "object": "mutation p.I33M in GJC2"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease type 1",
+    "relation": "associated_with",
+    "object": "loss-of-function"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "treated_by",
+    "object": "Cell Transplantation"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "treated_by",
+    "object": "Fetal Neural Stem/Progenitor Cells"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "treated_by",
+    "object": "Pluripotent Stem Cell-Derived NS/PCs"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "treated_by",
+    "object": "Mesenchymal Stem/Stromal Cells"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "treated_by",
+    "object": "Olfactory Ensheathing Cells"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "treated_by",
+    "object": "Schwann Cells"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "treated_by",
+    "object": "Stemirac"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "treated_by",
+    "object": "Allogenic NS/PCs"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "treated_by",
+    "object": "Autologous MSCs"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "treated_by",
+    "object": "Induced Pluripotent Stem Cells"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "has_cause",
+    "object": "PLP1 gene duplication"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "PLP1 gene duplication"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_cause",
+    "object": "Oligodendrocyte dysfunction"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_cause",
+    "object": "Dysmyelination"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "associated_with",
+    "object": "Neurodegenerative diseases"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_cause",
+    "object": "Oligodendrocyte dysfunction"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_cause",
+    "object": "Dysmyelination"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "associated_with",
+    "object": "Neurodegenerative diseases"
+  },
+  {
+    "subject": "Schizophrenia",
+    "relation": "has_cause",
+    "object": "Oligodendrocyte dysfunction"
+  },
+  {
+    "subject": "Schizophrenia",
+    "relation": "has_cause",
+    "object": "Dysmyelination"
+  },
+  {
+    "subject": "Schizophrenia",
+    "relation": "associated_with",
+    "object": "Neuropsychiatric disorders"
+  },
+  {
+    "subject": "Autism Spectrum Disorder",
+    "relation": "has_cause",
+    "object": "Oligodendrocyte dysfunction"
+  },
+  {
+    "subject": "Autism Spectrum Disorder",
+    "relation": "has_cause",
+    "object": "Dysmyelination"
+  },
+  {
+    "subject": "Autism Spectrum Disorder",
+    "relation": "associated_with",
+    "object": "Neuropsychiatric disorders"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "treated_by",
+    "object": "Therapeutic targets"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "treated_by",
+    "object": "Therapeutic targets"
+  },
+  {
+    "subject": "Schizophrenia",
+    "relation": "treated_by",
+    "object": "Therapeutic targets"
+  },
+  {
+    "subject": "Autism Spectrum Disorder",
+    "relation": "treated_by",
+    "object": "Therapeutic targets"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_symptom",
+    "object": "Inability of oligodendrocytes to remyelinate"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_symptom",
+    "object": "Defects in oligodendrocyte development"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_symptom",
+    "object": "Defects in oligodendrocyte maturation"
+  },
+  {
+    "subject": "Neuropsychiatric disorders",
+    "relation": "has_symptom",
+    "object": "Inability of oligodendrocytes to remyelinate"
+  },
+  {
+    "subject": "Neuropsychiatric disorders",
+    "relation": "has_symptom",
+    "object": "Defects in oligodendrocyte development"
+  },
+  {
+    "subject": "Neuropsychiatric disorders",
+    "relation": "has_symptom",
+    "object": "Defects in oligodendrocyte maturation"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "has_symptom",
+    "object": "muscle hypotonia"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "has_symptom",
+    "object": "delayed psychomotor development"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "has_symptom",
+    "object": "delayed myelination"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "has_cause",
+    "object": "TMEM106B mutation"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "associated_with",
+    "object": "Pelizaeus-Merzbacher disease"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophies",
+    "relation": "treated_by",
+    "object": "PCR-SalI digestion assay"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_symptom",
+    "object": "Progressive Disability"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_cause",
+    "object": "Focal Inflammatory Demyelination"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_cause",
+    "object": "Attrition of permanently demyelinated axons"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "associated_with",
+    "object": "Neuroaxonal loss"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "treated_by",
+    "object": "Remyelination"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "has_cause",
+    "object": "Underexpression of PMP22"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "has_cause",
+    "object": "Overexpression of PMP22"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "has_cause",
+    "object": "Point mutations in PMP22"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "associated_with",
+    "object": "Dysregulation of lipid metabolism"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "associated_with",
+    "object": "Aberrations in cholesterol localization"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "treated_by",
+    "object": "Antiepileptic drugs"
+  },
+  {
+    "subject": "Leukodystrophies classified as astrocytopathies",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Megalencephalic leukoencephalopathy with subcortical cysts",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "X-linked adrenoleukodystrophy",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "has_symptom",
+    "object": "dysmyotonia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "has_symptom",
+    "object": "progressive motor dysfunction"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "has_symptom",
+    "object": "diffuse leukodystrophy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "has_cause",
+    "object": "mutations in NCP1"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "has_cause",
+    "object": "compound heterozygote mutations in NPC1"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "associated_with",
+    "object": "Pelizaeus-Merzbacher disease"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "treated_by",
+    "object": "rehabilitation training"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher-like disease",
+    "relation": "associated_with",
+    "object": "global developmental delay"
+  }
+]

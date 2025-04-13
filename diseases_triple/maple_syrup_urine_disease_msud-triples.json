@@ -1,0 +1,3647 @@
+[
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Encephalopathy"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Respiratory Distress"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Mutation in BCKDHB gene"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Inborn Error of Metabolism"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "High glucose infusion"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Branched-chain amino acid-free formula"
+  },
+  {
+    "subject": "Maple syrup urine disease (MSUD)",
+    "relation": "has_cause",
+    "object": "mutations in single genes"
+  },
+  {
+    "subject": "Maple syrup urine disease (MSUD)",
+    "relation": "has_symptom",
+    "object": "buildup of metabolites"
+  },
+  {
+    "subject": "Maple syrup urine disease (MSUD)",
+    "relation": "has_symptom",
+    "object": "cytotoxicity"
+  },
+  {
+    "subject": "Maple syrup urine disease (MSUD)",
+    "relation": "has_symptom",
+    "object": "decrease cell viability"
+  },
+  {
+    "subject": "Maple syrup urine disease (MSUD)",
+    "relation": "associated_with",
+    "object": "amyloid disease"
+  },
+  {
+    "subject": "Maple syrup urine disease (MSUD)",
+    "relation": "has_cause",
+    "object": "accumulation of Branched chain amino acid (BCAA)"
+  },
+  {
+    "subject": "Maple syrup urine disease (MSUD)",
+    "relation": "treated_by",
+    "object": "therapeutic solutions (future)"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "deficient activity of the branched-chain alpha-ketoacid dehydrogenase (BCKDH) complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "mutations in DBT gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "episignature that reshapes the global DNA methylation landscape"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "stimulation of HOX cluster genes"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "restriction of cell cycle gene-related signatures"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "epigenetic repression in DBT promoter"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "unknown"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "unknown"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "has_cause",
+    "object": "Isoleucine deficiency"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "associated_with",
+    "object": "Inherited metabolic disorders"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "treated_by",
+    "object": "Dietary adjustments"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "has_cause",
+    "object": "Protein-restricted diet"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Acrodermatitis dysmetabolica"
+  },
+  {
+    "subject": "Propionic acidemia",
+    "relation": "associated_with",
+    "object": "Acrodermatitis dysmetabolica"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "has_symptom",
+    "object": "Dermatologic manifestation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "chronic neuropsychiatric symptoms"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "subtle functional deficits"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "elevations in BCAA levels"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "low protein diet"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "loss of branched-chain ketoacid dehydrogenase activity"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "metabolic decompensation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "chronic neurologic phenotypes"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "central nervous system pathology"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "elevated branched chain amino acids"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "mutations in BCKDHA, BCKDHB, or DBT genes"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "pontocerebellar hypoplasia, type 6"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "aggressive intervention with specific treatment"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "atypical radiological findings"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "peculiar phenotype"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "PPM1K dysfunction"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Alzheimer's"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Cardiomyopathy"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Drug treatments targeting PPM1K"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Accumulation of BCAAs"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "noisy breathing"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "chest retraction"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "cough"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "lethargy"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "poor feeding"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "feeble neck holding"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "absent social smile"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "generalized seizures"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "peculiar odor"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "dietary restrictions"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "inherited disorder of metabolism"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Recurrent life-threatening neurologic crises"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Progressive brain injury"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Prescription diet"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Allogeneic liver transplant"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "rAAV9.hA-BiP-hB gene therapy"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Biallelic mutations in BCKDHA, BCKDHB, or DBT genes"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Inborn error of metabolism"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "acute metabolic decompensation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "chronic illness"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "inborn errors of metabolism"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "screening"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "social and psychological interventions"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "patient care"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Executive dysfunction"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Adaptive dysfunction"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Early intervention"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Interventions targeting executive and adaptive function"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Inherited metabolic disorder"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Impaired educational attainment"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Unemployment"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Difficulty obtaining skills needed for adult-oriented healthcare"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Difficulty with independent living"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Metabolic decompensations"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Neurocognitive impairment"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Permanent neurological symptoms"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Newborn screening"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Limited life expectancy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Inherited metabolic disorder"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "neurological disabilities"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "short-term memory loss"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "long-term memory loss"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "tissue accumulation of leucine, isoleucine, and valine"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "administration of branched-chain amino acids (BCAA)"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "donepezil"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative disorders"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "chronic neuropsychiatric symptoms"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "subtle functional deficits"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "metabolic decompensation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "low protein diet"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "loss of branched-chain ketoacid dehydrogenase activity"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "elevations in BCAA levels"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "secondary changes in amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "chronic central nervous system pathology"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_treatment",
+    "object": "Renal Replacement Therapy"
+  },
+  {
+    "subject": "Methylmalonic Acidemia",
+    "relation": "has_treatment",
+    "object": "Renal Replacement Therapy"
+  },
+  {
+    "subject": "Glycogen Storage Disease",
+    "relation": "has_treatment",
+    "object": "Renal Replacement Therapy"
+  },
+  {
+    "subject": "Metabolic Disorders",
+    "relation": "has_treatment",
+    "object": "Hemodialysis"
+  },
+  {
+    "subject": "Metabolic Disorders",
+    "relation": "has_treatment",
+    "object": "Peritoneal Dialysis"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Elevated Leucine Levels"
+  },
+  {
+    "subject": "Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Elevated Ammonium Levels"
+  },
+  {
+    "subject": "Metabolic Crises",
+    "relation": "treated_by",
+    "object": "Renal Replacement Therapy"
+  },
+  {
+    "subject": "Metabolic Disorders",
+    "relation": "associated_with",
+    "object": "Metabolic Crises"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Acute Metabolic Crises"
+  },
+  {
+    "subject": "Metabolic Disorders",
+    "relation": "has_cause",
+    "object": "Toxic Metabolite Levels"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Developmental Delay"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Metabolic Crisis"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Nosocomial Infections"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Dietary Compliance"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Male Sex"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Delayed Newborn Screening"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "deficiency of branched-chain keto acid dehydrogenase"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "abnormal BCAA levels"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "neuro-deterioration"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "delayed neurodevelopmental milestones"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "abnormal amino acid homeostasis"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "growth abnormalities"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "deficiency in the branched-chain α-keto acid dehydrogenase (BCKD) enzymatic complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "consanguinity"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Executive dysfunction"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Adaptive dysfunction"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Inherited metabolic disorder"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Impaired independence"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Early intervention"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Neurocognitive assessments"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Employment issues"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Varied educational attainment"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "neurotoxicity"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "coma"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "death"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "acute metabolic decompensation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "cumulative neurological impairment"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "inborn error of branched-chain amino acid metabolism"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "elevated levels of plasma leucine"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "elevated levels of α-ketoisocaproate (KIC)"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "protein restriction"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "medical formula"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "LDCv10"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "insufficiency of the enzymatic complex known as branched-chain alpha-keto acid dehydrogenase"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "mutations in several genes"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "mutations in BCKDHA gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "mutations in BCKDHB gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "mutations in DBT gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "mutations in DLD gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "delayed developmental milestones"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "feeding difficulties"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "lethargy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "irritability"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "maple syrup odor"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "brain damage"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "coma"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "central respiratory failure"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "abnormal activity of the branched-chain alpha-ketoacid dehydrogenase (BCKAD) complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "underlying defect in the BCKAD complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "branched-chain α-ketoacid dehydrogenase deficiency"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "dietary restrictions of branched-chain amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "close, continuing metabolic monitoring"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "emergency management"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "has_symptom",
+    "object": "Psychosis"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "has_symptom",
+    "object": "Altered Mental Status"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "has_symptom",
+    "object": "Cognitive Deficits"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "has_symptom",
+    "object": "Mood Disorders"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "has_symptom",
+    "object": "Movement Disorders"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "has_cause",
+    "object": "Accumulation of Branched-Chain Amino Acids"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "associated_with",
+    "object": "Cerebral Edema"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "associated_with",
+    "object": "Psychiatric Involvement"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "treated_by",
+    "object": "Low-Leucine Diet"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "treated_by",
+    "object": "Newborn Screening followed by Dietary Treatment"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "treated_by",
+    "object": "Genetics Consultation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "elevated leucine concentration"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "cognitive dysfunction"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "early treatment"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "metabolic disorder"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "decompensations"
+  },
+  {
+    "subject": "Classic Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "higher initial peak leucine concentration"
+  },
+  {
+    "subject": "Variant Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "being missed by newborn screening"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "deficiency in branched-chain α-keto acid dehydrogenase (BCKD) enzymatic complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "variants in BCKDHA gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "variants in BCKDHB gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "variants in DBT gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "variants in PPM1K gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "consanguinity"
+  },
+  {
+    "subject": "Rare inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "Disruption of metabolic pathways"
+  },
+  {
+    "subject": "Rare inherited metabolic disorders",
+    "relation": "has_cause",
+    "object": "Disruption of metabolic pathways"
+  },
+  {
+    "subject": "Life in space",
+    "relation": "associated_with",
+    "object": "Accelerated aging-related pathophysiological dysregulation"
+  },
+  {
+    "subject": "Rare inherited metabolic disorders",
+    "relation": "associated_with",
+    "object": "Cell aging"
+  },
+  {
+    "subject": "Rare inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "Precision health"
+  },
+  {
+    "subject": "Rare inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "Validation of improved biomarker-based risk scores"
+  },
+  {
+    "subject": "Rare inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "Exploration of new pathophysiologic hypotheses and therapeutic targets"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Biallelic pathogenic variants"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Mutations in BCKDHA, BCKDHB, DBT, DLD, and PPM1K genes"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Accumulation of leucine, isoleucine, and valine"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "diagnosed_by",
+    "object": "Massive parallel sequencing"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "diagnosed_by",
+    "object": "Gene panels"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "None"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "BCKDH complex genes mutations"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "has_symptom",
+    "object": "acral dermatitis"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "has_symptom",
+    "object": "diarrhea"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "has_symptom",
+    "object": "alopecia"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "has_symptom",
+    "object": "acrodermatitis enteropathica like cutaneous eruption"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "has_symptom",
+    "object": "hair loss"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Acrodermatitis dysmetabolica"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "has_cause",
+    "object": "metabolic disorders"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "has_cause",
+    "object": "Maple syrup urine disease"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "treated_by",
+    "object": "topical mometasone ointment"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "treated_by",
+    "object": "isoleucine supplementation"
+  },
+  {
+    "subject": "Acrodermatitis dysmetabolica",
+    "relation": "treated_by",
+    "object": "leucine restriction"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "branched-chain amino acid restricted diet"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "BCAAs formula"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "thiamine supplementation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "none"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "analysis of branched amino acids (BCAAs) in plasma"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "none"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "branched amino acids (BCAAs) in plasma"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "UPLC method"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "IEC method"
+  },
+  {
+    "subject": "Congenital Hypothyroidism",
+    "relation": "treated_by",
+    "object": "Newborn Screening"
+  },
+  {
+    "subject": "Congenital Adrenal Hyperplasia",
+    "relation": "treated_by",
+    "object": "Newborn Screening"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Newborn Screening"
+  },
+  {
+    "subject": "False-positive newborn screening result",
+    "relation": "has_symptom",
+    "object": "Parental stress"
+  },
+  {
+    "subject": "Inconclusive newborn screening result",
+    "relation": "has_symptom",
+    "object": "Parental stress"
+  },
+  {
+    "subject": "Congenital Hypothyroidism",
+    "relation": "associated_with",
+    "object": "False-positive newborn screening result"
+  },
+  {
+    "subject": "Congenital Adrenal Hyperplasia",
+    "relation": "associated_with",
+    "object": "False-positive newborn screening result"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "False-positive newborn screening result"
+  },
+  {
+    "subject": "False-positive newborn screening result",
+    "relation": "has_cause",
+    "object": "Inaccurate NBS algorithm"
+  },
+  {
+    "subject": "Inconclusive newborn screening result",
+    "relation": "has_cause",
+    "object": "Inaccurate NBS algorithm"
+  },
+  {
+    "subject": "Inaccurate NBS algorithm",
+    "relation": "treated_by",
+    "object": "Improved NBS algorithm"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Encephalopathy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Vomiting"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Liver transplant"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Defect in branched-chain alpha-keto acid dehydrogenase complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Accumulation of branched-chain amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Gastrointestinal illness"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Hyperleucinosis"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "fluctuating mental status"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "refractory intracranial hypertension"
+  },
+  {
+    "subject": "Acute encephalopathy",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "deficiency in the branched-chain alpha-keto acid dehydrogenase complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "pathogenic variant in BCKDHA gene"
+  },
+  {
+    "subject": "Acute encephalopathy",
+    "relation": "treated_by",
+    "object": "systemic support"
+  },
+  {
+    "subject": "Acute encephalopathy",
+    "relation": "treated_by",
+    "object": "neuromonitoring"
+  },
+  {
+    "subject": "Acute encephalopathy",
+    "relation": "treated_by",
+    "object": "intracranial pressure monitoring"
+  },
+  {
+    "subject": "Acute encephalopathy",
+    "relation": "treated_by",
+    "object": "corticosteroids"
+  },
+  {
+    "subject": "Acute encephalopathy",
+    "relation": "treated_by",
+    "object": "tocilizumab"
+  },
+  {
+    "subject": "Acute encephalopathy",
+    "relation": "treated_by",
+    "object": "plasmapheresis"
+  },
+  {
+    "subject": "Acute encephalopathy",
+    "relation": "treated_by",
+    "object": "decompressive craniectomy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "influenza infection"
+  },
+  {
+    "subject": "Acute encephalopathy",
+    "relation": "associated_with",
+    "object": "inborn errors of metabolism"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "acute encephalopathy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "global developmental delay"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "variants in BCKDHA gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "variants in BCKDHB gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "variants in DBT gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "classic neonatal onset"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "expanded newborn screening"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "stepwise molecular analysis"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "gap-PCR test"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_treatment",
+    "object": "liver transplant"
+  },
+  {
+    "subject": "end-stage liver disease",
+    "relation": "has_treatment",
+    "object": "liver transplant"
+  },
+  {
+    "subject": "end-stage liver disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "end-stage liver disease",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "liver transplant",
+    "relation": "treated_by",
+    "object": "hybrid dual graft liver transplant"
+  },
+  {
+    "subject": "graft shortages",
+    "relation": "has_cause",
+    "object": "demand for liver transplants outpacing available grafts"
+  },
+  {
+    "subject": "end-stage liver disease",
+    "relation": "associated_with",
+    "object": "liver transplant"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "liver transplant"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "pathogenic biallelic variants in BCKDHA, BCKA decarboxylase, or dihydrolipoamide dehydrogenase"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "defect in the function of the Branched-chain 2-ketoacid dehydrogenase complex (BCKDH)"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "brain involvement"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "management/treatment (as mentioned in the guideline)"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Maple Syrup Odour Urine"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Defect in Catabolism of Branched-Chain Amino Acids"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Accumulation of BCAA Breakdown Products"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "2-Keto Acid Derivatives"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "2-Hydroxy Acids"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_treatment",
+    "object": "hypoproteic diet"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_treatment",
+    "object": "integration therapy"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_treatment",
+    "object": "low-protein and semi-synthetic diet"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "osteopenia"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "catabolism"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "leucine intake"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "BCAA-free mixture consumption"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "liver transplantation"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "neurological damage"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "inborn error of metabolism"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "accumulation of branched-chain amino acids"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "autophagy"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "autophagic cell death"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "overproduction of reactive oxygen species"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "poor feeding"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "psychomotor delay"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "neurological damage"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "memory alterations"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "deficit in the branched-chain alpha-ketoacid dehydrogenase complex"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "accumulation of branched-chain amino acids"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "oxidative damage"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "memantine"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "dietary therapy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone therapy"
+  },
+  {
+    "subject": "Paediatric cancer",
+    "relation": "has_symptom",
+    "object": "Swallowing difficulties"
+  },
+  {
+    "subject": "Paediatric cancer",
+    "relation": "treated_by",
+    "object": "Personalised pharmaceutical dosage forms"
+  },
+  {
+    "subject": "Paediatric cancer",
+    "relation": "treated_by",
+    "object": "3D printing technology"
+  },
+  {
+    "subject": "Paediatric cancer",
+    "relation": "associated_with",
+    "object": "Cancer treatment outcomes"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Low amino acid concentrations"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Low acylcarnitine concentrations"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Early diagnosis and treatment"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Variants in the BCKDHB gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "BCKDHB gene variants"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Permanent brain damage"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "treated_by",
+    "object": "Vitamin"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_cause",
+    "object": "Deficiency of cofactors for various enzymes"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Biomarkers"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "feeding problems"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "lethargy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "irritability"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "coma"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "febrile seizures"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "non-acceptance of feeds"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "deficiency of branched-chain alpha-keto acid dehydrogenase enzyme"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "accumulation of branched-chain amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "abnormal levels of branched-chain amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "presence of alloisoleucine"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Altered endogenous metabolites"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Genetic mutation"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Oxidative events"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Detoxification events"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Early treatments"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "L-alloisoleucine"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Methionine"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "LysoPI"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Ascorbate and aldarate pathways disruption"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Pentose and glucuronate interconversions disruption"
+  },
+  {
+    "subject": "Organic acidurias",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Urea-cycle disorders",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Organic acidurias",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Urea-cycle disorders",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Impaired physical functioning"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Impaired social functioning"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Impaired mental functioning"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "dietary restriction"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "financial burden"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "marital conflicts"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "caregiver burden"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "stress"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "sorrow"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "feelings of helplessness"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "encephalopathy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "coma"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "brain edema"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "severe deficiency of branched-chain α-keto acid dehydrogenase complex activity"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "accumulation of branched-chain α-keto acids and amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "neural damage"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "N-acetylcysteine"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "melatonin"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Insufficient catabolism of branched-chain amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Biallelic pathogenic variants in BCKDHA"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Biallelic pathogenic variants in BCKDHB"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Biallelic pathogenic variants in DBT"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "PPM1K defect"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Elevated BCAA levels"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Mild findings"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Rampant caries"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Plaque induced gingivitis"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Enamel hypoplasia"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Skeletal abnormalities"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Abnormal oral behaviors"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Neurocognitive complications"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Semi-synthetic diet"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Tailored oral health promotional interventions"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Multidisciplinary management"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "ketoacidosis"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "coma"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "mental retardation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "psychomotor retardation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "deficiency in the activity of the branched-chain α-ketoacid dehydrogenase (BCKD) complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "accumulation of the branched-chain amino acids (BCAA)"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "high-calorie diet with restricted protein intake"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "specific formulas containing essential amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Encephalopathic crisis"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Metabolic decompensation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Developmental delays"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Feeding difficulties"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Defect in the branched-chain α-ketoacid dehydrogenase complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Elevated branched-chain amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Presence of alloisoleucine"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "BCKDK variant"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "abnormal urinary organic acids"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "diagnosed_by",
+    "object": "GC-MS"
+  },
+  {
+    "subject": "Ketotic Hypoglycemia",
+    "relation": "has_symptom",
+    "object": "Hypoglycemia"
+  },
+  {
+    "subject": "Ketotic Hypoglycemia",
+    "relation": "has_symptom",
+    "object": "Ketosis"
+  },
+  {
+    "subject": "Biotinidase Deficiency",
+    "relation": "treated_by",
+    "object": "Biotin supplementation"
+  },
+  {
+    "subject": "Biotinidase Deficiency",
+    "relation": "diagnosed_by",
+    "object": "GC-MS"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "diagnosed_by",
+    "object": "Urinary Organic Acids Analysis"
+  },
+  {
+    "subject": "Ketotic Hypoglycemia",
+    "relation": "diagnosed_by",
+    "object": "GC-MS"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "psychomotor retardation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "cerebral lesions"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "BCAAs restriction"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "metabolic monitoring"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "defects in the catabolism of the branched-chain amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "bi-allelic pathogenic variants of the BCKDHB gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "autosomal recessive genetic disorder"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Inborn error of BCAA metabolism"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Low protein diet"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "BCFA deficiency"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "high plasma leucine levels"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "restricted intake of branched chain amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "dietary treatment"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "inborn metabolic disorder"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "leucine toxicity"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "high leucine levels"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "early-neonatal symptoms"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "acute life-threatening decompensations"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "long-term neuropsychiatric complications"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "dysfunction of the mitochondrial branched-chain 2-ketoacid dehydrogenase (BCKD) enzyme complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "protein restriction with nontoxic amino acids oral supplementation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Orthotopic liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "poor quality of life"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "massive accumulation of branched-chain amino acids and 2-keto acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "spectrum of symptoms"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "defects in the branched-chain α-ketoacid dehydrogenase (BCKDH) complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "mutations in the BCKDH complex genes"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "early detection and intervention"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "neonatal screening"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "advanced sequencing methodologies"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "mutations in DBT gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "mutations in BCKDHA gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "mutations in BCKDHB gene"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "issues in catabolism of branched-chain amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "metabolic disorder"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "lethality in newborns if untreated"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "severe neurological disorders"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "sudden death"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "metabolic attacks"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "autosomal recessive inherited disorder"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "protein-restricted nutrition"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "abnormal BCAA values"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "deficiency in branched-chain alpha-ketoacid dehydrogenase complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "protein-restricted diet with low branched-chain amino acids content"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "melatonin"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "redox imbalance"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "energy imbalance"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "memory impairment"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "nutritional deficiencies"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "low total antioxidant status"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "BCKDHB gene mutations"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "BCKDHB gene variants"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "lethargy"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "posturing"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "abnormal movements"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "coma"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "deficiency of branched-chain keto acid dehydrogenase complex"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "progressive encephalopathy"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "inborn error of metabolism"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "early diagnosis and treatment"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "has_symptom",
+    "object": "Acute metabolic decompensations"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "has_symptom",
+    "object": "Long-term complications"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "End-stage liver disease",
+    "relation": "treated_by",
+    "object": "Domino liver transplant"
+  },
+  {
+    "subject": "End-stage liver disease",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "associated_with",
+    "object": "Inherited metabolic diseases"
+  },
+  {
+    "subject": "Domino liver transplant using MMA livers",
+    "relation": "has_complication",
+    "object": "Mild MMA"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "has_cause",
+    "object": "Inherited metabolic disorder"
+  },
+  {
+    "subject": "Neonatal-onset organic acidemias",
+    "relation": "has_symptom",
+    "object": "Metabolic acidosis"
+  },
+  {
+    "subject": "Neonatal-onset organic acidemias",
+    "relation": "has_symptom",
+    "object": "Hyperammonemia"
+  },
+  {
+    "subject": "Neonatal-onset organic acidemias",
+    "relation": "has_symptom",
+    "object": "Recurrent metabolic crisis"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "has_symptom",
+    "object": "Chronic kidney disease"
+  },
+  {
+    "subject": "Neonatal-onset organic acidemias",
+    "relation": "has_symptom",
+    "object": "Global developmental delay"
+  },
+  {
+    "subject": "Neonatal-onset organic acidemias",
+    "relation": "has_symptom",
+    "object": "Abnormal electroencephalogram"
+  },
+  {
+    "subject": "Neonatal-onset organic acidemias",
+    "relation": "has_symptom",
+    "object": "Abnormal brain magnetic resonance imaging"
+  },
+  {
+    "subject": "Neonatal-onset organic acidemias",
+    "relation": "has_symptom",
+    "object": "Chronic non-neurologic complications"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "associated_with",
+    "object": "Lower birth weight"
+  },
+  {
+    "subject": "Neonatal-onset organic acidemias",
+    "relation": "treated_by",
+    "object": "Effective treatment"
+  },
+  {
+    "subject": "Neonatal-onset organic acidemias",
+    "relation": "treated_by",
+    "object": "Newer treatment modalities"
+  },
+  {
+    "subject": "Neonatal-onset organic acidemias",
+    "relation": "has_cause",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "NAFLD",
+    "relation": "has_symptom",
+    "object": "elevated liver enzymes"
+  },
+  {
+    "subject": "NAFLD",
+    "relation": "has_symptom",
+    "object": "hepatic steatosis"
+  },
+  {
+    "subject": "NAFLD",
+    "relation": "has_cause",
+    "object": "fructose overconsumption"
+  },
+  {
+    "subject": "NAFLD",
+    "relation": "has_cause",
+    "object": "childhood overweight"
+  },
+  {
+    "subject": "NAFLD",
+    "relation": "associated_with",
+    "object": "insulin resistance"
+  },
+  {
+    "subject": "NAFLD",
+    "relation": "associated_with",
+    "object": "obesity"
+  },
+  {
+    "subject": "NAFLD",
+    "relation": "treated_by",
+    "object": "dietary restriction of fructose consumption"
+  },
+  {
+    "subject": "MSUD",
+    "relation": "associated_with",
+    "object": "NAFLD"
+  },
+  {
+    "subject": "MSUD",
+    "relation": "treated_by",
+    "object": "restricted BCAA and high carbohydrate diets"
+  },
+  {
+    "subject": "MSUD",
+    "relation": "treated_by",
+    "object": "liver transplantation"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "partial or total blockage of the dehydrogenase enzyme activity of branched-chain α-keto acids"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "accumulation of the branched-chain amino acids (BCAA) leucine, isoleucine, and valine"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "accumulation of α-keto acids α-ketoisocaproic acid (KIC), α-keto-β-methylvaleric acid (KMV), and α-ketoisovaleric acid (KIV) in the plasma and urine"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "neuroinflammation"
+  },
+  {
+    "subject": "α-ketoisocaproic acid (KIC)",
+    "relation": "has_effect",
+    "object": "changes in the levels of pro-inflammatory cytokines in the brain"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Toxicity"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Single-gene mutations"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Accumulation of branched-chain amino acids"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Inborn error of metabolism disorders"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Polyphenols"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "has_cause",
+    "object": "Enzyme deficiency"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "has_symptom",
+    "object": "Metabolism problems"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "treated_by",
+    "object": "Dietary therapy"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "treated_by",
+    "object": "Smart plate system"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease (MSUD)",
+    "relation": "associated_with",
+    "object": "Metabolic disorder"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "cognitive deficits"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "locomotor"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "poor feeding"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "psychomotor delay"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "mental retardation"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "memory impairment"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "social impairment"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "blockade in the activity of branched-chain complex alpha-keto acids dehydrogenase"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "high levels of branched-chain amino acids"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "alterations in glutamate levels"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "behavior impairment"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "elevated leucine levels"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "renal replacement therapy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "continuous veno-venous hemodiafiltration"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "peritoneal dialysis"
+  },
+  {
+    "subject": "continuous veno-venous hemodiafiltration",
+    "relation": "has_complication",
+    "object": "hypotension"
+  },
+  {
+    "subject": "continuous veno-venous hemodiafiltration",
+    "relation": "has_complication",
+    "object": "electrolyte imbalance"
+  },
+  {
+    "subject": "continuous veno-venous hemodiafiltration",
+    "relation": "has_complication",
+    "object": "filter obstruction"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "elevated plasma leucine levels"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "mutations in BCKDHA, BCKDHB, and DBT"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "compound heterozygous pathogenic variants in BCKDHA"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "branched-chain amino acid metabolism disorder"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "whole-genome sequencing"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "junction-specific polymerase chain reaction"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "fluorescence in situ hybridization"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "prenatal/preimplantation tests"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "defective branched-chain alpha-ketoacid dehydrogenase complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "accumulation of branched-chain amino acids (BCAAs) and their respective keto acids (BCKAs)"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "diagnosis using LC-MS from dried blood spot (DBS) samples"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "measurement of BCAAs and BCKAs"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Encephalopathy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Coma"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Cerebral edema"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Motor delay"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Ataxia"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Psychiatric symptoms"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Severe deficiency of branched-chain α-keto acid dehydrogenase complex activity"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Brain amino acid imbalance"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Neuroinflammation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Disturbing brain bioenergetics"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Redox homeostasis disturbance"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Antioxidant drugs"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Bioenergetics stimulating drugs"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "defect in the branched-chain alpha-ketoacid dehydrogenase complex"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "accumulation of the branched-chain amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "nausea"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "presyncope"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "cerebral edema"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "dietary restrictions"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "protein-restricted sick-day diet"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "intravenous fluids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "infections"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "injury"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "rheumatoid arthritis"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "deficiency in the activity of the branched-chain α-ketoacid dehydrogenase complex"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "depressive symptoms"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "chronic neuropsychiatric disorders"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "brain damage"
+  },
+  {
+    "subject": "Depressive symptoms",
+    "relation": "treated_by",
+    "object": "tianeptine"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "accumulation of the branched-chain amino acids"
+  },
+  {
+    "subject": "Inborn Errors of Metabolism",
+    "relation": "has_cause",
+    "object": "Genetic Disorder"
+  },
+  {
+    "subject": "Inborn Errors of Metabolism",
+    "relation": "associated_with",
+    "object": "Maternal Health Conditions"
+  },
+  {
+    "subject": "Inborn Errors of Metabolism",
+    "relation": "treated_by",
+    "object": "Treatment at Reference Center"
+  },
+  {
+    "subject": "Inborn Errors of Metabolism",
+    "relation": "has_symptom",
+    "object": "Significant Health Impacts"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Difficulty to digest and process proteins"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_cause",
+    "object": "Harmful branched-chain amino acids (BCAAs)"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Dietary control of amino acids"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "MSUD Baby Buddy"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Protein intake"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Plasma BCAAs levels"
+  },
+  {
+    "subject": "Amyloidosis",
+    "relation": "has_treatment",
+    "object": "Domino liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_treatment",
+    "object": "Domino liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Amyloidosis",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Intellectual Disability"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Coma"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Irreversible Brain Damage"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Death"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "treated_by",
+    "object": "Dietary Intake Adjustment"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Deficiency in Branched-Chain Ketoacid Dehydrogenase Complex"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Elevation and Accumulation of BCAA and Ketoacids"
+  },
+  {
+    "subject": "Inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "overlapping symptoms"
+  },
+  {
+    "subject": "Inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "early intervention"
+  },
+  {
+    "subject": "Inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "newborn screening programmes"
+  },
+  {
+    "subject": "Inherited metabolic disorders",
+    "relation": "associated_with",
+    "object": "caregiver stress"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "is_a",
+    "object": "Inherited metabolic disorders"
+  },
+  {
+    "subject": "Inherited metabolic disorders",
+    "relation": "has_cause",
+    "object": "genetic inheritance"
+  },
+  {
+    "subject": "Brain Injury",
+    "relation": "treated_by",
+    "object": "Branched-chain amino acid-based treatment"
+  },
+  {
+    "subject": "maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "homocystinuria",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "methylmalonic acidemia",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "propionic acidemia",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "glutaric acidemia type 1",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "glutaric acidemia type 2",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "guanidinoacetate methyltransferase deficiency",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "short-chain acyl-CoA dehydrogenase deficiency",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "adrenoleukodystrophy",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "homocystinuria",
+    "relation": "treated_by",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "methylmalonic acidemia",
+    "relation": "treated_by",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "propionic acidemia",
+    "relation": "treated_by",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "glutaric acidemia type 1",
+    "relation": "treated_by",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "glutaric acidemia type 2",
+    "relation": "treated_by",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "guanidinoacetate methyltransferase deficiency",
+    "relation": "treated_by",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "short-chain acyl-CoA dehydrogenase deficiency",
+    "relation": "treated_by",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "maple syrup urine disease",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "homocystinuria",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "methylmalonic acidemia",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "propionic acidemia",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "glutaric acidemia type 1",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "glutaric acidemia type 2",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "guanidinoacetate methyltransferase deficiency",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "short-chain acyl-CoA dehydrogenase deficiency",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "adrenoleukodystrophy",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "biomarkers"
+  },
+  {
+    "subject": "homocystinuria",
+    "relation": "associated_with",
+    "object": "biomarkers"
+  },
+  {
+    "subject": "methylmalonic acidemia",
+    "relation": "associated_with",
+    "object": "biomarkers"
+  },
+  {
+    "subject": "propionic acidemia",
+    "relation": "associated_with",
+    "object": "biomarkers"
+  },
+  {
+    "subject": "glutaric acidemia type 1",
+    "relation": "associated_with",
+    "object": "biomarkers"
+  },
+  {
+    "subject": "glutaric acidemia type 2",
+    "relation": "associated_with",
+    "object": "biomarkers"
+  },
+  {
+    "subject": "guanidinoacetate methyltransferase deficiency",
+    "relation": "associated_with",
+    "object": "biomarkers"
+  },
+  {
+    "subject": "short-chain acyl-CoA dehydrogenase deficiency",
+    "relation": "associated_with",
+    "object": "biomarkers"
+  },
+  {
+    "subject": "adrenoleukodystrophy",
+    "relation": "associated_with",
+    "object": "biomarkers"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "biomarkers"
+  },
+  {
+    "subject": "newborn screening",
+    "relation": "associated_with",
+    "object": "LC-MS/MS"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Urine Disease Symptom"
+  },
+  {
+    "subject": "End-stage Liver Disease",
+    "relation": "treated_by",
+    "object": "Living Donor Domino Liver Transplantation"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_cause",
+    "object": "Unknown/Not mentioned"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "associated_with",
+    "object": "Abnormal Serum Amino Acid Values"
+  },
+  {
+    "subject": "End-stage Liver Disease",
+    "relation": "associated_with",
+    "object": "Biliary Atresia"
+  },
+  {
+    "subject": "End-stage Liver Disease",
+    "relation": "associated_with",
+    "object": "Congenital Hepatic Fibrosis"
+  },
+  {
+    "subject": "End-stage Liver Disease",
+    "relation": "associated_with",
+    "object": "Congenital Protein C Deficiency"
+  },
+  {
+    "subject": "End-stage Liver Disease",
+    "relation": "associated_with",
+    "object": "Familial Hypercholesterolemia"
+  },
+  {
+    "subject": "End-stage Liver Disease",
+    "relation": "associated_with",
+    "object": "Hepatoblastoma"
+  },
+  {
+    "subject": "End-stage Liver Disease",
+    "relation": "associated_with",
+    "object": "Mitochondrial Hepatopathy"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Acute encephalopathy"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Subacute encephalopathy"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Slowly progressive encephalopathy"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_cause",
+    "object": "Infection"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_cause",
+    "object": "Fasting"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Neurological impairment"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Death"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "diagnosed_by",
+    "object": "Biochemical tests"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "diagnosed_by",
+    "object": "Genetic tests"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "diagnosed_by",
+    "object": "Neuroimaging studies"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "treated_by",
+    "object": "Therapy"
+  },
+  {
+    "subject": "Urea cycle disorders",
+    "relation": "associated_with",
+    "object": "Intoxication disorders"
+  },
+  {
+    "subject": "Aminoacidopathies",
+    "relation": "associated_with",
+    "object": "Intoxication disorders"
+  },
+  {
+    "subject": "Organic acidopathies",
+    "relation": "associated_with",
+    "object": "Intoxication disorders"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "assessed_by",
+    "object": "Proton magnetic resonance spectroscopy"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "Encephalopathy"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "Stroke-like episodes"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "Thromboses"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "Liver failure"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "Cardiac failure"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "Arrhythmias"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "Rhabdomyolysis"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "Reducing accumulation of toxic small molecule"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "Preventing or reversing catabolism"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "Removing dietary precursors"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "Diverting precursors to alternative pathways"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "Inhibiting an earlier step in the affected pathway"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "Binding toxic chemical to a drug"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "treated_by",
+    "object": "Extracorporeal blood purification"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "has_cause",
+    "object": "Accumulation of toxic chemical"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "has_cause",
+    "object": "Catabolism"
+  },
+  {
+    "subject": "Intoxication-type inherited metabolic disorders",
+    "relation": "associated_with",
+    "object": "Severe metabolic defect"
+  }
+]

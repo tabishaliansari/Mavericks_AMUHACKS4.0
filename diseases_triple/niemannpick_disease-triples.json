@@ -1,0 +1,3822 @@
+[
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "Mutations in SMPD1 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "Accumulation of sphingomyelin in lysosomes"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "SMPD1 gene mutation c.1497_1498GT > AC"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "SMPD1 gene mutation c.1486 + 5G > C"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_cause",
+    "object": "pathological variations in NPC1"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "treated_by",
+    "object": "systemic adeno-associated virus (AAV) gene therapy with AAV9"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "is_a",
+    "object": "rare, fatal neurodegenerative disorder"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "associated_with",
+    "object": "neutralizing antibodies (NAbs)"
+  },
+  {
+    "subject": "Dehong virus infection",
+    "relation": "has_cause",
+    "object": "Dehong virus"
+  },
+  {
+    "subject": "Dehong virus infection",
+    "relation": "associated_with",
+    "object": "Niemann-Pick disease, type C1"
+  },
+  {
+    "subject": "Dehong virus infection",
+    "relation": "treated_by",
+    "object": "antiviral therapies"
+  },
+  {
+    "subject": "Dehong virus infection",
+    "relation": "treated_by",
+    "object": "vaccine candidates"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_cause",
+    "object": "Genetics"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_cause",
+    "object": "Lifestyle"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "associated_with",
+    "object": "FTO gene"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "associated_with",
+    "object": "FAIM2 gene"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "associated_with",
+    "object": "NPC1 gene"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "associated_with",
+    "object": "GNPDA2 gene"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "associated_with",
+    "object": "MC4R gene"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "associated_with",
+    "object": "BDNF gene"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_symptom",
+    "object": "Neurodegeneration"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_symptom",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "chronic organ failure"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_cause",
+    "object": "parental consanguinity"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Tyrosinemia type 1",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Primary hyperoxaluria",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Urea cycle disorders",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Homozygous familial hypercholesterolemia",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Propionic acidemia",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Deoxyguanosine kinase deficiency",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Niemann-Pick disease type B",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Alkaptonuria with unknown neonatal cholestasis",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Bile acid synthesis disorder",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_symptom",
+    "object": "Neurological symptoms"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_cause",
+    "object": "Impaired intracellular cholesterol trafficking"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "associated_with",
+    "object": "Elevated cerebrospinal fluid neuron-specific enolase"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "treated_by",
+    "object": "Intrathecal 2-hydroxypropyl-β-cyclodextrin (IT HPβCD) therapy"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "associated_with",
+    "object": "Annual Severity Increment Score (ASIS)"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "associated_with",
+    "object": "NPC Neurological Severity Score (NSS)"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "tau protein aggregation"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "suppression of Niemann-Pick disease type C1 protein"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "tauopathies"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "tauopathies",
+    "relation": "has_cause",
+    "object": "intracellular enrichment of negatively charged substances or vesicles"
+  },
+  {
+    "subject": "tauopathies",
+    "relation": "has_symptom",
+    "object": "tau protein aggregation"
+  },
+  {
+    "subject": "tauopathies",
+    "relation": "treated_by",
+    "object": "therapeutic intervention targeting intracellular cholesterol trafficking"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "lysosomal enlargement"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "neurofibrillary tangle pathology"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "abdominal swelling"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "delayed growth"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "pancytopenia"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "focal splenic infarct"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "diffuse interstitial septal thickening"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "ground glass opacities in the lungs"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "deficient lysosomal enzyme"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "faulty cholesterol transport"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "presence of foam cells"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "tuberculosis"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "lymphoma"
+  },
+  {
+    "subject": "Thyroid disorders",
+    "relation": "associated_with",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "Thyroid disorders",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Thyroid disorders",
+    "relation": "associated_with",
+    "object": "Amyotrophic lateral sclerosis"
+  },
+  {
+    "subject": "Thyroid disorders",
+    "relation": "associated_with",
+    "object": "Frontotemporal dementia"
+  },
+  {
+    "subject": "Thyroid disorders",
+    "relation": "associated_with",
+    "object": "Lewy body dementia"
+  },
+  {
+    "subject": "Thyroid disorders",
+    "relation": "associated_with",
+    "object": "Progressive supranuclear palsy"
+  },
+  {
+    "subject": "Thyroid disorders",
+    "relation": "associated_with",
+    "object": "Vascular dementia"
+  },
+  {
+    "subject": "Thyroid disorders",
+    "relation": "associated_with",
+    "object": "Niemann-Pick disease type C"
+  },
+  {
+    "subject": "Thyroid disorders",
+    "relation": "associated_with",
+    "object": "Wilson's disease"
+  },
+  {
+    "subject": "Thyroid disorders",
+    "relation": "associated_with",
+    "object": "Multiple sclerosis"
+  },
+  {
+    "subject": "Lewy body dementia",
+    "relation": "treated_by",
+    "object": "Thyroidectomy"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_treatment",
+    "object": "P-type activation of TPC2"
+  },
+  {
+    "subject": "Batten disease",
+    "relation": "has_treatment",
+    "object": "P-type activation of TPC2"
+  },
+  {
+    "subject": "Mucolipidosis type IV",
+    "relation": "has_treatment",
+    "object": "P-type activation of TPC2"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "associated_with",
+    "object": "lysosomal storage disease"
+  },
+  {
+    "subject": "Batten disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disease"
+  },
+  {
+    "subject": "Mucolipidosis type IV",
+    "relation": "associated_with",
+    "object": "lysosomal storage disease"
+  },
+  {
+    "subject": "TPCs dysfunction",
+    "relation": "associated_with",
+    "object": "infectious diseases"
+  },
+  {
+    "subject": "TPCs dysfunction",
+    "relation": "associated_with",
+    "object": "Ebola"
+  },
+  {
+    "subject": "TPCs dysfunction",
+    "relation": "associated_with",
+    "object": "Covid19"
+  },
+  {
+    "subject": "TPCs dysfunction",
+    "relation": "associated_with",
+    "object": "cancer"
+  },
+  {
+    "subject": "TPCs dysfunction",
+    "relation": "has_symptom",
+    "object": "defects in trafficking of EGFR"
+  },
+  {
+    "subject": "TPCs dysfunction",
+    "relation": "has_symptom",
+    "object": "defects in trafficking of 1-integrin"
+  },
+  {
+    "subject": "TPCs dysfunction",
+    "relation": "has_symptom",
+    "object": "fatty liver disease"
+  },
+  {
+    "subject": "TPCs dysfunction",
+    "relation": "has_cause",
+    "object": "loss or gain of function of TPCs"
+  },
+  {
+    "subject": "TPC2",
+    "relation": "treated_by",
+    "object": "lipophilic small molecule agonists"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid sphingomyelinase"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_cause",
+    "object": "Smpd1 gene mutation"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "cardiac pathological changes"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "lysosomal dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "pericytes and cardiomyocytes inflammation"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "increased lipid deposition and cardiac steatosis"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "pericyte-to-myofibroblast transition"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "interstitial fibrosis"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "coronary microvascular dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "systolic and diastolic cardiac function impairments"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "reduced ejection fraction"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "prolonged left ventricular relaxation time constant"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "arimoclomol"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "miglustat"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "neurological manifestations"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "cholestatic jaundice"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "seizure"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "difficulty in speech"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "swallowing difficulty"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "recurrent respiratory tract infection"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "jaundice"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "mutations in NPC1 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "mutations in NPC2 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "frequent monitoring of liver function"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "speech therapy"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "nutritional therapy"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "autosomal recessive lysosomal lipid storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_symptom",
+    "object": "axonal damage"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_cause",
+    "object": "Impaired function of NPC1"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_cause",
+    "object": "endolysosomal accumulation of unesterified cholesterol"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "associated_with",
+    "object": "amyloid plaques"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "associated_with",
+    "object": "neurofibrillary tangles"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "associated_with",
+    "object": "neurodegenerative disorders"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "treated_by",
+    "object": "miglustat"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "treated_by",
+    "object": "intrathecal 2-hydroxypropyl-β-cyclodextrin therapy"
+  },
+  {
+    "subject": "Niemann Pick Disease Type C",
+    "relation": "has_cause",
+    "object": "mutations in the cholesterol trafficking protein NPC1"
+  },
+  {
+    "subject": "Niemann Pick Disease Type C",
+    "relation": "associated_with",
+    "object": "brain endothelial dysfunction"
+  },
+  {
+    "subject": "Niemann Pick Disease Type C",
+    "relation": "treated_by",
+    "object": "hydroxypropyl-β cyclodextrin (HPβCD)"
+  },
+  {
+    "subject": "Niemann Pick Disease Type C",
+    "relation": "has_symptom",
+    "object": "brain endothelial dysfunction"
+  },
+  {
+    "subject": "Niemann–Pick disease type C",
+    "relation": "has_symptom",
+    "object": "abnormal cholesterol accumulation in lysosomes"
+  },
+  {
+    "subject": "Niemann–Pick disease type C",
+    "relation": "has_symptom",
+    "object": "loss of Purkinje cells"
+  },
+  {
+    "subject": "Niemann–Pick disease type C",
+    "relation": "has_symptom",
+    "object": "body weight loss"
+  },
+  {
+    "subject": "Niemann–Pick disease type C",
+    "relation": "has_cause",
+    "object": "lysosomal storage"
+  },
+  {
+    "subject": "Niemann–Pick disease type C",
+    "relation": "associated_with",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "Niemann–Pick disease type C",
+    "relation": "treated_by",
+    "object": "sulforaphane"
+  },
+  {
+    "subject": "Niemann–Pick disease type C",
+    "relation": "treated_by",
+    "object": "TFEB agonists"
+  },
+  {
+    "subject": "Batten disease",
+    "relation": "has_cause",
+    "object": "mutations in the CLN3 gene"
+  },
+  {
+    "subject": "Batten disease",
+    "relation": "has_symptom",
+    "object": "accumulation of glycerophosphodiesters (GPDs) in patient lysosomes"
+  },
+  {
+    "subject": "Batten disease",
+    "relation": "associated_with",
+    "object": "lysosome storage dysfunction"
+  },
+  {
+    "subject": "Batten disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative lysosomal storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "treated_by",
+    "object": "N-acetyl-L-leucine (NALL)"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "has_symptom",
+    "object": "Neurological signs"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "has_symptom",
+    "object": "Ataxia"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type B",
+    "relation": "has_symptom",
+    "object": "interstitial lung disease"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type B",
+    "relation": "has_symptom",
+    "object": "susceptibility to infections"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_cause",
+    "object": "Lysosomal acid sphingomyelinase (ASM; SMPD1) deficiency"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "associated_with",
+    "object": "sphingomyelin accumulation"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "associated_with",
+    "object": "decreased ceramide"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "associated_with",
+    "object": "alterations in sphingolipid metabolism"
+  },
+  {
+    "subject": "Lung injury",
+    "relation": "treated_by",
+    "object": "ASM inhibition"
+  },
+  {
+    "subject": "Acute lung injury",
+    "relation": "has_treatment_effect",
+    "object": "Smpd1 deletion"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "has_cause",
+    "object": "mutation in NPC1 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "has_symptom",
+    "object": "impaired microglia phenotype"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "has_symptom",
+    "object": "increased lysosome protein CD68"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "has_symptom",
+    "object": "increased phagocytic activity"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "has_symptom",
+    "object": "changes in microglial morphologies"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "has_symptom",
+    "object": "impairment of lysosomal function"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "associated_with",
+    "object": "disrupted TREM2-mTOR signaling"
+  },
+  {
+    "subject": "Niemann-Pick disease Type C",
+    "relation": "treated_by",
+    "object": "genetic deletion of Trem2"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "mutations in NPC1 or NPC2 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "infertility"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "novel therapies"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "Npc1-deficiency"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "has_symptom",
+    "object": "dysarthria"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "has_symptom",
+    "object": "psychotic symptoms"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "has_symptom",
+    "object": "behavioral symptoms"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "has_symptom",
+    "object": "white matter abnormalities"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "has_symptom",
+    "object": "brain volumetric reduction"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "treated_by",
+    "object": "miglustat"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "has_cause",
+    "object": "mutations in the NPC1 gene"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "associated_with",
+    "object": "specific genetic variants"
+  },
+  {
+    "subject": "Niemann-Pick type C (NPC) disease",
+    "relation": "associated_with",
+    "object": "cognitive and behavioral impairments"
+  },
+  {
+    "subject": "Mitochondriopathies",
+    "relation": "has_symptom",
+    "object": "Central nervous system involvement"
+  },
+  {
+    "subject": "Mitochondriopathies",
+    "relation": "treated_by",
+    "object": "Combination of biomarkers including CHIT1"
+  },
+  {
+    "subject": "Mitochondriopathies",
+    "relation": "associated_with",
+    "object": "Niemann pick disease type C"
+  },
+  {
+    "subject": "Mitochondriopathies",
+    "relation": "has_cause",
+    "object": "Lysosomal pathway involvement"
+  },
+  {
+    "subject": "NMDs",
+    "relation": "has_cause",
+    "object": "Unknown"
+  },
+  {
+    "subject": "NMDs",
+    "relation": "associated_with",
+    "object": "Mitochondriopathies"
+  },
+  {
+    "subject": "MELAS syndrome",
+    "relation": "has_symptom",
+    "object": "Central nervous system involvement"
+  },
+  {
+    "subject": "Vertigo",
+    "relation": "treated_by",
+    "object": "N-acetyl-L-leucine"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "treated_by",
+    "object": "N-acetyl-L-leucine"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "N-acetyl-L-leucine"
+  },
+  {
+    "subject": "Traumatic brain injuries",
+    "relation": "treated_by",
+    "object": "N-acetyl-L-leucine"
+  },
+  {
+    "subject": "Vertigo",
+    "relation": "has_symptom",
+    "object": "related symptoms"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "peripheral organ dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "arimoclomol"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "miglustat"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "lysosomal dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "cytotoxic accumulation of unesterified cholesterol and glycosphingolipids"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "lysosomal dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "autophagy flux decrease"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_symptom",
+    "object": "Neuroinflammation"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_cause",
+    "object": "Defective Lysosomes"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "treated_by",
+    "object": "STING-TFEB axis"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "associated_with",
+    "object": "Defective Lysosomes"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "associated_with",
+    "object": "Neuroinflammation"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "has_symptom",
+    "object": "fibrosing interstitial lung disease"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "has_symptom",
+    "object": "pseudo-tumoral nodule"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "has_cause",
+    "object": "inhalation of lipid substances"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "has_cause",
+    "object": "paraffin oil"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "has_cause",
+    "object": "nasal drops"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "associated_with",
+    "object": "endogenous lipid pneumonia"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "associated_with",
+    "object": "alveolar proteinosis"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "associated_with",
+    "object": "Niemann-Pick disease"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "associated_with",
+    "object": "cordarone treatment"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "associated_with",
+    "object": "bronchial obstruction"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "treated_by",
+    "object": "not mentioned"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "has_diagnostic_feature",
+    "object": "fatty hypodensity within condensations"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "has_diagnostic_feature",
+    "object": "macrovacuoles in the macrophages"
+  },
+  {
+    "subject": "Exogenous lipid pneumonia",
+    "relation": "has_diagnostic_feature",
+    "object": "Oil-red-O+"
+  },
+  {
+    "subject": "Niemann-Pick disease type B",
+    "relation": "has_symptom",
+    "object": "bilateral macular halos"
+  },
+  {
+    "subject": "Niemann-Pick disease type B",
+    "relation": "has_symptom",
+    "object": "full-thickness macular hole"
+  },
+  {
+    "subject": "Niemann-Pick disease type B",
+    "relation": "has_symptom",
+    "object": "focal parafoveal inner retinal hyperreflectivity"
+  },
+  {
+    "subject": "full-thickness macular hole",
+    "relation": "treated_by",
+    "object": "vitrectomy with inner limiting membrane peeling"
+  },
+  {
+    "subject": "Niemann-Pick disease type B",
+    "relation": "associated_with",
+    "object": "macular halos"
+  },
+  {
+    "subject": "macular halos",
+    "relation": "associated_with",
+    "object": "Niemann-Pick disease type B"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "mutation in SMPD1 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "mutation in NPC1 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "mutation in NPC2 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "multiple cell damage"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "dysfunction of lysosomes"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "dysfunction of body organs"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "associated_with",
+    "object": "cDC maturation"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "associated_with",
+    "object": "AXL"
+  },
+  {
+    "subject": "AXL inhibition",
+    "relation": "targets",
+    "object": "cDC maturation impairment in Niemann-Pick disease type C1"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "mutations in NPC1 and NPC2 genes"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "death"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "CRISPR/Cas9 gene therapy"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "cellular lipid transferring disorder"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "accumulation of cholesterol and glycolipids in late endosomes and lysosomes"
+  },
+  {
+    "subject": "Niemann-Pick Type C disease",
+    "relation": "has_cause",
+    "object": "c.1947 + 5G>C variant"
+  },
+  {
+    "subject": "Niemann-Pick Type C disease",
+    "relation": "has_cause",
+    "object": "c.709C>T; p.Pro237Ser variant"
+  },
+  {
+    "subject": "Niemann-Pick Type C disease",
+    "relation": "has_cause",
+    "object": "heterozygous pathogenic variant"
+  },
+  {
+    "subject": "Niemann-Pick Type C disease",
+    "relation": "treated_by",
+    "object": "new therapies"
+  },
+  {
+    "subject": "Niemann-Pick Type C disease",
+    "relation": "associated_with",
+    "object": "autosomal recessive inborn errors of metabolism"
+  },
+  {
+    "subject": "Niemann-Pick Type C disease",
+    "relation": "associated_with",
+    "object": "genetic disorders"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Cognitive impairment"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Sensory deficits"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Neurological involvement"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Substrate reduction therapy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Gene therapies"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "Accumulation of undegraded substrates within lysosomes"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "Multisystemic manifestations"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "Central nervous system involvement"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "Hepatosplenomegaly"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "Inability to thrive"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "Neurological deficits"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "Abdominal distension"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "Failure to thrive"
+  },
+  {
+    "subject": "Niemann-Pick disease type A",
+    "relation": "has_cause",
+    "object": "SMPD-1 gene mutation"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "NPC-1 gene mutation"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "NPC-2 gene mutation"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick disease type A",
+    "relation": "treated_by",
+    "object": "Nutritional therapy"
+  },
+  {
+    "subject": "Niemann-Pick disease type A",
+    "relation": "treated_by",
+    "object": "Physiotherapy"
+  },
+  {
+    "subject": "Niemann-Pick disease type A",
+    "relation": "associated_with",
+    "object": "Chest infections"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "Respiratory dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "Absence or deficiency of lysosomal enzymes"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "Forced oscillation technique"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Abnormal FOT outcomes"
+  },
+  {
+    "subject": "Respiratory dysfunction",
+    "relation": "assessed_by",
+    "object": "Spirometry"
+  },
+  {
+    "subject": "Respiratory dysfunction",
+    "relation": "assessed_by",
+    "object": "Forced oscillation technique"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "diagnosed_by",
+    "object": "Spirometry"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "liver damage"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "brain alterations"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "accumulation of lipids in the liver"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "accumulation of lipids in the spleen"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "accumulation of lipids in the brain"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "accumulation of lipids in the bone marrow"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "genetic disorders"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "abnormal lipid metabolism"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "liver inflammation"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "non-invasive follow-up technique using magnetic resonance spectroscopy"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "hepatic dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "disturbed cholesterol homeostasis"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "neurological characteristics"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "2-hydroxypropyl-γ-cyclodextrin"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "2-hydroxypropyl-β-cyclodextrin"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "lysosomal lipid storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "lysosomal lipid storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_cause",
+    "object": "pathological variants in NPC1"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "treated_by",
+    "object": "AAV9-hNPC1 gene therapy"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "associated_with",
+    "object": "NPC1 deficiency"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "severe consequences"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "early intervention"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "diagnosed_by",
+    "object": "newborn genomic screening"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Fabry disease"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Krabbe disease"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "glycogen storage disease type II"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Niemann-Pick disease"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "mucopolysaccharidosis type II"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "is_a",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "is_a",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "glycogen storage disease type II",
+    "relation": "is_a",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "is_a",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "mucopolysaccharidosis type II",
+    "relation": "is_a",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "abnormal cholesterol accumulation in lysosomes"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "loss of Purkinje cells"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "body weight loss"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "sulforaphane"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "TFEB agonists"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "lysosomal storage"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "Inherited dyslipidemic splenomegaly",
+    "relation": "has_symptom",
+    "object": "Splenomegaly"
+  },
+  {
+    "subject": "Inherited dyslipidemic splenomegaly",
+    "relation": "has_symptom",
+    "object": "Splenic infarctions"
+  },
+  {
+    "subject": "Inherited dyslipidemic splenomegaly",
+    "relation": "has_symptom",
+    "object": "Gross elevation of N-palmitoyl-O-phosphocholine-serine (PPCS)"
+  },
+  {
+    "subject": "Inherited dyslipidemic splenomegaly",
+    "relation": "has_cause",
+    "object": "Disruptive APOE variants"
+  },
+  {
+    "subject": "Inherited dyslipidemic splenomegaly",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorders (LSDs)"
+  },
+  {
+    "subject": "Inherited dyslipidemic splenomegaly",
+    "relation": "associated_with",
+    "object": "Dysbetalipoproteinemia"
+  },
+  {
+    "subject": "Inherited dyslipidemic splenomegaly",
+    "relation": "associated_with",
+    "object": "Cardiovascular disease"
+  },
+  {
+    "subject": "Inherited dyslipidemic splenomegaly",
+    "relation": "treated_by",
+    "object": "Lipid-lowering medication"
+  },
+  {
+    "subject": "Inherited dyslipidemic splenomegaly",
+    "relation": "treated_by",
+    "object": "Energy restricted diets"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_treatment",
+    "object": "novel drugs"
+  },
+  {
+    "subject": "hereditary angioedema",
+    "relation": "has_treatment",
+    "object": "novel drugs"
+  },
+  {
+    "subject": "aromatic l-amino acid decarboxylase deficiency",
+    "relation": "has_treatment",
+    "object": "novel drugs"
+  },
+  {
+    "subject": "hemophilia",
+    "relation": "has_treatment",
+    "object": "novel drugs"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "rare diseases"
+  },
+  {
+    "subject": "hereditary angioedema",
+    "relation": "associated_with",
+    "object": "rare diseases"
+  },
+  {
+    "subject": "aromatic l-amino acid decarboxylase deficiency",
+    "relation": "associated_with",
+    "object": "rare diseases"
+  },
+  {
+    "subject": "hemophilia",
+    "relation": "associated_with",
+    "object": "rare diseases"
+  },
+  {
+    "subject": "hemophilia",
+    "relation": "associated_with",
+    "object": "ultra-rare diseases"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "ultra-rare diseases"
+  },
+  {
+    "subject": "hereditary angioedema",
+    "relation": "associated_with",
+    "object": "ultra-rare diseases"
+  },
+  {
+    "subject": "aromatic l-amino acid decarboxylase deficiency",
+    "relation": "associated_with",
+    "object": "ultra-rare diseases"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "Loss in neuronal signaling capacity"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "Increase in size of synaptic boutons"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "Intracellular cholesterol transport inhibition"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "Neuronal dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_symptom",
+    "object": "Dysphagia"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_symptom",
+    "object": "Progressive neurological manifestations"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_symptom",
+    "object": "Non-specific symptoms"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "treated_by",
+    "object": "Dietary modifications"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "treated_by",
+    "object": "Swallowing evaluations"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "associated_with",
+    "object": "Aspiration risk"
+  },
+  {
+    "subject": "Dysphagia",
+    "relation": "associated_with",
+    "object": "Aspiration risk"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_cause",
+    "object": "Lysosomal disorder"
+  },
+  {
+    "subject": "Autosomal Recessive Cerebellar Ataxias",
+    "relation": "has_symptom",
+    "object": "Progressive cerebellar dysfunction"
+  },
+  {
+    "subject": "Autosomal Recessive Cerebellar Ataxias",
+    "relation": "has_symptom",
+    "object": "Multisystemic involvement"
+  },
+  {
+    "subject": "Friedreich's ataxia",
+    "relation": "associated_with",
+    "object": "Biallelic variants in ARCA-associated genes"
+  },
+  {
+    "subject": "Ataxia-Telangiectasia",
+    "relation": "has_cause",
+    "object": "Biallelic variants in ARCA-associated genes"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type C",
+    "relation": "has_cause",
+    "object": "Biallelic variants in ARCA-associated genes"
+  },
+  {
+    "subject": "Cerebrotendinous Xanthomatosis",
+    "relation": "has_cause",
+    "object": "Metabolic disorders"
+  },
+  {
+    "subject": "Autosomal Recessive Cerebellar Ataxias",
+    "relation": "treated_by",
+    "object": "Targeted management strategies"
+  },
+  {
+    "subject": "Autosomal Recessive Cerebellar Ataxias",
+    "relation": "has_cause",
+    "object": "Biallelic variants in ARCA-associated genes"
+  },
+  {
+    "subject": "Autosomal Recessive Cerebellar Ataxias",
+    "relation": "associated_with",
+    "object": "High consanguinity"
+  },
+  {
+    "subject": "Diabetic kidney disease",
+    "relation": "has_symptom",
+    "object": "Albuminuria"
+  },
+  {
+    "subject": "Diabetic kidney disease",
+    "relation": "has_symptom",
+    "object": "Renal injury"
+  },
+  {
+    "subject": "Diabetic kidney disease",
+    "relation": "associated_with",
+    "object": "Mitochondrial cholesterol accumulation"
+  },
+  {
+    "subject": "Diabetic kidney disease",
+    "relation": "associated_with",
+    "object": "Mitochondrial damage"
+  },
+  {
+    "subject": "Mitochondrial damage",
+    "relation": "has_symptom",
+    "object": "ROS (reactive oxygen species)"
+  },
+  {
+    "subject": "Diabetic kidney disease",
+    "relation": "treated_by",
+    "object": "Targeting STARD3"
+  },
+  {
+    "subject": "Diabetic kidney disease",
+    "relation": "has_cause",
+    "object": "Cholesterol accumulation in podocytes"
+  },
+  {
+    "subject": "Cholesterol accumulation in podocytes",
+    "relation": "has_cause",
+    "object": "Upregulation of STARD3"
+  },
+  {
+    "subject": "Podocyte injury",
+    "relation": "has_cause",
+    "object": "Mitochondrial cholesterol accumulation"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "Ataxia"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "N-acetyl-l-leucine (NALL)"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "Lysosomal storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "Lysosomal dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "Metabolic dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "has_symptom",
+    "object": "progressive neurological deterioration"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "has_symptom",
+    "object": "mild-to-moderate hearing loss"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "treated_by",
+    "object": "intrathecal 2-hydroxypropyl-β-cyclodextrin (IT-HPBCD)"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "treated_by",
+    "object": "miglustat"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "has_cause",
+    "object": "abnormal intracellular cholesterol transport"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "associated_with",
+    "object": "lysosomal storage disease"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "progressive painless abdominal distension"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "organomegaly"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "neurological deficits"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "millstone growth delay"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "respiratory infections"
+  },
+  {
+    "subject": "Niemann-Pick disease type A",
+    "relation": "has_cause",
+    "object": "Acid sphingomyelinase deficiency"
+  },
+  {
+    "subject": "Niemann-Pick disease type A",
+    "relation": "has_cause",
+    "object": "mutation in SMPD1 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "no specific treatment"
+  },
+  {
+    "subject": "Niemann-Pick disease type A",
+    "relation": "associated_with",
+    "object": "autosomal recessive inheritance"
+  },
+  {
+    "subject": "Niemann-Pick Type-C disease",
+    "relation": "has_symptom",
+    "object": "catatonia"
+  },
+  {
+    "subject": "Niemann-Pick Type-C disease",
+    "relation": "has_symptom",
+    "object": "psychotic symptoms"
+  },
+  {
+    "subject": "Niemann-Pick Type-C disease",
+    "relation": "associated_with",
+    "object": "neuropsychiatric manifestations"
+  },
+  {
+    "subject": "catatonia",
+    "relation": "treated_by",
+    "object": "electroconvulsive therapy"
+  },
+  {
+    "subject": "catatonia",
+    "relation": "treated_by",
+    "object": "lorazepam"
+  },
+  {
+    "subject": "catatonia",
+    "relation": "treated_by",
+    "object": "lamotrigine"
+  },
+  {
+    "subject": "catatonia",
+    "relation": "has_cause",
+    "object": "antipsychotics"
+  },
+  {
+    "subject": "Niemann-Pick Type-C disease",
+    "relation": "has_cause",
+    "object": "autosomal recessive lysosomal storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "loss in neuronal signalling capacity"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "increase in synaptic bouton size"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "intracellular cholesterol transport inhibitor"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "hippocampal neuron dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "none"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "has_symptom",
+    "object": "Lymph Node Metastasis"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "has_symptom",
+    "object": "Distant Metastasis"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "has_symptom",
+    "object": "Advanced TNM Stage"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "treated_by",
+    "object": "Surgery"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "associated_with",
+    "object": "Niemann-Pick Disease Type C1"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "associated_with",
+    "object": "Poor Prognosis"
+  },
+  {
+    "subject": "Gastric Cancer",
+    "relation": "has_cause",
+    "object": "Upregulation of NPC1"
+  },
+  {
+    "subject": "Lysosomal Storage Diseases",
+    "relation": "has_symptom",
+    "object": "Disease complexity"
+  },
+  {
+    "subject": "Lysosomal Storage Diseases",
+    "relation": "has_symptom",
+    "object": "Heterogeneity"
+  },
+  {
+    "subject": "Lysosomal Storage Diseases",
+    "relation": "has_symptom",
+    "object": "Long diagnostic journeys"
+  },
+  {
+    "subject": "Lysosomal Storage Diseases",
+    "relation": "has_symptom",
+    "object": "Inadequate care"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Registry-based care"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Registry-based care"
+  },
+  {
+    "subject": "Mucopolysaccharidosis type I",
+    "relation": "treated_by",
+    "object": "Registry-based care"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Registry-based care"
+  },
+  {
+    "subject": "Lysosomal Storage Diseases",
+    "relation": "associated_with",
+    "object": "Rare Disease Registries"
+  },
+  {
+    "subject": "Lysosomal Storage Diseases",
+    "relation": "has_cause",
+    "object": "Unfamiliarity among healthcare professionals"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "functional deficiency of cholesterol transport proteins"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "altered creatinine synthesis pathway"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "altered cysteine metabolism pathway"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "has_cause",
+    "object": "biallelic pathogenic variants in NPC1"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C1",
+    "relation": "associated_with",
+    "object": "autosomal recessive condition"
+  },
+  {
+    "subject": "High-risk pregnancies with Niemann-Pick disease, type C1",
+    "relation": "treated_by",
+    "object": "amplicon-based next-generation sequencing (NGS) using cell-free fetal DNA (cffDNA) screening"
+  },
+  {
+    "subject": "High-risk pregnancies with Niemann-Pick disease, type C1",
+    "relation": "treated_by",
+    "object": "invasive diagnostic testing"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "has_symptom",
+    "object": "progressive neurological deterioration"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "has_symptom",
+    "object": "walking instability"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "has_symptom",
+    "object": "slurring of speech"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "has_cause",
+    "object": "NPC1 gene mutation"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "has_cause",
+    "object": "NPC2 gene mutation"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "associated_with",
+    "object": "lipid storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "treated_by",
+    "object": "prenatal diagnosis"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "pulmonary involvement"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "interstitial lung disease"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "recurrent pulmonary infections"
+  },
+  {
+    "subject": "Niemann-Pick Disease",
+    "relation": "has_symptom",
+    "object": "respiratory failure"
+  },
+  {
+    "subject": "Niemann-Pick Disease type A",
+    "relation": "has_cause",
+    "object": "mutations in SMPD1 gene"
+  },
+  {
+    "subject": "Niemann-Pick Disease type B",
+    "relation": "has_cause",
+    "object": "mutations in SMPD1 gene"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "has_cause",
+    "object": "mutations in NPC1 or NPC2 genes"
+  },
+  {
+    "subject": "Niemann-Pick Disease type A and B",
+    "relation": "associated_with",
+    "object": "acid sphingomyelinase deficiencies"
+  },
+  {
+    "subject": "Niemann-Pick Disease type C",
+    "relation": "treated_by",
+    "object": "miglustat"
+  },
+  {
+    "subject": "Acid Sphingomyelinase Deficiencies",
+    "relation": "treated_by",
+    "object": "Olipudase α"
+  },
+  {
+    "subject": "Acid Sphingomyelinase Deficiencies",
+    "relation": "treated_by",
+    "object": "lung transplant"
+  },
+  {
+    "subject": "Acid Sphingomyelinase Deficiencies",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C (NPC)",
+    "relation": "has_cause",
+    "object": "Mutations in the NPC1 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C (NPC)",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disease"
+  },
+  {
+    "subject": "Niemann Pick disease B",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Niemann Pick disease B",
+    "relation": "has_symptom",
+    "object": "lung pathological changes"
+  },
+  {
+    "subject": "Niemann Pick disease B",
+    "relation": "associated_with",
+    "object": "Segawa syndrome"
+  },
+  {
+    "subject": "Niemann Pick disease B",
+    "relation": "has_cause",
+    "object": "sphingomyelin phosphodiesterase-1 gene mutations"
+  },
+  {
+    "subject": "Niemann Pick disease B",
+    "relation": "treated_by",
+    "object": "symptomatic supportive treatments"
+  },
+  {
+    "subject": "Niemann Pick disease B",
+    "relation": "has_symptom",
+    "object": "hard skin"
+  },
+  {
+    "subject": "Segawa syndrome",
+    "relation": "has_cause",
+    "object": "tyrosine hydroxylase gene mutations"
+  },
+  {
+    "subject": "Segawa syndrome",
+    "relation": "treated_by",
+    "object": "comprehensive therapies"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_symptom",
+    "object": "liver disease"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_cause",
+    "object": "impaired intracellular cholesterol transport"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "associated_with",
+    "object": "SOAT1 polymorphism"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "treated_by",
+    "object": "SOAT1 inhibitors"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "has_cause",
+    "object": "mutations in the lysosomal protein Niemann-Pick C1"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "has_symptom",
+    "object": "mitochondrial insufficiency"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "treated_by",
+    "object": "miglustat"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "associated_with",
+    "object": "cholesterol export dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "associated_with",
+    "object": "mitochondrial dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_cause",
+    "object": "impaired lysosomal function"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "associated_with",
+    "object": "accumulation of unesterified cholesterol"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "associated_with",
+    "object": "elevated alkyl-lysophosphatidylcholine"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "treated_by",
+    "object": "2-hydroxypropyl-β-cyclodextrin (HPβCD) treatment"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "associated_with",
+    "object": "decreased CSF LPC O-16:0 and LPC O-18:1 levels"
+  },
+  {
+    "subject": "Niemann Pick Disease Type C",
+    "relation": "has_symptom",
+    "object": "Cholesterol accumulation"
+  },
+  {
+    "subject": "Niemann Pick Disease Type C",
+    "relation": "treated_by",
+    "object": "PLA2G15 targeting"
+  },
+  {
+    "subject": "Niemann Pick Disease Type C",
+    "relation": "associated_with",
+    "object": "Neurodegenerative diseases"
+  },
+  {
+    "subject": "Lysosomal lipid accumulation",
+    "relation": "has_cause",
+    "object": "PLA2G15 deficiency"
+  },
+  {
+    "subject": "Lysosomal lipid accumulation",
+    "relation": "has_symptom",
+    "object": "BMP accumulation"
+  },
+  {
+    "subject": "Lysosomal lipid accumulation",
+    "relation": "treated_by",
+    "object": "PLA2G15 supplementation"
+  },
+  {
+    "subject": "Tauopathic syndromes",
+    "relation": "has_cause",
+    "object": "Cerebrovascular dysfunction"
+  },
+  {
+    "subject": "Tauopathic syndromes",
+    "relation": "has_cause",
+    "object": "Endothelial cell damage"
+  },
+  {
+    "subject": "Tauopathic syndromes",
+    "relation": "has_cause",
+    "object": "Impairment of the blood-brain barrier"
+  },
+  {
+    "subject": "Tauopathic syndromes",
+    "relation": "has_cause",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Tauopathic syndromes",
+    "relation": "associated_with",
+    "object": "Metabolic diseases"
+  },
+  {
+    "subject": "Tauopathic syndromes",
+    "relation": "associated_with",
+    "object": "Atherosclerosis"
+  },
+  {
+    "subject": "Tauopathic syndromes",
+    "relation": "associated_with",
+    "object": "Diabetes"
+  },
+  {
+    "subject": "Tauopathic syndromes",
+    "relation": "treated_by",
+    "object": "Carotid artery sonography"
+  },
+  {
+    "subject": "Tauopathic syndromes",
+    "relation": "treated_by",
+    "object": "Revascularization operation"
+  },
+  {
+    "subject": "Tauopathic syndromes",
+    "relation": "treated_by",
+    "object": "Antihypertensive medications"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "macular halo"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "cherry-red spot in the fovea"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "visceral symptoms"
+  },
+  {
+    "subject": "Niemann-Pick disease type B",
+    "relation": "has_symptom",
+    "object": "milder symptoms"
+  },
+  {
+    "subject": "Niemann-Pick disease type B",
+    "relation": "has_symptom",
+    "object": "ophthalmic abnormalities"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "deficiency or reduced function of the enzyme sphingomyelinase"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "deficiency in the intracellular cholesterol transporter protein"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "accumulation of sphingomyelin and cholesterol in lysosomes"
+  },
+  {
+    "subject": "Niemann-Pick disease type B",
+    "relation": "associated_with",
+    "object": "no neurological symptoms"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "therapeutic options"
+  },
+  {
+    "subject": "Niemann Pick type C1",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Niemann Pick type C1",
+    "relation": "has_symptom",
+    "object": "Cognitive decline"
+  },
+  {
+    "subject": "Niemann Pick type C1",
+    "relation": "has_symptom",
+    "object": "Lipid accumulation"
+  },
+  {
+    "subject": "Niemann Pick type C1",
+    "relation": "treated_by",
+    "object": "Miglustat"
+  },
+  {
+    "subject": "Niemann Pick type C1",
+    "relation": "treated_by",
+    "object": "Dipyridamole"
+  },
+  {
+    "subject": "Niemann Pick type C1",
+    "relation": "has_cause",
+    "object": "Endosomal lipid accumulation"
+  },
+  {
+    "subject": "Niemann Pick type C1",
+    "relation": "associated_with",
+    "object": "Damage to peripheral organs"
+  },
+  {
+    "subject": "Niemann Pick type C1",
+    "relation": "associated_with",
+    "object": "Damage to central nervous system"
+  },
+  {
+    "subject": "Niemann Pick type C1",
+    "relation": "associated_with",
+    "object": "Cerebellum damage"
+  },
+  {
+    "subject": "Niemann Pick type C1",
+    "relation": "associated_with",
+    "object": "Hippocampus damage"
+  },
+  {
+    "subject": "Niemann Pick disease type C",
+    "relation": "has_cause",
+    "object": "NPC1 deficiency"
+  },
+  {
+    "subject": "Niemann Pick disease type C",
+    "relation": "associated_with",
+    "object": "NPC1 deficiency"
+  },
+  {
+    "subject": "Hyper-activated STING signaling",
+    "relation": "treated_by",
+    "object": "Chloride channel blockers"
+  },
+  {
+    "subject": "cGAS-STING signaling pathway",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Niemann Pick disease type C",
+    "relation": "has_symptom",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_symptom",
+    "object": "Neurological symptoms"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "Neurological symptoms"
+  },
+  {
+    "subject": "GM2 Gangliosidoses",
+    "relation": "has_symptom",
+    "object": "Neurological symptoms"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_symptom",
+    "object": "Cerebellar ataxia"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "Cerebellar ataxia"
+  },
+  {
+    "subject": "GM2 Gangliosidoses",
+    "relation": "has_symptom",
+    "object": "Cerebellar ataxia"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "assessed_by",
+    "object": "Scale for the Assessment and Rating of Ataxia (SARA)"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "assessed_by",
+    "object": "Scale for the Assessment and Rating of Ataxia (SARA)"
+  },
+  {
+    "subject": "GM2 Gangliosidoses",
+    "relation": "assessed_by",
+    "object": "Scale for the Assessment and Rating of Ataxia (SARA)"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "is_a",
+    "object": "Lysosomal Storage Disorders"
+  },
+  {
+    "subject": "GM2 Gangliosidoses",
+    "relation": "is_a",
+    "object": "Lysosomal Storage Disorders"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "is_a",
+    "object": "GM2 Gangliosidoses"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "is_a",
+    "object": "GM2 Gangliosidoses"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1 (NPC1)",
+    "relation": "has_symptom",
+    "object": "heterogeneous phenotypes"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1 (NPC1)",
+    "relation": "has_cause",
+    "object": "NPC1 variants"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1 (NPC1)",
+    "relation": "associated_with",
+    "object": "7-ketocholesterol biomarker"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1 (NPC1)",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "mutations in Npc1 or Npc2"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "disrupted lipid dysregulation"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "calcium dysfunction"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "elevated damage associated molecular patterns (DAMPs)"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "pro-inflammatory environment"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "Amyloid Precursor Protein (APP)"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "cholesterol dysregulation"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "tau dysregulation"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "atypical activation of interferon signaling"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "patient-reported outcomes"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "treatments"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "treated_by",
+    "object": "products from different companies"
+  },
+  {
+    "subject": "Rare Disease Registries data fragmentation",
+    "relation": "has_cause",
+    "object": "industry-driven registries"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "International Pompe Survey"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "neurological involvement"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "variants in NPC1 or NPC2"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "accumulation of cholesterol and other lipids in late endosomes and lysosomes"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "treated_by",
+    "object": "supportive treatment"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "accumulation of cholesterol and other lipids"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "age-associated accumulation of plaques"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "lysosomal storage"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "metabolic disorders"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "impaired lipid and glucose metabolism"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "hypoxic conditions"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Down Syndrome"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Niemann Pick Disease Type C"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Mucopolysaccharidoses I"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_symptom",
+    "object": "dementia"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "treated_by",
+    "object": "neuroprotection"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "treated_by",
+    "object": "amelioration of AD pathology"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "β-Hexosaminidase A enzyme deficiency"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neuroinflammation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "ketogenic diet"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "propagermanium"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "combined treatment of ketogenic diet and propagermanium"
+  },
+  {
+    "subject": "neuroinflammation",
+    "relation": "has_cause",
+    "object": "GM2 ganglioside accumulation"
+  },
+  {
+    "subject": "neuroinflammation",
+    "relation": "has_cause",
+    "object": "Ccl2"
+  },
+  {
+    "subject": "neuroinflammation",
+    "relation": "treated_by",
+    "object": "propagermanium"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_biomarker",
+    "object": "urinary conjugated cholesterol metabolites"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_biomarker",
+    "object": "serum N-palmitoyl-O-phosphocholine serine"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "reductions in 6 types of steroid hormones"
+  },
+  {
+    "subject": "Glioma",
+    "relation": "has_biomarker",
+    "object": "2-hydroxyglutaric acid"
+  },
+  {
+    "subject": "Glioma",
+    "relation": "has_biomarker",
+    "object": "cystine"
+  },
+  {
+    "subject": "Renal cell carcinoma",
+    "relation": "has_biomarker",
+    "object": "various metabolites"
+  },
+  {
+    "subject": "Non-alcoholic steatohepatitis",
+    "relation": "has_biomarker",
+    "object": "hydrophilic bile acids"
+  },
+  {
+    "subject": "Non-alcoholic steatohepatitis",
+    "relation": "has_biomarker",
+    "object": "non-enzymatic oxidative sterols"
+  },
+  {
+    "subject": "Non-alcoholic steatohepatitis",
+    "relation": "has_symptom",
+    "object": "decrease in phytosterols"
+  },
+  {
+    "subject": "Non-alcoholic steatohepatitis",
+    "relation": "has_symptom",
+    "object": "decrease in cholesterol synthetic markers"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_cause",
+    "object": "NPC1 gene mutation"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_symptom",
+    "object": "renal fibrosis"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_symptom",
+    "object": "apoptosis of renal cells"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_symptom",
+    "object": "vacuoles in the cytoplasm of renal tubular epithelial cells"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "associated_with",
+    "object": "abnormal activation of the Wnt signalling pathway"
+  },
+  {
+    "subject": "Niemann-Pick disease type C1",
+    "relation": "has_symptom",
+    "object": "loose and foam-like cell bodies"
+  },
+  {
+    "subject": "Hepatocellular carcinoma",
+    "relation": "has_cause",
+    "object": "cellular cholesterol intake"
+  },
+  {
+    "subject": "Hepatocellular carcinoma",
+    "relation": "associated_with",
+    "object": "NPC1 overexpression"
+  },
+  {
+    "subject": "Hepatocellular carcinoma",
+    "relation": "has_symptom",
+    "object": "worse prognosis"
+  },
+  {
+    "subject": "Hepatocellular carcinoma",
+    "relation": "treated_by",
+    "object": "NPC1 therapeutic target"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "parkinsonism"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": "dementia"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_cause",
+    "object": "NPC1 mutations"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "NPC1 heterozygosity"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_symptom",
+    "object": "amnesic symptoms"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_biomarker",
+    "object": "increased 7-ketocholesterol"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_biomarker",
+    "object": "increased cholestane-3β,5α,6β-triol"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_biomarker",
+    "object": "ATN biomarkers (A+, T+, N+)"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type C",
+    "relation": "has_symptom",
+    "object": "Altered lysosomal morphology"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type C",
+    "relation": "has_symptom",
+    "object": "Swollen and lipid dense acidic compartments"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type C",
+    "relation": "has_symptom",
+    "object": "Accumulation of lipid species"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type C",
+    "relation": "has_symptom",
+    "object": "Elevation of glucosylsphingosine and glucosylceramides"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type C",
+    "relation": "has_symptom",
+    "object": "Accumulation of sphingosine and sphingomyelins"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type C",
+    "relation": "has_cause",
+    "object": "Dysfunction of NPC2 protein"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type C",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorder"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type C",
+    "relation": "associated_with",
+    "object": "Sphingolipid metabolic dysregulation"
+  },
+  {
+    "subject": "Niemann-Pick Disease Type C",
+    "relation": "associated_with",
+    "object": "Disrupted metabolic and homeostatic mechanisms"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "has_cause",
+    "object": "mutated copies of either the NPC1 or NPC2 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "has_symptom",
+    "object": "lysosomal lipid storage"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "associated_with",
+    "object": "impaired cholesterol recycling"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "associated_with",
+    "object": "changes in the expression of 47 proteins"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "associated_with",
+    "object": "changes in members of the SNARE complex"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "associated_with",
+    "object": "increased phosphorylation of T286 on CaMKIIα"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "associated_with",
+    "object": "increased phosphorylation of S1303 on NR2B"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "has_symptom",
+    "object": "altering protein-protein interactions"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "has_symptom",
+    "object": "neuronal death"
+  },
+  {
+    "subject": "Niemann-Pick disease, type C",
+    "relation": "has_symptom",
+    "object": "learning and memory impairment"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "genetic and metabolic lysosomal dysfunctions"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "lysosomal defects"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "innate immunity"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "neuronal loss"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "neuronal loss"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "neuronal loss"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "genetic ablation of cGAS or STING"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "digestion of neuronal cytosolic dsDNA by DNase"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "repair of neuronal lysosomal dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "gene abnormalities"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "autoactivation of neuron-intrinsic cGAS-STING signalling"
+  },
+  {
+    "subject": "Primary myelofibrosis",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Waldenström macroglobulinemia",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Fanconi anemia",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Chronic eosinophilic leukemia",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Factor X deficiency",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Rare hematologic diseases",
+    "relation": "treated_by",
+    "object": "Treatment at Hematology Service"
+  },
+  {
+    "subject": "Primary myelofibrosis",
+    "relation": "associated_with",
+    "object": "Blood diseases"
+  },
+  {
+    "subject": "Waldenström macroglobulinemia",
+    "relation": "associated_with",
+    "object": "Blood diseases"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Blood diseases"
+  },
+  {
+    "subject": "Fanconi anemia",
+    "relation": "associated_with",
+    "object": "Blood diseases"
+  },
+  {
+    "subject": "Chronic eosinophilic leukemia",
+    "relation": "associated_with",
+    "object": "Blood diseases"
+  },
+  {
+    "subject": "Factor X deficiency",
+    "relation": "associated_with",
+    "object": "Blood diseases"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "Blood diseases"
+  },
+  {
+    "subject": "Rare hematologic diseases",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "has_symptom",
+    "object": "splenomegaly"
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "has_symptom",
+    "object": "leukopenia"
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "has_symptom",
+    "object": "thrombocytopenia"
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "has_symptom",
+    "object": "mediastinal adenopathy"
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "has_symptom",
+    "object": "tree-in-bud opacities"
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "has_symptom",
+    "object": "mucosal nodular lesions"
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "has_cause",
+    "object": "Histoplasma capsulatum"
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "has_cause",
+    "object": "inhalation of spores"
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "associated_with",
+    "object": "pulmonary emphysema"
+  },
+  {
+    "subject": "Histoplasmosis",
+    "relation": "treated_by",
+    "object": "intravenous amphotericin B"
+  },
+  {
+    "subject": "Cytosolic isoleucyl-tRNA synthetase (IARS1) deficiency",
+    "relation": "has_symptom",
+    "object": "growth retardation"
+  },
+  {
+    "subject": "Cytosolic isoleucyl-tRNA synthetase (IARS1) deficiency",
+    "relation": "has_symptom",
+    "object": "intellectual developmental disorder"
+  },
+  {
+    "subject": "Cytosolic isoleucyl-tRNA synthetase (IARS1) deficiency",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Cytosolic isoleucyl-tRNA synthetase (IARS1) deficiency",
+    "relation": "has_symptom",
+    "object": "hepatopathy"
+  },
+  {
+    "subject": "Cytosolic isoleucyl-tRNA synthetase (IARS1) deficiency",
+    "relation": "has_symptom",
+    "object": "Pulmonary alveolar proteinosis (PAP)"
+  },
+  {
+    "subject": "Cytosolic isoleucyl-tRNA synthetase (IARS1) deficiency",
+    "relation": "has_cause",
+    "object": "compound heterozygous variants in the IARS1 gene"
+  },
+  {
+    "subject": "Cytosolic isoleucyl-tRNA synthetase (IARS1) deficiency",
+    "relation": "associated_with",
+    "object": "autosomal recessive inherited disorder"
+  },
+  {
+    "subject": "Pulmonary alveolar proteinosis (PAP)",
+    "relation": "associated_with",
+    "object": "Cytosolic isoleucyl-tRNA synthetase (IARS1) deficiency"
+  },
+  {
+    "subject": "Type 2 Diabetes",
+    "relation": "associated_with",
+    "object": "Cholesin System"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "associated_with",
+    "object": "Cholesin System"
+  },
+  {
+    "subject": "Type 1 Diabetes",
+    "relation": "associated_with",
+    "object": "Cholesin System"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "treated_by",
+    "object": "Roux-en-Y gastric bypass surgery"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "associated_with",
+    "object": "genetic neonatal cholestasis"
+  },
+  {
+    "subject": "Neonatal intrahepatic cholestasis caused by citrin deficiency",
+    "relation": "associated_with",
+    "object": "genetic neonatal cholestasis"
+  },
+  {
+    "subject": "Dubin-Johnson syndrome",
+    "relation": "associated_with",
+    "object": "genetic neonatal cholestasis"
+  },
+  {
+    "subject": "Arthrogryposis-renal dysfunction-cholestasis syndrome",
+    "relation": "associated_with",
+    "object": "genetic neonatal cholestasis"
+  },
+  {
+    "subject": "Progressive familial intrahepatic cholestasis type II",
+    "relation": "associated_with",
+    "object": "genetic neonatal cholestasis"
+  },
+  {
+    "subject": "Rotor syndrome",
+    "relation": "associated_with",
+    "object": "genetic neonatal cholestasis"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "genetic neonatal cholestasis"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "associated_with",
+    "object": "genetic neonatal cholestasis"
+  },
+  {
+    "subject": "Phenylalanyl-tRNA synthetase subunit alpha mutation",
+    "relation": "associated_with",
+    "object": "genetic neonatal cholestasis"
+  },
+  {
+    "subject": "Neonatal intrahepatic cholestasis",
+    "relation": "treated_by",
+    "object": "single-gene testing"
+  },
+  {
+    "subject": "Neonatal intrahepatic cholestasis",
+    "relation": "treated_by",
+    "object": "next-generation sequencing"
+  },
+  {
+    "subject": "Neonatal intrahepatic cholestasis",
+    "relation": "has_cause",
+    "object": "citrin deficiency"
+  },
+  {
+    "subject": "Neonatal intrahepatic cholestasis",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "has_symptom",
+    "object": "cholestasis"
+  },
+  {
+    "subject": "Neonatal intrahepatic cholestasis caused by citrin deficiency",
+    "relation": "has_symptom",
+    "object": "cholestasis"
+  },
+  {
+    "subject": "Arthrogryposis-renal dysfunction-cholestasis syndrome",
+    "relation": "has_symptom",
+    "object": "cholestasis"
+  },
+  {
+    "subject": "Progressive familial intrahepatic cholestasis type II",
+    "relation": "has_symptom",
+    "object": "cholestasis"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Ataxia"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Tremor"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Optic Atrophy"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Cognitive Decline"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Neurodegeneration"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Neonatal Cholestasis"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Liver Failure"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Hepatosplenomegaly"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Neonatal Jaundice"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Elevated Transaminases"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_symptom",
+    "object": "Hypoglycemia"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "has_cause",
+    "object": "SLC44A1 Gene Mutation"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "associated_with",
+    "object": "Autosomal Recessive Inheritance"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "associated_with",
+    "object": "Second-degree Consanguinity"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "treated_by",
+    "object": "Genetic Analysis Test"
+  },
+  {
+    "subject": "Choline Transporter Deficiency",
+    "relation": "treated_by",
+    "object": "Whole Exome Analysis"
+  },
+  {
+    "subject": "Lubarsch-Pick syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Barraquer-Simons syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Urbach-Wiethe disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Oppenheim-Urbach disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "extracellular cholesterinosis of Karl-Urbach",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Chanarin-Dorfman syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Ackerman syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Schnitzler syndrome",
+    "relation": "has_symptom",
+    "object": "Lipsker criteria"
+  },
+  {
+    "subject": "Lubarsch-Pick syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Barraquer-Simons syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Urbach-Wiethe disease",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Chanarin-Dorfman syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Ackerman syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Schnitzler syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "Ludwig Pick"
+  },
+  {
+    "subject": "Lubarsch-Pick syndrome",
+    "relation": "associated_with",
+    "object": "Ludwig Pick"
+  },
+  {
+    "subject": "Barraquer-Simons syndrome",
+    "relation": "associated_with",
+    "object": "Arthur Simons"
+  },
+  {
+    "subject": "Urbach-Wiethe disease",
+    "relation": "associated_with",
+    "object": "Erich Urbach"
+  },
+  {
+    "subject": "Oppenheim-Urbach disease",
+    "relation": "associated_with",
+    "object": "Erich Urbach"
+  },
+  {
+    "subject": "extracellular cholesterinosis of Karl-Urbach",
+    "relation": "associated_with",
+    "object": "Erich Urbach"
+  },
+  {
+    "subject": "Chanarin-Dorfman syndrome",
+    "relation": "associated_with",
+    "object": "Israel Chanarin"
+  },
+  {
+    "subject": "Chanarin-Dorfman syndrome",
+    "relation": "associated_with",
+    "object": "Maurice L. Dorfman"
+  },
+  {
+    "subject": "Schnitzler syndrome",
+    "relation": "associated_with",
+    "object": "Lipsker criteria"
+  },
+  {
+    "subject": "Ackerman syndrome",
+    "relation": "associated_with",
+    "object": "A. Bernard Ackerman"
+  },
+  {
+    "subject": "Braverman sign",
+    "relation": "associated_with",
+    "object": "Irwin M. Braverman"
+  },
+  {
+    "subject": "Brenner sign",
+    "relation": "associated_with",
+    "object": "Sarah Brenner"
+  },
+  {
+    "subject": "Tzanck test",
+    "relation": "treated_by",
+    "object": "Arnault Tzanck"
+  },
+  {
+    "subject": null,
+    "relation": "treated_by",
+    "object": "Urbach-Koningstein technique"
+  },
+  {
+    "subject": "Wolf's isotopic response",
+    "relation": "associated_with",
+    "object": "Ronni Wolf"
+  },
+  {
+    "subject": "Cardiovascular diseases",
+    "relation": "has_cause",
+    "object": "Glycosphingolipids"
+  },
+  {
+    "subject": "Cardiovascular diseases",
+    "relation": "treated_by",
+    "object": "Innovative strategies for diagnosis and treatment"
+  },
+  {
+    "subject": "Cardiovascular diseases",
+    "relation": "associated_with",
+    "object": "Glycosphingolipids metabolic pathways"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "hypertensive intracranial bleed"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "young hypertension"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "nonfunctional bilateral adrenal mass"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "supportive treatment"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "regular symptoms monitoring"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "low activity of acid sphingomyelinase"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "2 pathogenic mutations"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "autosomal recessive inheritance pattern"
+  },
+  {
+    "subject": "Autosomal recessive genetic conditions",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "X-linked genetic conditions",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Autosomal recessive genetic conditions",
+    "relation": "treated_by",
+    "object": "Carrier screening"
+  },
+  {
+    "subject": "X-linked genetic conditions",
+    "relation": "treated_by",
+    "object": "Carrier screening"
+  },
+  {
+    "subject": "Autosomal recessive genetic conditions",
+    "relation": "has_cause",
+    "object": "Pathogenic variants"
+  },
+  {
+    "subject": "X-linked genetic conditions",
+    "relation": "has_cause",
+    "object": "Pathogenic variants"
+  },
+  {
+    "subject": "Autosomal recessive genetic conditions",
+    "relation": "associated_with",
+    "object": "Ashkenazi Jewish ancestry"
+  },
+  {
+    "subject": "X-linked genetic conditions",
+    "relation": "associated_with",
+    "object": "Ashkenazi Jewish ancestry"
+  }
+]

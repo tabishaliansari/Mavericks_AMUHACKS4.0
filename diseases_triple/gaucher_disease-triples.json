@@ -1,0 +1,4282 @@
+[
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "cyanosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "stridor"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "acute respiratory distress"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "severe acute respiratory distress syndrome"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "hypersplenism"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "bulbar dysfunction"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "aspiration"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "hemoptysis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "cardiac arrest"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "recombinant macrophage-targeted enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "compound heterozygote mutation in the GBA1 gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "inborn error of metabolism"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "tremors"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "memory problems"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "difficulty in processing new information"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "bone pain"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "difficulty in shifting gaze and/or tracking objects"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "associated_with",
+    "object": "restricted mobility"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "associated_with",
+    "object": "limited social and family engagements"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "associated_with",
+    "object": "declining independence"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "associated_with",
+    "object": "inability to work or perform at school"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "splenomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "infiltration of Gaucher-like cells"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "chronic neuroinflammation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "reduction in dopaminergic neurons"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "mutations in GBA1"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "increase in α-synuclein protein expression"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "reduced β-glucocerebrosidase activity"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "inflammatory response"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "activation of interferon pathway"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "expression of MHC I complex molecule genes"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "Gaucher cells in bone marrow"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "chromatin roughness"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "nucleoli"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_cause",
+    "object": "heterozygous complex mutation in GBA gene"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_cause",
+    "object": "R496H and L444P mutation"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "decreased GBA expression"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "elevated glucosylsphingosine levels"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "treated_by",
+    "object": "early intervention"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "treated_by",
+    "object": "GD treatment"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "immune dysregulation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Gaucher cell infiltration"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "accumulation of glucosylceramide"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "accumulation of glucosylsphingosine"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "biallelic mutations in Gba"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "upregulation of inflammatory pathways"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "upregulation of lysosomal pathways"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "expansion of monocytes"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "expansion of dendritic cells"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "expansion of pro-inflammatory macrophage subsets"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "elevated GPNMB"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "mutations in the Glucocerebrosidase (GBA) gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "ERT (Enzyme Replacement Therapy)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "reduced CD8+ MAIT cells"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "reduced CD8+ γδ T cells"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "reduced MAIT cell-specific IFN-γ production"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "reduced absolute counts of IFN-γ+ MAIT cells"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "reduced total ILCs"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "reduced ILC1 subset"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "changes in ILC subsets"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "changes in γδ T cells"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "changes in MAIT cells"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "changes in TNF-α and IFN-γ cytokine levels"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_effect_on",
+    "object": "pregnancy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_effect_on",
+    "object": "childbirth"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_effect_on",
+    "object": "lactation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "complications during pregnancy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "has_symptom",
+    "object": "stunted growth"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "has_symptom",
+    "object": "nerve damage"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "has_symptom",
+    "object": "degeneration and death of nervous system cells"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "has_symptom",
+    "object": "loss of neuronal function"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "has_symptom",
+    "object": "neuronal death"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "has_cause",
+    "object": "glucosylceramidase beta 1 (GBA1) mutation"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "associated_with",
+    "object": "lysosomal dysfunction"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative diseases"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "treated_by",
+    "object": "pharmacologic recombinant GCase"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "treated_by",
+    "object": "inhibiting glucocerebroside synthesis"
+  },
+  {
+    "subject": "Neuropathic Gaucher disease",
+    "relation": "treated_by",
+    "object": "AAV9-GBA1-GDNF gene therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "gastroesophageal reflux"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Eliglustat"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapy"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "barriers to receiving Enzyme Replacement Therapy"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_indicator",
+    "object": "glucosylsphingosine (GlcSph) levels"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "bone disease"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "thrombocytopenia"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "anemia"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "lung disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Eliglustat"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "malfunction of the enzyme acid beta-glucosidase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "mutation in the gene GBA"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "accumulation of glucosylceramide"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "autosomal recessive metabolic disorder"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Bone pain"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Pathologic fractures"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Avascular necrosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Organomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Cytopenia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Abnormal bone mineral density"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Vitamin D supplementation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Low bone density"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Elevated chitotriosidase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Elevated ferritin"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Elevated immunoglobulin G"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "mutation in the glucosylceramidase (GBA) gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "increased risk of cancer"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "multiple myeloma"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "B-cell lymphoma"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "leukemia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "hepatocellular carcinoma"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "treatment (unspecified)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Abnormalities in saccadic eye movements"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Pulmonary complications"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Thoracic kyphosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Impaired growth"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Lower peak bone mass"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Delayed puberty"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Bone complications"
+  },
+  {
+    "subject": "Gaucher disease type 2",
+    "relation": "has_symptom",
+    "object": "Progressive primary neuronopathic disease"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "Progressive primary neuronopathic disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Eliglustat"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Substrate synthesis inhibition therapy (SSIT)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "GBA1 variants"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Monoclonal gammopathy of undetermined significance (MGUS)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Multiple myeloma"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Non-Hodgkin's lymphoma"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "Gaucheromas"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "associated_with",
+    "object": "Gaucheromas"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_symptom",
+    "object": "motor symptoms"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_symptom",
+    "object": "non-motor symptoms"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_cause",
+    "object": "GBA1 gene variants"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "associated_with",
+    "object": "Gaucher disease"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "associated_with",
+    "object": "homozygous GBA1 deletion"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "diagnosed_by",
+    "object": "Whole-exome sequencing"
+  },
+  {
+    "subject": "GBA1 gene variants",
+    "relation": "identified_by",
+    "object": "Sanger sequencing"
+  },
+  {
+    "subject": "GBA1 gene variants",
+    "relation": "classified_by",
+    "object": "ACMG guidelines"
+  },
+  {
+    "subject": "GBA1 gene variants",
+    "relation": "classified_by",
+    "object": "ClinGen updates"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficient lysosomal glucocerebrosidase activity"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "accumulation of glycosphingolipids"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Eliglustat"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "cardiac comorbidities"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "prior myocardial infarction"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "aortic stenosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "atrial fibrillation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Wolff-Parkinson-White syndrome"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "pericarditis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "premature ventricular complexes"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "severe pulmonary arterial hypertension with right heart strain"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "mitral annular calcification with diastolic dysfunction"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "mildly prolonged QTc interval"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "arrhythmia-related symptoms"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "QTc prolongation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "arrhythmia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "thrombocytopenia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "bone manifestations"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "cognitive delay"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "oculomotor abnormalities"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "substrate reduction therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency of glucocerebrosidase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "biallelic variants in GBA1 gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "diagnostic delay"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapy (ERT)"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_treatment_location",
+    "object": "Home"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "Reduced Quality of Life"
+  },
+  {
+    "subject": "Enzyme Replacement Therapy (ERT)",
+    "relation": "improves",
+    "object": "Quality of Life"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "associated_with",
+    "object": "Hospital Resource Utilization"
+  },
+  {
+    "subject": "Enzyme Replacement Therapy (ERT)",
+    "relation": "reduces",
+    "object": "Hospital Resource Utilization"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency of glucocerebrosidase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "accumulation of glucosylceramide"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "cellular stress"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "impaired autophagy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "reduced autophagic flux"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "activation of pro-inflammatory p38 mitogen-activated protein kinase (MAPK)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "elevated TNFα"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "cancer"
+  },
+  {
+    "subject": "ultra-rare genetic syndromes",
+    "relation": "associated_with",
+    "object": "mTOR-driven metabolism"
+  },
+  {
+    "subject": "rare congenital lipid metabolism disorders",
+    "relation": "has_symptom",
+    "object": "rare phenotypes"
+  },
+  {
+    "subject": "rare disorders",
+    "relation": "treated_by",
+    "object": "lenalidomide"
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "has_cause",
+    "object": "Genetic heterogeneity"
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "treated_by",
+    "object": "Precision medicine approaches"
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "treated_by",
+    "object": "PGx-guided treatment strategies"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Eliglustat"
+  },
+  {
+    "subject": "Cystic fibrosis",
+    "relation": "treated_by",
+    "object": "Ivacaftor"
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "associated_with",
+    "object": "Small patient populations"
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "associated_with",
+    "object": "Limited surrogate biomarkers"
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "has_symptom",
+    "object": "Adverse drug reactions"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "parental stress"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "parental distress"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "treated_by",
+    "object": "multidisciplinary communication"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "treated_by",
+    "object": "treatment process"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "parental psychological well-being"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "psychosocial functioning"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_cause",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "detected_by",
+    "object": "neonatal screening"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "lipid-laden macrophages"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency of lysosomal glucocerebrosidase (GBA1)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "inherited lysosomal storage disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "sphingolipidoses"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "chronic metabolic inflammation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "enzymatic defect"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "accumulation of glucosylceramide (GlcCer)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "hereditary hemochromatosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Familial Mediterranean Fever"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "homozygous MSH6 mutation-associated hereditary cancer predisposition"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "precision medicine strategies"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_complication",
+    "object": "Liver fibrosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_complication",
+    "object": "Cirrhosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_complication",
+    "object": "End-stage liver disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_complication",
+    "object": "Hepatocellular carcinoma"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Metabolic-associated steatotic liver disease (MASLD)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Substrate reduction therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Imiglucerase"
+  },
+  {
+    "subject": "Liver fibrosis",
+    "relation": "has_symptom",
+    "object": "Liver stiffness"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Liver stiffness"
+  },
+  {
+    "subject": "Liver fibrosis",
+    "relation": "assessed_by",
+    "object": "Transient elastography"
+  },
+  {
+    "subject": "Liver fibrosis",
+    "relation": "predicted_by",
+    "object": "Gaucher liver fibrosis score (GLFS)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "Genetic disorder"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "Biallelic mutations in the GBA1 gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "treated_by",
+    "object": "LRRK2 inhibitors"
+  },
+  {
+    "subject": "GBA1-PD",
+    "relation": "treated_by",
+    "object": "LRRK2 inhibitors"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Neuronal forms of GD"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "mutations in the GBA1 gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency in the glucocerebrosidase gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "accumulation of glucocerebrosides in macrophages"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "liver disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "spleen disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "bone marrow disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "substrate reduction therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "cardiovascular involvement"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "eye-movement disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "late-onset neurological symptoms"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "aortic valve stenosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "extensive aortic calcification"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "porcelain aorta"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "complete atrioventricular block"
+  },
+  {
+    "subject": "Gaucher disease type IIIC",
+    "relation": "has_cause",
+    "object": "glucocerebrosidase enzyme deficiency"
+  },
+  {
+    "subject": "Gaucher disease type IIIC",
+    "relation": "has_cause",
+    "object": "homozygous D409H mutation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement treatment"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "transcatheter aortic valve implantation (TAVI)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "pacemaker"
+  },
+  {
+    "subject": "Gaucher disease type IIIC",
+    "relation": "associated_with",
+    "object": "cardiovascular complications"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "splenomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "anemia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "growth retardation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "mutations in the GBA gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "glucocerebrosidase deficiency"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "protein-energy malnutrition (Kwashiorkor)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "multidisciplinary approach"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "hypertension"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "heart disease"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "hypertension"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "heart disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "hypertension"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "heart disease"
+  },
+  {
+    "subject": "MPS I",
+    "relation": "associated_with",
+    "object": "hypertension"
+  },
+  {
+    "subject": "MPS I",
+    "relation": "associated_with",
+    "object": "heart disease"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "comorbidities"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "lysosomal storage dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "home-based enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_complication",
+    "object": "Osteonecrosis"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "has_symptom",
+    "object": "bone disease"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "has_biomarker",
+    "object": "osteopontin"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "has_biomarker",
+    "object": "MMP-2"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "has_biomarker",
+    "object": "MMP-9"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "has_biomarker",
+    "object": "VEGF-C"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "predicted_by",
+    "object": "MMP-9"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "predicted_by",
+    "object": "combination of MMP-9 and VEGF-C"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "bone disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "osteonecrosis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiac disorders"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "gastrointestinal disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "skin and subcutaneous disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "infections and infestations"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "agalsidase alfa"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "velaglucerase alfa"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficiency in α-galactosidase A"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency in β-glucocerebrosidase"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "infusion-related reactions"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "infusion-related reactions"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_symptom",
+    "object": "Hepatosplenomegaly"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_symptom",
+    "object": "Low HDL cholesterol"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_symptom",
+    "object": "Elevated LDL cholesterol"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_symptom",
+    "object": "Mildly elevated liver function tests"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "Hepatosplenomegaly"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "Low HDL cholesterol"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_symptom",
+    "object": "Low LDL cholesterol"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "associated_with",
+    "object": "Dyslipidemia"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "Dyslipidemia"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "associated_with",
+    "object": "Liver disease"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "Liver disease"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "treated_by",
+    "object": "ASCEND treatment"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "treated_by",
+    "object": "ENGAGE treatment"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_cause",
+    "object": "Inherited sphingolipid disorder"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "has_cause",
+    "object": "Inherited sphingolipid disorder"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_cause",
+    "object": "deficiency in the enzyme glucocerebrosidase"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "altered biomechanical properties of RBCs"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "rheological behavior changes in RBCs"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "bone infarcts"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "avascular necrosis (AVN)"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "other bone diseases"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "associated_with",
+    "object": "bone complications"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "decreased deformability of RBCs"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "increased aggregation properties of RBCs"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "changes in blood viscosity"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "cytopenia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "splenomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "hepatomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "bone lesions"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "osteopenia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "osteoporosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "osteonecrosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "bone pain"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Erlenmeyer flask deformity"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "subchondral joint collapse"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "degenerative arthritis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid β-glucosidase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "inherited autosomal recessive mutation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "bone fragility"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "impaired bone turnover"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "treatment of osteoporosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Erlenmeyer flask-like changes"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "nystagmus"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "delayed growth and development"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "hematological manifestations"
+  },
+  {
+    "subject": "Gaucher disease type III",
+    "relation": "has_symptom",
+    "object": "increased bilateral ABR V wave threshold"
+  },
+  {
+    "subject": "Gaucher disease type III",
+    "relation": "has_symptom",
+    "object": "V/I amplitude ratio <0.5"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "monitoring of neuropathy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "EEG"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "neuro-ophthalmological examination"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "auditory function assessment"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "GBA gene mutation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disease"
+  },
+  {
+    "subject": "Gaucher disease type III",
+    "relation": "associated_with",
+    "object": "neuropathy"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "Lysosomal malfunction"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "Enzyme deficiency"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "Defects in transport or activation proteins"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "Progressive intra- and extra-lysosomal accumulation of undegraded storage material"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "Disturbance of cellular function"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "Secondary toxic and/or inflammatory processes"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Chaperon therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Substrate reduction therapy"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Inborn errors of metabolism"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Chronic Recurrent Multifocal Osteomyelitis (CRMO)",
+    "relation": "has_symptom",
+    "object": "Bony pain"
+  },
+  {
+    "subject": "Chronic Recurrent Multifocal Osteomyelitis (CRMO)",
+    "relation": "has_symptom",
+    "object": "Anemia"
+  },
+  {
+    "subject": "Chronic Recurrent Multifocal Osteomyelitis (CRMO)",
+    "relation": "has_symptom",
+    "object": "Thrombocytopenia"
+  },
+  {
+    "subject": "Chronic Recurrent Multifocal Osteomyelitis (CRMO)",
+    "relation": "has_symptom",
+    "object": "Prolonged prothrombin time (PT)"
+  },
+  {
+    "subject": "Chronic Recurrent Multifocal Osteomyelitis (CRMO)",
+    "relation": "has_symptom",
+    "object": "Elevated C-reactive protein (CRP)"
+  },
+  {
+    "subject": "Chronic Recurrent Multifocal Osteomyelitis (CRMO)",
+    "relation": "has_symptom",
+    "object": "Elevated erythrocyte sedimentation rate (ESR)"
+  },
+  {
+    "subject": "Chronic Recurrent Multifocal Osteomyelitis (CRMO)",
+    "relation": "treated_by",
+    "object": "Methotrexate"
+  },
+  {
+    "subject": "Chronic Recurrent Multifocal Osteomyelitis (CRMO)",
+    "relation": "treated_by",
+    "object": "Steroids"
+  },
+  {
+    "subject": "Chronic Recurrent Multifocal Osteomyelitis (CRMO)",
+    "relation": "treated_by",
+    "object": "Adalimumab"
+  },
+  {
+    "subject": "Chronic Recurrent Multifocal Osteomyelitis (CRMO)",
+    "relation": "associated_with",
+    "object": "Gaucher disease (GD)"
+  },
+  {
+    "subject": "Gaucher disease (GD)",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Osteomyelitis",
+    "relation": "has_cause",
+    "object": "Methicillin-resistant Staphylococcus aureus (MRSA)"
+  },
+  {
+    "subject": "Osteomyelitis",
+    "relation": "has_cause",
+    "object": "Group G hemolytic streptococci"
+  },
+  {
+    "subject": "Osteomyelitis",
+    "relation": "treated_by",
+    "object": "Clindamycin"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "Respiratory dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "Absence or deficiency of lysosomal enzymes"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "Forced oscillation technique"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Abnormal FOT outcomes"
+  },
+  {
+    "subject": "Respiratory dysfunction",
+    "relation": "assessed_by",
+    "object": "Spirometry"
+  },
+  {
+    "subject": "Respiratory dysfunction",
+    "relation": "assessed_by",
+    "object": "Forced oscillation technique"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapy (ERT)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Pharmacological chaperone therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Combinatorial ERT-pharmacological chaperone therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_treatment_side_effect",
+    "object": "Side effects"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "GBA1"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Pharmacological chaperone therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Pharmacological chaperone therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "Deficiency of GBA1"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency of the enzyme glucocerebrosidase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "neuropathological changes"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "microglial activation"
+  },
+  {
+    "subject": "Gaucher disease type II",
+    "relation": "has_symptom",
+    "object": "microglial activation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "defect in GCase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "glyco-AuNPs"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "GCase deficiency"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "mutant GCase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "Pathogenic variants in the glucocerebrosidase (GBA1) gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_cause",
+    "object": "Pathogenic variants in the glucocerebrosidase (GBA1) gene"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_risk_factor",
+    "object": "Mild pathogenic variants in GBA1 gene"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_risk_factor",
+    "object": "Severe pathogenic variants in GBA1 gene"
+  },
+  {
+    "subject": "Genetic conditions",
+    "relation": "prevented_by",
+    "object": "Preimplantation genetic testing (PGT)"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "treated_by",
+    "object": "Preimplantation genetic testing (PGT)"
+  },
+  {
+    "subject": "Transmission of genetic conditions",
+    "relation": "prevented_by",
+    "object": "Preimplantation genetic testing (PGT)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "chronic abdominal pain"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "abdominal fullness"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "pancytopenia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapy (ERT)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Substrate Reduction Therapy (SRT)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "splenectomy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "blood transfusions"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "orthopedic procedures"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency of glucocerebrosidase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "accumulation of Gaucher cells"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "hepatomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "splenomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "bone pain"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "mutations in the GBA gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "CHIT1"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "elevated globotriaosylsphingosine"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "elevated glucosylsphingosine"
+  },
+  {
+    "subject": "Sphingolipidoses",
+    "relation": "treated_by",
+    "object": "UPLC-MS/MS methodology using DUS"
+  },
+  {
+    "subject": "Sphingolipidoses",
+    "relation": "associated_with",
+    "object": "Fabry disease"
+  },
+  {
+    "subject": "Sphingolipidoses",
+    "relation": "associated_with",
+    "object": "Gaucher disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Anemia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Hyperferritinemia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Anemia",
+    "relation": "has_cause",
+    "object": "Iron dysregulation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Ineffective erythropoiesis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Abnormal iron metabolism"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Type 2 Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Type 2 Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Strabismus"
+  },
+  {
+    "subject": "Type 2 Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Splenomegaly"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "has_cause",
+    "object": "Inherited lysosomal storage disorder"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_cause",
+    "object": "Inherited lysosomal storage disorder"
+  },
+  {
+    "subject": "Type 2 Gaucher disease",
+    "relation": "has_cause",
+    "object": "Inherited lysosomal storage disorder"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "associated_with",
+    "object": "Reduced life expectancy"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "Reduced life expectancy"
+  },
+  {
+    "subject": "Type 2 Gaucher disease",
+    "relation": "associated_with",
+    "object": "Reduced life expectancy"
+  },
+  {
+    "subject": "Mucopolysaccharidosis I",
+    "relation": "has_cause",
+    "object": "IDUA α-L-iduronidase deficiency"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "GAA α-glucosidase acid deficiency"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "GBA β-glucosidase deficiency"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "GLA α-galactosidase deficiency"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Early treatments"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Disabling conditions"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Fatal conditions"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "detected_by",
+    "object": "Newborn screening"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "diagnosed_by",
+    "object": "Digital microfluidic technique"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "Genetic diseases"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_cause",
+    "object": "defective activity of the lysosomal enzyme glucocerebrosidase"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "treated_by",
+    "object": "Velaglucerasa alfa"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapy (ERT)"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "treated_by",
+    "object": "Velaglucerase-loaded Eudragit nanoparticles"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "associated_with",
+    "object": "lysosomal disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Lysosomal enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "protein-glycopolypeptide conjugate"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "Lysosomal enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Gaucher disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "biallelic GBA1/Gba1 mutations"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "glycosphingolipid accumulation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "inflammatory responses"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "lysosomal-autophagy dysfunction"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "microgliosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "retinal gliosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "α-Synuclein increases"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "tissue fibrosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "activated microglial phagocytosis of impaired neurons"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "programmed cell death"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "GBA1-associated neurodegenerative diseases"
+  },
+  {
+    "subject": "Urea Cycle Disorders",
+    "relation": "has_symptom",
+    "object": "Acute Metabolic Decompensation"
+  },
+  {
+    "subject": "Maple Syrup Urine Disease",
+    "relation": "has_symptom",
+    "object": "Acute Metabolic Decompensation"
+  },
+  {
+    "subject": "Glycogen Storage Disease Type I",
+    "relation": "has_symptom",
+    "object": "Acute Metabolic Decompensation"
+  },
+  {
+    "subject": "Inborn Errors of Metabolism",
+    "relation": "associated_with",
+    "object": "Mitochondrial Disorders"
+  },
+  {
+    "subject": "Inborn Errors of Metabolism",
+    "relation": "associated_with",
+    "object": "Lysosomal Storage Disorders"
+  },
+  {
+    "subject": "Inborn Errors of Metabolism",
+    "relation": "associated_with",
+    "object": "Phenylketonuria"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_manifestation",
+    "object": "Fabry Disease"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_manifestation",
+    "object": "Pompe Disease"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_manifestation",
+    "object": "Gaucher Disease"
+  },
+  {
+    "subject": "Inborn Errors of Metabolism",
+    "relation": "treated_by",
+    "object": "Adult Specialists"
+  },
+  {
+    "subject": "Prenatal lethal form of Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Hydrops fetalis"
+  },
+  {
+    "subject": "Prenatal lethal form of Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Cerebellum hypoplasia"
+  },
+  {
+    "subject": "Prenatal lethal form of Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Fetal immobility"
+  },
+  {
+    "subject": "Prenatal lethal form of Gaucher disease",
+    "relation": "has_cause",
+    "object": "Compound heterozygosity in GBA gene"
+  },
+  {
+    "subject": "Prenatal lethal form of Gaucher disease",
+    "relation": "associated_with",
+    "object": "Nonimmune hydrops fetalis"
+  },
+  {
+    "subject": "Prenatal lethal form of Gaucher disease",
+    "relation": "diagnosed_by",
+    "object": "Whole exome sequencing (WES)"
+  },
+  {
+    "subject": "Prenatal lethal form of Gaucher disease",
+    "relation": "treated_by",
+    "object": "Termination of pregnancy"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "has_symptom",
+    "object": "osteopenia"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "has_symptom",
+    "object": "osteofibrosis"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "has_symptom",
+    "object": "bone manifestations"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "has_symptom",
+    "object": "abnormal organ volumes"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "treated_by",
+    "object": "substrate reduction therapy"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "associated_with",
+    "object": "menopause"
+  },
+  {
+    "subject": "Gaucher's disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Gaucher's disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapy"
+  },
+  {
+    "subject": "Gaucher's disease",
+    "relation": "treated_by",
+    "object": "Substrate Synthesis Inhibition"
+  },
+  {
+    "subject": "Gaucher's disease",
+    "relation": "associated_with",
+    "object": "diabetes"
+  },
+  {
+    "subject": "Gaucher's disease",
+    "relation": "associated_with",
+    "object": "cardiovascular diseases"
+  },
+  {
+    "subject": "Gaucher's disease",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Gaucher's disease",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "effective treatment"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "previously unrecognized features"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "clinical characteristics"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "inherited deficiency of the enzyme glucocerebrosidase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "parkinsonism"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Parkinson disease"
+  },
+  {
+    "subject": "Parkinson disease",
+    "relation": "has_cause",
+    "object": "GBA1 variants"
+  },
+  {
+    "subject": "Parkinson disease",
+    "relation": "has_symptom",
+    "object": "parkinsonism"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "therapeutic strategies for Gaucher disease"
+  },
+  {
+    "subject": "Parkinson disease",
+    "relation": "treated_by",
+    "object": "drug development informed by Gaucher disease therapeutic strategies"
+  },
+  {
+    "subject": "STEC-HUS",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "STEC-HUS",
+    "relation": "treated_by",
+    "object": "Eliglustat"
+  },
+  {
+    "subject": "STEC-HUS",
+    "relation": "has_cause",
+    "object": "Shiga toxin-producing Escherichia coli"
+  },
+  {
+    "subject": "STEC-HUS",
+    "relation": "associated_with",
+    "object": "STEC infections"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "low hemoglobin concentration"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "low platelet counts"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "enlarged spleen"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "enlarged liver"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "velaglucerase alfa"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "Glucosylsphingosine accumulation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "high lyso-Gb1 concentration"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "High Malondialdehyde (MDA) levels"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Low vitamin E levels"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Low antioxidant enzymes"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Liver stiffness"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "High lyso GL1 levels"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "High severity score index (SSI)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Large liver and spleen volumes"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Vitamin E supplementation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "Enzymatic deficiency"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Epistaxis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Hepatosplenomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Bone pain"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Weakness"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "Mutations in the GBA1 gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Family history"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Consanguineous parents"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Cognitive impairment"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Sensory deficits"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Neurological involvement"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Substrate reduction therapy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Gene therapies"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "Accumulation of undegraded substrates within lysosomes"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "Multisystemic manifestations"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "Central nervous system involvement"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "ichthyosis"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "treated_by",
+    "object": "substrate reduction therapy"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "treated_by",
+    "object": "eliglustat"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "ichthyosis",
+    "relation": "has_cause",
+    "object": "substrate reduction therapy"
+  },
+  {
+    "subject": "Gaucher disease type 2",
+    "relation": "associated_with",
+    "object": "ichthyosis"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "associated_with",
+    "object": "ichthyosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "GBA1 variants"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "glucocerebrosidase deficiency"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "neurological complications"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "systemic symptoms"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "high-dose ambroxol"
+  },
+  {
+    "subject": "Gaucher disease type 2",
+    "relation": "associated_with",
+    "object": "neurological complications"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "associated_with",
+    "object": "neurological manifestations"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "reduced lyso-GL1 levels"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "endoplasmic reticulum stress"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "has_cause",
+    "object": "mutation in ABCD1 gene"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "associated_with",
+    "object": "variant of unknown significance in ABCD1 gene"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "pseudodeficiency alleles"
+  },
+  {
+    "subject": "Mucopolysaccharidosis II",
+    "relation": "associated_with",
+    "object": "pseudodeficiency alleles"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "associated_with",
+    "object": "pseudodeficiency alleles"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Mucopolysaccharidosis II",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Mucopolysaccharidosis I",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "associated_with",
+    "object": "Gaucher disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "Biallelic mutations in the GBA1 gene"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_cause",
+    "object": "GBA1 mutation"
+  },
+  {
+    "subject": "GBA1 knockdown",
+    "relation": "has_symptom",
+    "object": "intracellular aggregation of α-synuclein"
+  },
+  {
+    "subject": "GBA1 knockdown",
+    "relation": "has_symptom",
+    "object": "reactive oxygen species (ROS) levels elevation"
+  },
+  {
+    "subject": "NFE2L1 downregulation",
+    "relation": "has_symptom",
+    "object": "intracellular aggregation of α-synuclein"
+  },
+  {
+    "subject": "NFE2L1 downregulation",
+    "relation": "has_symptom",
+    "object": "reactive oxygen species (ROS) levels elevation"
+  },
+  {
+    "subject": "GBA1-associated PD",
+    "relation": "treated_by",
+    "object": "NFE2L1 upregulation"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "has_associated_condition",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Nonmotor symptoms"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Motor symptoms"
+  },
+  {
+    "subject": "Type 1 Gaucher disease related Parkinson's disease",
+    "relation": "has_biomarker",
+    "object": "Skin α-synuclein seeding activity"
+  },
+  {
+    "subject": "Type 1 Gaucher disease related Parkinson's disease",
+    "relation": "diagnosed_by",
+    "object": "Skin αSyn seed amplification assay"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_symptom",
+    "object": "Motor symptoms"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_symptom",
+    "object": "Cognitive symptoms"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_symptom",
+    "object": "Nonmotor symptoms"
+  },
+  {
+    "subject": "Type 1 Gaucher disease related Parkinson's disease",
+    "relation": "associated_with",
+    "object": "Older age"
+  },
+  {
+    "subject": "Neuropathic lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "lysosomal dysfunction"
+  },
+  {
+    "subject": "Neuropathic lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Neuropathic lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Ceroid lipofuscinosis neuronal 3 disease",
+    "relation": "has_symptom",
+    "object": "lysosomal dysfunction"
+  },
+  {
+    "subject": "Ceroid lipofuscinosis neuronal 3 disease",
+    "relation": "has_symptom",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Ceroid lipofuscinosis neuronal 3 disease",
+    "relation": "has_symptom",
+    "object": "lipid accumulation"
+  },
+  {
+    "subject": "Ceroid lipofuscinosis neuronal 3 disease",
+    "relation": "has_symptom",
+    "object": "high ROS levels"
+  },
+  {
+    "subject": "Gaucher disease type 2",
+    "relation": "has_symptom",
+    "object": "lysosomal dysfunction"
+  },
+  {
+    "subject": "Gaucher disease type 2",
+    "relation": "has_symptom",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Gaucher disease type 2",
+    "relation": "has_symptom",
+    "object": "lipid accumulation"
+  },
+  {
+    "subject": "Gaucher disease type 2",
+    "relation": "has_symptom",
+    "object": "high ROS levels"
+  },
+  {
+    "subject": "Ceroid lipofuscinosis neuronal 3 disease",
+    "relation": "treated_by",
+    "object": "resorcinol"
+  },
+  {
+    "subject": "Gaucher disease type 2",
+    "relation": "treated_by",
+    "object": "resorcinol"
+  },
+  {
+    "subject": "Neuropathic lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "resorcinol"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_treatment",
+    "object": "Gene Therapy"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_treatment",
+    "object": "Current Standard of Care"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_treatment",
+    "object": "Current Standard of Care"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "has_treatment",
+    "object": "Current Standard of Care"
+  },
+  {
+    "subject": "Mucopolysaccharidosis Type III",
+    "relation": "has_treatment",
+    "object": "No Disease-Specific Therapy"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "associated_with",
+    "object": "Good Prognosis"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "associated_with",
+    "object": "Varying Prognosis"
+  },
+  {
+    "subject": "Mucopolysaccharidosis Type III",
+    "relation": "associated_with",
+    "object": "Poor Prognosis"
+  },
+  {
+    "subject": "Gene Therapy",
+    "relation": "has_risk",
+    "object": "Mild Side Effects"
+  },
+  {
+    "subject": "Gene Therapy",
+    "relation": "has_risk",
+    "object": "Severe Side Effects"
+  },
+  {
+    "subject": "Gene Therapy",
+    "relation": "has_risk",
+    "object": "Need for Additional Medication"
+  },
+  {
+    "subject": "Gene Therapy",
+    "relation": "has_attribute",
+    "object": "Long-term Effectiveness"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "associated_with",
+    "object": "XY-Genotype More Severely Affected than XX"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "mild symptoms"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "GD treatment"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "disease-causing variant N370S"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "elevated ACE"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "elevated ACE2"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "has_symptom",
+    "object": "infection"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "low infection rate"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "concentration problems"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "communication issues"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "associated_with",
+    "object": "impact on social functioning"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "associated_with",
+    "object": "impact on work/school performance"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "treated_by",
+    "object": "treatment (unspecified)"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "associated_with",
+    "object": "treatment satisfaction"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "associated_with",
+    "object": "treatment interruptions"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "associated_with",
+    "object": "treatment transitions"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Hearing loss"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Conductive hearing loss"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Sensorineural hearing loss"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "Deficiency of glucocerebrosidase"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Gaucheromas"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Neuronopathic GD"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Substrate reduction therapy (SRT)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Combination therapy of ERT and SRT"
+  },
+  {
+    "subject": "Conductive hearing impairment",
+    "relation": "prevented_by",
+    "object": "Early implementation of SRT"
+  },
+  {
+    "subject": "Sensorineural hearing loss",
+    "relation": "associated_with",
+    "object": "Inner hair cell dysfunction"
+  },
+  {
+    "subject": "Sensorineural hearing loss",
+    "relation": "associated_with",
+    "object": "Neuronopathic GD"
+  },
+  {
+    "subject": "Neuronopathic Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Neuronopathic Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Ocular symptoms"
+  },
+  {
+    "subject": "Neuronopathic Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Abnormal EEG patterns"
+  },
+  {
+    "subject": "Neuronopathic Gaucher disease",
+    "relation": "treated_by",
+    "object": "Anti-seizure medications (ASMs)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Neuronopathic Gaucher disease",
+    "relation": "associated_with",
+    "object": "Abnormal EEG patterns with spike-and-wave complex (SWC)"
+  },
+  {
+    "subject": "Seizures",
+    "relation": "treated_by",
+    "object": "Anti-seizure medications (ASMs)"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "Sharp waves during sleep"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "oculomotor apraxia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "perceptive hearing loss"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "mental retardation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "low IQ"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "c.1448 T > C, (p.Leu483Pro) variant in the GBA1 gene"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "associated_with",
+    "object": "neurocognitive involvement"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "associated_with",
+    "object": "glucocerebroside accumulation in macrophages"
+  },
+  {
+    "subject": "Acid Sphingomyelinase Deficiency",
+    "relation": "has_complication",
+    "object": "severe complications"
+  },
+  {
+    "subject": "Acid Sphingomyelinase Deficiency",
+    "relation": "treated_by",
+    "object": "new and highly effective treatment option"
+  },
+  {
+    "subject": "Acid Sphingomyelinase Deficiency",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Osteonecrosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Joint collapse"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Fractures"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "treated_by",
+    "object": "Deep learning-based quantification approach"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "associated_with",
+    "object": "Splenectomy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "has_cause",
+    "object": "Gaucher disease"
+  },
+  {
+    "subject": "Osteonecrosis",
+    "relation": "associated_with",
+    "object": "Duration of untreated disease"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Small medicines"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Transplantation"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Lysosomal drug targeting"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Chaperones"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Gene editing technologies"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Endosymbiotic therapy"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Artificial lysosomes"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Extracellular vesicles"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Mannose-6-phosphate-tagged nanocarriers"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "associated_with",
+    "object": "Cancer"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "associated_with",
+    "object": "Cardiovascular diseases"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "associated_with",
+    "object": "Neurodegenerative conditions"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "associated_with",
+    "object": "Aging"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_cause",
+    "object": "Lysosomal dysfunction"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "myoclonus"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "stridor"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "apneic episodes"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "impaired swallowing"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "brainstem dysfunction"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "lysosomal disorders"
+  },
+  {
+    "subject": "Neuronopathic Gaucher disease",
+    "relation": "has_cause",
+    "object": "neurodegenerative process"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "investigative therapeutic approaches"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "GBA pathogenic mutations"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Parkinson's"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "general symptoms"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "new treatment possibilities"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "deficient activity of a lysosomal hydrolase"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "lack of a functional membrane protein"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "lack of a functional transporter"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "lack of a functional activator"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "activation of autophagy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "apoptosis"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "disruption of intracellular Ca<sup>2+</sup> ion homeostasis"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "inflammatory processes"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "cancer"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "cancer"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "cancer"
+  },
+  {
+    "subject": "Niemann-Pick type A disease",
+    "relation": "associated_with",
+    "object": "cancer"
+  },
+  {
+    "subject": "Niemann-Pick type B disease",
+    "relation": "associated_with",
+    "object": "cancer"
+  },
+  {
+    "subject": "alfa-mannosidosis",
+    "relation": "associated_with",
+    "object": "cancer"
+  },
+  {
+    "subject": "sialidosis",
+    "relation": "associated_with",
+    "object": "cancer"
+  },
+  {
+    "subject": "Gaucher disease (GD1)",
+    "relation": "has_symptom",
+    "object": "Bone pain"
+  },
+  {
+    "subject": "Gaucher disease (GD1)",
+    "relation": "has_symptom",
+    "object": "Necrosis"
+  },
+  {
+    "subject": "Gaucher disease (GD1)",
+    "relation": "has_symptom",
+    "object": "Fractures"
+  },
+  {
+    "subject": "Gaucher disease (GD1)",
+    "relation": "has_symptom",
+    "object": "Growth deficits"
+  },
+  {
+    "subject": "Gaucher disease (GD1)",
+    "relation": "has_cause",
+    "object": "Enzymatic deficiency of β-glucocerebrosidase"
+  },
+  {
+    "subject": "Gaucher disease (GD1)",
+    "relation": "associated_with",
+    "object": "Accumulation of sphingolipids in organs"
+  },
+  {
+    "subject": "Gaucher disease (GD1)",
+    "relation": "associated_with",
+    "object": "Bone disease"
+  },
+  {
+    "subject": "Gaucher disease (GD1)",
+    "relation": "treated_by",
+    "object": "Timely treatment"
+  },
+  {
+    "subject": "Gaucher disease (GD1)",
+    "relation": "associated_with",
+    "object": "p. Asn409Ser allele"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_cause",
+    "object": "pathogenic variants in the glucocerebrosidase gene"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy (ERT) with recombinant GCase"
+  },
+  {
+    "subject": "Gaucher Disease",
+    "relation": "has_symptom",
+    "object": "loss of b-glucocerebrosidase (GCase) enzymatic activity"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "has_symptom",
+    "object": "Seizure activity"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "has_symptom",
+    "object": "Abnormal daily movement patterns"
+  },
+  {
+    "subject": "Attention-deficit/hyperactivity disorder",
+    "relation": "has_symptom",
+    "object": "Abnormal daily movement patterns"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Spinal muscular atrophy",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Ataxia",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Neurological conditions",
+    "relation": "treated_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Attention-deficit/hyperactivity disorder",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Spinal muscular atrophy",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Ataxia",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "monitored_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Headaches",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Sleep disorders",
+    "relation": "has_symptom",
+    "object": "Abnormal sleep patterns"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Wearable sensors",
+    "relation": "associated_with",
+    "object": "Improved clinical trials"
+  },
+  {
+    "subject": "Wearable sensors",
+    "relation": "associated_with",
+    "object": "Improved patient outcomes"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_treatment",
+    "object": "Imiglucerase enzyme replacement"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_diagnosis_test",
+    "object": "β-glucocerebrosidase activity test"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_diagnosis_test",
+    "object": "GBA gene testing"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_diagnosis_test",
+    "object": "Bone marrow aspiration"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "lysosomal storage"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "ambroxol"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency in GCase activity"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "two defective alleles of GBA1"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "GBA1 mutation-associated Parkinson disease"
+  },
+  {
+    "subject": "GBA1 mutation-associated Parkinson disease",
+    "relation": "treated_by",
+    "object": "ambroxol"
+  },
+  {
+    "subject": "GBA1 mutation-associated Parkinson disease",
+    "relation": "associated_with",
+    "object": "Gaucher disease"
+  },
+  {
+    "subject": "GCase deficiency",
+    "relation": "has_cause",
+    "object": "two defective alleles of GBA1"
+  },
+  {
+    "subject": "ambroxol",
+    "relation": "has_mechanism",
+    "object": "chaperone activity"
+  },
+  {
+    "subject": "ambroxol",
+    "relation": "has_mechanism",
+    "object": "modulator of ERAD pathways"
+  },
+  {
+    "subject": "ambroxol",
+    "relation": "has_mechanism",
+    "object": "inducer of autophagy"
+  },
+  {
+    "subject": "ambroxol",
+    "relation": "has_mechanism",
+    "object": "pain reliever"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_symptom",
+    "object": "thrombocytopenia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "thrombocytopenia"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_cause",
+    "object": "pathogenic variants"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "pathogenic variants"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "cell damage"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "accumulation of cholesteryl-glucoside in lysosomes"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "AbCholB nanoparticle"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "associated_with",
+    "object": "nutrient avidity"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "has_symptom",
+    "object": "suppressed mTOR function"
+  },
+  {
+    "subject": "Gaucher disease-like damage",
+    "relation": "has_cause",
+    "object": "cholesteryl-glucoside-like structure aggregation"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "cardiac abnormalities"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "neurological abnormalities"
+  },
+  {
+    "subject": "Gaucher disease type 3",
+    "relation": "has_symptom",
+    "object": "ophthalmological abnormalities"
+  },
+  {
+    "subject": "Gaucher disease type 3c",
+    "relation": "has_symptom",
+    "object": "visceral abnormalities"
+  },
+  {
+    "subject": "Gaucher disease type 3c",
+    "relation": "has_symptom",
+    "object": "hematological abnormalities"
+  },
+  {
+    "subject": "Gaucher disease type 3c",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Gaucher disease type 3c",
+    "relation": "has_symptom",
+    "object": "cardiac abnormalities"
+  },
+  {
+    "subject": "Gaucher disease type 3c",
+    "relation": "has_symptom",
+    "object": "chronic intermediate uveitis"
+  },
+  {
+    "subject": "Gaucher disease type 3c",
+    "relation": "has_symptom",
+    "object": "polyneuropathy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency of β-glucocerebrosidase (GCase)"
+  },
+  {
+    "subject": "Gaucher disease type 3c",
+    "relation": "has_cause",
+    "object": "homozygosity for GBA pathogenic variant c.1342G>C"
+  },
+  {
+    "subject": "Gaucher disease type 3c",
+    "relation": "associated_with",
+    "object": "valvular heart disease"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "has_cause",
+    "object": "glucocerebrosidase deficiency"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "has_symptom",
+    "object": "Skeletal manifestations"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "associated_with",
+    "object": "bone skeletal complications"
+  },
+  {
+    "subject": "bone skeletal complications",
+    "relation": "associated_with",
+    "object": "Type 1 Gaucher disease"
+  },
+  {
+    "subject": "Skeletal manifestations",
+    "relation": "treated_by",
+    "object": "rapid management"
+  },
+  {
+    "subject": "Type 1 Gaucher disease",
+    "relation": "treated_by",
+    "object": "artificial intelligence supported clinician decision-making"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "homozygous mutations at the GBA gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "severe weight loss"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "microgliosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "astrogliosis"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "accumulation of glucosylceramide"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "accumulation of glucosylsphingosine"
+  },
+  {
+    "subject": "Neuronopathic Gaucher disease",
+    "relation": "associated_with",
+    "object": "microgliosis"
+  },
+  {
+    "subject": "Neuronopathic Gaucher disease",
+    "relation": "associated_with",
+    "object": "astrogliosis"
+  },
+  {
+    "subject": "Neuronopathic Gaucher disease",
+    "relation": "associated_with",
+    "object": "neurodegeneration"
+  }
+]

@@ -1,0 +1,4382 @@
+[
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "lymphoid malignancy"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "standard therapies"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "increased toxicity"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "bony abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "biallelic mutations in SBDS"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "myeloid neoplasia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "cellular stress responses"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "therapeutic strategies targeting EIF6 and TP53 pathways"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "straightened fetal ribs"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in the SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "treated_by",
+    "object": "pregnancy management"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "recurrence risk"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "early onset cytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "chronic diarrhea"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "biallelic pathogenic variants in the SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "biallelic variants in DNAJC21 gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "ELF1 gene variants"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "idiopathic aplastic anemia"
+  },
+  {
+    "subject": "Monoallelic variant of the SBDS gene",
+    "relation": "associated_with",
+    "object": "idiopathic aplastic anemia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "poor night vision"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "reduced visual acuity"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "rod-cone dystrophy"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "bone marrow transplantation"
+  },
+  {
+    "subject": "rod-cone dystrophy",
+    "relation": "has_symptom",
+    "object": "poor night vision"
+  },
+  {
+    "subject": "rod-cone dystrophy",
+    "relation": "has_symptom",
+    "object": "reduced visual acuity"
+  },
+  {
+    "subject": "rod-cone dystrophy",
+    "relation": "has_symptom",
+    "object": "diffuse outer retinal thinning"
+  },
+  {
+    "subject": "rod-cone dystrophy",
+    "relation": "has_symptom",
+    "object": "disruption of the ellipsoid zone"
+  },
+  {
+    "subject": "rod-cone dystrophy",
+    "relation": "has_symptom",
+    "object": "generalized areas of hypoautofluorescence"
+  },
+  {
+    "subject": "rod-cone dystrophy",
+    "relation": "has_symptom",
+    "object": "perimacular ring of increased autofluorescence"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "has_symptom",
+    "object": "[Symptom]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "treated_by",
+    "object": "[Treatment]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "has_cause",
+    "object": "[Cause]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "associated_with",
+    "object": "[Associated Condition]"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "diabetes"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "type 1 diabetes"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "myeloid neoplasms"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "myelodysplastic syndrome"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "acute myeloid leukemia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "transplant-related complications"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "graft-versus-host disease"
+  },
+  {
+    "subject": "myeloid neoplasms",
+    "relation": "has_symptom",
+    "object": "relapse"
+  },
+  {
+    "subject": "myeloid neoplasms",
+    "relation": "has_symptom",
+    "object": "non-relapse mortality"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome with myeloid neoplasms",
+    "relation": "treated_by",
+    "object": "efficacious bone marrow conditioning regimens"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome with myeloid neoplasms",
+    "relation": "treated_by",
+    "object": "GVHD prevention"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome with myeloid neoplasms",
+    "relation": "treated_by",
+    "object": "bridging treatment regimens"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "cytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "generalized ichthyosis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "eczematous skin eruptions"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "severe failure to thrive"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "gastrointestinal symptoms"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "inherited"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Hematologic abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Shwachman-Bodian-Diamond syndrome gene mutation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Hematologic tumors"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Chromosomal instability"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Abnormally rapid mitosis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Lagging chromosomes"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Micronuclei"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "growth delay"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "fetal skeletal dysplasia"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "shortened long bones"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal Doppler indices"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_cause",
+    "object": "biallelic pathogenic variants in the SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "ribosomopathies"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Neurofibromatosis Type 1",
+    "relation": "has_symptom",
+    "object": "café-au-lait spots"
+  },
+  {
+    "subject": "Neurofibromatosis Type 1",
+    "relation": "has_symptom",
+    "object": "intellectual disabilities"
+  },
+  {
+    "subject": "Neurofibromatosis Type 1",
+    "relation": "has_symptom",
+    "object": "growth hormone deficiency"
+  },
+  {
+    "subject": "Tuberous Sclerosis Complex",
+    "relation": "has_symptom",
+    "object": "facial angiofibromas"
+  },
+  {
+    "subject": "Tuberous Sclerosis Complex",
+    "relation": "has_symptom",
+    "object": "intellectual disabilities"
+  },
+  {
+    "subject": "Ataxia-telangiectasia",
+    "relation": "has_symptom",
+    "object": "cerebellar ataxia"
+  },
+  {
+    "subject": "Beckwith-Wiedemann syndrome",
+    "relation": "has_symptom",
+    "object": "overgrowth"
+  },
+  {
+    "subject": "Neurofibromatosis Type 2",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "PTEN hamartoma tumor syndrome",
+    "relation": "has_symptom",
+    "object": "thyroid nodules"
+  },
+  {
+    "subject": "DICER1 syndrome",
+    "relation": "has_symptom",
+    "object": "thyroid nodules"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "treated_by",
+    "object": "surveillance programs"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "treated_by",
+    "object": "preventive measures"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "has_cause",
+    "object": "genetic disorders"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "malignancies"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "non-malignant dermatological features"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "neurological and developmental anomalies"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "growth and metabolic anomalies"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "facial anomalies"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "ocular manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "hearing issues"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "thyroid anomalies"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "cardiovascular manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "abdominal manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "musculoskeletal manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "pulmonary manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "genitourinary manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "prenatal deviations"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "malabsorption"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "malnutrition"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "growth failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "hematologic abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "single- or multilineage cytopenias"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent infections"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "bone abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "thoracic dystrophy"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal dysplasia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "asymmetric growth"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "joint deformities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "liver disease"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "pubertal delay"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "endocrine manifestations"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "dental manifestations"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "mouth ulcers"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "gingivitis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in DNAJC21"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in EFL1"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in SBDS"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in SRP54"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "myelodysplastic syndrome"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "acute myelogenous leukemia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "oral pancreatic enzymes"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "fat-soluble vitamin supplementation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "blood and/or platelet transfusions"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "granulocyte-colony stimulation factor"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "orthopedic management"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "multidisciplinary team management"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "neuropsychological testing and developmental services"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "dental care"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the Shwachman-Bodian-Diamond syndrome gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "increased risk of myeloid malignancy"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "bone marrow failure syndrome"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "leukemia"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive challenges"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral challenges"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "transactional approach to social interactions"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "autism spectrum disorders"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "treated_by",
+    "object": "targeted interventions to enhance pragmatic skills and adaptive functioning"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Severe, fatal clinical course"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Biallelic EFL1 variants"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Compromised protein synthesis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Impaired mature ribosome formation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "SBDS gene mutation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "ribosome defects"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "hematopoietic aberrations"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "hematopoietic failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "introduction of SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "reduced hematopoietic potential"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "defects in definitive hematopoiesis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent fever"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "elevated transaminase levels"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "granulocytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "compound glycyrrhizin"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "granulocyte-colony stimulating factor"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "antibiotic"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "compound heterozygous variant of Shwachman-Bodian-Diamond syndrome gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "skeletal abnormality"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "co-infection"
+  },
+  {
+    "subject": "Bone marrow failure syndromes",
+    "relation": "has_symptom",
+    "object": "Impaired hematopoietic differentiation"
+  },
+  {
+    "subject": "Myelodysplastic syndrome",
+    "relation": "has_symptom",
+    "object": "Impaired hematopoietic differentiation"
+  },
+  {
+    "subject": "Acute myeloid leukemia",
+    "relation": "has_symptom",
+    "object": "Impaired hematopoietic differentiation"
+  },
+  {
+    "subject": "Dyskeratosis congenita",
+    "relation": "has_symptom",
+    "object": "Telomere dysfunction"
+  },
+  {
+    "subject": "Fanconi anemia",
+    "relation": "has_symptom",
+    "object": "Defects in DNA repair"
+  },
+  {
+    "subject": "Diamond Blackfan anemia syndrome",
+    "relation": "has_symptom",
+    "object": "Defects in ribosome biogenesis"
+  },
+  {
+    "subject": "Bone marrow failure syndromes",
+    "relation": "treated_by",
+    "object": "iPSC-based disease modeling"
+  },
+  {
+    "subject": "Myelodysplastic syndrome",
+    "relation": "treated_by",
+    "object": "iPSC-based disease modeling"
+  },
+  {
+    "subject": "Acute myeloid leukemia",
+    "relation": "treated_by",
+    "object": "iPSC-based disease modeling"
+  },
+  {
+    "subject": "Inherited hematopoietic disorders",
+    "relation": "treated_by",
+    "object": "Personalized medicine approaches"
+  },
+  {
+    "subject": "Inherited hematopoietic disorders",
+    "relation": "treated_by",
+    "object": "Drug discovery"
+  },
+  {
+    "subject": "Fanconi anemia",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "Dyskeratosis congenita",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "Diamond Blackfan anemia syndrome",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "Severe congenital neutropenia",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "GATA2 syndrome",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "RUNX1 syndrome",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "ETV6 syndrome",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "ANKRD26 syndrome",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "SAMD9 syndrome",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "SAMD9L syndrome",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "ADH5/ALDH2 syndrome",
+    "relation": "has_cause",
+    "object": "Patient-specific mutations"
+  },
+  {
+    "subject": "Myelodysplastic syndrome",
+    "relation": "associated_with",
+    "object": "Bone marrow failure syndromes"
+  },
+  {
+    "subject": "Acute myeloid leukemia",
+    "relation": "associated_with",
+    "object": "Bone marrow failure syndromes"
+  },
+  {
+    "subject": "Inherited hematopoietic disorders",
+    "relation": "associated_with",
+    "object": "Genetic variability"
+  },
+  {
+    "subject": "iPSC-derived hematopoietic progenitor cells",
+    "relation": "associated_with",
+    "object": "Difficulties in achieving robust engraftment"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "myeloid malignancy"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "nonsense mutations in Shwachman-Bodian-Diamond syndrome gene (SBDS)"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "ataluren"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "hypocellular bone marrow"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "pancreatitis"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "bone marrow dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "myelodysplastic syndrome"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "acute myeloid leukemia"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_cause",
+    "object": "STAT3 and mTOR hyperactivation"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_cause",
+    "object": "elevated IL-6 levels"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_cause",
+    "object": "dysregulation of ERK1/2 and AKT phosphoproteins"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_cause",
+    "object": "down-regulation of miR-181a-3p"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "treated_by",
+    "object": "anti-inflammatory therapies"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "malabsorption"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "infantile neutropenia"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "aplastic anemia"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "hemolytic anemia"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "severe anemia"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "thrombocytopenia"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "asphyxiating thoracic dystrophy"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "acute myeloid leukemia"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "myelodysplastic syndrome"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "has_cause",
+    "object": "biallelic pathogenic variants in the SBDS gene"
+  },
+  {
+    "subject": "Shwachman Diamond Syndrome",
+    "relation": "treated_by",
+    "object": "disease management"
+  },
+  {
+    "subject": "acute myeloid leukemia",
+    "relation": "has_treatment",
+    "object": "disease management"
+  },
+  {
+    "subject": "myelodysplastic syndrome",
+    "relation": "has_treatment",
+    "object": "disease management"
+  },
+  {
+    "subject": "Staphylococcus epidermidis infection",
+    "relation": "treated_by",
+    "object": "infection management"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "has_symptom",
+    "object": "Severe Infections"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "has_symptom",
+    "object": "Neutropenia"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "treated_by",
+    "object": "Granulocyte Colony-Stimulating Factor Treatment"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Bone Marrow Failure"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Myelodysplastic Syndrome"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Acute Leukaemia"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Mutations in ELANE"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Mutations in GFI1"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Mutations in HAX1"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Mutations in G6PC3"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Mutations in VPS45"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Mutations in JAGN1"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Mutations in CSF3R"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Mutations in SRP54"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Mutations in CLPB"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Mutations in WAS"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "GATA2 Deficiency"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Warts, Hypogammaglobulinaemia, Infections and Myelokathexis Syndrome"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Shwachman-Diamond Syndrome"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Lysosomal Storage Disorders"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Chediak-Higashi Syndrome"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Hermansky-Pudlak Syndrome"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Griscelli Syndrome"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Cohen Syndrome"
+  },
+  {
+    "subject": "Congenital Neutropenia Syndromes",
+    "relation": "associated_with",
+    "object": "Barth Syndrome"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Very Early Onset Inflammatory Bowel Disease",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Methoxyvaleric aciduria",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Rare non-malignant diseases",
+    "relation": "treated_by",
+    "object": "Allogeneic Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Rare non-malignant diseases",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Rare non-malignant diseases"
+  },
+  {
+    "subject": "Very Early Onset Inflammatory Bowel Disease",
+    "relation": "associated_with",
+    "object": "Rare non-malignant diseases"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Rare non-malignant diseases"
+  },
+  {
+    "subject": "Methoxyvaleric aciduria",
+    "relation": "associated_with",
+    "object": "Rare non-malignant diseases"
+  },
+  {
+    "subject": "Rare non-malignant diseases",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Rare non-malignant diseases in infants",
+    "relation": "has_complication",
+    "object": "Toxicity caused by chemotherapy-based conditioning regimens"
+  },
+  {
+    "subject": "Umbilical Cord Blood Transplantation",
+    "relation": "has_complication",
+    "object": "Acute GVHD"
+  },
+  {
+    "subject": "Umbilical Cord Blood Transplantation",
+    "relation": "has_treatment_regimen",
+    "object": "Cyclophosphamide, Fludarabine, Anti-thymocyte immunoglobulin, Busulfan and Thiotepa"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Cytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Hematologic malignancies"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Thrombocytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "G-CSF"
+  },
+  {
+    "subject": "Metastatic breast cancer",
+    "relation": "treated_by",
+    "object": "Paclitaxel"
+  },
+  {
+    "subject": "Metastatic breast cancer",
+    "relation": "treated_by",
+    "object": "Trastuzumab"
+  },
+  {
+    "subject": "Metastatic breast cancer",
+    "relation": "treated_by",
+    "object": "Pertuzumab"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Inherited"
+  },
+  {
+    "subject": "Chemotherapy",
+    "relation": "has_symptom",
+    "object": "Neutropenia"
+  },
+  {
+    "subject": "Chemotherapy",
+    "relation": "has_symptom",
+    "object": "Myelosuppression"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Bone marrow failure syndrome"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Metastatic breast cancer"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "malocclusion"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "excessive overjet"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "delayed permanent tooth eruption"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the Shwachman-Bodian-Diamond syndrome gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "orthodontic treatment"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "skeletal class I malocclusion"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "hypodivergent pattern"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "labial inclination of the maxillary and mandibular incisors"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "elevated transaminases"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "hepatic dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "multiorgan dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the Shwachman-Bodian-Diamond syndrome gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "mitochondrial diseases"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "inborn errors of metabolism"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "diarrhea"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "hematochezia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "growth retardation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "malnutrition"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "increased transaminases"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "decreased neutrophils"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "decreased hemoglobin"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "delayed bone age"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "erosive colorectal mucosa"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "compound heterozygous variants of SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "liver damage"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_symptom",
+    "object": "Recurrent infections"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Primary disorder of production in the bone marrow"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Genetic deficiency"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Cyclical deficiency"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Malignant disorders of marrow failure"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Infiltrative hematologic neoplasms"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Autoimmune diseases"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Cytotoxic chemotherapy"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Suppressive illnesses or infections"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Antibiotics"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Leukemia"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Drug reactions"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Infections"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "associated_with",
+    "object": "Leukopenia"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "associated_with",
+    "object": "High-grade lymphoma"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "associated_with",
+    "object": "Chediak-Higashi syndrome"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "associated_with",
+    "object": "Shwachman-Diamond syndrome"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "associated_with",
+    "object": "Chronic granulomatous disease"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "treated_by",
+    "object": "Unknown/Not mentioned"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "has_cause",
+    "object": "pathogenic mutations in genes"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "has_cause",
+    "object": "germline mutations in SAMD9"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "monosomy 7"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "myelodysplasia"
+  },
+  {
+    "subject": "SAMD9 mutation",
+    "relation": "has_symptom",
+    "object": "decreased cell proliferation"
+  },
+  {
+    "subject": "SAMD9 mutation",
+    "relation": "has_symptom",
+    "object": "cell cycle progression defects"
+  },
+  {
+    "subject": "SAMD9 mutation",
+    "relation": "has_symptom",
+    "object": "global protein translation defects"
+  },
+  {
+    "subject": "SAMD9 mutation",
+    "relation": "treated_by",
+    "object": "tRNA-Phe overexpression"
+  },
+  {
+    "subject": "Diamond-Blackfan anemia",
+    "relation": "associated_with",
+    "object": "inherited bone marrow failure syndromes"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "inherited bone marrow failure syndromes"
+  },
+  {
+    "subject": "Dyskeratosis congenita",
+    "relation": "associated_with",
+    "object": "inherited bone marrow failure syndromes"
+  },
+  {
+    "subject": "Aplastic Anemia",
+    "relation": "has_symptom",
+    "object": "Pancytopenia"
+  },
+  {
+    "subject": "Aplastic Anemia",
+    "relation": "has_cause",
+    "object": "Genomic Mutations"
+  },
+  {
+    "subject": "Aplastic Anemia",
+    "relation": "has_cause",
+    "object": "Germline Variants"
+  },
+  {
+    "subject": "Aplastic Anemia",
+    "relation": "associated_with",
+    "object": "Inherited Bone Marrow Failure Syndromes"
+  },
+  {
+    "subject": "Aplastic Anemia",
+    "relation": "associated_with",
+    "object": "Inborn Errors of Immunity"
+  },
+  {
+    "subject": "Aplastic Anemia",
+    "relation": "has_cause",
+    "object": "Pathogenic Mutations of TERT and TERC"
+  },
+  {
+    "subject": "Acquired Aplastic Anemia",
+    "relation": "treated_by",
+    "object": "Managing the condition with understanding of germline variants"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_symptom",
+    "object": "Symptom Y"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "treated_by",
+    "object": "Treatment Z"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_cause",
+    "object": "Cause W"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "associated_with",
+    "object": "Associated Condition V"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Neutropenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "hematological dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutation in the Shwachman-Bodian-Diamond syndrome gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "myelodysplastic syndromes"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "acute myeloid leukemia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "increased reactive oxygen species production"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "oxidation of the mitochondrial membrane lipids"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "DNA damage"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "decreased protein synthesis"
+  },
+  {
+    "subject": "IBMFS",
+    "relation": "has_symptom",
+    "object": "Bone Marrow Failure"
+  },
+  {
+    "subject": "ADH5/ALDH2 deficiency",
+    "relation": "has_cause",
+    "object": "Genetic Deficiency"
+  },
+  {
+    "subject": "SDS",
+    "relation": "has_cause",
+    "object": "SBDS protein expression deficiency"
+  },
+  {
+    "subject": "IBMFS",
+    "relation": "has_cause",
+    "object": "Genetic Mutation"
+  },
+  {
+    "subject": "IBMFS",
+    "relation": "associated_with",
+    "object": "Hematological Disorders"
+  },
+  {
+    "subject": "IBMFS",
+    "relation": "diagnosed_by",
+    "object": "Proteomic-based Diagnostic Assay"
+  },
+  {
+    "subject": "IBMFS",
+    "relation": "screened_by",
+    "object": "Targeted Proteomic Analysis"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "has_symptom",
+    "object": "Severe infections"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "has_cause",
+    "object": "Variants in ELANE"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "has_cause",
+    "object": "Variants in G6PC3"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "has_cause",
+    "object": "Variants in SRP54"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "has_cause",
+    "object": "Variants in JAGN1"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "has_cause",
+    "object": "Variants in TAZ"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "has_cause",
+    "object": "Variants in SLC37A4"
+  },
+  {
+    "subject": "Cyclic neutropenia",
+    "relation": "has_cause",
+    "object": "Pathogenic variants in ELANE"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Biallelic SBDS variants"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "treated_by",
+    "object": "Granulocyte-colony stimulating factor"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "associated_with",
+    "object": "Myeloid transformation"
+  },
+  {
+    "subject": "G6PC3 variants",
+    "relation": "associated_with",
+    "object": "Consanguineous Muslim Arab origin"
+  },
+  {
+    "subject": "Congenital neutropenia",
+    "relation": "has_symptom",
+    "object": "Myeloid transformation"
+  },
+  {
+    "subject": "Shwachman Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Hematological abnormalities"
+  },
+  {
+    "subject": "Shwachman Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Diarrhea"
+  },
+  {
+    "subject": "Shwachman Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Hepatic enlargement"
+  },
+  {
+    "subject": "Shwachman Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Elevation of transaminase"
+  },
+  {
+    "subject": "Shwachman Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Shwachman Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Shwachman Diamond syndrome",
+    "relation": "has_cause",
+    "object": "SBDS gene pathogenic variant"
+  },
+  {
+    "subject": "Shwachman Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Cytopenia"
+  },
+  {
+    "subject": "Shwachman Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Liver damage"
+  },
+  {
+    "subject": "Shwachman Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Early diagnosis and recognition by healthcare provider"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "myelodysplastic syndrome"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "acute myeloid leukemia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "myelodysplastic syndrome",
+    "relation": "associated_with",
+    "object": "acute myeloid leukemia"
+  },
+  {
+    "subject": "acute myeloid leukemia",
+    "relation": "treated_by",
+    "object": "azacitidine combined with venetoclax"
+  },
+  {
+    "subject": "acute myeloid leukemia",
+    "relation": "treated_by",
+    "object": "allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "TP53 mutation",
+    "relation": "has_cause",
+    "object": "transformation of SDS into MDS/AML"
+  },
+  {
+    "subject": "acute myeloid leukemia",
+    "relation": "has_cause",
+    "object": "TP53 mutation"
+  },
+  {
+    "subject": "Inherited Metabolic Diseases (IMDs)",
+    "relation": "diagnosed_by",
+    "object": "Next Generation Sequencing (NGS)"
+  },
+  {
+    "subject": "Inherited Metabolic Diseases (IMDs)",
+    "relation": "has_cause",
+    "object": "Genetic or Metabolic Factors"
+  },
+  {
+    "subject": "Inherited Metabolic Diseases (IMDs)",
+    "relation": "categorized_by",
+    "object": "International Classification of Inherited Metabolic Disorders (ICIMD)"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "increased apoptosis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "impairment in granulocytic differentiation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "neutrophil dysplastic markers"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "biallelic mutations in the SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "c.183-184TA>CT nonsense mutation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "ataluren"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "reduced eukaryotic 80S ribosome maturation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "granulocytopenia with infection"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "hemocytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "pancreatic disease"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "bone abnormality"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "variants of the SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "infection"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "clinical intervention"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "biallelic mutations in the Shwachman-Bodian-Diamond syndrome gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "ribosomopathy"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in SBDS gene"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "has_symptom",
+    "object": "Severe abdominal pain"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "has_symptom",
+    "object": "Impaired development"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "has_symptom",
+    "object": "Diarrhea"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "has_symptom",
+    "object": "Muscular atrophy"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "has_symptom",
+    "object": "Neutropenia"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "has_symptom",
+    "object": "Hypogammaglobulinemia"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "treated_by",
+    "object": "Total parenteral nutrition (TPN)"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "treated_by",
+    "object": "Proximal intercessory prayer (PIP)"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "associated_with",
+    "object": "Mitochondriopathies"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "associated_with",
+    "object": "Shwachman-Diamond syndrome"
+  },
+  {
+    "subject": "Chronic idiopathic severe malabsorption",
+    "relation": "has_cause",
+    "object": "Genetic disorder"
+  },
+  {
+    "subject": "Frontal lobe epilepsy",
+    "relation": "treated_by",
+    "object": "Seizure medications"
+  },
+  {
+    "subject": "Frontal lobe epilepsy",
+    "relation": "treated_by",
+    "object": "Proximal intercessory prayer (PIP)"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "has_symptom",
+    "object": "pancreatic insufficiency"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "has_symptom",
+    "object": "respiratory symptoms"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "has_symptom",
+    "object": "acute episodes of pancreatitis"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "has_symptom",
+    "object": "non-pathological sweat test"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "treated_by",
+    "object": "elexacaftor/tezacaftor/ivacaftor"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "has_cause",
+    "object": "CFTR genotype"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "associated_with",
+    "object": "pancreatic insufficiency of unclear etiology"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "associated_with",
+    "object": "non-pathological sweat chloride"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic deficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "hematologic dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal growth failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "hypoglycemia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome-associated diabetes mellitus",
+    "relation": "has_symptom",
+    "object": "autoantibody-positive type 1 diabetes mellitus"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "bone marrow transplantation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome-associated diabetes mellitus",
+    "relation": "treated_by",
+    "object": "dietary intervention"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "diabetes mellitus"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "immunologic instability"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "chronic inflammation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "peripheral blood cytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "pancreatic exocrine insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "growth failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in DNAJC21 gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in SRP54 gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in ELF6 gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in ELF1 gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "inherited bone marrow failure"
+  },
+  {
+    "subject": "Schwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic dysfunction"
+  },
+  {
+    "subject": "Schwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Schwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "bone marrow dysfunction"
+  },
+  {
+    "subject": "Schwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "cardiac abnormalities"
+  },
+  {
+    "subject": "Schwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "immune dysfunction"
+  },
+  {
+    "subject": "Schwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "hematologic disorders"
+  },
+  {
+    "subject": "Schwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutation in the Shwachman-Bodian-Diamond syndrome (SBDS) gene"
+  },
+  {
+    "subject": "Schwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "cystic fibrosis"
+  },
+  {
+    "subject": "Schwachman-Diamond syndrome",
+    "relation": "has_treatment",
+    "object": null
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Cytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Exocrine pancreatic dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Failure to thrive"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Pancreatic exocrine insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Growth failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in DNAJC21 gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in SRP54 gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in ELF6 gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in ELF1 gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Inherited bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Clinical intervention"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "anemia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "decrease in whole blood cells"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "pancreatic steatosis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "chronic pancreatitis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disabilities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "heterozygous mutations in the SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "myelodysplastic syndrome"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "acute myeloid leukemia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "reduced dose pre-treatment regimen (Fludarabine+Busulfan+Me-CCNU+Rabbit Anti-human Thymocyte Globulin)"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "has_symptom",
+    "object": "Pancytopenia"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "has_symptom",
+    "object": "Decreased feeding"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "has_symptom",
+    "object": "Pallor"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "has_symptom",
+    "object": "Hematological abnormality"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "treated_by",
+    "object": "Valganciclovir"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "treated_by",
+    "object": "Antiviral therapy"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "treated_by",
+    "object": "Symptomatic treatment"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "has_cause",
+    "object": "Cytomegalovirus"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "associated_with",
+    "object": "Bone marrow suppression"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "associated_with",
+    "object": "Immunocompromised state"
+  },
+  {
+    "subject": "Cytomegalovirus infection",
+    "relation": "associated_with",
+    "object": "Congenital infections"
+  },
+  {
+    "subject": "Myelodysplastic syndromes",
+    "relation": "has_cause",
+    "object": "Inherited bone marrow failure"
+  },
+  {
+    "subject": "Acute myeloid leukemia",
+    "relation": "has_cause",
+    "object": "Inherited bone marrow failure"
+  },
+  {
+    "subject": "Myelodysplastic syndromes",
+    "relation": "associated_with",
+    "object": "MDS-predisposition syndromes"
+  },
+  {
+    "subject": "Acute myeloid leukemia",
+    "relation": "associated_with",
+    "object": "MDS-predisposition syndromes"
+  },
+  {
+    "subject": "Leukemogenesis",
+    "relation": "has_cause",
+    "object": "Monosomy 7"
+  },
+  {
+    "subject": "Inherited bone marrow failure",
+    "relation": "has_complication",
+    "object": "Anxiety"
+  },
+  {
+    "subject": "Inherited bone marrow failure",
+    "relation": "has_complication",
+    "object": "Uncertainty"
+  },
+  {
+    "subject": "Myelodysplastic syndromes",
+    "relation": "treated_by",
+    "object": "Patient care decisions"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic deficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "hematologic dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal growth failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "hypoglycemia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome-associated diabetes mellitus",
+    "relation": "has_symptom",
+    "object": "autoantibody-positive type 1 diabetes mellitus"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "bone marrow transplantation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome-associated diabetes mellitus",
+    "relation": "treated_by",
+    "object": "dietary intervention"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "diabetes mellitus"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "immunologic instability"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "chronic inflammation"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "cytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "dysmorphism"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "myopia"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_symptom",
+    "object": "frequent infections"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_cause",
+    "object": "DNAJC21 variant"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "treated_by",
+    "object": "precise genetic diagnosis"
+  },
+  {
+    "subject": "Cytopenia",
+    "relation": "associated_with",
+    "object": "Shwachman-Diamond Syndrome"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "inherited bone marrow failure syndromes"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "has_symptom",
+    "object": "cytopenia"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "has_symptom",
+    "object": "myelodysplastic syndrome"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "has_cause",
+    "object": "mutations forming pathologic germline variants"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "has_cause",
+    "object": "acquisition of subsequent somatic mutations"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "myelodysplastic syndrome"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "treated_by",
+    "object": "Early hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Inherited Bone Marrow Failure",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Inherited Bone Marrow Failure",
+    "relation": "has_symptom",
+    "object": "Hemorrhage"
+  },
+  {
+    "subject": "Inherited Bone Marrow Failure",
+    "relation": "has_symptom",
+    "object": "Recurrent Bacterial Infections"
+  },
+  {
+    "subject": "Inherited Bone Marrow Failure",
+    "relation": "has_cause",
+    "object": "Germline Mutations"
+  },
+  {
+    "subject": "Inherited Bone Marrow Failure",
+    "relation": "associated_with",
+    "object": "Aplastic Anemia"
+  },
+  {
+    "subject": "Inherited Bone Marrow Failure",
+    "relation": "associated_with",
+    "object": "Short Telomerase"
+  },
+  {
+    "subject": "Fanconi Anemia",
+    "relation": "associated_with",
+    "object": "Inherited Bone Marrow Failure"
+  },
+  {
+    "subject": "Dyskeratosis Congenita",
+    "relation": "associated_with",
+    "object": "Inherited Bone Marrow Failure"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "Inherited Bone Marrow Failure"
+  },
+  {
+    "subject": "Congenital Amegakaryocytic Thrombocytopenia",
+    "relation": "associated_with",
+    "object": "Inherited Bone Marrow Failure"
+  },
+  {
+    "subject": "Blackfan-Diamond Anemia",
+    "relation": "associated_with",
+    "object": "Inherited Bone Marrow Failure"
+  },
+  {
+    "subject": "Reticular Dysgenesis",
+    "relation": "associated_with",
+    "object": "Inherited Bone Marrow Failure"
+  },
+  {
+    "subject": "Cystic fibrosis",
+    "relation": "has_cause",
+    "object": "nonsense mutations"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_cause",
+    "object": "nonsense mutations"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "has_cause",
+    "object": "nonsense mutations"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "nonsense mutations"
+  },
+  {
+    "subject": "Cystic fibrosis",
+    "relation": "treated_by",
+    "object": "nonsense suppression therapy"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "treated_by",
+    "object": "nonsense suppression therapy"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "treated_by",
+    "object": "nonsense suppression therapy"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "nonsense suppression therapy"
+  },
+  {
+    "subject": "Cystic fibrosis",
+    "relation": "treated_by",
+    "object": "NV848"
+  },
+  {
+    "subject": "Cystic fibrosis",
+    "relation": "treated_by",
+    "object": "NV914"
+  },
+  {
+    "subject": "Cystic fibrosis",
+    "relation": "treated_by",
+    "object": "NV930"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "treated_by",
+    "object": "NV848"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "treated_by",
+    "object": "NV914"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "treated_by",
+    "object": "NV930"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "treated_by",
+    "object": "NV848"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "treated_by",
+    "object": "NV914"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "treated_by",
+    "object": "NV930"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "NV848"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "NV914"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "NV930"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "has_symptom",
+    "object": "Gait disturbance"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "has_symptom",
+    "object": "Cosmetic deformity"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "has_symptom",
+    "object": "Joint degeneration"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "treated_by",
+    "object": "Guided growth"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "treated_by",
+    "object": "Staples"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "treated_by",
+    "object": "Corrective osteotomy"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "treated_by",
+    "object": "Angular epiphysiodesis"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "has_cause",
+    "object": "Trauma"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "has_cause",
+    "object": "Infection"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "has_cause",
+    "object": "Tumour"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "associated_with",
+    "object": "Mucopolysaccharidoses type I"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "associated_with",
+    "object": "Spondyloepiphyseal dysplasia"
+  },
+  {
+    "subject": "Angular deformity",
+    "relation": "associated_with",
+    "object": "Blount's disease"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_symptom",
+    "object": "Fever"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Childhood viral infections"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Bacterial and fungal agents"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Cytotoxic chemotherapies"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Rare genetic neutropenias"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Drug-induced neutropenia"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Immune neutropenias"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "associated_with",
+    "object": "Major infections"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "associated_with",
+    "object": "Malignancies"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "treated_by",
+    "object": "Cytotoxic chemotherapies"
+  },
+  {
+    "subject": "Germline disorders of bone marrow failure",
+    "relation": "has_symptom",
+    "object": "Bone marrow failure"
+  },
+  {
+    "subject": "Germline disorders of bone marrow failure",
+    "relation": "associated_with",
+    "object": "Myeloid malignancy"
+  },
+  {
+    "subject": "Germline disorders of bone marrow failure",
+    "relation": "associated_with",
+    "object": "Myelodysplastic syndrome"
+  },
+  {
+    "subject": "Fanconi anemia",
+    "relation": "associated_with",
+    "object": "Bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Bone marrow failure"
+  },
+  {
+    "subject": "Telomere biology disorders",
+    "relation": "associated_with",
+    "object": "Bone marrow failure"
+  },
+  {
+    "subject": "Severe congenital neutropenia",
+    "relation": "has_symptom",
+    "object": "Neutropenia"
+  },
+  {
+    "subject": "GATA2 deficiency",
+    "relation": "associated_with",
+    "object": "Bone marrow failure"
+  },
+  {
+    "subject": "SAMD9/SAMD9L diseases",
+    "relation": "associated_with",
+    "object": "Bone marrow failure"
+  },
+  {
+    "subject": "Diamond-Blackfan anemia",
+    "relation": "has_symptom",
+    "object": "Anemia"
+  },
+  {
+    "subject": "Acquired aplastic anemia",
+    "relation": "has_symptom",
+    "object": "Aplastic anemia"
+  },
+  {
+    "subject": "Germline disorders of bone marrow failure",
+    "relation": "treated_by",
+    "object": "Correlation between clinical findings, laboratory and genetic studies, and bone marrow histopathology"
+  },
+  {
+    "subject": "Myelodysplastic syndrome",
+    "relation": "has_cause",
+    "object": "Germline disorders of bone marrow failure"
+  },
+  {
+    "subject": "Myelodysplastic syndrome",
+    "relation": "has_symptom",
+    "object": "Signs and symptoms of hematopoietic malignancy"
+  },
+  {
+    "subject": "Hematopoietic malignancy",
+    "relation": "has_symptom",
+    "object": "Signs and symptoms of hematopoietic malignancy"
+  },
+  {
+    "subject": "Myelodysplastic syndrome",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Hematopoietic malignancy predispositions",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Myelodysplastic syndrome",
+    "relation": "has_cause",
+    "object": "Germline gene variants"
+  },
+  {
+    "subject": "Hematopoietic malignancy",
+    "relation": "has_cause",
+    "object": "Germline gene variants"
+  },
+  {
+    "subject": "Myelodysplastic syndrome",
+    "relation": "associated_with",
+    "object": "Hematopoietic malignancy predispositions"
+  },
+  {
+    "subject": "Hematopoietic malignancy",
+    "relation": "associated_with",
+    "object": "Hematopoietic malignancy predispositions"
+  },
+  {
+    "subject": "Myelodysplastic syndrome",
+    "relation": "associated_with",
+    "object": "Leukemias"
+  },
+  {
+    "subject": "Myelodysplastic syndrome",
+    "relation": "associated_with",
+    "object": "Lymphomas"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_symptom",
+    "object": "Recurrent bacterial infections"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Pathogenic variants in genes such as ELANE, HAX1, and SBDS"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "SRP54 pathogenic variants"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "associated_with",
+    "object": "Shwachman-Diamond-like syndrome"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "treated_by",
+    "object": "Granulocyte colony-stimulating factor therapy"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "SBDS gene mutations"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Hematopoietic cell transplantation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Supportive treatments"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Engineered U1snRNA"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Base editors"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Prime editors"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Marrow failure"
+  },
+  {
+    "subject": "Shwachman diamond syndrome",
+    "relation": "has_symptom",
+    "object": "ventricular arrhythmia"
+  },
+  {
+    "subject": "Shwachman diamond syndrome",
+    "relation": "has_symptom",
+    "object": "growth retardation"
+  },
+  {
+    "subject": "Shwachman diamond syndrome",
+    "relation": "has_symptom",
+    "object": "liver damage"
+  },
+  {
+    "subject": "Shwachman diamond syndrome",
+    "relation": "has_symptom",
+    "object": "persistent decrease in peripheral blood neutrophil count"
+  },
+  {
+    "subject": "Shwachman diamond syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Shwachman diamond syndrome",
+    "relation": "has_symptom",
+    "object": "pancreatic exocrine insufficiency"
+  },
+  {
+    "subject": "Shwachman diamond syndrome",
+    "relation": "has_symptom",
+    "object": "pancreatic adiposis"
+  },
+  {
+    "subject": "Shwachman diamond syndrome",
+    "relation": "has_cause",
+    "object": "SBDS gene chr7:66,459,197, c.258+2T > C homozygous variation"
+  },
+  {
+    "subject": "Shwachman diamond syndrome",
+    "relation": "treated_by",
+    "object": "genetic examination"
+  },
+  {
+    "subject": "Shwachman diamond syndrome",
+    "relation": "treated_by",
+    "object": "early diagnosis and treatment"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "molecular diagnosis using next-generation sequencing"
+  },
+  {
+    "subject": "Bone Marrow Failure",
+    "relation": "has_symptom",
+    "object": "Peripheral blood cytopenia"
+  },
+  {
+    "subject": "Bone Marrow Failure",
+    "relation": "has_symptom",
+    "object": "Invasive infections"
+  },
+  {
+    "subject": "Bone Marrow Failure",
+    "relation": "has_symptom",
+    "object": "Bleeding complications"
+  },
+  {
+    "subject": "Bone Marrow Failure",
+    "relation": "treated_by",
+    "object": "Allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Bone Marrow Failure",
+    "relation": "has_cause",
+    "object": "Inherited bone marrow failure syndromes"
+  },
+  {
+    "subject": "Bone Marrow Failure",
+    "relation": "has_cause",
+    "object": "Severe aplastic anemia"
+  },
+  {
+    "subject": "Bone Marrow Failure",
+    "relation": "has_cause",
+    "object": "Premalignant disease"
+  },
+  {
+    "subject": "Bone Marrow Failure",
+    "relation": "has_cause",
+    "object": "Malignant disease"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "Multiorgan disease"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "Secondary malignancies"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "Multiorgan toxicity"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "has_symptom",
+    "object": "Abdominal pain"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "has_symptom",
+    "object": "Weight loss"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "has_symptom",
+    "object": "Poor weight gain"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "has_symptom",
+    "object": "Malnutrition"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "has_symptom",
+    "object": "Steatorrhea"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "has_cause",
+    "object": "Genetic disorders"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "associated_with",
+    "object": "Cystic fibrosis"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "associated_with",
+    "object": "Hereditary pancreatitis"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "associated_with",
+    "object": "Pearson syndrome"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "associated_with",
+    "object": "Shwachman-Diamond syndrome"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "treated_by",
+    "object": "Testing pancreatic function"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "treated_by",
+    "object": "Directly testing aspirates produced from the pancreas after stimulation"
+  },
+  {
+    "subject": "Exocrine Pancreatic Insufficiency",
+    "relation": "treated_by",
+    "object": "Indirect tests"
+  },
+  {
+    "subject": "Silver-Russell Syndrome",
+    "relation": "has_symptom",
+    "object": "pre- and postnatal growth failure"
+  },
+  {
+    "subject": "Silver-Russell Syndrome",
+    "relation": "has_symptom",
+    "object": "relative macrocephaly at birth"
+  },
+  {
+    "subject": "Silver-Russell Syndrome",
+    "relation": "has_symptom",
+    "object": "prominent forehead"
+  },
+  {
+    "subject": "Silver-Russell Syndrome",
+    "relation": "has_symptom",
+    "object": "body asymmetry"
+  },
+  {
+    "subject": "Silver-Russell Syndrome",
+    "relation": "has_symptom",
+    "object": "feeding difficulties"
+  },
+  {
+    "subject": "Silver-Russell Syndrome",
+    "relation": "has_cause",
+    "object": "imprinting alterations at multiple loci"
+  },
+  {
+    "subject": "Silver-Russell Syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in IGF2-PLAG1-HMGA2 and CDKN1C"
+  },
+  {
+    "subject": "Silver-Russell Syndrome",
+    "relation": "associated_with",
+    "object": "IGF-1 resistance"
+  },
+  {
+    "subject": "Silver-Russell Syndrome",
+    "relation": "treated_by",
+    "object": "IGF1R sequencing"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_complication",
+    "object": "malignant hematological complications"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_complication",
+    "object": "nonmalignant hematological complications"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation (HSCT)"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "severe cytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "acute myeloid leukemia"
+  },
+  {
+    "subject": "acute myeloid leukemia",
+    "relation": "treated_by",
+    "object": "cytoreductive chemotherapy"
+  },
+  {
+    "subject": "acute myeloid leukemia",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation (HSCT)"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_symptom",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_symptom",
+    "object": "Destructive effect on supportive mucosal tissues around the teeth"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "treated_by",
+    "object": "Mechanical debridement"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "treated_by",
+    "object": "Anti-inflammatory therapies"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "treated_by",
+    "object": "IL-17 and IL-23-targeted therapies"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "treated_by",
+    "object": "Therapy against inflammatory cytokines"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_cause",
+    "object": "Microbiota"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_cause",
+    "object": "Bacterial endotoxins"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "associated_with",
+    "object": "Malnutrition"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "associated_with",
+    "object": "Vitamin deficiencies"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "associated_with",
+    "object": "Smoking"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "associated_with",
+    "object": "Systemic inherited and acquired immune-mediated diseases"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "associated_with",
+    "object": "Infections"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "associated_with",
+    "object": "Endocrinological diseases"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "associated_with",
+    "object": "Pharmacological agents"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "exocrine pancreatic insufficiency"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "cytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "severe sepsis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "ptosis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "congenital bone marrow failure syndromes"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "diagnosed_by",
+    "object": "Genetic testing"
+  },
+  {
+    "subject": "Ptosis",
+    "relation": "treated_by",
+    "object": "None mentioned"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "None mentioned"
+  },
+  {
+    "subject": "Acute Myeloid Leukemia",
+    "relation": "treated_by",
+    "object": "Venetoclax"
+  },
+  {
+    "subject": "Acute Myeloid Leukemia",
+    "relation": "treated_by",
+    "object": "Hypomethylating agents"
+  },
+  {
+    "subject": "Acute Myeloid Leukemia",
+    "relation": "treated_by",
+    "object": "Low-dose cytotoxic agents"
+  },
+  {
+    "subject": "Acute Myeloid Leukemia",
+    "relation": "treated_by",
+    "object": "Intensive chemotherapy"
+  },
+  {
+    "subject": "Myelodysplastic syndromes",
+    "relation": "treated_by",
+    "object": "Venetoclax"
+  },
+  {
+    "subject": "Therapy-related MDS/AML",
+    "relation": "treated_by",
+    "object": "Venetoclax"
+  },
+  {
+    "subject": "Acute Myeloid Leukemia",
+    "relation": "associated_with",
+    "object": "BCL-2 inhibition"
+  },
+  {
+    "subject": "Acute Myeloid Leukemia",
+    "relation": "has_treatment_outcome",
+    "object": "Promising response rates"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "has_symptom",
+    "object": "cytopenias"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "TP53-dependent growth arrest"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "apoptosis of hematopoietic stem"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "myeloid neoplasia"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "treated_by",
+    "object": "anti-inflammatory therapies"
+  },
+  {
+    "subject": "Fanconi anemia",
+    "relation": "has_cause",
+    "object": "gene mutations affecting DNA damage response"
+  },
+  {
+    "subject": "Diamond-Blackfan anemia",
+    "relation": "has_cause",
+    "object": "gene mutations affecting ribosome structure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "gene mutations affecting ribosome assembly"
+  },
+  {
+    "subject": "dyskeratosis congenita",
+    "relation": "has_cause",
+    "object": "gene mutations affecting telomere maintenance/stability"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "pro-inflammatory cytokines"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "has_cause",
+    "object": "GATA2 deficiency"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "has_cause",
+    "object": "SAMD9/9L mutations"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_symptom",
+    "object": "Recurrent bacterial infections"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "Pathogenic variants in genes such as ELANE, HAX1, and SBDS"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "has_cause",
+    "object": "SRP54 pathogenic variants"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "associated_with",
+    "object": "Shwachman-Diamond-like syndrome"
+  },
+  {
+    "subject": "Severe Congenital Neutropenia",
+    "relation": "treated_by",
+    "object": "Granulocyte colony-stimulating factor (G-CSF) therapy"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "cytopenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "reduced growth"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "defective protein synthesis"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "myeloid malignancies"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the DNAJC21 gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "bone marrow failure syndrome"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "myelodysplastic neoplasia"
+  },
+  {
+    "subject": "Cytopenia",
+    "relation": "has_cause",
+    "object": "impaired hematopoietic differentiation"
+  },
+  {
+    "subject": "Cytopenia",
+    "relation": "has_cause",
+    "object": "accumulation of DNA damage"
+  },
+  {
+    "subject": "Cytopenia",
+    "relation": "has_cause",
+    "object": "reduced cell proliferation"
+  },
+  {
+    "subject": "Cytopenia",
+    "relation": "treated_by",
+    "object": "exogenous nucleoside supplementation"
+  },
+  {
+    "subject": "Neutrophil differentiation",
+    "relation": "associated_with",
+    "object": "nucleotide imbalance"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "exogenous nucleoside supplementation"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_symptom",
+    "object": "ulcerations"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_symptom",
+    "object": "lesions"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "distinct therapeutic approaches"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "antimicrobial prophylaxis"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_cause",
+    "object": "inborn errors"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "associated_with",
+    "object": "impaired antibody production"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "associated_with",
+    "object": "immune deficiencies"
+  },
+  {
+    "subject": "Germline Predisposition to Myeloid Neoplasia",
+    "relation": "has_symptom",
+    "object": "Cytopenias"
+  },
+  {
+    "subject": "Germline Predisposition to Myeloid Neoplasia",
+    "relation": "has_symptom",
+    "object": "Bone Marrow Dysplastic-appearing Features"
+  },
+  {
+    "subject": "Germline Predisposition to Myeloid Neoplasia",
+    "relation": "associated_with",
+    "object": "Myelodysplastic Syndrome"
+  },
+  {
+    "subject": "Germline Predisposition to Myeloid Neoplasia",
+    "relation": "associated_with",
+    "object": "Hematologic Malignancy"
+  },
+  {
+    "subject": "Germline Predisposition to Myeloid Neoplasia",
+    "relation": "treated_by",
+    "object": "Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Germline Predisposition to Myeloid Neoplasia",
+    "relation": "has_cause",
+    "object": "Germline Alterations"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_symptom",
+    "object": "Fever"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_symptom",
+    "object": "Weight Loss"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_symptom",
+    "object": "Bone Pain"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_symptom",
+    "object": "Bruising"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_symptom",
+    "object": "Bleeding"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "treated_by",
+    "object": "Chemotherapy"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "treated_by",
+    "object": "Allogeneic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_cause",
+    "object": "Genetic Risk Factors"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_cause",
+    "object": "Viral Infections"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_cause",
+    "object": "Ionizing Radiation Exposure"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_cause",
+    "object": "Environmental Exposure to Benzene"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_cause",
+    "object": "Smoking History"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_cause",
+    "object": "History of Chemotherapy with Alkylating Agents"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "associated_with",
+    "object": "Klinefelter Syndrome"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "associated_with",
+    "object": "Down Syndrome"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "associated_with",
+    "object": "Ataxia Telangiectasia"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "associated_with",
+    "object": "Bloom Syndrome"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "associated_with",
+    "object": "Fanconi Anemia"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "associated_with",
+    "object": "Dyskeratosis Congenita"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "associated_with",
+    "object": "Shwachman-Diamond Syndrome"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "associated_with",
+    "object": "Epstein Barr Virus"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "associated_with",
+    "object": "Human T-lymphotropic Virus"
+  },
+  {
+    "subject": "Acute Lymphoblastic Leukemia",
+    "relation": "treated_by",
+    "object": "Pediatric Regimens"
+  },
+  {
+    "subject": "Chronic Myelogenous Leukemia",
+    "relation": "has_cause",
+    "object": "Reciprocal Translocation and Fusion of BCR and ABL1"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "serious infections"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "has_symptom",
+    "object": "minor side effects"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "treated_by",
+    "object": "COVID-19 vaccines"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "fatty degeneration of the pancreas"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "Shwachman-Bodian-Diamond syndrome gene abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "acute myeloid leukemia"
+  },
+  {
+    "subject": "acute myeloid leukemia",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Hematopoietic stem cell transplantation",
+    "relation": "has_treatment_detail",
+    "object": "fludarabine"
+  },
+  {
+    "subject": "Hematopoietic stem cell transplantation",
+    "relation": "has_treatment_detail",
+    "object": "busulfan"
+  },
+  {
+    "subject": "Hematopoietic stem cell transplantation",
+    "relation": "has_treatment_detail",
+    "object": "total body irradiation"
+  },
+  {
+    "subject": "Hematopoietic stem cell transplantation",
+    "relation": "has_prophylaxis",
+    "object": "tacrolimus"
+  },
+  {
+    "subject": "Hematopoietic stem cell transplantation",
+    "relation": "has_prophylaxis",
+    "object": "micophenolate mofetil"
+  },
+  {
+    "subject": "Hematopoietic stem cell transplantation",
+    "relation": "has_prophylaxis",
+    "object": "posttransplant cyclophosphamide"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "serious infections"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "has_symptom",
+    "object": "minor side effects"
+  },
+  {
+    "subject": "COVID-19 in patients with Shwachman-Diamond syndrome",
+    "relation": "has_outcome",
+    "object": "short clinical course"
+  },
+  {
+    "subject": "COVID-19 in patients with Shwachman-Diamond syndrome",
+    "relation": "has_outcome",
+    "object": "without significant complications"
+  },
+  {
+    "subject": "COVID-19 in patients with Shwachman-Diamond syndrome",
+    "relation": "has_outcome",
+    "object": "without cytopenias"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "treated_by",
+    "object": "COVID-19 vaccines"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the Shwachman-Bodian-Diamond Syndrome gene (SBDS)"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "ribosomopathy"
+  },
+  {
+    "subject": "Hematologic malignancies",
+    "relation": "has_treatment",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Hematologic malignancies",
+    "relation": "has_treatment",
+    "object": "Tailored treatment approach"
+  },
+  {
+    "subject": "Hematologic malignancies",
+    "relation": "has_cause",
+    "object": "Germline mutation"
+  },
+  {
+    "subject": "Hematologic malignancies",
+    "relation": "associated_with",
+    "object": "Cancer predisposition syndromes"
+  },
+  {
+    "subject": "Hematologic malignancies",
+    "relation": "associated_with",
+    "object": "Comorbidities"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "has_cause",
+    "object": "somatic mutations"
+  },
+  {
+    "subject": "Shwachman-Diamond Syndrome",
+    "relation": "associated_with",
+    "object": "cancers"
+  },
+  {
+    "subject": "cancers",
+    "relation": "treated_by",
+    "object": "targeting eIF6"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "chronic diarrhea"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "abdominal bloating"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "foul-smelling stools"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "failure to thrive (below 2nd standard deviation for weight and height)"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "pale appearance"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_cause",
+    "object": "mutation in the SBDS gene"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "bone marrow failure"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "exocrine pancreatic dysfunction"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "pancreatic enzyme replacement therapy"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "treated_by",
+    "object": "Haematopoietic cell transplantation"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "treated_by",
+    "object": "Gene-targeted therapy"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "associated_with",
+    "object": "Cancer predispositions"
+  },
+  {
+    "subject": "Inherited bone marrow failure syndromes",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Skeletal disorders",
+    "relation": "has_cause",
+    "object": "Aberrant immune activation"
+  },
+  {
+    "subject": "Skeletal disorders",
+    "relation": "associated_with",
+    "object": "Autoimmune diseases"
+  },
+  {
+    "subject": "Rheumatoid arthritis",
+    "relation": "associated_with",
+    "object": "Skeletal disorders"
+  },
+  {
+    "subject": "Tumorigenesis",
+    "relation": "has_cause",
+    "object": "Dysregulation of immune-bone crosstalk"
+  },
+  {
+    "subject": "Skeletal diseases",
+    "relation": "treated_by",
+    "object": "Potential therapeutic approaches"
+  },
+  {
+    "subject": "Immune diseases",
+    "relation": "treated_by",
+    "object": "Potential therapeutic approaches"
+  },
+  {
+    "subject": "Bone Marrow Failure Syndrome",
+    "relation": "has_symptom",
+    "object": "Abnormal Complete Blood Count"
+  },
+  {
+    "subject": "Aplastic Anemia",
+    "relation": "associated_with",
+    "object": "Bone Marrow Failure Syndrome"
+  },
+  {
+    "subject": "Myelodysplastic Syndrome",
+    "relation": "associated_with",
+    "object": "Bone Marrow Failure Syndrome"
+  },
+  {
+    "subject": "Bone Marrow Failure Syndrome",
+    "relation": "treated_by",
+    "object": "Timely Referrals"
+  },
+  {
+    "subject": "Bone Marrow Failure Syndrome",
+    "relation": "treated_by",
+    "object": "Effective Triage"
+  },
+  {
+    "subject": "Bone Marrow Failure Syndrome",
+    "relation": "treated_by",
+    "object": "Improved Patient Care"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_symptom",
+    "object": "Feeding difficulties"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_symptom",
+    "object": "Abnormal muscle tone"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_symptom",
+    "object": "Neurological issues"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_symptom",
+    "object": "Cranial MR abnormalities"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_symptom",
+    "object": "Multiple malformations"
+  },
+  {
+    "subject": "Feeding difficulties",
+    "relation": "treated_by",
+    "object": "Tube feeding"
+  },
+  {
+    "subject": "Feeding difficulties",
+    "relation": "diagnosed_by",
+    "object": "Whole-exome sequencing"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "has_cause",
+    "object": "Genetic variation"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "associated_with",
+    "object": "Preterm birth"
+  },
+  {
+    "subject": "Rare Genetic Diseases",
+    "relation": "associated_with",
+    "object": "Multiple malformations"
+  }
+]

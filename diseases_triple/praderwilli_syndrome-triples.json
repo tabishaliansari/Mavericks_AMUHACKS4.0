@@ -1,0 +1,4782 @@
+[
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "feeding difficulties"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "dysmorphisms"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "deletion of the 15q11.2q13 region on the paternally-inherited chromosome 15"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "maternal uniparental disomy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "imprinting defects"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "genomic imprinting"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "excessive daytime sleepiness"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive symptoms"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "motor symptoms"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "physiological symptoms"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "narcolepsy-like features"
+  },
+  {
+    "subject": "excessive daytime sleepiness",
+    "relation": "treated_by",
+    "object": "Pitolisant"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "Goal Attainment Scaling"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obstructive sleep apnea"
+  },
+  {
+    "subject": "obstructive sleep apnea",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "pediatric obstructive sleep apnea",
+    "relation": "has_cause",
+    "object": "increased viscosity of secretions"
+  },
+  {
+    "subject": "pediatric obstructive sleep apnea",
+    "relation": "has_cause",
+    "object": "craniofacial abnormalities"
+  },
+  {
+    "subject": "pediatric obstructive sleep apnea",
+    "relation": "has_cause",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "pediatric obstructive sleep apnea",
+    "relation": "has_cause",
+    "object": "obesity"
+  },
+  {
+    "subject": "pediatric obstructive sleep apnea",
+    "relation": "treated_by",
+    "object": "adenotonsillectomy"
+  },
+  {
+    "subject": "pediatric obstructive sleep apnea",
+    "relation": "treated_by",
+    "object": "tonsillectomy"
+  },
+  {
+    "subject": "pediatric obstructive sleep apnea",
+    "relation": "treated_by",
+    "object": "adenoidectomy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "obstructive sleep apnea"
+  },
+  {
+    "subject": "growth hormone",
+    "relation": "associated_with",
+    "object": "increased risk of OSA"
+  },
+  {
+    "subject": "testosterone",
+    "relation": "associated_with",
+    "object": "increased risk of OSA"
+  },
+  {
+    "subject": "obesity",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "craniofacial abnormalities",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "hypotonia",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "excessive daytime sleepiness"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "severe behavioral problems"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive development issues"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "growth failure"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone"
+  },
+  {
+    "subject": "hyperphagia",
+    "relation": "treated_by",
+    "object": "new pharmacologic therapies"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "musculoskeletal issues"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "endocrine issues"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "pulmonary issues"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "neurologic issues"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "ocular issues"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "gastrointestinal issues"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "speech problems"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "low level of vocabulary"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "poor reading skills"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "global intellectual impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic condition"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "height loss"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "kyphosis"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "vertebral fractures"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "disc collapse"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "mood changes"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "behavior changes"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "diet regimens"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "exercise regimens"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "life-style changes"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "medical interventions for obesity"
+  },
+  {
+    "subject": "Height loss",
+    "relation": "has_cause",
+    "object": "vertebral fractures"
+  },
+  {
+    "subject": "Height loss",
+    "relation": "has_cause",
+    "object": "disc collapse"
+  },
+  {
+    "subject": "Height loss",
+    "relation": "has_cause",
+    "object": "kyphosis"
+  },
+  {
+    "subject": "Height loss",
+    "relation": "has_cause",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "negative portrayal in media"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "associated_with",
+    "object": "negative portrayal in media"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "more negative perception"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "associated_with",
+    "object": "more negative perception"
+  },
+  {
+    "subject": "Intellectual and developmental disabilities",
+    "relation": "associated_with",
+    "object": "poor self perception"
+  },
+  {
+    "subject": "Intellectual and developmental disabilities",
+    "relation": "associated_with",
+    "object": "stereotypical portrayal in media"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_associated_condition",
+    "object": "Hip dysplasia"
+  },
+  {
+    "subject": "Hip dysplasia",
+    "relation": "treated_by",
+    "object": "Surgical intervention"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Hip dysplasia"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Circadian disturbances"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Sleep/wake pattern disturbances"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Disrupted AVP-containing neurons"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Reduced GFAP-expressing astrocytes"
+  },
+  {
+    "subject": "Circadian disturbances",
+    "relation": "has_cause",
+    "object": "Disrupted AVP-containing neurons"
+  },
+  {
+    "subject": "Circadian disturbances",
+    "relation": "has_cause",
+    "object": "Reduced GFAP-expressing astrocytes"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "constant hunger"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "endocrine dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral abnormalities"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "neuropsychiatric abnormalities"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperleptinemia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "metabolic abnormalities"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "glucose metabolism impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "GH therapy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Environmental enrichment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "hypothalamic brain-derived neurotrophic factor gene therapy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic disease"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "metabolic abnormalities"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "endocrine dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "severe obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "feeding issues"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Growth hormone therapy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "overweight"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Temper Outbursts"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Food Problems"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Depression in Parents"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Anxiety in Parents"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "PTSD Symptoms in Siblings"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "High Life Stress in Parents"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "Strategies to Enhance Family Cohesion"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Food-seeking behaviours"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Low executive functioning"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Functional dysconnectivity"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "Genetic condition"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Functional brain abnormalities"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Brain network dysregulation"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Cognitive difficulties"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Behavioural difficulties"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "Genetic alterations"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Excessive weight"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "metabolic dysregulation"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "high-dose fiber intervention"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "shifts in gut microbiota diversity"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "altered fecal and serum metabolites"
+  },
+  {
+    "subject": "hyperphagia",
+    "relation": "treated_by",
+    "object": "high-dose fiber intervention"
+  },
+  {
+    "subject": "metabolic health",
+    "relation": "treated_by",
+    "object": "high-dose fiber intervention"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "unknown"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "respiratory impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "COVID-19 severity"
+  },
+  {
+    "subject": "COVID-19 infection in PWS patients",
+    "relation": "has_symptom",
+    "object": "longer hospital stays"
+  },
+  {
+    "subject": "COVID-19 infection in PWS patients",
+    "relation": "has_symptom",
+    "object": "higher charges"
+  },
+  {
+    "subject": "COVID-19 infection in PWS patients",
+    "relation": "has_symptom",
+    "object": "increased risk of mechanical ventilation"
+  },
+  {
+    "subject": "COVID-19 infection in PWS patients",
+    "relation": "has_symptom",
+    "object": "increased risk of death"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "COVID-19 infection in PWS patients",
+    "relation": "treated_by",
+    "object": "protective measures"
+  },
+  {
+    "subject": "COVID-19 infection in PWS patients",
+    "relation": "treated_by",
+    "object": "vaccination efforts"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "severe COVID-19"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Hypothalamic dysfunction"
+  },
+  {
+    "subject": "Anorexia nervosa",
+    "relation": "has_cause",
+    "object": "Hypothalamic dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Hypothalamic dysfunction"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "associated_with",
+    "object": "Imbalances in energy intake and expenditure"
+  },
+  {
+    "subject": "Anorexia nervosa",
+    "relation": "associated_with",
+    "object": "Imbalances in energy intake and expenditure"
+  },
+  {
+    "subject": "Hypothalamic dysfunction",
+    "relation": "has_symptom",
+    "object": "Eating-related disorders"
+  },
+  {
+    "subject": "Eating-related disorders",
+    "relation": "treated_by",
+    "object": "Therapeutic interventions targeting glial cells"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "associated_with",
+    "object": "Glial malfunction"
+  },
+  {
+    "subject": "Anorexia nervosa",
+    "relation": "associated_with",
+    "object": "Glial malfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Glial malfunction"
+  },
+  {
+    "subject": "Hypothalamic dysfunction",
+    "relation": "has_symptom",
+    "object": "Imbalances in energy intake and expenditure"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral difficulties"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obsessive-compulsive features"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "has_symptom",
+    "object": "deficient impulse regulation"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "associated_with",
+    "object": "dysfunction in the inhibitory gamma-aminobutyric acid (GABA) interneuron system"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "associated_with",
+    "object": "obsessive-compulsive disorder"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic configuration"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "treated_by",
+    "object": "therapeutic strategies targeting GABAergic dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Distortion of body image perception"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Underestimation of body dimensions"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Transdisciplinary treatment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Neuropsychological profile abnormalities"
+  },
+  {
+    "subject": "Distortion of body image perception",
+    "relation": "has_cause",
+    "object": "Neuropsychological profile abnormalities"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Low intelligence quotient"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "loss of function of genes in the paternal copy of chromosome 15q11.2-q13"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "developmental dysplasia of the hip"
+  },
+  {
+    "subject": "developmental dysplasia of the hip",
+    "relation": "treated_by",
+    "object": "open reduction of the hip"
+  },
+  {
+    "subject": "developmental dysplasia of the hip",
+    "relation": "treated_by",
+    "object": "femoral shortening with fixation using a plate"
+  },
+  {
+    "subject": "developmental dysplasia of the hip",
+    "relation": "treated_by",
+    "object": "Dega osteotomy"
+  },
+  {
+    "subject": "developmental dysplasia of the hip",
+    "relation": "treated_by",
+    "object": "capsulorrhaphy"
+  },
+  {
+    "subject": "developmental dysplasia of the hip",
+    "relation": "treated_by",
+    "object": "temporary stabilization of the hip joint with a K-wire"
+  },
+  {
+    "subject": "developmental dysplasia of the hip",
+    "relation": "treated_by",
+    "object": "nonoperative treatment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hip dysplasia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive disabilities"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral problems"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "sleep disorders"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obstructive sleep apnea"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "central sleep apnea"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "orthostatic hypotension"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "narcoleptic-like phenotype"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "autonomic nervous system dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hypothalamic dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "dysautonomia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "increased cardiovascular risk"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Central sleep apnea"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Sleep-related hypoventilation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Obstructive sleep apnea"
+  },
+  {
+    "subject": "Obstructive sleep apnea",
+    "relation": "has_symptom",
+    "object": "Sleep fragmentation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Sleep related breathing disorders"
+  },
+  {
+    "subject": "Obstructive sleep apnea",
+    "relation": "treated_by",
+    "object": "Polysomnography"
+  },
+  {
+    "subject": "Sleep related breathing disorders",
+    "relation": "has_cause",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Sleep related breathing disorders"
+  },
+  {
+    "subject": "Autism Spectrum Disorder (ASD)",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Autism Spectrum Disorder (ASD)",
+    "relation": "has_symptom",
+    "object": "abnormal social recognition"
+  },
+  {
+    "subject": "Prader-Willi Syndrome (PWS)",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi Syndrome (PWS)",
+    "relation": "has_symptom",
+    "object": "abnormal food motivation"
+  },
+  {
+    "subject": "Autism Spectrum Disorder (ASD)",
+    "relation": "treated_by",
+    "object": "oxytocin"
+  },
+  {
+    "subject": "Prader-Willi Syndrome (PWS)",
+    "relation": "treated_by",
+    "object": "oxytocin"
+  },
+  {
+    "subject": "Autism Spectrum Disorder (ASD)",
+    "relation": "has_cause",
+    "object": "abnormalities in the oxytocin system"
+  },
+  {
+    "subject": "Prader-Willi Syndrome (PWS)",
+    "relation": "has_cause",
+    "object": "abnormalities in the oxytocin system"
+  },
+  {
+    "subject": "Autism Spectrum Disorder (ASD)",
+    "relation": "associated_with",
+    "object": "abnormalities in social bonding"
+  },
+  {
+    "subject": "Prader-Willi Syndrome (PWS)",
+    "relation": "associated_with",
+    "object": "abnormal maternal behaviors"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "muscular hypotonia"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral problems"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "endocrine deficiencies"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "diabetes mellitus"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "heart failure"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "vein thrombosis"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "atrial fibrillation"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "coronary heart disease"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "pulmonary embolism"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "morbid obesity"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "somatotropin"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "antidiabetics"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "thyroid hormones"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "has_symptom",
+    "object": "Apnea"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "treated_by",
+    "object": "Pressure-Supported Ventilation"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "treated_by",
+    "object": "Pressure-Controlled Ventilation"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "treated_by",
+    "object": "Continuous Positive Airway Pressure"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Hypoxic-Ischemic Encephalopathy"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Ondine Syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Polymalformative Syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Prader-Willi Syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Brain Tumor"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Down Syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "ROHHAD Syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Arnold-Chiari II"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Primary Central Apnea"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Lisosomal Diseases"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Hydrocephalus"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Myopathy"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Rett Syndrome"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "infectious diagnoses"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "respiratory diagnoses"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "overweight"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "overweight/obesity in PWS patients",
+    "relation": "associated_with",
+    "object": "Hispanic ethnicity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Hyperphagia",
+    "relation": "associated_with",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Insulin resistance"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Genetic deletion/Uniparental disomy"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "treated_by",
+    "object": "Prevention/ Early intervention"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "disruptions in circadian rhythms"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "emotional outbursts"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "transcutaneous auricular VNS (taVNS)"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "genetic neurodevelopmental disorder"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "autonomic nervous system (ANS) activity disruptions"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "vagal activity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "severe hypotonia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "poor appetite"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "feeding difficulties"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "excessive eating"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "morbid obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "delayed motor milestones"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "delayed language development"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hypogonadism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "genital hypoplasia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "incomplete pubertal development"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "infertility"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "temper tantrums"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "stubbornness"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "manipulative behavior"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obsessive-compulsive characteristics"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "characteristic facial features"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "strabismus"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "skin picking"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "daytime sleepiness"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "dry mouth"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "dental issues"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "abnormal DNA methylation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "15q11.2-q13 deletion"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "uniparental isodisomy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "imprinting defect"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "type 2 diabetes"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hypothyroidism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "central adrenal insufficiency"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hip dysplasia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "osteoporosis"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone therapy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "sex hormone replacement"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "topiramate"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "N-acetylcysteine"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "modafinil"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "calcium and vitamin D supplementation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "bisphosphonates"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "special nipples or nasogastric tube feeding"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "strict supervision of daily food intake"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "physical activity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "developmental services and educational support"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "hormonal and surgical treatments for cryptorchidism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "standard treatment for neurobehavioral and ophthalmologic manifestations"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "social work support and care coordination"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "type 2 diabetes"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperglycemia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "severe hyperglycemia"
+  },
+  {
+    "subject": "Type 2 diabetes",
+    "relation": "has_symptom",
+    "object": "hyperglycemia"
+  },
+  {
+    "subject": "Type 2 diabetes",
+    "relation": "has_symptom",
+    "object": "severe hyperglycemia"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_symptom",
+    "object": "significant body weight increase"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "semaglutide"
+  },
+  {
+    "subject": "Type 2 diabetes",
+    "relation": "treated_by",
+    "object": "semaglutide"
+  },
+  {
+    "subject": "Type 2 diabetes",
+    "relation": "treated_by",
+    "object": "insulin therapy"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "treated_by",
+    "object": "semaglutide"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "type 2 diabetes"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Type 2 diabetes",
+    "relation": "associated_with",
+    "object": "hyperglycemia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "H3R antagonists/inverse agonists"
+  },
+  {
+    "subject": "autism",
+    "relation": "treated_by",
+    "object": "H3R antagonists/inverse agonists"
+  },
+  {
+    "subject": "fatigue",
+    "relation": "treated_by",
+    "object": "H3R antagonists/inverse agonists"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder at 15q11-13 locus"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "epigenetic dysregulation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "essential obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "high mortality rate in adulthood"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone replacement therapy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "growth hormone deficiency"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "insulin-like growth factor 1 (IGF-1) levels"
+  },
+  {
+    "subject": "Isovaleric acidemia",
+    "relation": "has_symptom",
+    "object": "Elevated isovaleryl carnitine"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Infantile hypotonia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Severe neurodevelopmental disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Distinctive facial features"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Cryptorchidism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Patent ductus arteriosus"
+  },
+  {
+    "subject": "Isovaleric acidemia",
+    "relation": "has_cause",
+    "object": "Homozygous missense variant in the IVD gene"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Genetic variation in chromosome 15q11.2-q21.3"
+  },
+  {
+    "subject": "Fovea plana",
+    "relation": "has_symptom",
+    "object": "Fundus hypopigmentation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Fovea plana"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Oculocutaneous albinism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Deletion of genomic region on chromosome 15"
+  },
+  {
+    "subject": "Fovea plana",
+    "relation": "has_cause",
+    "object": "Deletion of genomic region on chromosome 15"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_cause",
+    "object": "Deletion of genomic region on chromosome 15"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Irritability"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Lethargy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Stereotypic Behavior"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Hyperactivity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "maladaptive behaviors"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "loss of paternal genes on chromosome 15"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "developmental disabilities"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "nondeletion"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "deletion"
+  },
+  {
+    "subject": "Growth Hormone Deficiency",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Turner Syndrome",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "SHOX Deficiency",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Short Stature"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Poor Body Composition"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Cognitive Dysfunction"
+  },
+  {
+    "subject": "Idiopathic Short Stature",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Chronic Kidney Disease",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Small for Gestational Age",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Growth Hormone Deficiency",
+    "relation": "has_symptom",
+    "object": "Short Stature"
+  },
+  {
+    "subject": "Turner Syndrome",
+    "relation": "has_symptom",
+    "object": "Short Stature"
+  },
+  {
+    "subject": "SHOX Deficiency",
+    "relation": "has_symptom",
+    "object": "Short Stature"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "Short Stature"
+  },
+  {
+    "subject": "Idiopathic Short Stature",
+    "relation": "has_symptom",
+    "object": "Short Stature"
+  },
+  {
+    "subject": "Chronic Kidney Disease",
+    "relation": "has_symptom",
+    "object": "Short Stature"
+  },
+  {
+    "subject": "Small for Gestational Age",
+    "relation": "has_symptom",
+    "object": "Short Stature"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Cognitive Dysfunction"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Poor Body Composition"
+  },
+  {
+    "subject": "Recombinant Growth Hormone",
+    "relation": "has_effect",
+    "object": "Improved Adult Height"
+  },
+  {
+    "subject": "Recombinant Growth Hormone",
+    "relation": "has_effect",
+    "object": "Improved Body Composition"
+  },
+  {
+    "subject": "Recombinant Growth Hormone",
+    "relation": "has_effect",
+    "object": "Improved Cognitive Function"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Temper outbursts"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Skin-picking"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Psychosis"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Autonomic dysfunction"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "mUPD genetic subtype"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "PWS deletion subtype"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "Genetic subtype (mUPD or deletion)"
+  },
+  {
+    "subject": "Autonomic dysfunction",
+    "relation": "has_symptom",
+    "object": "Lower RSA"
+  },
+  {
+    "subject": "Autonomic dysfunction",
+    "relation": "has_symptom",
+    "object": "Lower LF-HRV"
+  },
+  {
+    "subject": "Autonomic dysfunction",
+    "relation": "has_symptom",
+    "object": "Lower heart period"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "None mentioned"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "POMC circuit deficits"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "melanocortin circuit deficits"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "neonatal chemogenetic activation of OT neurons"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "defects in OT neurons or OT receptor signaling"
+  },
+  {
+    "subject": "Melanocortin circuit defects",
+    "relation": "treated_by",
+    "object": "OT receptor modulation"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "metabolic effects"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone treatment"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "genomic imprinting"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "uniparental disomy"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "hypothalamus"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "ghrelin"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "oxytocin"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "magel2"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "14 and 6 Hz like spike wave activity on EEG"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Sleep-disordered breathing"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Sleep-disordered breathing"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Recombinant human growth hormone"
+  },
+  {
+    "subject": "Worsening Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Higher IGF-1 levels"
+  },
+  {
+    "subject": "Worsening Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Higher body mass index"
+  },
+  {
+    "subject": "Worsening Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Lower rhGH dose"
+  },
+  {
+    "subject": "Worsening Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Non-15q deletion"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Higher body mass index"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Non-15q deletion"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "treated_by",
+    "object": "Positive airway pressure settings"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_symptom",
+    "object": "Unstable breathing"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_symptom",
+    "object": "Repeated oxygen drops during sleep"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_symptom",
+    "object": "Disrupted chemical signalling"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "associated_with",
+    "object": "Down syndrome"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "associated_with",
+    "object": "Pierre Robin sequence"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Cell death"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Episodes of intermittent hypoxia"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "treated_by",
+    "object": "Advanced imaging tools guided treatment"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "associated_with",
+    "object": "Cardiovascular strain"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "associated_with",
+    "object": "Neurological problems"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Scoliosis"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Growth hormone therapy"
+  },
+  {
+    "subject": "Scoliosis",
+    "relation": "has_cause",
+    "object": "Age"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Scoliosis"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Growth hormone therapy"
+  },
+  {
+    "subject": "Congenital central hypoventilation syndrome",
+    "relation": "has_symptom",
+    "object": "central apneas"
+  },
+  {
+    "subject": "Congenital central hypoventilation syndrome",
+    "relation": "has_symptom",
+    "object": "periodic breathing"
+  },
+  {
+    "subject": "Congenital central hypoventilation syndrome",
+    "relation": "has_symptom",
+    "object": "hypoventilation"
+  },
+  {
+    "subject": "Congenital disorders of ventilatory control",
+    "relation": "has_symptom",
+    "object": "central apneas"
+  },
+  {
+    "subject": "Congenital disorders of ventilatory control",
+    "relation": "has_symptom",
+    "object": "periodic breathing"
+  },
+  {
+    "subject": "Congenital disorders of ventilatory control",
+    "relation": "has_symptom",
+    "object": "hypoventilation"
+  },
+  {
+    "subject": "Congenital disorders of ventilatory control",
+    "relation": "has_symptom",
+    "object": "obstructive apneas"
+  },
+  {
+    "subject": "Congenital disorders of ventilatory control",
+    "relation": "associated_with",
+    "object": "autonomic nervous system dysfunction"
+  },
+  {
+    "subject": "Congenital central hypoventilation syndrome",
+    "relation": "associated_with",
+    "object": "autonomic nervous system dysfunction"
+  },
+  {
+    "subject": "ROHHAD syndrome",
+    "relation": "has_symptom",
+    "object": "hypoventilation"
+  },
+  {
+    "subject": "ROHHAD syndrome",
+    "relation": "associated_with",
+    "object": "autonomic dysregulation"
+  },
+  {
+    "subject": "ROHHAD syndrome",
+    "relation": "associated_with",
+    "object": "hypothalamic dysfunction"
+  },
+  {
+    "subject": "ROHHAD syndrome",
+    "relation": "has_symptom",
+    "object": "rapid-onset obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hypoventilation"
+  },
+  {
+    "subject": "Myelomeningocele",
+    "relation": "has_symptom",
+    "object": "hypoventilation"
+  },
+  {
+    "subject": "Congenital disorders of ventilatory control",
+    "relation": "has_treatment",
+    "object": "management"
+  },
+  {
+    "subject": "Congenital central hypoventilation syndrome",
+    "relation": "has_treatment",
+    "object": "management"
+  },
+  {
+    "subject": "ROHHAD syndrome",
+    "relation": "has_treatment",
+    "object": "management"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_treatment",
+    "object": "management"
+  },
+  {
+    "subject": "Myelomeningocele",
+    "relation": "has_treatment",
+    "object": "management"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal behavior"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal social interactions"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal feeding"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic neurodevelopmental disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "OT dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hypothalamic disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "intranasal OT treatment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal communication score"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal endocrine profiles"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal metabolic profiles"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "impairment in arousal"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "learning impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "pain modulation impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "stress-induced negative affective states"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "visual-spatial memory impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "reduced social interaction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "impaired sexual recognition"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "shorter falling latency"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "stress-related neuropsychiatric symptoms"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "locus coeruleus norepinephrine system dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "LC dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "atomoxetine"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "chemogenetic approaches to facilitate LC neuronal firing"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_symptom",
+    "object": "Pathological accumulation of adipose tissue"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_symptom",
+    "object": "Obstructive sleep apnea"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_symptom",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_symptom",
+    "object": "Respiratory arrest"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_symptom",
+    "object": "Sudden cardiac arrest"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_symptom",
+    "object": "Desaturation"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "treated_by",
+    "object": "Respiratory support using continuous positive airway pressure (CPAP)"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "treated_by",
+    "object": "Two-level positive airway pressure (BiPAP)"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "treated_by",
+    "object": "Tracheostomy"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "treated_by",
+    "object": "Tonsillectomy"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "treated_by",
+    "object": "Dietary recommendations"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Non-adherence to dietary recommendations"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Lack of regular medical check-ups"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Failure to implement appropriate treatment"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "associated_with",
+    "object": "Subclinical hypothyroidism"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "associated_with",
+    "object": "Myocarditis"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Impaired physical health"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Impaired social functioning"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Impaired self-control"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Genetic determination"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Multidisciplinary psychological treatment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "respiratory impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "COVID-19 severity"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "has_symptom",
+    "object": "respiratory impairment"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "treated_by",
+    "object": "mechanical ventilation"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "treated_by",
+    "object": "vaccination"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome with COVID-19",
+    "relation": "has_symptom",
+    "object": "longer hospital stays"
+  },
+  {
+    "subject": "Prader-Willi syndrome with COVID-19",
+    "relation": "has_symptom",
+    "object": "higher hospital charges"
+  },
+  {
+    "subject": "Prader-Willi syndrome with COVID-19",
+    "relation": "has_symptom",
+    "object": "increased risk of mechanical ventilation"
+  },
+  {
+    "subject": "Prader-Willi syndrome with COVID-19",
+    "relation": "has_symptom",
+    "object": "in-hospital death"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "social challenges"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "emotional challenges"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive challenges"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "pretend play impairments"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "pretend play intervention"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "social-cognitive challenges"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Satiety dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Food-seeking behaviors"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Dysfunction in neural pathways involved in satiety and reward"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Dysregulation in hormones regulating satiety and food intake"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Altered body composition and reduced energy expenditure"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Hormone deficiencies"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Syndromic obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Semaglutide"
+  },
+  {
+    "subject": "Obesity in Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "GLP-1 receptor agonist"
+  },
+  {
+    "subject": "Obesity in Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Metabolic surgery"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "Genetic factors related to the 15q11-13 region"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Presence of SPAs"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Formation of PWS-related nuclear bodies"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "emotional outbursts"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "aggressive behaviour"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "psychiatric comorbidity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "psychotropic medication"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "antipsychotics"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "self-injury"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "aggression"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "oppositional behavior"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "impulsivity"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "over-activity"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "agitation"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "hyperactivity"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "noncompliance"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "skin-picking lesions"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "Guanfacine-extended release (GXR)"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Guanfacine-extended release (GXR)",
+    "relation": "associated_with",
+    "object": "fatigue/sedation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Genomic imprinting"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Asynchronous DNA replication"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Gene expression"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic predisposition"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "has_cause",
+    "object": "environmental factors"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "has_cause",
+    "object": "behavioral components"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "treated_by",
+    "object": "GLP1 receptor mediated therapies"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "treated_by",
+    "object": "non-GLP1 receptor mediated therapies"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "associated_with",
+    "object": "diabetes"
+  },
+  {
+    "subject": "Prader Willi syndrome",
+    "relation": "associated_with",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral challenges"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "lack of paternally-expressed imprinted genes at chromosome 15q11.2-q13"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "rare diagnosis"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "sleep disorders"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "sleep-disordered breathing"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "central hypersomnolence"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "loss of paternal expression of critical genes in the 15q11.2-q13 region"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "autism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "disruptions in circadian rhythms"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "longdaysin"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_symptom",
+    "object": "Height less than 2 standard deviation score"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_symptom",
+    "object": "Height less than the third percentile"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "treated_by",
+    "object": "Pegylated recombinant human growth hormone"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "treated_by",
+    "object": "Recombinant human growth hormone"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_cause",
+    "object": "Growth hormone disorder"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_cause",
+    "object": "Idiopathic short stature"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_cause",
+    "object": "Small for gestational age"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_cause",
+    "object": "Turner syndrome"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_cause",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_cause",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_cause",
+    "object": "SHOX deficiency"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "associated_with",
+    "object": "Growth hormone disorder"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "associated_with",
+    "object": "Idiopathic short stature"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "associated_with",
+    "object": "Small for gestational age"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "associated_with",
+    "object": "Turner syndrome"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "associated_with",
+    "object": "SHOX deficiency"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Feeding difficulties"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Dysmorphisms"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Growth hormone therapy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Maternal uniparental disomy of chromosome 15"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Neonatal hypotonia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Medical emergencies"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "stubbornness"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "emotional lability"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "impulsivity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "aggressive traits"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "poor social skills"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "low self-concept"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "compulsive behaviors"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "difficulty in achieving adequate externalization and identification of emotions"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "need for support and interaction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "transdisciplinary treatment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic confirmation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "mild to moderate intellectual disabilities"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "difficulties in communication abilities"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "associated_with",
+    "object": "Neurological conditions"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "has_symptom",
+    "object": "Seizure activity"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "associated_with",
+    "object": "Neurological conditions"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "associated_with",
+    "object": "Neurological conditions"
+  },
+  {
+    "subject": "Attention-deficit/hyperactivity disorder",
+    "relation": "associated_with",
+    "object": "Neurological conditions"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Neurological conditions"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "Neurological conditions"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "associated_with",
+    "object": "Neurological conditions"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Neurological conditions"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "associated_with",
+    "object": "Neuromuscular disorders"
+  },
+  {
+    "subject": "Spinal muscular atrophy",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Spinal muscular atrophy",
+    "relation": "associated_with",
+    "object": "Neuromuscular disorders"
+  },
+  {
+    "subject": "Ataxia",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Neurological conditions"
+  },
+  {
+    "subject": "Headaches",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Sleep disorders",
+    "relation": "has_symptom",
+    "object": "Sleep disturbance"
+  },
+  {
+    "subject": "Neurological conditions",
+    "relation": "treated_by",
+    "object": "Wearable sensors"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "treated_by",
+    "object": "Therapy"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "treated_by",
+    "object": "Therapy"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "treated_by",
+    "object": "Therapy"
+  },
+  {
+    "subject": "Spinal muscular atrophy",
+    "relation": "treated_by",
+    "object": "Therapy"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "has_symptom",
+    "object": "headache"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "has_symptom",
+    "object": "cold"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "has_symptom",
+    "object": "cough"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "has_symptom",
+    "object": "body aches"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hypopnoea"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "lower mean oxygen saturation"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "associated_with",
+    "object": "lower mean oxygen saturation"
+  },
+  {
+    "subject": "COVID-19",
+    "relation": "associated_with",
+    "object": "hypopnoea"
+  },
+  {
+    "subject": "Prader-Willi syndrome with deletion",
+    "relation": "associated_with",
+    "object": "increased number of OSA"
+  },
+  {
+    "subject": "Prader-Willi syndrome with uniparental disomy",
+    "relation": "associated_with",
+    "object": "reduced risk of higher HF"
+  },
+  {
+    "subject": "Prader-Willi syndrome with uniparental disomy",
+    "relation": "associated_with",
+    "object": "less hypopnea"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "has_cause",
+    "object": "Williams-Beuren syndrome"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "has_cause",
+    "object": "Pituitary adenoma"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "has_cause",
+    "object": "Pancreas-related diseases"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "has_cause",
+    "object": "Endocrinopathies"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "has_cause",
+    "object": "Drug-induced diabetes"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "has_cause",
+    "object": "Infections"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "has_cause",
+    "object": "Congenital genetic syndromes"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "has_symptom",
+    "object": "Distinct characteristics"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "treated_by",
+    "object": "Early intervention"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "treated_by",
+    "object": "Genetic tests"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "treated_by",
+    "object": "Antibody detection"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "associated_with",
+    "object": "Maturity onset of diabetes in young"
+  },
+  {
+    "subject": "Secondary Diabetes",
+    "relation": "associated_with",
+    "object": "Diabetes mellitus"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Poor neonatal sucking"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Feeding difficulties during infancy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Speech articulation problems"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Sleep apnea"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Small hands/feet"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Childhood polyphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Clinodactyly"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Thick viscous saliva"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Behavioral problems"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Loss of expression of the paternal copy of the imprinted genes on chromosome 15q11-q13"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Deletion"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Uniparental disomy (UPD)"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Translocation-type PWS"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "poor body composition"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive dysfunction"
+  },
+  {
+    "subject": "Growth hormone deficiency",
+    "relation": "treated_by",
+    "object": "recombinant GH (rhGH)"
+  },
+  {
+    "subject": "Turner syndrome",
+    "relation": "treated_by",
+    "object": "recombinant GH (rhGH)"
+  },
+  {
+    "subject": "SHOX deficiency",
+    "relation": "treated_by",
+    "object": "recombinant GH (rhGH)"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "recombinant GH (rhGH)"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "recombinant GH (rhGH)"
+  },
+  {
+    "subject": "idiopathic short stature",
+    "relation": "treated_by",
+    "object": "recombinant GH (rhGH)"
+  },
+  {
+    "subject": "chronic kidney disease",
+    "relation": "treated_by",
+    "object": "recombinant GH (rhGH)"
+  },
+  {
+    "subject": "children born small for gestational age",
+    "relation": "treated_by",
+    "object": "recombinant GH (rhGH)"
+  },
+  {
+    "subject": "Growth hormone deficiency",
+    "relation": "has_cause",
+    "object": "pituitary extraction (historical)"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "poor body composition"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "cognitive dysfunction"
+  },
+  {
+    "subject": "Turner syndrome",
+    "relation": "associated_with",
+    "object": "short stature"
+  },
+  {
+    "subject": "SHOX deficiency",
+    "relation": "associated_with",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "short stature"
+  },
+  {
+    "subject": "idiopathic short stature",
+    "relation": "associated_with",
+    "object": "short stature"
+  },
+  {
+    "subject": "chronic kidney disease",
+    "relation": "associated_with",
+    "object": "short stature"
+  },
+  {
+    "subject": "children born small for gestational age",
+    "relation": "associated_with",
+    "object": "short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "genital hypoplasia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "delayed puberty"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "incomplete pubertal development"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "infertility"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "early pubarche"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "advanced bone age"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "irregular menstrual cycles"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "estrogen replacement"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone replacement"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hypogonadism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hypothalamic-pituitary deficiencies"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "premature adrenarche"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "severe obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "metabolic dysregulation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "distinctive physical manifestations"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive manifestations"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral manifestations"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "impaired oxytocin release"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "neuromuscular impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "non-syndromic obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "dysregulation of NAD metabolism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_cause",
+    "object": "Loss of expression of paternally expressed genes in the 15q11.2-q13 imprinting domain"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Angelman syndrome"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "EHMT2/G9a inhibitors"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Sleep apnea"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Airway ventilatory dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "Abnormalities on chromosome 15q11.2-q13"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Bariatric surgery"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "General anesthesia combined with nerve block"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Sugammadex"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Multimode analgesia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Progressive respiratory exercise"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Bariatric surgery complications"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Respiratory obstruction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Delayed awakening"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "perinatal lethality"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "poor growth"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "deficiency of paternally expressed genes in the human chromosome 15q11-q13 region"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "MS152"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "epigenetic modifications"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "behavior profile"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone supplementation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hypogonadism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "deficiency of paternally expressed genes in chromosome 15q11-q13"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "endocrine dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "defective glucose metabolism"
+  },
+  {
+    "subject": "Prader-Willi syndrome adipocytes",
+    "relation": "has_symptom",
+    "object": "increased lipid content"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "body composition abnormalities"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral challenges"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hormone deficiencies"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hypogonadism"
+  },
+  {
+    "subject": "hypogonadism",
+    "relation": "treated_by",
+    "object": "testosterone replacement"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone"
+  },
+  {
+    "subject": "Severe Early-Onset Obesity",
+    "relation": "has_symptom",
+    "object": "Hyperphagia"
+  },
+  {
+    "subject": "Severe Early-Onset Obesity caused by SREK1 variants",
+    "relation": "has_symptom",
+    "object": "Neonatal Hypotonia"
+  },
+  {
+    "subject": "Severe Early-Onset Obesity caused by SREK1 variants",
+    "relation": "associated_with",
+    "object": "Prader-Willi Syndrome"
+  },
+  {
+    "subject": "Severe Early-Onset Obesity",
+    "relation": "has_cause",
+    "object": "Homozygous variants in SREK1 gene"
+  },
+  {
+    "subject": "Severe Early-Onset Obesity caused by SREK1 variants",
+    "relation": "has_cause",
+    "object": "Pathogenic variants in leptin-melanocortin pathway genes"
+  },
+  {
+    "subject": "Severe Early-Onset Obesity caused by SREK1 variants",
+    "relation": "has_symptom",
+    "object": "Deficiency of SNORD115 and SNORD116"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "severe infantile hypotonia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "early-onset childhood obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "underdeveloped external genitalia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "irritability"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "social dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "impaired gonadal development"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "metabolic syndrome"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "chromosomal imprinting gene defects"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "type 2 diabetes mellitus"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "diabetic nephropathy"
+  },
+  {
+    "subject": "type 2 diabetes mellitus",
+    "relation": "treated_by",
+    "object": "Dulaglutide"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "paternal deletion of the chromosomal region 15"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "has_cause",
+    "object": "megabase-scale deletion on the maternal allele"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "megabase-scale deletion on the paternal allele"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "treated_by",
+    "object": "targeted therapeutic approaches"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "targeted therapeutic approaches"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "has_symptom",
+    "object": "debilitating phenotypes"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "debilitating phenotypes"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_symptom",
+    "object": "Repeated oxygen drops during sleep"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_symptom",
+    "object": "Unstable breathing"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_symptom",
+    "object": "Cardiovascular strain"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_symptom",
+    "object": "Neurological problems"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "has_cause",
+    "object": "Cell death"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "associated_with",
+    "object": "Down syndrome"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "associated_with",
+    "object": "Prader-Willi Syndrome"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "associated_with",
+    "object": "Pierre Robin sequence"
+  },
+  {
+    "subject": "Sleep-disordered breathing",
+    "relation": "treated_by",
+    "object": "Advanced imaging tools"
+  },
+  {
+    "subject": "Obstructive sleep apnea",
+    "relation": "has_symptom",
+    "object": "Airway collapse"
+  },
+  {
+    "subject": "Central sleep apnea",
+    "relation": "has_symptom",
+    "object": "Brain fails to signal breathing"
+  },
+  {
+    "subject": "Herlyn-Werner-Wunderlich syndrome",
+    "relation": "has_symptom",
+    "object": "dysmenorrhoea"
+  },
+  {
+    "subject": "Herlyn-Werner-Wunderlich syndrome",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Herlyn-Werner-Wunderlich syndrome",
+    "relation": "has_symptom",
+    "object": "abdominal mass"
+  },
+  {
+    "subject": "Herlyn-Werner-Wunderlich syndrome",
+    "relation": "has_symptom",
+    "object": "haematometra"
+  },
+  {
+    "subject": "Herlyn-Werner-Wunderlich syndrome",
+    "relation": "has_symptom",
+    "object": "haematocolpos"
+  },
+  {
+    "subject": "Herlyn-Werner-Wunderlich syndrome",
+    "relation": "treated_by",
+    "object": "septotomy"
+  },
+  {
+    "subject": "Herlyn-Werner-Wunderlich syndrome",
+    "relation": "associated_with",
+    "object": "unilateral renal anomalies"
+  },
+  {
+    "subject": "Herlyn-Werner-Wunderlich syndrome",
+    "relation": "associated_with",
+    "object": "uterus didelphys"
+  },
+  {
+    "subject": "Herlyn-Werner-Wunderlich syndrome",
+    "relation": "associated_with",
+    "object": "obstructed hemi-vagina"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hypothalamic dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "pituitary hormone deficiencies"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hypogonadism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "vaginal bleeding"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "abdominal pain"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "inability to recognise facial expressions of emotion"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "rare and generally non-inherited genetic disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "autism spectrum disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome (mUPD subtype)",
+    "relation": "has_symptom",
+    "object": "longer reaction time in contextualised situations"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "behavior disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "mild intellectual disability"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "infantile hypotonia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "poor sucking"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "central obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "cryptorchidism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "decreased lean body mass"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hypothyroidism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "loss of expression of paternally inherited genes on chromosome 15q11-q13"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "large deletions"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "maternal uniparental disomy"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "imprinting defects"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "balanced translocations"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "growth hormone deficiency"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hypogonadism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hormonal deficiencies"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone treatment"
+  },
+  {
+    "subject": "Hypothyroidism",
+    "relation": "treated_by",
+    "object": "thyroid treatment"
+  },
+  {
+    "subject": "Catatonia",
+    "relation": "has_symptom",
+    "object": "Acute behavioural changes"
+  },
+  {
+    "subject": "Catatonia",
+    "relation": "has_symptom",
+    "object": "Acute behavioural regression"
+  },
+  {
+    "subject": "Catatonia",
+    "relation": "treated_by",
+    "object": "Benzodiazepines"
+  },
+  {
+    "subject": "Catatonia",
+    "relation": "treated_by",
+    "object": "Electroconvulsive therapy (ECT)"
+  },
+  {
+    "subject": "Catatonia",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental disorders (NDD)"
+  },
+  {
+    "subject": "Catatonia",
+    "relation": "associated_with",
+    "object": "Autism spectrum disorder"
+  },
+  {
+    "subject": "Catatonia",
+    "relation": "associated_with",
+    "object": "Down syndrome"
+  },
+  {
+    "subject": "Catatonia",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Catatonia",
+    "relation": "has_cause",
+    "object": "Neurodevelopmental disorders (NDD)"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive challenges"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral challenges"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "emotional challenges"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic neurodevelopmental disorder"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "psychological distress in caregivers"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "comprehensive and lifelong care"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "endocrine impairment"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "psychiatric symptoms"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "lack of emotional regulation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "impulsivity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "intense temper tantrums with outbursts"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "addiction-like behavior around food"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic loss of expression of a minimal region"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "SNORD116 microdeletion"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "dopaminergic system dysregulation"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "oxytocin"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "dyspraxia behaviors"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "neurodegeneration of dopaminergic neurons"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "increase of glial cells"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "chromosome deletion"
+  },
+  {
+    "subject": "abnormal DA neuron development",
+    "relation": "has_cause",
+    "object": "necdin deficiency"
+  },
+  {
+    "subject": "dopaminergic neurons neurodegeneration",
+    "relation": "treated_by",
+    "object": "None"
+  },
+  {
+    "subject": "dyspraxia behaviors",
+    "relation": "associated_with",
+    "object": "neurodegeneration of dopaminergic neurons"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "severe hypotonia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "feeding difficulties"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "global developmental delay"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hyperphagia"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "obesity"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "distinctive facial features"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "strabismus"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "musculoskeletal abnormalities"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hypogonadism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "hypothyroidism"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "central adrenal insufficiency"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "reduced bone mineral density"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": "genetic condition"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "growth hormone deficiency (GHD)"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "hypothalamic dysfunction"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "continuous monitoring by an endocrinologist"
+  },
+  {
+    "subject": "Obesity-related genetic disorders",
+    "relation": "has_symptom",
+    "object": "Severe, early-onset obesity"
+  },
+  {
+    "subject": "Obesity-related genetic disorders",
+    "relation": "has_cause",
+    "object": "Mutations disrupting key biological mechanisms regulating hunger, energy balance, and fat storage"
+  },
+  {
+    "subject": "Obesity-related genetic disorders",
+    "relation": "associated_with",
+    "object": "Disrupted hypothalamic leptin-melanocortin signaling network"
+  },
+  {
+    "subject": "Obesity-related genetic disorders",
+    "relation": "associated_with",
+    "object": "Disrupted melanocortin-4 receptor (MC4R) pathway"
+  },
+  {
+    "subject": "Obesity-related genetic disorders",
+    "relation": "treated_by",
+    "object": "Current management strategies"
+  },
+  {
+    "subject": "Obesity-related genetic disorders",
+    "relation": "treated_by",
+    "object": "Emerging therapies"
+  },
+  {
+    "subject": "Obesity-related genetic disorders",
+    "relation": "treated_by",
+    "object": "Expanded genetic diagnostics"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "pharmacogenomic testing"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "pharmacogenomic results"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_symptom",
+    "object": "Dyslipidemia"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_symptom",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_symptom",
+    "object": "Diabetes"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Genetics"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Socioeconomic level"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Diet"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Physical inactivity"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Medications"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Comorbid conditions"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Culture"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Prenatal and childhood factors"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Normal aging"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Sedentary lifestyle"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Endocrine-disrupting chemicals"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "has_cause",
+    "object": "Gut microbiome imbalance"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "associated_with",
+    "object": "Bardet-Biedl syndrome"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "associated_with",
+    "object": "Metabolic syndrome"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "treated_by",
+    "object": "Education on up-to-date treatment options"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Food intake issues"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Weight gain"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Physical well-being issues"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Mental well-being issues"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "has_symptom",
+    "object": "Social well-being issues"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "Dietary management"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "Nutritional treatment"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "treated_by",
+    "object": "Pharmacological approaches"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Cultural factors influencing food management"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Family norms influencing food management"
+  },
+  {
+    "subject": "Prader-Willi Syndrome",
+    "relation": "associated_with",
+    "object": "Formal and informal support systems"
+  }
+]

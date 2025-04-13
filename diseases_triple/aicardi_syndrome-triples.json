@@ -1,0 +1,3977 @@
+[
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "infantile spasms"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "seizure"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "chorioretinal defects"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "agenesis of the corpus callosum"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_cause",
+    "object": "unknown etiology"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "CDKL5 deficiency disorder",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "PCDH19-related epilepsy",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "subcortical band heterotopia",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "periventricular heterotopia",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "juvenile myoclonic epilepsy",
+    "relation": "has_symptom",
+    "object": "myoclonus"
+  },
+  {
+    "subject": "epilepsy",
+    "relation": "treated_by",
+    "object": "tailored treatment approach"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "genetic variant"
+  },
+  {
+    "subject": "CDKL5 deficiency disorder",
+    "relation": "has_cause",
+    "object": "genetic variant"
+  },
+  {
+    "subject": "PCDH19-related epilepsy",
+    "relation": "has_cause",
+    "object": "genetic variant"
+  },
+  {
+    "subject": "subcortical band heterotopia",
+    "relation": "has_cause",
+    "object": "genetic variant"
+  },
+  {
+    "subject": "periventricular heterotopia",
+    "relation": "has_cause",
+    "object": "genetic variant"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_cause",
+    "object": "genetic variant"
+  },
+  {
+    "subject": "juvenile myoclonic epilepsy",
+    "relation": "has_cause",
+    "object": "complex inheritance"
+  },
+  {
+    "subject": "epilepsy syndromes",
+    "relation": "associated_with",
+    "object": "X chromosome variant"
+  },
+  {
+    "subject": "juvenile myoclonic epilepsy",
+    "relation": "associated_with",
+    "object": "complex inheritance"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "female individuals"
+  },
+  {
+    "subject": "CDKL5 deficiency disorder",
+    "relation": "associated_with",
+    "object": "female individuals"
+  },
+  {
+    "subject": "PCDH19-related epilepsy",
+    "relation": "associated_with",
+    "object": "female individuals"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "female individuals"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Chorioretinopathy"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Microphthalmia"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Angle-closure glaucoma"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Persistent hyperplastic primary vitreous"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Cataract"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Pseudo-coloboma"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Persistent hyaloid artery"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Myopic or hypermetropic astigmatism"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Nystagmus"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Esotropia"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Retinal lacunae"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_symptom",
+    "object": "Retinal fold"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "has_cause",
+    "object": "Mutations in KIF11 gene"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "associated_with",
+    "object": "Aicardy syndrome"
+  },
+  {
+    "subject": "Esotropia",
+    "relation": "treated_by",
+    "object": "Bilateral medial rectus muscle recession surgery"
+  },
+  {
+    "subject": "Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation",
+    "relation": "treated_by",
+    "object": "Right eye patching"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "infantile spasm"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent afebrile convulsions"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "right-sided spastic hemiparesis"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "agenesis of the corpus callosum"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "chorio-retinal lacunae"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_cause",
+    "object": "X-linked dominant condition"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "oral phenobarbital"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "physiotherapy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "anti-epileptic drugs"
+  },
+  {
+    "subject": "Infantile Epileptic Spasms Syndrome",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Lennox-Gastaut Syndrome",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Tuberous Sclerosis Complex",
+    "relation": "associated_with",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Tuberous Sclerosis Complex",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Early Infantile Developmental and Epileptic Encephalopathy",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Epilepsy with Myoclonic-Atonic Seizures",
+    "relation": "has_symptom",
+    "object": "Myoclonic-Atonic Seizures"
+  },
+  {
+    "subject": "Sturge-Weber Syndrome",
+    "relation": "associated_with",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Sturge-Weber Syndrome",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Epilepsy in Infancy with Migrating Focal Seizures",
+    "relation": "has_symptom",
+    "object": "Migrating Focal Seizures"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "associated_with",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Hypothalamic Hamartoma",
+    "relation": "associated_with",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Hypothalamic Hamartoma",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Rasmussen Syndrome",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Developmental/Epileptic Encephalopathy with Spike-and-Wave Activation in Sleep",
+    "relation": "has_symptom",
+    "object": "Spike-and-Wave Activation in Sleep"
+  },
+  {
+    "subject": "Rare Epilepsies",
+    "relation": "treated_by",
+    "object": "Genetic Testing"
+  },
+  {
+    "subject": "Genetic Epilepsies",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "PCDH19",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "CDKL5",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "Alpers Disease",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "SCN8A",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "KCNQ2",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "SCN2A",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "GLUT1 Deficiency",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "Phelan-McDermid Syndrome",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "Myoclonic Epilepsy with Ragged-Red Fibers",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "Dup15q Syndrome",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "Ring Chromosome 14",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "Ring Chromosome 20",
+    "relation": "has_cause",
+    "object": "Genetic Mutations"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "has_symptom",
+    "object": "Mental Effects"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "associated_with",
+    "object": "Aicardi Syndrome"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "associated_with",
+    "object": "Wiedemann-Rautenstrauch Syndrome"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "associated_with",
+    "object": "Di George Syndrome"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "associated_with",
+    "object": "Cri-du-chat Syndrome"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "associated_with",
+    "object": "Edwards Syndrome"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "associated_with",
+    "object": "Patau Syndrome"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "has_cause",
+    "object": "Chromosomal Problems"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "treated_by",
+    "object": "Cytogenetic Test"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "treated_by",
+    "object": "Karyotyping"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "treated_by",
+    "object": "Chromosomal Microarray (CMA)"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "treated_by",
+    "object": "Prenatal Magnetic Resonance Imaging (MRI)"
+  },
+  {
+    "subject": "Corpus Callosum Dysgenesis/Agenesis",
+    "relation": "treated_by",
+    "object": "Genetic Amniocentesis"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "has_symptom",
+    "object": "Visual impairment"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "has_symptom",
+    "object": "Enlarged optic disc"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "has_symptom",
+    "object": "Radiating blood vessels"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "has_symptom",
+    "object": "Surrounding excavation"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "has_cause",
+    "object": "Genetic factors"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in the PAX6 gene"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in the PAX2 gene"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "associated_with",
+    "object": "Retinal detachment"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "treated_by",
+    "object": "Vitrectomy"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "treated_by",
+    "object": "Paraoptic disc laser photocoagulation"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "treated_by",
+    "object": "Silicone oil tamponade"
+  },
+  {
+    "subject": "Morning glory syndrome",
+    "relation": "treated_by",
+    "object": "Gas tamponade"
+  },
+  {
+    "subject": "Persistence of the fetal vasculature",
+    "relation": "has_symptom",
+    "object": "complex presentations"
+  },
+  {
+    "subject": "Persistence of the fetal vasculature",
+    "relation": "has_symptom",
+    "object": "varying functional prognoses"
+  },
+  {
+    "subject": "Persistence of the fetal vasculature",
+    "relation": "has_symptom",
+    "object": "visual impact"
+  },
+  {
+    "subject": "Persistence of the fetal vasculature",
+    "relation": "associated_with",
+    "object": "systemic syndromes"
+  },
+  {
+    "subject": "Persistence of the fetal vasculature",
+    "relation": "associated_with",
+    "object": "associated anomalies"
+  },
+  {
+    "subject": "Persistence of the fetal vasculature",
+    "relation": "treated_by",
+    "object": "surgical interventions"
+  },
+  {
+    "subject": "Persistence of the fetal vasculature",
+    "relation": "treated_by",
+    "object": "medical interventions"
+  },
+  {
+    "subject": "Persistence of the fetal vasculature",
+    "relation": "has_cause",
+    "object": "unknown origin"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "infantile spasms"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "refractory seizures"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_cause",
+    "object": "novel duplication event at the Xp22 locus"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "corpus callosum hypoplasia"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "polymicrogyria"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "vigabatrin"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "conventional antiepileptic therapy"
+  },
+  {
+    "subject": "Choroid plexus carcinoma",
+    "relation": "has_symptom",
+    "object": "progressive headache"
+  },
+  {
+    "subject": "Choroid plexus carcinoma",
+    "relation": "has_symptom",
+    "object": "macrocephaly"
+  },
+  {
+    "subject": "Choroid plexus carcinoma",
+    "relation": "has_symptom",
+    "object": "left hemiparesis"
+  },
+  {
+    "subject": "Choroid plexus carcinoma",
+    "relation": "has_symptom",
+    "object": "sunset eyes"
+  },
+  {
+    "subject": "Choroid plexus carcinoma",
+    "relation": "has_symptom",
+    "object": "obstructive hydrocephalus"
+  },
+  {
+    "subject": "Choroid plexus carcinoma",
+    "relation": "treated_by",
+    "object": "endoscopic biopsy"
+  },
+  {
+    "subject": "Choroid plexus carcinoma",
+    "relation": "associated_with",
+    "object": "lobulated mass"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "contractures"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "body shape distortions"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "neuromuscular mobility limitations"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "neuromuscular scoliosis"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "irregular sleep"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "muscle tone issues"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "congestion"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "inefficient swallowing"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "weak cough"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "24-hour posture care management"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "therapeutic bed positioning"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "custom molded wheelchair seating system"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "neuromuscular mobility impairments"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "complex movement limiting disabilities"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "ocular stigmata"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "agenesis of corpus callosum"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "type 2b interhemispheric cysts"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "callosal anomalies"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "diagnosed_by",
+    "object": "ophthalmologic assessment"
+  },
+  {
+    "subject": "callosal anomalies",
+    "relation": "diagnosed_by",
+    "object": "MRI"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "oral-facial-digital syndrome type 1"
+  },
+  {
+    "subject": "oral-facial-digital syndrome type 1",
+    "relation": "has_symptom",
+    "object": "agenesis of corpus callosum"
+  },
+  {
+    "subject": "oral-facial-digital syndrome type 1",
+    "relation": "has_symptom",
+    "object": "type 2b interhemispheric cysts"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "infantile spasms"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "dysgenesis or agenesis of the corpus callosum"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "distinctive chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "optic disc colobomas"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "retinal pigment epithelium regrouping and atrophy"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_cause",
+    "object": "genetic malformation"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "associated_with",
+    "object": "congenital central nervous system malformations"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "treated_by",
+    "object": "regular ophthalmic checkups"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "has_cause",
+    "object": "Genetic conditions"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "associated_with",
+    "object": "Down syndrome"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "associated_with",
+    "object": "Mucopolysaccharidosis"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "associated_with",
+    "object": "Schizencephaly"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "associated_with",
+    "object": "Neurofibromatosis"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "associated_with",
+    "object": "Autosomal dominant polycystic kidney disease (ADPKD)"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "associated_with",
+    "object": "Acrocallosal syndrome"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "associated_with",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "treated_by",
+    "object": "Surgery"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "has_symptom",
+    "object": "Developmental delays"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "associated_with",
+    "object": "Heterotopia"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "associated_with",
+    "object": "Holoprosencephaly"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "associated_with",
+    "object": "Cerebellar hypoplasia"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "associated_with",
+    "object": "Coloboma"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "associated_with",
+    "object": "Hydrocephalus"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "associated_with",
+    "object": "Gray matter heterotopia"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "has_symptom",
+    "object": "Asymmetrically dilated lateral ventricles"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "associated_with",
+    "object": "Bilateral posterior eye coloboma"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "treated_by",
+    "object": "Supportive care"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "treated_by",
+    "object": "Physical therapy"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "treated_by",
+    "object": "Special education services"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "has_symptom",
+    "object": "Bilateral posterior globe defects with vitreous herniation"
+  },
+  {
+    "subject": "Corpus callosal agenesis",
+    "relation": "has_symptom",
+    "object": "Severe ocular anomalies"
+  },
+  {
+    "subject": "Intracranial lipomas",
+    "relation": "has_symptom",
+    "object": "asymptomatic"
+  },
+  {
+    "subject": "Intracranial lipomas",
+    "relation": "treated_by",
+    "object": "monitoring"
+  },
+  {
+    "subject": "Intracranial lipomas",
+    "relation": "treated_by",
+    "object": "subtotal resection"
+  },
+  {
+    "subject": "Corpus callosum lipoma",
+    "relation": "associated_with",
+    "object": "Limited dorsal myeloschizis"
+  },
+  {
+    "subject": "Corpus callosum lipoma",
+    "relation": "associated_with",
+    "object": "Bilateral choroid plexus lipoma"
+  },
+  {
+    "subject": "Limited dorsal myeloschizis",
+    "relation": "treated_by",
+    "object": "surgery"
+  },
+  {
+    "subject": "Corpus callosum lipoma",
+    "relation": "has_cause",
+    "object": "developmental abnormality"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "has_symptom",
+    "object": "Abdominal distention"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "has_symptom",
+    "object": "Abdominal mass"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "has_cause",
+    "object": "Genetic risk factors"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "has_cause",
+    "object": "Intrauterine risk factors"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "associated_with",
+    "object": "Metastasis to the lungs"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "associated_with",
+    "object": "Advanced stage of liver disease"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "treated_by",
+    "object": "Surgery"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "treated_by",
+    "object": "Chemotherapy"
+  },
+  {
+    "subject": "Agenesis of corpus callosum",
+    "relation": "has_symptom",
+    "object": "deficits in behavior or function"
+  },
+  {
+    "subject": "Agenesis of corpus callosum",
+    "relation": "associated_with",
+    "object": "Patent ductus arteriosus"
+  },
+  {
+    "subject": "Patent ductus arteriosus",
+    "relation": "treated_by",
+    "object": "PDA device closure"
+  },
+  {
+    "subject": "Patent ductus arteriosus",
+    "relation": "has_cause",
+    "object": "failure of the normal physiologic closure of the fetal ductus"
+  },
+  {
+    "subject": "Agenesis of corpus callosum",
+    "relation": "has_cause",
+    "object": "congenital absence"
+  },
+  {
+    "subject": "Infantile Spasms",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "associated_with",
+    "object": "Infantile Spasms"
+  },
+  {
+    "subject": "Infantile Spasms",
+    "relation": "treated_by",
+    "object": "Anti-epileptic medications"
+  },
+  {
+    "subject": "Pseudomonas aeruginosa pneumonia",
+    "relation": "has_symptom",
+    "object": "Fever"
+  },
+  {
+    "subject": "Pseudomonas aeruginosa pneumonia",
+    "relation": "has_symptom",
+    "object": "Tachycardia"
+  },
+  {
+    "subject": "Pseudomonas aeruginosa pneumonia",
+    "relation": "has_symptom",
+    "object": "Increased nasal secretions"
+  },
+  {
+    "subject": "Pseudomonas aeruginosa pneumonia",
+    "relation": "has_symptom",
+    "object": "Oxygen requirement"
+  },
+  {
+    "subject": "Pseudomonas aeruginosa pneumonia",
+    "relation": "has_symptom",
+    "object": "Pleural effusion"
+  },
+  {
+    "subject": "Infantile Spasms",
+    "relation": "associated_with",
+    "object": "Aicardi Syndrome"
+  },
+  {
+    "subject": "Renal colic",
+    "relation": "has_cause",
+    "object": "Renal stone"
+  },
+  {
+    "subject": "Infantile Spasms",
+    "relation": "associated_with",
+    "object": "Physiologic stress"
+  },
+  {
+    "subject": "Pseudomonas aeruginosa pneumonia",
+    "relation": "has_cause",
+    "object": "Adenovirus infection"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "infantile spasms"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "stiffening of arms and legs"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_cause",
+    "object": "X-linked-dominant genetic condition"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "agenesis of the corpus callosum"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "anticonvulsive therapy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "physiotherapy"
+  },
+  {
+    "subject": "Poretti-Boltshauser Syndrome",
+    "relation": "has_symptom",
+    "object": "non-progressive cerebellar ataxia"
+  },
+  {
+    "subject": "Poretti-Boltshauser Syndrome",
+    "relation": "has_symptom",
+    "object": "delay in neuropsychomotor development"
+  },
+  {
+    "subject": "Poretti-Boltshauser Syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Poretti-Boltshauser Syndrome",
+    "relation": "has_symptom",
+    "object": "vision abnormalities"
+  },
+  {
+    "subject": "Poretti-Boltshauser Syndrome",
+    "relation": "has_symptom",
+    "object": "oculomotor apraxia"
+  },
+  {
+    "subject": "Poretti-Boltshauser Syndrome",
+    "relation": "has_symptom",
+    "object": "macular hole"
+  },
+  {
+    "subject": "Poretti-Boltshauser Syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the LAMA1 gene"
+  },
+  {
+    "subject": "Poretti-Boltshauser Syndrome",
+    "relation": "associated_with",
+    "object": "cerebellar abnormalities"
+  },
+  {
+    "subject": "Poretti-Boltshauser Syndrome",
+    "relation": "associated_with",
+    "object": "cerebellar cysts"
+  },
+  {
+    "subject": "Poretti-Boltshauser Syndrome",
+    "relation": "associated_with",
+    "object": "cerebellar dysplasia"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "agenesis of the corpus callosum"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "infantile epileptic spasms syndrome"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_cause",
+    "object": "de novo variant in KMT2B"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_cause",
+    "object": "de novo variant in SLF1"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_cause",
+    "object": "de novo variant in SMARCB1"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_cause",
+    "object": "de novo variant in SZT2"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_cause",
+    "object": "de novo variant in WNT8B"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "associated_with",
+    "object": "X-linked genetic disorder"
+  },
+  {
+    "subject": "Atypical choroid plexus papilloma",
+    "relation": "has_symptom",
+    "object": "headaches"
+  },
+  {
+    "subject": "Atypical choroid plexus papilloma",
+    "relation": "has_symptom",
+    "object": "altered mental status"
+  },
+  {
+    "subject": "Atypical choroid plexus papilloma",
+    "relation": "diagnosed_by",
+    "object": "pathological examination"
+  },
+  {
+    "subject": "Atypical choroid plexus papilloma",
+    "relation": "associated_with",
+    "object": "choroid plexus papilloma"
+  },
+  {
+    "subject": "Atypical choroid plexus papilloma",
+    "relation": "associated_with",
+    "object": "choroid plexus carcinoma"
+  },
+  {
+    "subject": "Atypical choroid plexus papilloma",
+    "relation": "has_cause",
+    "object": "epithelium of the plexus choroid"
+  },
+  {
+    "subject": "Atypical choroid plexus papilloma",
+    "relation": "diagnosed_by",
+    "object": "Brain magnetic resonance imaging"
+  },
+  {
+    "subject": "46,XY Disorders of Sex Development",
+    "relation": "has_symptom",
+    "object": "Gonadal dysgenesis"
+  },
+  {
+    "subject": "46,XY Disorders of Sex Development",
+    "relation": "has_cause",
+    "object": "DHX37 gene mutation"
+  },
+  {
+    "subject": "46,XY Disorders of Sex Development",
+    "relation": "treated_by",
+    "object": "Surgical intervention"
+  },
+  {
+    "subject": "46,XY Disorders of Sex Development",
+    "relation": "treated_by",
+    "object": "Hormone replacement therapy"
+  },
+  {
+    "subject": "DHX37 gene mutation",
+    "relation": "associated_with",
+    "object": "Testicular regression syndrome"
+  },
+  {
+    "subject": "DHX37 gene mutation",
+    "relation": "associated_with",
+    "object": "46,XY gonadal dysgenesis"
+  },
+  {
+    "subject": "46,XY Disorders of Sex Development",
+    "relation": "associated_with",
+    "object": "Neurodevelopment disorders"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "peripheral retina nonperfusion"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "neovascularization"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "stalk tissue"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "peripapillary fibrovascular membrane"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "tractional retinal detachment (TRD)"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "peripapillary chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "peripheral laser photocoagulation"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "surgical removal of traction"
+  },
+  {
+    "subject": "tractional retinal detachment (TRD)",
+    "relation": "treated_by",
+    "object": "surgical removal of traction"
+  },
+  {
+    "subject": "peripheral retina nonperfusion",
+    "relation": "treated_by",
+    "object": "peripheral laser photocoagulation"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "abnormal brain magnetic resonance imaging"
+  },
+  {
+    "subject": "Corpus Callosum Agenesis",
+    "relation": "has_symptom",
+    "object": "Ventricular distortion"
+  },
+  {
+    "subject": "Corpus Callosum Agenesis",
+    "relation": "has_symptom",
+    "object": "Cortical malformations"
+  },
+  {
+    "subject": "Corpus Callosum Agenesis",
+    "relation": "associated_with",
+    "object": "Commissural abnormalities"
+  },
+  {
+    "subject": "Corpus Callosum Agenesis",
+    "relation": "associated_with",
+    "object": "Midline anomalies"
+  },
+  {
+    "subject": "Corpus Callosum Agenesis",
+    "relation": "associated_with",
+    "object": "Probst bundle formation"
+  },
+  {
+    "subject": "Corpus Callosum Agenesis",
+    "relation": "associated_with",
+    "object": "Holoprosencephaly"
+  },
+  {
+    "subject": "Corpus Callosum Agenesis",
+    "relation": "associated_with",
+    "object": "Dandy-Walker malformation"
+  },
+  {
+    "subject": "Corpus Callosum Agenesis",
+    "relation": "associated_with",
+    "object": "Hypoxic-ischemic encephalopathy changes"
+  },
+  {
+    "subject": "Complete Agenesis of Corpus Callosum",
+    "relation": "has_symptom",
+    "object": "Ventricular distortion"
+  },
+  {
+    "subject": "Complete Agenesis of Corpus Callosum",
+    "relation": "has_symptom",
+    "object": "Cortical malformations"
+  },
+  {
+    "subject": "Complete Agenesis of Corpus Callosum",
+    "relation": "associated_with",
+    "object": "Commissural abnormalities"
+  },
+  {
+    "subject": "Complete Agenesis of Corpus Callosum",
+    "relation": "associated_with",
+    "object": "Midline cysts"
+  },
+  {
+    "subject": "Complete Agenesis of Corpus Callosum",
+    "relation": "associated_with",
+    "object": "Probst bundle formation"
+  },
+  {
+    "subject": "Intraventricular Hemorrhage",
+    "relation": "has_cause",
+    "object": "Choroid Plexus Papilloma"
+  },
+  {
+    "subject": "Intraventricular Hemorrhage",
+    "relation": "has_cause",
+    "object": "Extraventricular Neurocytoma"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "treated_by",
+    "object": "Gross Total Resection via Left Parietal Craniotomy"
+  },
+  {
+    "subject": "Extraventricular Neurocytoma",
+    "relation": "treated_by",
+    "object": "Gross Total Resection via Left Parietal Craniotomy"
+  },
+  {
+    "subject": "Extraventricular Neurocytoma",
+    "relation": "has_symptom",
+    "object": "Intraventricular Hemorrhage"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "has_symptom",
+    "object": "Intraventricular Hemorrhage"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "associated_with",
+    "object": "Extraventricular Neurocytoma"
+  },
+  {
+    "subject": "Treatment-resistant epilepsy",
+    "relation": "treated_by",
+    "object": "Cannabidiol"
+  },
+  {
+    "subject": "Treatment-resistant epilepsy",
+    "relation": "has_treatment_side_effect",
+    "object": "Somnolence"
+  },
+  {
+    "subject": "Treatment-resistant epilepsy",
+    "relation": "has_treatment_side_effect",
+    "object": "Diarrhea"
+  },
+  {
+    "subject": "Treatment-resistant epilepsy",
+    "relation": "has_treatment_side_effect",
+    "object": "Weight loss"
+  },
+  {
+    "subject": "Cannabidiol therapy",
+    "relation": "has_side_effect",
+    "object": "Diarrhea"
+  },
+  {
+    "subject": "Cannabidiol therapy",
+    "relation": "has_side_effect",
+    "object": "Abdominal pain"
+  },
+  {
+    "subject": "Cannabidiol therapy",
+    "relation": "has_side_effect",
+    "object": "Weight loss"
+  },
+  {
+    "subject": "Cannabidiol therapy",
+    "relation": "has_side_effect",
+    "object": "Esophageal eosinophilia"
+  },
+  {
+    "subject": "Cannabidiol therapy",
+    "relation": "treated_by",
+    "object": "Cannabidiol dose adjustment"
+  },
+  {
+    "subject": "Esophageal eosinophilia",
+    "relation": "treated_by",
+    "object": "Cannabidiol dose adjustment"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "has_symptom",
+    "object": "neurological symptomatology"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "has_symptom",
+    "object": "quadriparesis"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "has_cause",
+    "object": "trauma"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "has_cause",
+    "object": "congenital"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "treated_by",
+    "object": "suboccipital craniectomy"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "treated_by",
+    "object": "neurosurgical procedure"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "associated_with",
+    "object": "severe neurological deterioration"
+  },
+  {
+    "subject": "Intracranial arachnoid cysts",
+    "relation": "associated_with",
+    "object": "mass-effect"
+  },
+  {
+    "subject": "Congenital bilateral perisylvian syndrome",
+    "relation": "has_symptom",
+    "object": "generalized tonic-clonic seizures"
+  },
+  {
+    "subject": "Congenital bilateral perisylvian syndrome",
+    "relation": "diagnosed_by",
+    "object": "MRI"
+  },
+  {
+    "subject": "Congenital bilateral perisylvian syndrome",
+    "relation": "has_symptom",
+    "object": "clinicoradiological symptoms"
+  },
+  {
+    "subject": "Rare Epilepsies",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Rare Epilepsies",
+    "relation": "has_symptom",
+    "object": "Convulsions"
+  },
+  {
+    "subject": "Infantile Spasms",
+    "relation": "is_a",
+    "object": "Rare Epilepsies"
+  },
+  {
+    "subject": "Lennox-Gastaut syndrome",
+    "relation": "is_a",
+    "object": "Rare Epilepsies"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Rare Epilepsies"
+  },
+  {
+    "subject": "Tuberous sclerosis complex",
+    "relation": "associated_with",
+    "object": "Rare Epilepsies"
+  },
+  {
+    "subject": "Epilepsy with myoclonic atonic seizures",
+    "relation": "is_a",
+    "object": "Rare Epilepsies"
+  },
+  {
+    "subject": "Sturge-Weber syndrome",
+    "relation": "associated_with",
+    "object": "Rare Epilepsies"
+  },
+  {
+    "subject": "Rare Epilepsies",
+    "relation": "treated_by",
+    "object": "Specialty Clinics"
+  },
+  {
+    "subject": "Rare Epilepsies",
+    "relation": "treated_by",
+    "object": "Support Groups"
+  },
+  {
+    "subject": "Rare Epilepsies",
+    "relation": "treated_by",
+    "object": "Clinical Research"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "has_symptom",
+    "object": "Ophthalmologic abnormalities"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "has_symptom",
+    "object": "Ophthalmoplegia"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "has_symptom",
+    "object": "Strabismus"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "has_symptom",
+    "object": "Nystagmus"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "has_symptom",
+    "object": "Microcephaly"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "has_symptom",
+    "object": "Dysmorphic facial features"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "has_symptom",
+    "object": "Global developmental delay"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "has_symptom",
+    "object": "Cryptorchidism"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "has_cause",
+    "object": "Genetic etiologies"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "associated_with",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "associated_with",
+    "object": "Mowat-Wilson syndrome"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "associated_with",
+    "object": "Xia-Gibbs syndrome"
+  },
+  {
+    "subject": "Corpus Callosum Anomalies",
+    "relation": "treated_by",
+    "object": "MRI"
+  },
+  {
+    "subject": "Fetal teratomas",
+    "relation": "has_symptom",
+    "object": "hydrops"
+  },
+  {
+    "subject": "Fetal teratomas",
+    "relation": "has_symptom",
+    "object": "airway obstruction"
+  },
+  {
+    "subject": "Fetal teratomas",
+    "relation": "has_symptom",
+    "object": "life-threatening conditions"
+  },
+  {
+    "subject": "Fetal teratomas",
+    "relation": "treated_by",
+    "object": "ex-utero intrapartum treatment (EXIT) procedures"
+  },
+  {
+    "subject": "Fetal teratomas",
+    "relation": "treated_by",
+    "object": "minimally invasive alternatives"
+  },
+  {
+    "subject": "Fetal teratomas",
+    "relation": "has_cause",
+    "object": "pluripotent cells"
+  },
+  {
+    "subject": "Fetal teratomas",
+    "relation": "associated_with",
+    "object": "high vascularity"
+  },
+  {
+    "subject": "Fetal teratomas",
+    "relation": "associated_with",
+    "object": "compromising cardiac output"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "has_symptom",
+    "object": "Status epilepticus"
+  },
+  {
+    "subject": "Tuberous sclerosis complex",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Tuberous sclerosis complex",
+    "relation": "has_symptom",
+    "object": "Seizure severity"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "treated_by",
+    "object": "Vagus nerve stimulation"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "treated_by",
+    "object": "Vagus nerve stimulation"
+  },
+  {
+    "subject": "Tuberous sclerosis complex",
+    "relation": "treated_by",
+    "object": "Vagus nerve stimulation"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "has_cause",
+    "object": "Genetic etiologies"
+  },
+  {
+    "subject": "Dravet syndrome",
+    "relation": "associated_with",
+    "object": "Drug-resistant epilepsy"
+  },
+  {
+    "subject": "Tuberous sclerosis complex",
+    "relation": "associated_with",
+    "object": "Drug-resistant epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Drug-resistant epilepsy"
+  },
+  {
+    "subject": "Doose syndrome",
+    "relation": "associated_with",
+    "object": "Drug-resistant epilepsy"
+  },
+  {
+    "subject": "Landau-Kleffner syndrome",
+    "relation": "associated_with",
+    "object": "Drug-resistant epilepsy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "Drug-resistant epilepsy"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "associated_with",
+    "object": "Drug-resistant epilepsy"
+  },
+  {
+    "subject": "Ring chromosome 20 syndrome",
+    "relation": "associated_with",
+    "object": "Drug-resistant epilepsy"
+  },
+  {
+    "subject": "Lissencephaly",
+    "relation": "associated_with",
+    "object": "Drug-resistant epilepsy"
+  },
+  {
+    "subject": "Mitochondrial disease",
+    "relation": "associated_with",
+    "object": "Drug-resistant epilepsy"
+  },
+  {
+    "subject": "Hydrocephalus",
+    "relation": "has_symptom",
+    "object": "excess production/less reabsorption of the cerebrospinal fluid (CSF)"
+  },
+  {
+    "subject": "Hydrocephalus",
+    "relation": "treated_by",
+    "object": "Ventriculoperitoneal shunt (VPS)"
+  },
+  {
+    "subject": "Hydrocephalus",
+    "relation": "treated_by",
+    "object": "Ventriculoatrial shunt (VAS)"
+  },
+  {
+    "subject": "Ventriculoperitoneal shunt (VPS)",
+    "relation": "has_complication",
+    "object": "shunt dysfunction/obstruction"
+  },
+  {
+    "subject": "Ventriculoatrial shunt (VAS)",
+    "relation": "has_complication",
+    "object": "shunt dysfunction/obstruction"
+  },
+  {
+    "subject": "Ventriculoperitoneal shunt (VPS)",
+    "relation": "has_complication",
+    "object": "infection"
+  },
+  {
+    "subject": "Ventriculoatrial shunt (VAS)",
+    "relation": "has_complication",
+    "object": "infection"
+  },
+  {
+    "subject": "Ventriculoperitoneal shunt (VPS)",
+    "relation": "has_complication",
+    "object": "revision"
+  },
+  {
+    "subject": "Ventriculoatrial shunt (VAS)",
+    "relation": "has_complication",
+    "object": "revision"
+  },
+  {
+    "subject": "Ventriculoperitoneal shunt (VPS)",
+    "relation": "has_complication",
+    "object": "death"
+  },
+  {
+    "subject": "Ventriculoatrial shunt (VAS)",
+    "relation": "has_complication",
+    "object": "death"
+  },
+  {
+    "subject": "Hydrocephalus",
+    "relation": "associated_with",
+    "object": "shunt dysfunction/obstruction"
+  },
+  {
+    "subject": "Hydrocephalus",
+    "relation": "associated_with",
+    "object": "infection"
+  },
+  {
+    "subject": "Hydrocephalus",
+    "relation": "associated_with",
+    "object": "revision"
+  },
+  {
+    "subject": "Hydrocephalus",
+    "relation": "associated_with",
+    "object": "death"
+  },
+  {
+    "subject": "Hydrocephalus",
+    "relation": "has_cause",
+    "object": "excess production/less reabsorption of the cerebrospinal fluid (CSF)"
+  },
+  {
+    "subject": "Congenital Optic Disc Anomalies",
+    "relation": "has_diagnostic_tool",
+    "object": "Fundus Examination"
+  },
+  {
+    "subject": "Congenital Optic Disc Anomalies",
+    "relation": "has_diagnostic_tool",
+    "object": "Spectral Domain (SD) Optical Coherence Tomography (OCT)"
+  },
+  {
+    "subject": "Congenital Optic Disc Anomalies",
+    "relation": "has_diagnostic_tool",
+    "object": "Optical Coherence Tomography Angiography (OCTA)"
+  },
+  {
+    "subject": "Congenital Optic Disc Anomalies",
+    "relation": "treated_by",
+    "object": "Multimodal Imaging Approach"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "generalized seizures"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "vertebral anomalies"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_symptom",
+    "object": "callosal agenesis"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "has_cause",
+    "object": "X-linked dominant genetic disorder"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "associated_with",
+    "object": "hepatic adenomas"
+  },
+  {
+    "subject": "Aicardi Syndrome",
+    "relation": "associated_with",
+    "object": "uncommon neoplasms"
+  },
+  {
+    "subject": "Focal Epilepsy",
+    "relation": "has_symptom",
+    "object": "Neurological Disorders"
+  },
+  {
+    "subject": "Focal Epilepsy",
+    "relation": "has_symptom",
+    "object": "Developmental Brain Malformations"
+  },
+  {
+    "subject": "Focal Epilepsy",
+    "relation": "has_cause",
+    "object": "Somatic Mosaicism"
+  },
+  {
+    "subject": "Focal Epilepsy",
+    "relation": "has_cause",
+    "object": "Brain Mosaicism"
+  },
+  {
+    "subject": "Focal Epilepsy",
+    "relation": "associated_with",
+    "object": "Mosaic Chromosome 1q Copy Number Gains"
+  },
+  {
+    "subject": "Focal Epilepsy",
+    "relation": "associated_with",
+    "object": "Astrocytic Inclusions"
+  },
+  {
+    "subject": "Focal Epilepsy",
+    "relation": "treated_by",
+    "object": "Resection of Brain Tissue"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "has_symptom",
+    "object": "Slow-growing intraventricular neoplasms"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "treated_by",
+    "object": "Surgical resection"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "treated_by",
+    "object": "Chemoradiotherapy"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "has_cause",
+    "object": "TP53/TERT mutations"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "associated_with",
+    "object": "TERT methylation status"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "associated_with",
+    "object": "Malignant transformation"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "associated_with",
+    "object": "Posterior fossa tumors"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "infantile spasms"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "central chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "brain malformations"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "optic nerve abnormalities"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "physical therapy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "occupational therapy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "speech therapy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "pediatric neurologist"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_cause",
+    "object": "de novo pathogenic variants in a gene on the X chromosome"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "X-chromosome inactivation"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "agenesis of the corpus callosum"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "medically refractory epilepsy"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_symptom",
+    "object": "spasms"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_symptom",
+    "object": "tonic seizures"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_symptom",
+    "object": "focal seizures"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal EEG"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal CT/MRI"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual/developmental delay"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_symptom",
+    "object": "autism spectrum disorder"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "treated_by",
+    "object": "antiepileptic drug therapy"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "treated_by",
+    "object": "hormonal therapy"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "treated_by",
+    "object": "diet therapy"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "treated_by",
+    "object": "surgery"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "associated_with",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "associated_with",
+    "object": "hypoxic-ischemic encephalopathy"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "associated_with",
+    "object": "genetic etiology"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "associated_with",
+    "object": "malformation of cortical development"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_cause",
+    "object": "genetic etiology"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_cause",
+    "object": "malformation of cortical development"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_cause",
+    "object": "hypoxic-ischemic encephalopathy"
+  },
+  {
+    "subject": "West syndrome",
+    "relation": "has_cause",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "Epilepsy associated with 47, XXY",
+    "relation": "has_symptom",
+    "object": "Autonomic seizures"
+  },
+  {
+    "subject": "Epilepsy associated with 47, XXY",
+    "relation": "has_symptom",
+    "object": "Spike-wave activation in sleep"
+  },
+  {
+    "subject": "Epilepsy associated with 47, XXY",
+    "relation": "has_symptom",
+    "object": "Epileptic spasms"
+  },
+  {
+    "subject": "47, XXY",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "47, XXY",
+    "relation": "associated_with",
+    "object": "Developmental and/or epileptic encephalopathy"
+  },
+  {
+    "subject": "Epilepsy associated with 47, XXY",
+    "relation": "treated_by",
+    "object": "Corticosteroids"
+  },
+  {
+    "subject": "Epilepsy associated with 47, XXY",
+    "relation": "treated_by",
+    "object": "Valproate"
+  },
+  {
+    "subject": "Epilepsy associated with 47, XXY",
+    "relation": "treated_by",
+    "object": "Antiseizure medications"
+  },
+  {
+    "subject": "Infantile epileptic spasm syndrome",
+    "relation": "treated_by",
+    "object": "Corticosteroids"
+  },
+  {
+    "subject": "47, XXY",
+    "relation": "has_cause",
+    "object": "Chromosomal anomaly"
+  },
+  {
+    "subject": "Epilepsy associated with 47, XXY",
+    "relation": "associated_with",
+    "object": "Lennox-Gastaut syndrome"
+  },
+  {
+    "subject": "Epilepsy associated with 47, XXY",
+    "relation": "associated_with",
+    "object": "Developmental and epileptic encephalopathy"
+  },
+  {
+    "subject": "Epilepsy associated with 47, XXY",
+    "relation": "associated_with",
+    "object": "Infantile epileptic spasm syndrome"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "has_symptom",
+    "object": "physical harm"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "associated_with",
+    "object": "neurodevelopmental conditions"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "associated_with",
+    "object": "neuropsychiatric conditions"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "associated_with",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "mechanical restraints"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "physical restraints"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "behavioral therapy"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "pharmacotherapy"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "surgical management"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "tooth extraction"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "deep brain stimulation"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "botulinum neurotoxin injections"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_symptom",
+    "object": "Chorioretinitis"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_symptom",
+    "object": "Hydrocephalus"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_symptom",
+    "object": "Psychomotor retardation"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_symptom",
+    "object": "Ventriculomegaly"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_symptom",
+    "object": "Periventricular calcifications"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_symptom",
+    "object": "Microcephaly"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_cause",
+    "object": "Lymphocytic choriomeningitis virus (LCMV)"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "associated_with",
+    "object": "Transplacental transmission"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "associated_with",
+    "object": "TORCH pathogens"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "treated_by",
+    "object": "Serological diagnosis"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "microphthalmia"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "morning glory optic nerve anomaly"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "persistent fetal vasculature (PFV)"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "diagnosed_by",
+    "object": "fluorescein angiography (FA)"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "managed_by",
+    "object": "better management of complications"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "anesthesia for FA"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "ophthalmic pathologies"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "retinopathy of prematurity"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_cause",
+    "object": "premature birth"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "neurological attention"
+  },
+  {
+    "subject": "Epileptic Spasms",
+    "relation": "has_symptom",
+    "object": "Developmental stagnation"
+  },
+  {
+    "subject": "Epileptic Spasms",
+    "relation": "has_symptom",
+    "object": "Developmental decline"
+  },
+  {
+    "subject": "Epileptic Spasms",
+    "relation": "has_symptom",
+    "object": "Focal seizures"
+  },
+  {
+    "subject": "Epileptic Spasms",
+    "relation": "has_symptom",
+    "object": "Asymmetry in epileptic spasms"
+  },
+  {
+    "subject": "Epileptic Spasms",
+    "relation": "treated_by",
+    "object": "Surgery"
+  },
+  {
+    "subject": "Epileptic Spasms",
+    "relation": "has_cause",
+    "object": "Structural etiology"
+  },
+  {
+    "subject": "Epileptic Spasms",
+    "relation": "associated_with",
+    "object": "Hypsarrhythmia"
+  },
+  {
+    "subject": "Epileptic Spasms",
+    "relation": "associated_with",
+    "object": "Infantile epileptic spasms syndrome"
+  },
+  {
+    "subject": "Epileptic Spasms",
+    "relation": "associated_with",
+    "object": "Interictal epileptiform and slow wave abnormalities"
+  },
+  {
+    "subject": "Epileptic Spasms",
+    "relation": "treated_by",
+    "object": "Treatment (unspecified)"
+  },
+  {
+    "subject": "Hypsarrhythmia",
+    "relation": "associated_with",
+    "object": "Epileptic Spasms"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "corpus callosum agenesis"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "infantile spasms"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "prominent premaxilla"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "upturned nasal tip"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "decreased nasal bridge angle"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "sparse lateral eyebrows"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "microphthalmia"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "shorter philtrum"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "shorter right side orbital height"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "shorter superior facial depth"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "shorter middle facial depth"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "shorter inferior facial depth"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "smaller length of mandibular ramus"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "larger nasal width"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "larger lower facial width"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "lower facial convexity"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "increased inclinations of the orbit"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_cause",
+    "object": "unknown etiology"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "females"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "agenesis of the corpus callosum"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "corpus callosotomy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "multimodal medication treatments"
+  },
+  {
+    "subject": "medically refractory epilepsy",
+    "relation": "treated_by",
+    "object": "corpus callosotomy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "medically refractory epilepsy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "partial agenesis of the corpus callosum"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_symptom",
+    "object": "Neurological impairment"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_symptom",
+    "object": "Visual impairment"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "has_cause",
+    "object": "LCMV infection during pregnancy"
+  },
+  {
+    "subject": "LCMV infection",
+    "relation": "has_cause",
+    "object": "Contact with infected rodents"
+  },
+  {
+    "subject": "Congenital LCMV infection",
+    "relation": "associated_with",
+    "object": "Pregnancy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "epileptic spasms"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "corpus callosum agenesis"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "bilateral ventricular dilatation"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "large choroid plexus cyst"
+  },
+  {
+    "subject": "epileptic spasms",
+    "relation": "treated_by",
+    "object": "subtotal hemispherotomy"
+  },
+  {
+    "subject": "epileptic spasms",
+    "relation": "treated_by",
+    "object": "phenobarbital"
+  },
+  {
+    "subject": "epileptic spasms",
+    "relation": "treated_by",
+    "object": "vitamin B6"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "epileptic spasms"
+  },
+  {
+    "subject": "epileptic spasms",
+    "relation": "has_cause",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "Corpus Callosal Abnormalities",
+    "relation": "has_symptom",
+    "object": "Neurological abnormalities"
+  },
+  {
+    "subject": "Corpus Callosal Abnormalities",
+    "relation": "has_symptom",
+    "object": "Non-neurological abnormalities"
+  },
+  {
+    "subject": "Corpus Callosal Abnormalities",
+    "relation": "associated_with",
+    "object": "CNS anomalies"
+  },
+  {
+    "subject": "Corpus Callosal Abnormalities",
+    "relation": "associated_with",
+    "object": "Non-CNS anomalies"
+  },
+  {
+    "subject": "Corpus Callosal Abnormalities",
+    "relation": "treated_by",
+    "object": "Fetal MRI"
+  },
+  {
+    "subject": "Corpus Callosal Abnormalities",
+    "relation": "has_cause",
+    "object": "Midline developmental brain malformations"
+  },
+  {
+    "subject": "Pontine tegmental cap dysplasia",
+    "relation": "has_symptom",
+    "object": "Vertebral segmental anomalies"
+  },
+  {
+    "subject": "Pontine tegmental cap dysplasia",
+    "relation": "associated_with",
+    "object": "Cardiac anomalies"
+  },
+  {
+    "subject": "Pontine tegmental cap dysplasia",
+    "relation": "associated_with",
+    "object": "VACTERL syndromes"
+  },
+  {
+    "subject": "Butterfly vertebrae",
+    "relation": "associated_with",
+    "object": "Syndromes"
+  },
+  {
+    "subject": "Klippel-Feil syndrome",
+    "relation": "has_symptom",
+    "object": "cervicalgia"
+  },
+  {
+    "subject": "Klippel-Feil syndrome",
+    "relation": "has_symptom",
+    "object": "reduced cervical range of motion"
+  },
+  {
+    "subject": "Klippel-Feil syndrome",
+    "relation": "has_symptom",
+    "object": "tetraplegia"
+  },
+  {
+    "subject": "Klippel-Feil syndrome",
+    "relation": "has_symptom",
+    "object": "loss of active movement"
+  },
+  {
+    "subject": "Klippel-Feil syndrome",
+    "relation": "has_symptom",
+    "object": "loss of sensation on limbs"
+  },
+  {
+    "subject": "Klippel-Feil syndrome",
+    "relation": "associated_with",
+    "object": "hemivertebra"
+  },
+  {
+    "subject": "Klippel-Feil syndrome",
+    "relation": "treated_by",
+    "object": "surgical cervical stabilization"
+  },
+  {
+    "subject": "Klippel-Feil syndrome",
+    "relation": "treated_by",
+    "object": "cervical collar"
+  },
+  {
+    "subject": "Klippel-Feil syndrome",
+    "relation": "treated_by",
+    "object": "rehabilitation program"
+  },
+  {
+    "subject": "Congenital spinal malformations",
+    "relation": "has_cause",
+    "object": "anomalous vertebral development"
+  },
+  {
+    "subject": "Klippel-Feil syndrome",
+    "relation": "has_cause",
+    "object": "cervical vertebral fusion"
+  },
+  {
+    "subject": "Neuropathologies",
+    "relation": "has_symptom",
+    "object": "Morbidity"
+  },
+  {
+    "subject": "Neuropathologies",
+    "relation": "has_symptom",
+    "object": "Mortality"
+  },
+  {
+    "subject": "Neuropathologies",
+    "relation": "treated_by",
+    "object": "Cannabis"
+  },
+  {
+    "subject": "Neuropathologies",
+    "relation": "treated_by",
+    "object": "Cannabis-based congeners"
+  },
+  {
+    "subject": "Neuropathologies",
+    "relation": "has_cause",
+    "object": "COVID"
+  },
+  {
+    "subject": "Cannabis",
+    "relation": "associated_with",
+    "object": "Neuroprotection"
+  },
+  {
+    "subject": "Cannabis",
+    "relation": "associated_with",
+    "object": "Neurotoxicity"
+  },
+  {
+    "subject": "Rare Syndromes",
+    "relation": "has_symptom",
+    "object": "Recurrent Infections"
+  },
+  {
+    "subject": "Rare Syndromes",
+    "relation": "has_symptom",
+    "object": "Humoral and/or cellular immune system abnormalities"
+  },
+  {
+    "subject": "Rare Syndromes",
+    "relation": "has_symptom",
+    "object": "Antibody deficiencies"
+  },
+  {
+    "subject": "Rare Syndromes",
+    "relation": "has_symptom",
+    "object": "Mild T-cell abnormalities"
+  },
+  {
+    "subject": "Rare Syndromes",
+    "relation": "treated_by",
+    "object": "Immunoglobulin replacement therapy (IGRT)"
+  },
+  {
+    "subject": "Rare Syndromes",
+    "relation": "associated_with",
+    "object": "Consanguinity"
+  },
+  {
+    "subject": "Rare Syndromes with Recurrent Infections",
+    "relation": "has_cause",
+    "object": "Antibody deficiencies"
+  },
+  {
+    "subject": "Yolk Sac Tumors",
+    "relation": "has_symptom",
+    "object": "Head and Neck masses"
+  },
+  {
+    "subject": "Yolk Sac Tumors",
+    "relation": "has_cause",
+    "object": "Germ cell abnormality"
+  },
+  {
+    "subject": "Yolk Sac Tumors",
+    "relation": "associated_with",
+    "object": "Aicardi Syndrome"
+  },
+  {
+    "subject": "Yolk Sac Tumors",
+    "relation": "treated_by",
+    "object": "Chemotherapy"
+  },
+  {
+    "subject": "Yolk Sac Tumors",
+    "relation": "has_symptom",
+    "object": "Elevated alpha-fetoprotein (AFP) levels"
+  },
+  {
+    "subject": "SARS-CoV-2 infection",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "SARS-CoV-2 infection",
+    "relation": "has_symptom",
+    "object": "Febrile seizures"
+  },
+  {
+    "subject": "SARS-CoV-2 infection",
+    "relation": "has_symptom",
+    "object": "Headache"
+  },
+  {
+    "subject": "SARS-CoV-2 infection",
+    "relation": "has_symptom",
+    "object": "Muscular involvement"
+  },
+  {
+    "subject": "SARS-CoV-2 infection",
+    "relation": "has_symptom",
+    "object": "Neurological manifestations"
+  },
+  {
+    "subject": "SARS-CoV-2 infection",
+    "relation": "associated_with",
+    "object": "Pandemic waves"
+  },
+  {
+    "subject": "SARS-CoV-2 infection",
+    "relation": "associated_with",
+    "object": "Age groups"
+  },
+  {
+    "subject": "Seizures",
+    "relation": "has_cause",
+    "object": "SARS-CoV-2 infection"
+  },
+  {
+    "subject": "Febrile seizures",
+    "relation": "has_cause",
+    "object": "SARS-CoV-2 infection"
+  },
+  {
+    "subject": "Headache",
+    "relation": "has_cause",
+    "object": "SARS-CoV-2 infection"
+  },
+  {
+    "subject": "Muscular involvement",
+    "relation": "has_cause",
+    "object": "SARS-CoV-2 infection"
+  },
+  {
+    "subject": "Neurological manifestations",
+    "relation": "has_cause",
+    "object": "SARS-CoV-2 infection"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "has_symptom",
+    "object": "Cognitive dysfunction"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "has_symptom",
+    "object": "Sleep disturbance"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "has_symptom",
+    "object": "Behavioral problems"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "has_symptom",
+    "object": "Language impairment"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "has_symptom",
+    "object": "Motor skill impairment"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "treated_by",
+    "object": "Cannabidiol (CBD)"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "associated_with",
+    "object": "Lennox-Gastaut syndrome"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "associated_with",
+    "object": "Dravet syndrome"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "associated_with",
+    "object": "Tuberous sclerosis complex"
+  },
+  {
+    "subject": "Developmental Epileptic Encephalopathies",
+    "relation": "has_cause",
+    "object": "Genetic mutation"
+  },
+  {
+    "subject": "Doenças neurometabólicas hereditárias",
+    "relation": "has_symptom",
+    "object": "Quadros clínico e radiológico variáveis"
+  },
+  {
+    "subject": "Doenças neurometabólicas hereditárias",
+    "relation": "treated_by",
+    "object": "Terapia (possibilidade terapêutica)"
+  },
+  {
+    "subject": "Doenças neurometabólicas hereditárias",
+    "relation": "has_cause",
+    "object": "Hereditariedade"
+  },
+  {
+    "subject": "Doenças neurometabólicas hereditárias",
+    "relation": "associated_with",
+    "object": "Achados radiológicos"
+  },
+  {
+    "subject": "Doenças neurometabólicas hereditárias",
+    "relation": "associated_with",
+    "object": "Anormalidades no sistema nervoso central"
+  },
+  {
+    "subject": "Inherited Retinal Diseases",
+    "relation": "has_symptom",
+    "object": "Vision Loss"
+  },
+  {
+    "subject": "Inherited Retinal Diseases",
+    "relation": "has_cause",
+    "object": "Photoreceptor Cell Death"
+  },
+  {
+    "subject": "Inherited Retinal Diseases",
+    "relation": "associated_with",
+    "object": "Systemic Disorders"
+  },
+  {
+    "subject": "Inherited Retinal Diseases",
+    "relation": "treated_by",
+    "object": "Gene Therapy"
+  },
+  {
+    "subject": "Inherited Retinal Diseases",
+    "relation": "treated_by",
+    "object": "Retinal Cell Replacement"
+  },
+  {
+    "subject": "Inherited Retinal Diseases",
+    "relation": "treated_by",
+    "object": "Neuroprotection"
+  },
+  {
+    "subject": "Inherited Retinal Diseases",
+    "relation": "treated_by",
+    "object": "Pharmacological Interventions"
+  },
+  {
+    "subject": "Inherited Retinal Diseases",
+    "relation": "treated_by",
+    "object": "Optogenetics"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "early-onset epilepsy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "drug-resistant seizures"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "permanent disability"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "Chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "corpus callosum malformations"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "cortical dysplasia"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "nodular heterotopias"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "intracranial cysts"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "posterior fossa abnormalities"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "basal ganglia dysmorphisms"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "diagnosed_by",
+    "object": "MRI"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "diagnosed_by",
+    "object": "EEG"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "basal ganglia dysmorphisms"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "unknown/medication implied but not specified"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "has_cause",
+    "object": "Congenital anomaly"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "associated_with",
+    "object": "Agenesis of the corpus callosum"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "associated_with",
+    "object": "Kidney/bladder abnormalities"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "associated_with",
+    "object": "Familial Adenomatous Polyposis"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "associated_with",
+    "object": "Beckwith-Wiedemann syndrome"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "associated_with",
+    "object": "Trisomy 13"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "associated_with",
+    "object": "Trisomy 18"
+  },
+  {
+    "subject": "Hepatoblastoma",
+    "relation": "associated_with",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "associated_with",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "has_symptom",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "has_symptom",
+    "object": "Motor impairment"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "has_symptom",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "has_symptom",
+    "object": "Neurodevelopmental disability"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "has_cause",
+    "object": "Genetic changes"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "has_cause",
+    "object": "Teratogenic exposures"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "has_cause",
+    "object": "Vascular factors"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "has_cause",
+    "object": "Chromosomal anomalies"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "associated_with",
+    "object": "Complex disorder"
+  },
+  {
+    "subject": "Agenesis of the corpus callosum",
+    "relation": "associated_with",
+    "object": "Syndromes"
+  },
+  {
+    "subject": "Intractable epilepsy",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Intractable epilepsy in pediatric patients",
+    "relation": "has_symptom",
+    "object": "Developmental delays"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "Hyaline cytoplasmic inclusions in astrocytes"
+  },
+  {
+    "subject": "Intractable epilepsy in pediatric patients",
+    "relation": "associated_with",
+    "object": "Hyaline astrocytic inclusions"
+  },
+  {
+    "subject": "Hyaline astrocytic inclusions",
+    "relation": "treated_by",
+    "object": "Resection of brain tissues"
+  },
+  {
+    "subject": "Intractable epilepsy",
+    "relation": "treated_by",
+    "object": "Resection of brain tissues"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "treated_by",
+    "object": "Classic ketogenic diet (cKD)"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "associated_with",
+    "object": "Dyslipidemia"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "associated_with",
+    "object": "Hepatic problems"
+  },
+  {
+    "subject": "Classic ketogenic diet (cKD)",
+    "relation": "has_side_effect",
+    "object": "Dyslipidemia"
+  },
+  {
+    "subject": "Classic ketogenic diet (cKD)",
+    "relation": "has_side_effect",
+    "object": "Hepatic problems"
+  },
+  {
+    "subject": "Poor compliance",
+    "relation": "associated_with",
+    "object": "Diet discontinuation"
+  },
+  {
+    "subject": "Inefficacy",
+    "relation": "associated_with",
+    "object": "Diet discontinuation"
+  },
+  {
+    "subject": "Food refusal",
+    "relation": "associated_with",
+    "object": "Diet discontinuation"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "neurodevelopmental disorder"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "benign neoplasia"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "malignant neoplasia"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "sacrococcygeal teratoma"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "malignant sacrococcygeal tumor",
+    "relation": "treated_by",
+    "object": "high-dose chemotherapy"
+  },
+  {
+    "subject": "malignant sacrococcygeal tumor",
+    "relation": "treated_by",
+    "object": "autologous stem cell rescue"
+  },
+  {
+    "subject": "hearing loss",
+    "relation": "has_cause",
+    "object": "chemotherapy"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "has_symptom",
+    "object": "Increased Intracranial Pressure"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "has_symptom",
+    "object": "Obstructive Hydrocephalus"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "treated_by",
+    "object": "Resection"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "associated_with",
+    "object": "Pheochromocytoma"
+  },
+  {
+    "subject": "Choroid Plexus Papilloma",
+    "relation": "associated_with",
+    "object": "von Hippel-Lindau disease"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "treated_by",
+    "object": "Cannabidiol"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "associated_with",
+    "object": "Epilepsy syndromes"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "has_cause",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Cannabidiol",
+    "relation": "has_side_effect",
+    "object": "Adverse events"
+  },
+  {
+    "subject": "Drug-resistant epilepsy",
+    "relation": "treated_with_concomitant_medication",
+    "object": "Antiseizure medications"
+  },
+  {
+    "subject": "Agenesis of Corpus Callosum (ACC) and interhemispheric cysts",
+    "relation": "has_symptom",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Agenesis of Corpus Callosum (ACC) and interhemispheric cysts",
+    "relation": "has_symptom",
+    "object": "Cognitive impairment"
+  },
+  {
+    "subject": "Agenesis of Corpus Callosum (ACC) and interhemispheric cysts",
+    "relation": "has_symptom",
+    "object": "Severe intellectual disability"
+  },
+  {
+    "subject": "Agenesis of Corpus Callosum (ACC) and interhemispheric cysts",
+    "relation": "has_symptom",
+    "object": "Severe neurologic deficits"
+  },
+  {
+    "subject": "Agenesis of Corpus Callosum (ACC) and interhemispheric cysts",
+    "relation": "has_symptom",
+    "object": "Minor neurological signs"
+  },
+  {
+    "subject": "Agenesis of Corpus Callosum (ACC) and interhemispheric cysts",
+    "relation": "associated_with",
+    "object": "Malformations of cortical development (MCD)"
+  },
+  {
+    "subject": "Agenesis of Corpus Callosum (ACC) and interhemispheric cysts",
+    "relation": "associated_with",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "treated_by",
+    "object": "Antiepileptic drugs"
+  },
+  {
+    "subject": "Agenesis of Corpus Callosum (ACC) and interhemispheric cysts",
+    "relation": "has_cause",
+    "object": "Malformations of cortical development (MCD)"
+  },
+  {
+    "subject": "Polymicrogyria",
+    "relation": "has_symptom",
+    "object": "Neurodevelopmental symptoms"
+  },
+  {
+    "subject": "Polymicrogyria",
+    "relation": "has_symptom",
+    "object": "Focal seizures with impaired awareness"
+  },
+  {
+    "subject": "Polymicrogyria",
+    "relation": "has_symptom",
+    "object": "Epileptic spasms"
+  },
+  {
+    "subject": "Polymicrogyria",
+    "relation": "has_cause",
+    "object": "Congenital infection"
+  },
+  {
+    "subject": "Polymicrogyria",
+    "relation": "has_cause",
+    "object": "Vascular cause"
+  },
+  {
+    "subject": "Polymicrogyria",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Polymicrogyria",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "treated_by",
+    "object": "Anti-seizure medications"
+  },
+  {
+    "subject": "Polymicrogyria",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Choroid plexus papilloma",
+    "relation": "has_symptom",
+    "object": "increased intracranial pressure"
+  },
+  {
+    "subject": "Choroid plexus papilloma",
+    "relation": "has_symptom",
+    "object": "hydrocephalus"
+  },
+  {
+    "subject": "Choroid plexus papilloma",
+    "relation": "treated_by",
+    "object": "personalized treatment approaches"
+  },
+  {
+    "subject": "Choroid plexus papilloma",
+    "relation": "associated_with",
+    "object": "genetic alterations"
+  },
+  {
+    "subject": "Choroid plexus papilloma",
+    "relation": "associated_with",
+    "object": "molecular markers"
+  },
+  {
+    "subject": "Choroid plexus papilloma",
+    "relation": "diagnosed_by",
+    "object": "clinical presentation"
+  },
+  {
+    "subject": "Choroid plexus papilloma",
+    "relation": "diagnosed_by",
+    "object": "imaging findings"
+  },
+  {
+    "subject": "Choroid plexus papilloma",
+    "relation": "diagnosed_by",
+    "object": "histological examination"
+  },
+  {
+    "subject": "Choroid plexus papilloma",
+    "relation": "monitored_by",
+    "object": "liquid biopsy"
+  },
+  {
+    "subject": "Choroid plexus papilloma",
+    "relation": "monitored_by",
+    "object": "radiomics"
+  },
+  {
+    "subject": "Pyridoxine-dependent epilepsy",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Pyridoxine-dependent epilepsy",
+    "relation": "has_symptom",
+    "object": "Epileptic encephalopathy"
+  },
+  {
+    "subject": "Pyridoxine-dependent epilepsy",
+    "relation": "has_symptom",
+    "object": "Apnoea"
+  },
+  {
+    "subject": "Pyridoxine-dependent epilepsy",
+    "relation": "has_symptom",
+    "object": "Respiratory distress"
+  },
+  {
+    "subject": "Pyridoxine-dependent epilepsy",
+    "relation": "has_symptom",
+    "object": "Burst suppression EEG pattern"
+  },
+  {
+    "subject": "Pyridoxine-dependent epilepsy",
+    "relation": "treated_by",
+    "object": "Pyridoxine"
+  },
+  {
+    "subject": "Pyridoxine-dependent epilepsy",
+    "relation": "has_cause",
+    "object": "ALDH7A1 variants"
+  },
+  {
+    "subject": "Pyridoxine-dependent epilepsy",
+    "relation": "associated_with",
+    "object": "Epileptiform activity"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "has_symptom",
+    "object": "congenital skin anomalies"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "has_symptom",
+    "object": "eye anomalies"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "has_symptom",
+    "object": "brain anomalies"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "has_symptom",
+    "object": "hypoplastic or aplastic skin defects"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "has_symptom",
+    "object": "pedunculated or nodular skin appendages"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "has_symptom",
+    "object": "cystic microphthalmia"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "has_symptom",
+    "object": "forebrain anomalies"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "has_symptom",
+    "object": "mid-hindbrain malformation"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "has_cause",
+    "object": "postzygotic mosaic variants in an X-linked gene"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "associated_with",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "Oculocerebrocutaneous syndrome",
+    "relation": "treated_by",
+    "object": "exome or genome sequencing on multiple lesional tissues"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "infantile spasms"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "callosal agenesis"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "chorioretinal lacunae"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "malignancy"
+  },
+  {
+    "subject": "Microophthalmia with cyst",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Microophthalmia with cyst",
+    "relation": "has_symptom",
+    "object": "progressive enlargement of the cyst"
+  },
+  {
+    "subject": "Microophthalmia with cyst",
+    "relation": "treated_by",
+    "object": "enucleation with cyst resection"
+  },
+  {
+    "subject": "Microophthalmia with cyst",
+    "relation": "treated_by",
+    "object": "reconstruction with a dermis fat graft"
+  },
+  {
+    "subject": "Adenocarcinoma of the pigmented ciliary epithelium",
+    "relation": "treated_by",
+    "object": "enucleation with cyst resection"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "associated_with",
+    "object": "ocular abnormalities"
+  },
+  {
+    "subject": "Microophthalmia with cyst",
+    "relation": "associated_with",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "Adenocarcinoma of the pigmented ciliary epithelium",
+    "relation": "associated_with",
+    "object": "Microophthalmia with cyst"
+  },
+  {
+    "subject": "Fetal Musculoskeletal Anomalies",
+    "relation": "associated_with",
+    "object": "Non-MSK Anomalies"
+  },
+  {
+    "subject": "Fetal Musculoskeletal Anomalies",
+    "relation": "diagnosed_by",
+    "object": "Ultrasonography"
+  },
+  {
+    "subject": "Fetal Musculoskeletal Anomalies",
+    "relation": "diagnosed_by",
+    "object": "Magnetic Resonance Imaging"
+  },
+  {
+    "subject": "Fetal Musculoskeletal Anomalies",
+    "relation": "diagnosed_by",
+    "object": "Low-dose Computerized Tomography"
+  },
+  {
+    "subject": "Developmental disorders of the retina and retinal pigment epithelium",
+    "relation": "has_symptom",
+    "object": "Focal abnormalities in one or both eyes"
+  },
+  {
+    "subject": "Developmental disorders of the retina and retinal pigment epithelium",
+    "relation": "has_symptom",
+    "object": "Asymptomatic"
+  },
+  {
+    "subject": "Developmental disorders of the retina and retinal pigment epithelium",
+    "relation": "associated_with",
+    "object": "Systemic abnormalities"
+  },
+  {
+    "subject": "Hydrocephalus",
+    "relation": "has_symptom",
+    "object": "Macrocephalus"
+  },
+  {
+    "subject": "Hydrocephalus",
+    "relation": "treated_by",
+    "object": "Shunt catheter"
+  },
+  {
+    "subject": "Hygroma",
+    "relation": "has_symptom",
+    "object": "Macrocephalus"
+  },
+  {
+    "subject": "Macrocephalus",
+    "relation": "associated_with",
+    "object": "Hydrocephalus"
+  },
+  {
+    "subject": "Macrocephalus",
+    "relation": "associated_with",
+    "object": "Hygroma"
+  },
+  {
+    "subject": "rare orphan diseases",
+    "relation": "has_diagnostic_tool",
+    "object": "quantitative brain morphometry"
+  },
+  {
+    "subject": "rare orphan diseases",
+    "relation": "associated_with",
+    "object": "neurological disorders"
+  },
+  {
+    "subject": "rare orphan diseases",
+    "relation": "associated_with",
+    "object": "neuropsychological disorders"
+  },
+  {
+    "subject": "rare orphan diseases",
+    "relation": "associated_with",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "ultra-rare diseases",
+    "relation": "has_diagnostic_tool",
+    "object": "brain morphology evaluation"
+  },
+  {
+    "subject": "ultra-rare diseases",
+    "relation": "has_diagnostic_tool",
+    "object": "normal reference values of global and regional brain volumes"
+  },
+  {
+    "subject": "brain morphology evaluation",
+    "relation": "uses",
+    "object": "MRI examinations"
+  },
+  {
+    "subject": "brain morphology evaluation",
+    "relation": "uses",
+    "object": "CIVET 2.1.0 pipeline"
+  },
+  {
+    "subject": "brain morphology evaluation",
+    "relation": "uses",
+    "object": "ComBat-GAM harmonization"
+  },
+  {
+    "subject": "Gray Matter Heterotopia",
+    "relation": "has_symptom",
+    "object": "Developmental Delay"
+  },
+  {
+    "subject": "Gray Matter Heterotopia",
+    "relation": "has_symptom",
+    "object": "Intellectual Deficit"
+  },
+  {
+    "subject": "Gray Matter Heterotopia",
+    "relation": "has_symptom",
+    "object": "Epileptic Seizures"
+  },
+  {
+    "subject": "Gray Matter Heterotopia",
+    "relation": "has_symptom",
+    "object": "Focal to Bilateral Tonic-Clonic Seizure"
+  },
+  {
+    "subject": "Gray Matter Heterotopia",
+    "relation": "associated_with",
+    "object": "Cerebral Malformations"
+  },
+  {
+    "subject": "Gray Matter Heterotopia",
+    "relation": "associated_with",
+    "object": "Systemic Malformations"
+  },
+  {
+    "subject": "Gray Matter Heterotopia",
+    "relation": "associated_with",
+    "object": "Cognitive Impairment"
+  },
+  {
+    "subject": "Gray Matter Heterotopia",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Congenital lymphocytic choriomeningitis virus infection",
+    "relation": "has_symptom",
+    "object": "Aicardi-like syndrome features"
+  },
+  {
+    "subject": "Congenital lymphocytic choriomeningitis virus infection",
+    "relation": "associated_with",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "Congenital lymphocytic choriomeningitis virus infection",
+    "relation": "treated_by",
+    "object": "Serologic testing"
+  },
+  {
+    "subject": "Congenital lymphocytic choriomeningitis virus infection",
+    "relation": "has_cause",
+    "object": "LCMV"
+  },
+  {
+    "subject": "Inherited Retinal Dystrophies",
+    "relation": "has_symptom",
+    "object": "Visual Impairment"
+  },
+  {
+    "subject": "Retinitis Pigmentosa",
+    "relation": "associated_with",
+    "object": "USH2A genetic variant"
+  },
+  {
+    "subject": "Stargardt disease",
+    "relation": "associated_with",
+    "object": "ABCA4 genetic variant"
+  },
+  {
+    "subject": "Usher syndrome",
+    "relation": "associated_with",
+    "object": "USH2A genetic variant"
+  },
+  {
+    "subject": "Inherited Retinal Dystrophies",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Inherited Retinal Dystrophies",
+    "relation": "has_cause",
+    "object": "Mutations in over 340 genes"
+  },
+  {
+    "subject": "Inherited Retinal Dystrophies",
+    "relation": "treated_by",
+    "object": "Genetic testing"
+  },
+  {
+    "subject": "Leber congenital amaurosis",
+    "relation": "associated_with",
+    "object": "CEP290 genetic variant"
+  },
+  {
+    "subject": "Inherited Retinal Dystrophies",
+    "relation": "associated_with",
+    "object": "Retinal dystrophy"
+  },
+  {
+    "subject": "CDKL5 deficiency disorder",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Doose syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Dup15q syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "epilepsy",
+    "relation": "treated_by",
+    "object": "cannabidiol (CBD)"
+  },
+  {
+    "subject": "treatment-resistant epilepsy (TRE)",
+    "relation": "associated_with",
+    "object": "CDKL5 deficiency disorder"
+  },
+  {
+    "subject": "treatment-resistant epilepsy (TRE)",
+    "relation": "associated_with",
+    "object": "Aicardi syndrome"
+  },
+  {
+    "subject": "treatment-resistant epilepsy (TRE)",
+    "relation": "associated_with",
+    "object": "Doose syndrome"
+  },
+  {
+    "subject": "treatment-resistant epilepsy (TRE)",
+    "relation": "associated_with",
+    "object": "Dup15q syndrome"
+  },
+  {
+    "subject": "CDKL5 deficiency disorder",
+    "relation": "treated_by",
+    "object": "cannabidiol (CBD)"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "treated_by",
+    "object": "cannabidiol (CBD)"
+  },
+  {
+    "subject": "Doose syndrome",
+    "relation": "treated_by",
+    "object": "cannabidiol (CBD)"
+  },
+  {
+    "subject": "Dup15q syndrome",
+    "relation": "treated_by",
+    "object": "cannabidiol (CBD)"
+  },
+  {
+    "subject": "epilepsy",
+    "relation": "has_symptom",
+    "object": "convulsive seizure"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "associated_with",
+    "object": "Epigenetic mechanisms"
+  }
+]

@@ -1,0 +1,4012 @@
+[
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "progressive central nervous system dysfunction"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "build-up of GM2 ganglioside in the brain"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neuronal loss"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "targeting altered redox balance"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "reducing oxidative stress"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "progressive central nervous system dysfunction"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neuronal loss"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neuronal death"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "build-up of GM2 ganglioside in the brain"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "imbalance in redox homeostasis"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "targeting altered redox balance"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "reducing increased oxidative stress"
+  },
+  {
+    "subject": "Tay-Sachs Disease",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Tay-Sachs Disease",
+    "relation": "has_symptom",
+    "object": "bone anomalies"
+  },
+  {
+    "subject": "Tay-Sachs Disease",
+    "relation": "has_symptom",
+    "object": "kyphosis"
+  },
+  {
+    "subject": "Tay-Sachs Disease",
+    "relation": "has_symptom",
+    "object": "osteopenia"
+  },
+  {
+    "subject": "Tay-Sachs Disease",
+    "relation": "has_symptom",
+    "object": "osteoporosis"
+  },
+  {
+    "subject": "Tay-Sachs Disease",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Tay-Sachs Disease",
+    "relation": "has_cause",
+    "object": "mutations in the HEXA gene"
+  },
+  {
+    "subject": "Tay-Sachs Disease",
+    "relation": "has_cause",
+    "object": "abnormal GM2 ganglioside accumulation"
+  },
+  {
+    "subject": "Tay-Sachs Disease",
+    "relation": "associated_with",
+    "object": "bone loss-associated disorders"
+  },
+  {
+    "subject": "Tay-Sachs Disease",
+    "relation": "treated_by",
+    "object": "unknown"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "β-Hexosaminidase A enzyme deficiency"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neuroinflammation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "ketogenic diet"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "propagermanium"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "combined treatment of ketogenic diet and propagermanium"
+  },
+  {
+    "subject": "neuroinflammation",
+    "relation": "has_cause",
+    "object": "GM2 ganglioside accumulation"
+  },
+  {
+    "subject": "neuroinflammation",
+    "relation": "has_cause",
+    "object": "Ccl2"
+  },
+  {
+    "subject": "neuroinflammation",
+    "relation": "treated_by",
+    "object": "propagermanium"
+  },
+  {
+    "subject": "Type 1 Tay-Sachs Disease",
+    "relation": "has_symptom",
+    "object": "progressive neurological decline"
+  },
+  {
+    "subject": "Type 1 Tay-Sachs Disease",
+    "relation": "has_symptom",
+    "object": "neurodegenerative symptoms"
+  },
+  {
+    "subject": "Type 1 Tay-Sachs Disease",
+    "relation": "has_cause",
+    "object": "HEXA Loss of Function gene mutations"
+  },
+  {
+    "subject": "Type 1 Tay-Sachs Disease",
+    "relation": "associated_with",
+    "object": "accumulation of lysosomal GM2 gangliosides"
+  },
+  {
+    "subject": "Type 1 Tay-Sachs Disease",
+    "relation": "treated_by",
+    "object": "Miglustat"
+  },
+  {
+    "subject": "Type 1 Tay-Sachs Disease",
+    "relation": "treated_by",
+    "object": "Ambroxol"
+  },
+  {
+    "subject": "Type 1 Tay-Sachs Disease",
+    "relation": "treated_by",
+    "object": "combination therapy of Miglustat and Ambroxol"
+  },
+  {
+    "subject": "Type 1 Tay-Sachs Disease",
+    "relation": "associated_with",
+    "object": "high lethality before age 10"
+  },
+  {
+    "subject": "Type 1 Tay-Sachs Disease",
+    "relation": "has_symptom",
+    "object": "cognitive decline"
+  },
+  {
+    "subject": "Type 1 Tay-Sachs Disease",
+    "relation": "has_symptom",
+    "object": "motor function decline"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "central nervous system dysfunction"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "deficiency of the enzyme hexosaminidase-A"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "GM2 gangliosidoses"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "cardiomegaly"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "macroglossia"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "central nervous system dysfunction"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "central nervous system dysfunction"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "proper management"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "altered normal nerve cell functioning"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "inability to metabolize GM2 ganglioside"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "has_cause",
+    "object": "intake of saturated fatty acids"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "has_symptom",
+    "object": "metastasis and growth of cancerous cells"
+  },
+  {
+    "subject": "Non-alcoholic fatty liver disease",
+    "relation": "has_cause",
+    "object": "Dyslipidemia"
+  },
+  {
+    "subject": "Non-alcoholic fatty liver disease",
+    "relation": "has_cause",
+    "object": "excess fatty acids"
+  },
+  {
+    "subject": "Insulin resistance",
+    "relation": "has_cause",
+    "object": "Dyslipidemia"
+  },
+  {
+    "subject": "Insulin resistance",
+    "relation": "has_cause",
+    "object": "excess fatty acids"
+  },
+  {
+    "subject": "Diabetes mellitus",
+    "relation": "has_cause",
+    "object": "Dyslipidemia"
+  },
+  {
+    "subject": "Diabetes mellitus",
+    "relation": "has_cause",
+    "object": "excess fatty acids"
+  },
+  {
+    "subject": "Jaundice",
+    "relation": "has_cause",
+    "object": "Dyslipidemia"
+  },
+  {
+    "subject": "Kidney damage",
+    "relation": "has_cause",
+    "object": "Jaundice"
+  },
+  {
+    "subject": "Cardiovascular diseases",
+    "relation": "has_cause",
+    "object": "Atherosclerosis"
+  },
+  {
+    "subject": "Brain stroke",
+    "relation": "has_cause",
+    "object": "Atherosclerosis"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "associated_with",
+    "object": "lipid metabolism"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "lipid metabolism"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "lipid metabolism"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_cause",
+    "object": "deficiency of the heterodimeric enzyme β-hexosaminidase A"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "variants in HEXA encoding the α-subunit"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_cause",
+    "object": "variants in HEXB encoding the β-subunit"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "cerebellar pathology"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "cerebellar pathology"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "GM2 gangliosidosis"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "GM2 gangliosidosis"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "diffusion tensor imaging (DTI) and correlational fiber tractography"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "diffusion tensor imaging (DTI) and correlational fiber tractography"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "genetic mutations in the HEXA gene"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neuropathology"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "premature cell death"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "GM2 ganglioside accumulation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "rhHex-A"
+  },
+  {
+    "subject": "GM2 ganglioside accumulation",
+    "relation": "has_symptom",
+    "object": "neuropathology"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "GM2 ganglioside accumulation in the central nervous system"
+  },
+  {
+    "subject": "Autosomal recessive genetic conditions",
+    "relation": "associated_with",
+    "object": "Ashkenazi Jewish ancestry"
+  },
+  {
+    "subject": "X-linked genetic conditions",
+    "relation": "associated_with",
+    "object": "Ashkenazi Jewish ancestry"
+  },
+  {
+    "subject": "Autosomal recessive genetic conditions",
+    "relation": "treated_by",
+    "object": "Carrier screening"
+  },
+  {
+    "subject": "X-linked genetic conditions",
+    "relation": "treated_by",
+    "object": "Carrier screening"
+  },
+  {
+    "subject": "Autosomal recessive genetic conditions",
+    "relation": "has_cause",
+    "object": "Pathogenic variants"
+  },
+  {
+    "subject": "X-linked genetic conditions",
+    "relation": "has_cause",
+    "object": "Pathogenic variants"
+  },
+  {
+    "subject": "Autosomal recessive genetic conditions",
+    "relation": "associated_with",
+    "object": "Reproductive risk"
+  },
+  {
+    "subject": "X-linked genetic conditions",
+    "relation": "associated_with",
+    "object": "Reproductive risk"
+  },
+  {
+    "subject": "Tay‒Sachs disease",
+    "relation": "has_symptom",
+    "object": "inability to consume food orally"
+  },
+  {
+    "subject": "Tay‒Sachs disease",
+    "relation": "associated_with",
+    "object": "aspiration pneumonia"
+  },
+  {
+    "subject": "Tay‒Sachs disease",
+    "relation": "has_cause",
+    "object": "novel compound heterozygous missense variants in the HEXA gene"
+  },
+  {
+    "subject": "aspiration pneumonia",
+    "relation": "treated_by",
+    "object": "gastrostomy"
+  },
+  {
+    "subject": "aspiration pneumonia",
+    "relation": "treated_by",
+    "object": "laryngotracheal separation"
+  },
+  {
+    "subject": "GM2A deficiency",
+    "relation": "has_symptom",
+    "object": "central nervous system deterioration"
+  },
+  {
+    "subject": "GM2A deficiency",
+    "relation": "has_symptom",
+    "object": "isointensity of gray and white matter of the brain on T2-weighted MRI"
+  },
+  {
+    "subject": "GM2A deficiency",
+    "relation": "has_symptom",
+    "object": "MR spectroscopic changes of brain metabolites"
+  },
+  {
+    "subject": "GM2A deficiency",
+    "relation": "has_symptom",
+    "object": "rhythmical slowing of cerebral cortical activation on electroencephalography"
+  },
+  {
+    "subject": "GM2A deficiency",
+    "relation": "has_symptom",
+    "object": "elevation of aspartate aminotransferase and lactate dehydrogenase in cerebrospinal fluid"
+  },
+  {
+    "subject": "GM2A deficiency",
+    "relation": "associated_with",
+    "object": "GM2 gangliosidoses"
+  },
+  {
+    "subject": "GM2A deficiency",
+    "relation": "associated_with",
+    "object": "Tay-Sachs disease"
+  },
+  {
+    "subject": "GM2A deficiency",
+    "relation": "associated_with",
+    "object": "Sandhoff disease"
+  },
+  {
+    "subject": "GM2A deficiency",
+    "relation": "has_cause",
+    "object": "GM2A protein deficiency"
+  },
+  {
+    "subject": "GM2A deficiency",
+    "relation": "has_cause",
+    "object": "storage of GM2 and GA2 ganglioside"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_symptom",
+    "object": "Symptom Y"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "treated_by",
+    "object": "Treatment Z"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_cause",
+    "object": "Cause W"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "associated_with",
+    "object": "Associated Condition V"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurologic diseases"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "Niemann-Pick type C"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "impaired function of enzymes responsible for lipid digestion"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "targeted gene therapy"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "impaired function of enzymes responsible for lipid digestion"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "neurologic diseases"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "targeted gene therapy"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "has_symptom",
+    "object": "neurologic diseases"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "has_cause",
+    "object": "impaired function of enzymes responsible for lipid digestion"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "associated_with",
+    "object": "Tay-Sachs disease"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "treated_by",
+    "object": "targeted gene therapy"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "progressive neurological symptoms"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "mutations in hexA gene"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "other neurological conditions"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "clinical management decisions"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_cause",
+    "object": "deficiency in activity of either β-hexosaminidase A (HexA) or both β-hexosaminidase A and β-hexosaminidase B (HexB)"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "GM2 gangliosidosis"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "GM2 gangliosidosis"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "liquid chromatography-tandem mass spectrometry (LC-MS/MS)"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "liquid chromatography-tandem mass spectrometry (LC-MS/MS)"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "treated_by",
+    "object": "liquid chromatography-tandem mass spectrometry (LC-MS/MS)"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "β-hexosaminidase A enzyme deficiency"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neuroinflammation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "propagermanium"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "ketogenic diet"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "combined treatment of ketogenic diet and propagermanium"
+  },
+  {
+    "subject": "neuroinflammation",
+    "relation": "has_cause",
+    "object": "GM2 ganglioside accumulation"
+  },
+  {
+    "subject": "neuroinflammation",
+    "relation": "has_cause",
+    "object": "Ccl2 expression"
+  },
+  {
+    "subject": "neuroinflammation",
+    "relation": "treated_by",
+    "object": "propagermanium"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "severe neuropathological abnormalities"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "mutation in the HexA gene"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "accumulation of GM2 ganglioside"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "lithium treatment"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "impaired autophagic flux"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "recurrent seizures"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "cough"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "antiepileptic drugs"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "antibiotic therapy"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "supportive care"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "deficiency of hexosaminidase-A (Hex A)"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "bronchopneumonia"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "consanguinity"
+  },
+  {
+    "subject": "Late-onset GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "Neurogenic weakness"
+  },
+  {
+    "subject": "Late-onset GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "Ataxia"
+  },
+  {
+    "subject": "Late-onset GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "Dysarthria"
+  },
+  {
+    "subject": "Late-onset GM2 gangliosidoses",
+    "relation": "associated_with",
+    "object": "Late-onset Tay-Sachs"
+  },
+  {
+    "subject": "Late-onset GM2 gangliosidoses",
+    "relation": "associated_with",
+    "object": "Late-onset Sandhoff"
+  },
+  {
+    "subject": "Late-onset GM2 gangliosidoses",
+    "relation": "treated_by",
+    "object": "No available treatment"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "motor decline"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "β-hexosaminidase A deficiency"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_cause",
+    "object": "β-hexosaminidase A deficiency"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "recombinant HexA"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "HexD3"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "HexD3"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative disorders"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative disorders"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "cerebellar dysfunction"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "anterior horn cell dysfunction"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "extrapyramidal symptoms"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neuropsychiatric symptoms"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "motor neuronopathy"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "Deficiency in β-hexosaminidase"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "accumulation of GM2 ganglioside"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "cerebellar atrophy"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "anterior horn cell disorders"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "HEXA mutations"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "CRISPR-Cas9"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "HexA deficiency"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "Dysarthria"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "Ataxia"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "Impaired speech"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "Impaired motor function"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "Cerebellar atrophy"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "Pontocerebellar atrophy"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "Atrophy of bilateral ventral and lateral thalamic nuclei"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "Atrophy of primary motor and sensory cortex"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "Atrophy of supplementary motor area"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "Atrophy of white matter regions containing corticospinal tract"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "Atrophy of right amygdala"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "Atrophy of hippocampus"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "Atrophy of regions of occipital, parietal and temporal white matter"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "developmental stagnation"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "regression"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "Cherry red spot"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "startle reactions"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "elevated AST"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "problems with balance or gait"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "dysarthria"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "psychiatric symptoms"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "supranuclear vertical gaze palsy"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_cause",
+    "object": "β-hexosaminidase (HEX) deficiency"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "associated_with",
+    "object": "ataxia"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "associated_with",
+    "object": "lower motor neuron weakness"
+  },
+  {
+    "subject": "GM2 gangliosidoses type I",
+    "relation": "has_symptom",
+    "object": "basal ganglia involvement"
+  },
+  {
+    "subject": "GM2 gangliosidoses type I",
+    "relation": "has_symptom",
+    "object": "peritrigonal hyperintensity"
+  },
+  {
+    "subject": "GM2 gangliosidoses type II",
+    "relation": "has_symptom",
+    "object": "infratentorial atrophy"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "associated_with",
+    "object": "certain genetic variants"
+  },
+  {
+    "subject": "Diabetic Striatopathy",
+    "relation": "has_cause",
+    "object": "Poor Metabolic Control"
+  },
+  {
+    "subject": "Diabetic Striatopathy",
+    "relation": "has_cause",
+    "object": "Diabetes Mellitus"
+  },
+  {
+    "subject": "Diabetes Mellitus",
+    "relation": "has_symptom",
+    "object": "Peripheral Neuropathy"
+  },
+  {
+    "subject": "Diabetes Mellitus",
+    "relation": "associated_with",
+    "object": "Diabetic Striatopathy"
+  },
+  {
+    "subject": "Diabetic Striatopathy",
+    "relation": "treated_by",
+    "object": "Therapeutic Measures"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "manifestations"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "single specific gene"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "other conditions"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "motor dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "sensory deficits"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "substrate reduction therapy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "gene therapies"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "genetics"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "neurological involvement"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "central nervous system involvement"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "motor difficulties"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "loss of skills"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "behavioral problems"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "deficiency of lysosomal β-hexosaminidase enzyme"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "storage of GM2 ganglioside"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "gemfibrozil"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "glial activation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "accumulation of GM2 gangliosides/glycoconjugates"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "autosomal recessive inheritance"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "HEXA gene mutation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "chromosome 15(15q23) abnormality"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "nursing care"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "short life expectancy (less than 5 years)"
+  },
+  {
+    "subject": "Neurological diseases",
+    "relation": "treated_by",
+    "object": "rAAV treatment"
+  },
+  {
+    "subject": "Neurological diseases",
+    "relation": "associated_with",
+    "object": "Central nervous system (CNS)"
+  },
+  {
+    "subject": "Neurological diseases",
+    "relation": "has_cause",
+    "object": "Genetic level changes"
+  },
+  {
+    "subject": "GM2-gangliosidosis",
+    "relation": "has_cause",
+    "object": "deficiency or functional impairment of the β-hexosaminidase A or B enzymes"
+  },
+  {
+    "subject": "GM2-gangliosidosis",
+    "relation": "has_symptom",
+    "object": "accumulation of GM2 gangliosides in various tissues and organs"
+  },
+  {
+    "subject": "GM2-gangliosidosis",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorders"
+  },
+  {
+    "subject": "GM2-gangliosidosis",
+    "relation": "diagnosed_by",
+    "object": "multiplexed liquid chromatography-tandem mass spectrometry method"
+  },
+  {
+    "subject": "GM2-gangliosidosis",
+    "relation": "treated_by",
+    "object": "appropriate treatment"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "biallelic pathogenic variants in HEXA"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "perturbation of normal development"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "shift in the expression of the sphingolipid metabolic pathway"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "Sandhoff disease"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "Tay-Sachs disease"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "treated_by",
+    "object": "miglustat"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_manifestation",
+    "object": "infantile onset"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_manifestation",
+    "object": "late-infantile onset"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_manifestation",
+    "object": "juvenile onset"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_manifestation",
+    "object": "adult-onset"
+  },
+  {
+    "subject": "Pediatric neurological disorders",
+    "relation": "treated_by",
+    "object": "Gene editing technologies"
+  },
+  {
+    "subject": "Pediatric neurological disorders",
+    "relation": "treated_by",
+    "object": "CRISPR-based therapies"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "cholestatic jaundice"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "seizure"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "difficulty in speech"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "difficulty in swallowing"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "recurrent respiratory tract infection"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "jaundice"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "mutations in NPC1 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "has_cause",
+    "object": "mutations in NPC2 gene"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "frequent monitoring of liver function"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "speech therapy"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "treated_by",
+    "object": "nutritional therapy"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "autosomal recessive lysosomal lipid storage disorder"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders (LSDs)",
+    "relation": "has_symptom",
+    "object": "overlapping clinical presentations"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders (LSDs)",
+    "relation": "has_cause",
+    "object": "single nucleotide variants (SNVs)"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders (LSDs)",
+    "relation": "has_cause",
+    "object": "copy number variants (CNVs)"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders (LSDs)",
+    "relation": "treated_by",
+    "object": "single-molecule molecular inversion probes (smMIPs) sequencing assay"
+  },
+  {
+    "subject": "Niemann-Pick disease type C",
+    "relation": "associated_with",
+    "object": "Lysosomal Storage Disorders (LSDs)"
+  },
+  {
+    "subject": "Neuronal ceroid lipofuscinosis-6",
+    "relation": "associated_with",
+    "object": "Lysosomal Storage Disorders (LSDs)"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders (LSDs)",
+    "relation": "diagnosed_by",
+    "object": "biochemical enzymatic tests"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders (LSDs)",
+    "relation": "diagnosed_by",
+    "object": "DNA sequencing"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "progressive deterioration in the central nervous system"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "mutations in the HexA gene"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "abnormal GM2 ganglioside accumulation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "impairment in autophagic flux"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "autophagy modulation therapy"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "dysarthria"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "tremors"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "atrophy"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "psychosis"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "problems with legs"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "balance problems"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "memory problems"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "attention span problems"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "speech problems"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_cause",
+    "object": "deficiency of β-hexosaminidase A"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "Tay-Sachs disease"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "Sandhoff disease"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorders"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "neurodegenerative disorders"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurodegenerative symptoms"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "mutations in the alpha subunit of HEXA"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "consanguineous marriages"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "deficient β-hexosaminidase-A enzyme activity"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "diagnosed_by",
+    "object": "Next Generation Sequencing approaches"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "diagnosed_by",
+    "object": "Sanger sequencing"
+  },
+  {
+    "subject": "Pediatric Hyperlipidemia",
+    "relation": "has_cause",
+    "object": "Primary Causes"
+  },
+  {
+    "subject": "Pediatric Hyperlipidemia",
+    "relation": "has_cause",
+    "object": "Secondary Causes"
+  },
+  {
+    "subject": "Pediatric Hyperlipidemia",
+    "relation": "treated_by",
+    "object": "Lifestyle Modifications"
+  },
+  {
+    "subject": "Pediatric Hyperlipidemia",
+    "relation": "treated_by",
+    "object": "Drug Therapy"
+  },
+  {
+    "subject": "Pediatric Hyperlipidemia",
+    "relation": "associated_with",
+    "object": "Atherosclerotic Cardiovascular Disease"
+  },
+  {
+    "subject": "Pediatric Hyperlipidemia",
+    "relation": "associated_with",
+    "object": "Cardiovascular Incidents"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "motor difficulties"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "loss of behavioral skills"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "motor difficulties"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "loss of behavioral skills"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "excessive GM2 ganglioside accumulation"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_cause",
+    "object": "excessive GM2 ganglioside accumulation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage metabolic disorders"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage metabolic disorders"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "cinnamic acid"
+  },
+  {
+    "subject": "GM2-Gangliosidosis",
+    "relation": "has_cause",
+    "object": "mutation in HEXA or HEXB"
+  },
+  {
+    "subject": "GM2-Gangliosidosis",
+    "relation": "has_cause",
+    "object": "mutation in GM2A"
+  },
+  {
+    "subject": "GM2-Gangliosidosis",
+    "relation": "has_symptom",
+    "object": "lysosomal enzyme deficiency"
+  },
+  {
+    "subject": "GM2-Gangliosidosis",
+    "relation": "associated_with",
+    "object": "Tay-Sachs"
+  },
+  {
+    "subject": "GM2-Gangliosidosis",
+    "relation": "associated_with",
+    "object": "Sandhoff"
+  },
+  {
+    "subject": "GM2-Gangliosidosis",
+    "relation": "associated_with",
+    "object": "AB variant of GM2-Gangliosidosis"
+  },
+  {
+    "subject": "GM2-Gangliosidosis",
+    "relation": "treated_by",
+    "object": "liquid chromatography-mass spectrometry-based method"
+  },
+  {
+    "subject": "Tay-Sachs",
+    "relation": "has_symptom",
+    "object": "increased plasma G<sub>M2</sub> molecular species"
+  },
+  {
+    "subject": "Sandhoff",
+    "relation": "has_symptom",
+    "object": "increased plasma G<sub>M2</sub> molecular species"
+  },
+  {
+    "subject": "AB variant of GM2-Gangliosidosis",
+    "relation": "has_symptom",
+    "object": "increased plasma G<sub>M2</sub> molecular species"
+  },
+  {
+    "subject": "GM2-Gangliosidosis",
+    "relation": "has_symptom",
+    "object": "increased G<sub>M2</sub>34:1"
+  },
+  {
+    "subject": "GM2-Gangliosidosis",
+    "relation": "has_symptom",
+    "object": "increased G<sub>M2</sub>34:1/G<sub>M3</sub>34:1 ratio"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Psychomotor regression"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Progressive myoclonic epilepsy syndrome"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Spastic ataxia"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Psychomotor regression"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Progressive myoclonic epilepsy syndrome"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Spastic ataxia"
+  },
+  {
+    "subject": "Genetic White Matter Disorders",
+    "relation": "treated_by",
+    "object": "Clinical Exome Sequencing"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "associated_with",
+    "object": "Genetic Leukoencephalopathy"
+  },
+  {
+    "subject": "Genetic White Matter Disorders",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_cause",
+    "object": "Mutations in ARSA, CLN5, ABCD1, CLN6, TPP1, HEXA, L2HGDH genes"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_cause",
+    "object": "Mutations in ARSA, CLN5, ABCD1, CLN6, TPP1, HEXA, L2HGDH genes"
+  },
+  {
+    "subject": "Frontotemporal dementia",
+    "relation": "has_symptom",
+    "object": "Dementia"
+  },
+  {
+    "subject": "Lewy body dementia",
+    "relation": "has_symptom",
+    "object": "Dementia"
+  },
+  {
+    "subject": "Cerebral atrophy-based syndromes",
+    "relation": "has_symptom",
+    "object": "Atrophy"
+  },
+  {
+    "subject": "Cerebellar atrophy-based syndromes",
+    "relation": "has_symptom",
+    "object": "Atrophy"
+  },
+  {
+    "subject": "Neurodegenerative disorders",
+    "relation": "has_cause",
+    "object": "Genetic predispositions"
+  },
+  {
+    "subject": "Neurodegenerative disorders",
+    "relation": "has_cause",
+    "object": "Genomic alterations"
+  },
+  {
+    "subject": "Neurodegenerative disorders",
+    "relation": "associated_with",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Neurodegenerative disorders",
+    "relation": "treated_by",
+    "object": "Molecularly targeted therapies"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "has_symptom",
+    "object": "Gait ataxia"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "has_symptom",
+    "object": "Dysarthria"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "has_symptom",
+    "object": "Intentional tremor"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "has_symptom",
+    "object": "Nystagmus"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "has_symptom",
+    "object": "Dysmetria"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "has_symptom",
+    "object": "Unsteady walking"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "has_symptom",
+    "object": "Slurred speech"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "treated_by",
+    "object": "Supportive physiotherapy"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "treated_by",
+    "object": "Oral methylcobalamin supplementation"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "associated_with",
+    "object": "Childbirth"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "associated_with",
+    "object": "Hormonal shifts"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "associated_with",
+    "object": "Vascular shifts"
+  },
+  {
+    "subject": "Olivopontocerebellar degeneration",
+    "relation": "associated_with",
+    "object": "Autoimmune shifts"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "has_symptom",
+    "object": "First episode of psychosis (FEP)"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "has_cause",
+    "object": "Autoimmune diseases"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "has_cause",
+    "object": "Metabolic diseases"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "has_cause",
+    "object": "Neurologic diseases"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "has_cause",
+    "object": "Infectious diseases"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "has_cause",
+    "object": "Genetic diseases"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "treated_by",
+    "object": "Laboratory tests"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "treated_by",
+    "object": "Brain magnetic resonance imaging"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "treated_by",
+    "object": "Lumbar puncture"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "treated_by",
+    "object": "Genetic research"
+  },
+  {
+    "subject": "First episode of psychosis (FEP)",
+    "relation": "associated_with",
+    "object": "Psychiatric disease"
+  },
+  {
+    "subject": "Psychosis",
+    "relation": "associated_with",
+    "object": "Physical or developmental symptoms"
+  },
+  {
+    "subject": "Anxiety Disorders",
+    "relation": "has_symptom",
+    "object": "Restricted activity"
+  },
+  {
+    "subject": "Anxiety Disorders",
+    "relation": "has_symptom",
+    "object": "Reduced cumulative times in the central area"
+  },
+  {
+    "subject": "Anxiety Disorders",
+    "relation": "has_symptom",
+    "object": "Diminished exploratory interest"
+  },
+  {
+    "subject": "Anxiety Disorders",
+    "relation": "has_symptom",
+    "object": "Delayed latency to feed"
+  },
+  {
+    "subject": "Anxiety Disorders",
+    "relation": "has_cause",
+    "object": "Abnormal activity of acid sphingomyelinase (Asm)"
+  },
+  {
+    "subject": "Anxiety Disorders",
+    "relation": "associated_with",
+    "object": "Upregulation of Toll-like receptor signaling pathway"
+  },
+  {
+    "subject": "Anxiety Disorders",
+    "relation": "associated_with",
+    "object": "Activated microglia"
+  },
+  {
+    "subject": "Anxiety Disorders",
+    "relation": "associated_with",
+    "object": "Activated astrocytes"
+  },
+  {
+    "subject": "Anxiety Disorders",
+    "relation": "treated_by",
+    "object": "Targeting acid sphingomyelinase (Asm)"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "progressive disorder"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "X-linked adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Globoid cell leukodystrophy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Giant axonal neuropathy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "Single gene disorders"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "White matter brain damage"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Genotoxicity"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Immunotoxicity"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Ex vivo lentiviral gene delivery"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "In vivo AAV-mediated gene delivery"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Intrathecal antisense oligonucleotide approaches"
+  },
+  {
+    "subject": "Infectious diseases",
+    "relation": "has_cause",
+    "object": "Microorganisms"
+  },
+  {
+    "subject": "Infectious diseases",
+    "relation": "has_cause",
+    "object": "Genetic determinism"
+  },
+  {
+    "subject": "Infectious diseases",
+    "relation": "has_symptom",
+    "object": "Clinical variability"
+  },
+  {
+    "subject": "Infectious diseases",
+    "relation": "associated_with",
+    "object": "Primary immunodeficiencies"
+  },
+  {
+    "subject": "Infectious diseases",
+    "relation": "treated_by",
+    "object": "Preventive and therapeutic strategies"
+  },
+  {
+    "subject": "Mendelian susceptibility to infections",
+    "relation": "associated_with",
+    "object": "Primary immunodeficiencies"
+  },
+  {
+    "subject": "Monogenic susceptibility to infections",
+    "relation": "associated_with",
+    "object": "Primary immunodeficiencies"
+  },
+  {
+    "subject": "Infectious diseases",
+    "relation": "has_symptom",
+    "object": "Phenotypic heterogeneity"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "has_treatment",
+    "object": "Preimplantation genetic testing (PGT)"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "has_treatment",
+    "object": "In vitro fertilization (IVF)"
+  },
+  {
+    "subject": "Genetic diseases",
+    "relation": "has_treatment",
+    "object": "Preimplantation genetic testing (PGT)"
+  },
+  {
+    "subject": "Failed pregnancies",
+    "relation": "has_cause",
+    "object": "Genetic abnormalities"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "has_cause",
+    "object": "Genetic abnormalities"
+  },
+  {
+    "subject": "In vitro fertilization (IVF)",
+    "relation": "associated_with",
+    "object": "Assisted reproductive technology (ART)"
+  },
+  {
+    "subject": "Preimplantation genetic testing (PGT)",
+    "relation": "associated_with",
+    "object": "Assisted reproductive technology (ART)"
+  },
+  {
+    "subject": "Genetic diseases",
+    "relation": "has_symptom",
+    "object": "Emotional burdens"
+  },
+  {
+    "subject": "Genetic diseases",
+    "relation": "has_symptom",
+    "object": "Financial burdens"
+  },
+  {
+    "subject": "Failed pregnancies",
+    "relation": "has_symptom",
+    "object": "Emotional burdens"
+  },
+  {
+    "subject": "Failed pregnancies",
+    "relation": "has_symptom",
+    "object": "Financial burdens"
+  },
+  {
+    "subject": "Diabetes",
+    "relation": "has_symptom",
+    "object": "Increased Thirst"
+  },
+  {
+    "subject": "Diabetes",
+    "relation": "has_symptom",
+    "object": "Frequent Urination"
+  },
+  {
+    "subject": "Diabetes",
+    "relation": "treated_by",
+    "object": "Insulin Therapy"
+  },
+  {
+    "subject": "Diabetes",
+    "relation": "has_cause",
+    "object": "Genetic Predisposition"
+  },
+  {
+    "subject": "Diabetes",
+    "relation": "associated_with",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "has_symptom",
+    "object": "cognitive impairments"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "has_symptom",
+    "object": "motor impairments"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "has_cause",
+    "object": "genetic defects"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "treated_by",
+    "object": "Gene replacement therapy"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "treated_by",
+    "object": "AAV-mediated gene replacement therapy"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "associated_with",
+    "object": "pediatric encephalopathies"
+  },
+  {
+    "subject": "Gene replacement therapy",
+    "relation": "associated_with",
+    "object": "immune responses"
+  },
+  {
+    "subject": "AAV-mediated gene replacement therapy",
+    "relation": "has_treatment_target",
+    "object": "neurons"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "severe progressive neurodegeneration"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "neuroinflammation"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_cause",
+    "object": "deficiency of lysosomal enzyme β-hexosaminidase A"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "associated_with",
+    "object": "Tay-Sachs disease"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "treated_by",
+    "object": "cell-mediated gene therapy"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "treated_by",
+    "object": "genetically modified mesenchymal stem cells"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "HexA deficiency"
+  },
+  {
+    "subject": "HexA deficiency",
+    "relation": "has_cause",
+    "object": "deficiency of lysosomal enzyme β-hexosaminidase A"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "inherited metabolic disorder"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "coarctation of the aorta"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "bilateral grade V vesicoureteral reflux (VUR)"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "pelvicalyceal ectasia"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "follow-up in Pediatric Cardiology outpatient clinic"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "has_symptom",
+    "object": "progressive macrocephaly"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "has_symptom",
+    "object": "regression"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "has_symptom",
+    "object": "startle reactions"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "has_symptom",
+    "object": "motor developmental delay"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "has_symptom",
+    "object": "dexterity issues"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "has_cause",
+    "object": "inherited neurogenetic autosomal recessive lysosomal storage disorders"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "associated_with",
+    "object": "significant morbidity"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "associated_with",
+    "object": "premature death"
+  },
+  {
+    "subject": "Gangliosidoses",
+    "relation": "associated_with",
+    "object": "late-infantile phenotypes"
+  },
+  {
+    "subject": "AB-variant GM2 gangliosidosis",
+    "relation": "has_cause",
+    "object": "mutation in the GM2A gene"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "rapid neurological decline"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_symptom",
+    "object": "death"
+  },
+  {
+    "subject": "AB-variant GM2 gangliosidosis",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "AB-variant GM2 gangliosidosis",
+    "relation": "treated_by",
+    "object": "single-stranded Adeno-associated virus serotype 9 (ssAAV9)-GM2A viral vector"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "has_cause",
+    "object": "mutations in HEXA, HEXB, or GM2A genes"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "mutations in HEXA gene"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_cause",
+    "object": "mutations in HEXB gene"
+  },
+  {
+    "subject": "AB-variant GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "accumulation of GM2 gangliosides"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "associated_with",
+    "object": "neurological decline"
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "treated_by",
+    "object": "Treatment"
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "associated_with",
+    "object": "Genetic answers"
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "treated_by",
+    "object": "Mass spectrometry (MS)-based omics"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "cerebellar ataxia"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "lower motor neuron disease"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "psychiatric impairment"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "dysarthria"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "tremor"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "psychosis"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "depression"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "mutations in the HEXA gene"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "GM2 gangliosidosis"
+  },
+  {
+    "subject": "Late-onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "adult-onset cerebellar ataxias"
+  },
+  {
+    "subject": "Genetic Disease",
+    "relation": "has_cause",
+    "object": "Pathogenic Variant"
+  },
+  {
+    "subject": "Genetic Disease",
+    "relation": "associated_with",
+    "object": "Copy Number Variants (CNV)"
+  },
+  {
+    "subject": "Pathogenic Variant",
+    "relation": "identified_by",
+    "object": "Exome Sequencing (ES)"
+  },
+  {
+    "subject": "Genetic Screening",
+    "relation": "performed_on",
+    "object": "Blood Samples"
+  },
+  {
+    "subject": "Genetic Screening",
+    "relation": "performed_on",
+    "object": "Sperm Samples"
+  },
+  {
+    "subject": "Genetic Disease",
+    "relation": "diagnosed_by",
+    "object": "Genetic Screening"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapy"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "treated_by",
+    "object": "Pharmacological Chaperones"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Migalastat"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Pharmacological Chaperones"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Pharmacological Chaperones"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Pharmacological Chaperones"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Hyperphenylalaninaemia"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Galactosaemia"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Glutaric aciduria type I"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "MSUD"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Sandhoff disease"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "GM1 gangliosidosis"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Gaucher disease"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Classic PKU"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Fatty acid oxidation defects"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "Cypriot Maronites"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "associated_with",
+    "object": "Specific area of Cyprus"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "treated_by",
+    "object": "Selective screening"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "treated_by",
+    "object": "Biochemical Genetics laboratory testing"
+  },
+  {
+    "subject": "Hyperphenylalaninaemia",
+    "relation": "has_treatment",
+    "object": "Not mentioned"
+  },
+  {
+    "subject": "Galactosaemia",
+    "relation": "has_treatment",
+    "object": "Not mentioned"
+  },
+  {
+    "subject": "Glutaric aciduria type I",
+    "relation": "has_treatment",
+    "object": "Not mentioned"
+  },
+  {
+    "subject": "MSUD",
+    "relation": "has_treatment",
+    "object": "Not mentioned"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "associated_with",
+    "object": "Disorders of amino acid metabolism"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "associated_with",
+    "object": "Disorders of carbohydrate metabolism"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "associated_with",
+    "object": "Disorders of complex molecule degradation"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "associated_with",
+    "object": "Mitochondrial disorders"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "associated_with",
+    "object": "Disorders of vitamin and co-factor metabolism"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "has_symptom",
+    "object": "Muscle weakness"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "treated_by",
+    "object": "Unknown"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "has_cause",
+    "object": "SMN1 intragenic variants"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "associated_with",
+    "object": "Carrier variants"
+  },
+  {
+    "subject": "α-thalassemia",
+    "relation": "has_symptom",
+    "object": "Anemia"
+  },
+  {
+    "subject": "α-thalassemia",
+    "relation": "treated_by",
+    "object": "Unknown"
+  },
+  {
+    "subject": "α-thalassemia",
+    "relation": "has_cause",
+    "object": "HKαα miscalled as -α3.7"
+  },
+  {
+    "subject": "α-thalassemia",
+    "relation": "associated_with",
+    "object": "Carrier variants"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "has_symptom",
+    "object": "Anemia"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "treated_by",
+    "object": "Unknown"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "has_cause",
+    "object": "Unknown"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "associated_with",
+    "object": "Carrier variants"
+  },
+  {
+    "subject": "21-hydroxylase deficiency",
+    "relation": "has_symptom",
+    "object": "Unknown"
+  },
+  {
+    "subject": "21-hydroxylase deficiency",
+    "relation": "treated_by",
+    "object": "Unknown"
+  },
+  {
+    "subject": "21-hydroxylase deficiency",
+    "relation": "has_cause",
+    "object": "Unknown"
+  },
+  {
+    "subject": "21-hydroxylase deficiency",
+    "relation": "associated_with",
+    "object": "Carrier variants"
+  },
+  {
+    "subject": "Fragile-X syndrome",
+    "relation": "has_symptom",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Fragile-X syndrome",
+    "relation": "treated_by",
+    "object": "Unknown"
+  },
+  {
+    "subject": "Fragile-X syndrome",
+    "relation": "has_cause",
+    "object": "Unknown"
+  },
+  {
+    "subject": "Fragile-X syndrome",
+    "relation": "associated_with",
+    "object": "Carrier variants"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "loss-of-function mutations in the HEXA gene"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "GM2 ganglioside accumulation in lysosomes"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "demyelination"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "axonal degeneration"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "alterations in lipid metabolism"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "dysfunctionality of lipid-related cellular pathways like autophagy"
+  },
+  {
+    "subject": "ASD",
+    "relation": "associated_with",
+    "object": "Disturbances in cholesterol homeostasis"
+  },
+  {
+    "subject": "ASD",
+    "relation": "associated_with",
+    "object": "Changes in raft cholesterol content"
+  },
+  {
+    "subject": "Disturbances in cholesterol homeostasis",
+    "relation": "has_cause",
+    "object": "Changes in ERAD of HMGCoA reductase"
+  },
+  {
+    "subject": "ASD",
+    "relation": "treated_by",
+    "object": "Temporary ERAD blockade using a benign bacterial toxin-derived competitor"
+  },
+  {
+    "subject": "Genetic Disorders",
+    "relation": "has_cause",
+    "object": "Pathogenic/likely pathogenic variants"
+  },
+  {
+    "subject": "Genetic Disorders",
+    "relation": "identified_by",
+    "object": "Expanded Carrier Screening"
+  },
+  {
+    "subject": "Genetic Diseases",
+    "relation": "has_treatment_guidance",
+    "object": "Precise Fertility Guidance"
+  },
+  {
+    "subject": "High-risk Fetuses",
+    "relation": "associated_with",
+    "object": "Genetic Disorders"
+  },
+  {
+    "subject": "Genetic Diseases",
+    "relation": "detected_by",
+    "object": "Next-generation Sequencing"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "progressive weakness"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "visual impairment"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "hearing impairment"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "exaggerated startle response"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "movement retrogression"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "orbital hypertelorism"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_cause",
+    "object": "variants of the β-hexosaminidase B (HEXB) gene"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_cause",
+    "object": "homozygous frameshift mutation in the HEXB gene"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "cerebral atrophy"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "delayed myelination of the white matter of the brain"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "has_symptom",
+    "object": "Diversity of neurological conditions"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "treated_by",
+    "object": "Nanoparticles (NPs)"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Lysosomal storage disorders (LSDs)",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "associated_with",
+    "object": "Neurodegenerative diseases"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "associated_with",
+    "object": "Psychiatric conditions"
+  },
+  {
+    "subject": "Lysosomal storage disorders (LSDs)",
+    "relation": "associated_with",
+    "object": "Neurological disorders"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "has_cause",
+    "object": "Blood-brain barrier (BBB) restriction"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "mutations that destabilise the native folded form of the enzyme"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "sp2-iminosugar glycomimetics"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "low activity levels of human β-hexosaminidase A (HexA)"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "G269S mutation"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "has_symptom",
+    "object": "Pain in extremities"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "has_cause",
+    "object": "Mutations in the GLA gene"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "associated_with",
+    "object": "Kidney failure"
+  },
+  {
+    "subject": "Inherited Metabolic Diseases",
+    "relation": "has_symptom",
+    "object": "Intellectual Disability"
+  },
+  {
+    "subject": "Inherited Metabolic Diseases",
+    "relation": "has_symptom",
+    "object": "Neurocognitive Decline"
+  },
+  {
+    "subject": "Inherited Metabolic Diseases",
+    "relation": "associated_with",
+    "object": "Lysosomal Storage Disease"
+  },
+  {
+    "subject": "Inherited Metabolic Diseases",
+    "relation": "has_cause",
+    "object": "Genetic Disorders"
+  },
+  {
+    "subject": "Inherited Metabolic Diseases",
+    "relation": "treated_by",
+    "object": "Multidisciplinary Input"
+  },
+  {
+    "subject": "Inherited Metabolic Diseases",
+    "relation": "treated_by",
+    "object": "Neuropsychology Services"
+  },
+  {
+    "subject": "Inherited Metabolic Diseases",
+    "relation": "treated_by",
+    "object": "Neuropsychiatry Services"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "cerebellar symptoms"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "psychiatric presentation"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "stuttering"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "movement disorder"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "impulsivity"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "distinct speech patterns"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "triceps sign"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neuromuscular symptoms"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "clinical trials"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "neuromuscular disorder"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "movement disorder"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "psychiatric disorder"
+  },
+  {
+    "subject": "Late-Onset Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "cerebellar disorder"
+  },
+  {
+    "subject": "Global Developmental Delay",
+    "relation": "has_cause",
+    "object": "Genetic Abnormalities"
+  },
+  {
+    "subject": "Global Developmental Delay",
+    "relation": "has_cause",
+    "object": "Chromosomal Abnormalities"
+  },
+  {
+    "subject": "Global Developmental Delay",
+    "relation": "has_cause",
+    "object": "Hypoxic-Ischemic Encephalopathy"
+  },
+  {
+    "subject": "Global Developmental Delay",
+    "relation": "has_symptom",
+    "object": "Developmental Quotient below 70%"
+  },
+  {
+    "subject": "Global Developmental Delay",
+    "relation": "treated_by",
+    "object": "Genetic Testing"
+  },
+  {
+    "subject": "Global Developmental Delay",
+    "relation": "associated_with",
+    "object": "Prenatal Causes"
+  },
+  {
+    "subject": "Global Developmental Delay",
+    "relation": "associated_with",
+    "object": "Perinatal Causes"
+  },
+  {
+    "subject": "Global Developmental Delay",
+    "relation": "associated_with",
+    "object": "Postnatal Causes"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "has_symptom",
+    "object": "speech delay"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "has_symptom",
+    "object": "myoclonus"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "has_symptom",
+    "object": "motor regression"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "has_symptom",
+    "object": "hyperkinesia"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "has_symptom",
+    "object": "hypokinesia"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "treated_by",
+    "object": "crliponase alfa ERT"
+  },
+  {
+    "subject": "CLN2-disease",
+    "relation": "has_cause",
+    "object": "inherited condition"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "Improper functioning of HexA"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "Buildup of GM2 gangliosides"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "NGT"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "progressive destruction of nerve cells in the brain and spinal cord"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "genetic variations in the HEXA gene"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "deficiency of β hexosaminidase A (HEXA) isoenzyme activity"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "Whole Exome Sequencing (WES)"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "targeted gene sequencing"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "consanguineous families"
+  },
+  {
+    "subject": "thalassaemia",
+    "relation": "has_symptom",
+    "object": "anaemia"
+  },
+  {
+    "subject": "sickle cell disease",
+    "relation": "has_symptom",
+    "object": "anaemia"
+  },
+  {
+    "subject": "cystic fibrosis",
+    "relation": "has_symptom",
+    "object": "respiratory problems"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurological deterioration"
+  },
+  {
+    "subject": "thalassaemia",
+    "relation": "treated_by",
+    "object": "carrier screening"
+  },
+  {
+    "subject": "sickle cell disease",
+    "relation": "treated_by",
+    "object": "carrier screening"
+  },
+  {
+    "subject": "cystic fibrosis",
+    "relation": "treated_by",
+    "object": "carrier screening"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "carrier screening"
+  },
+  {
+    "subject": "thalassaemia",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "sickle cell disease",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "cystic fibrosis",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "thalassaemia",
+    "relation": "associated_with",
+    "object": "autosomal recessive condition"
+  },
+  {
+    "subject": "sickle cell disease",
+    "relation": "associated_with",
+    "object": "autosomal recessive condition"
+  },
+  {
+    "subject": "cystic fibrosis",
+    "relation": "associated_with",
+    "object": "autosomal recessive condition"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "autosomal recessive condition"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "neurological manifestations"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "absence or deficiency of B-hexosaminidase"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "mortality"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "impaired quality of life"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "rehabilitation"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "symptom control"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "Golgi dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "Lysosomal dysfunction"
+  },
+  {
+    "subject": "Neurodegenerative disorders",
+    "relation": "associated_with",
+    "object": "Golgi dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Lysosomal enzyme secretion"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_symptom",
+    "object": "skin lesions"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_symptom",
+    "object": "joint contractures"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_symptom",
+    "object": "digestive issues"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_symptom",
+    "object": "hyperpigmentation of the proximal interphalangeal (PIP) joints"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_symptom",
+    "object": "knee flexion contractures"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_symptom",
+    "object": "persistent diarrhea"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the ANTXR2 gene"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "associated_with",
+    "object": "arthrogryposis"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "treated_by",
+    "object": "immunosuppressive therapy"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "treated_by",
+    "object": "orthopedic interventions"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_cause",
+    "object": "homozygous mutation in ANTXR2 gene"
+  },
+  {
+    "subject": "Hyaline fibromatosis syndrome",
+    "relation": "has_cause",
+    "object": "c.697+1G>A mutation at a splice site within the ANTXR2 gene"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "progressive weakness"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "developmental regression"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "severe neurologic impairment"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "abnormal gait"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "dysarthria"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "cognitive decline"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "weakness"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "deficits in cerebellar function"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "deficits in executive function"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "memory deficits"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_cause",
+    "object": "biallelic pathogenic variants in HEXB"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "Tay-Sachs disease"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "supportive care"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "seizure medication"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "aids for activities of daily living and communication"
+  },
+  {
+    "subject": "acute infantile Sandhoff disease",
+    "relation": "treated_by",
+    "object": "adequate nutrition and hydration"
+  },
+  {
+    "subject": "acute infantile Sandhoff disease",
+    "relation": "treated_by",
+    "object": "managing infectious disease"
+  },
+  {
+    "subject": "acute infantile Sandhoff disease",
+    "relation": "treated_by",
+    "object": "protecting the airway"
+  },
+  {
+    "subject": "subacute juvenile Sandhoff disease",
+    "relation": "treated_by",
+    "object": "maximizing motor function and speech and language"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_symptom",
+    "object": "progressive neurodegenerative presentations"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "pharmaceutical chaperone therapy"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "substrate reduction therapy"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell replacement therapy"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "autosomal recessive inheritance"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "GM2 accumulation"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_cause",
+    "object": "Impaired hydrolysis catalysed by β-hexosaminidase A (HexA)"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_cause",
+    "object": "accumulation of GM2 ganglioside in neuronal lysosomes"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "impaired autophagy"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "increased lysosomal permeability"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "diminished mTOR signalling"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "treated_by",
+    "object": "L-arginine supplementation"
+  },
+  {
+    "subject": "Sphingolipidosis",
+    "relation": "has_cause",
+    "object": "mutations in the coding genes of specific enzymes of sphingolipid hydrolases"
+  },
+  {
+    "subject": "Metachromatic Leukodystrophy (MLD)",
+    "relation": "associated_with",
+    "object": "ARSA gene variations"
+  },
+  {
+    "subject": "Sandhoff disease (SD)",
+    "relation": "associated_with",
+    "object": "HEXB gene variations"
+  },
+  {
+    "subject": "Tay-Sachs disease (TSD)",
+    "relation": "associated_with",
+    "object": "HEXB gene variations"
+  },
+  {
+    "subject": "Niemann-Pick disease A/B (NPDA/B)",
+    "relation": "associated_with",
+    "object": "SMPD1 gene variations"
+  },
+  {
+    "subject": "Lysosomal storage diseases (LSDs)",
+    "relation": "has_subtype",
+    "object": "Sphingolipidosis"
+  },
+  {
+    "subject": "Sphingolipidosis",
+    "relation": "has_subtype",
+    "object": "Metachromatic Leukodystrophy (MLD)"
+  },
+  {
+    "subject": "Sphingolipidosis",
+    "relation": "has_subtype",
+    "object": "Sandhoff disease (SD)"
+  },
+  {
+    "subject": "Sphingolipidosis",
+    "relation": "has_subtype",
+    "object": "Tay-Sachs disease (TSD)"
+  },
+  {
+    "subject": "Sphingolipidosis",
+    "relation": "has_subtype",
+    "object": "Niemann-Pick disease A/B (NPDA/B)"
+  },
+  {
+    "subject": "Lysosomal storage diseases (LSDs)",
+    "relation": "has_symptom",
+    "object": "not mentioned in the abstract"
+  },
+  {
+    "subject": "Sphingolipidosis",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Sphingolipidosis",
+    "relation": "treated_by",
+    "object": "detection of genetic carriers"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "neurological impairment"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "neuroinflammatory phenotype"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_symptom",
+    "object": "neurodegenerative phenotype"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "neurological impairment"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "lentiviral vector-mediated intracerebral gene therapy"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "bone marrow transplantation"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "treated_by",
+    "object": "combined lentiviral vector-mediated intracerebral gene therapy and bone marrow transplantation"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "has_cause",
+    "object": "mutations in the HEXB gene"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "mutations in the HEXA gene"
+  },
+  {
+    "subject": "GM2 gangliosidosis",
+    "relation": "associated_with",
+    "object": "accumulation of ganglioside in the brain"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "GM2 storage in the brain tissues"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "has_cause",
+    "object": "mutations in the GLB1 gene"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "associated_with",
+    "object": "neuroinflammation"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "associated_with",
+    "object": "glial responses"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "treated_by",
+    "object": "potential therapeutic approach for reducing toxic GM1 ganglioside accumulation"
+  },
+  {
+    "subject": "Genetic Disorders",
+    "relation": "has_symptom",
+    "object": "Failed Reproductive Outcomes"
+  },
+  {
+    "subject": "Genetic Disorders",
+    "relation": "has_cause",
+    "object": "Genetic Variants"
+  },
+  {
+    "subject": "Genetic Disorders",
+    "relation": "has_cause",
+    "object": "Consanguinity"
+  },
+  {
+    "subject": "Genetic Disorders",
+    "relation": "associated_with",
+    "object": "Consanguinity"
+  },
+  {
+    "subject": "Couples with Genetic Disorders",
+    "relation": "treated_by",
+    "object": "Preconception Expanded Carrier Screening (ECS)"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "neuromuscular symptoms"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_symptom",
+    "object": "muscular dystrophy"
+  },
+  {
+    "subject": "Trinucleotide repeat expansion disorders",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Spinal muscular atrophy",
+    "relation": "has_symptom",
+    "object": "muscular atrophy"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "has_symptom",
+    "object": "anemia"
+  },
+  {
+    "subject": "Cystic fibrosis",
+    "relation": "has_symptom",
+    "object": "respiratory symptoms"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "founder variants"
+  },
+  {
+    "subject": "Mucopolysaccharidosis IVA",
+    "relation": "has_cause",
+    "object": "founder variants"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "GBA:c.1448T>C variant"
+  },
+  {
+    "subject": "β-thalassemia",
+    "relation": "has_cause",
+    "object": "HBB:c.92.+5G>C variant"
+  },
+  {
+    "subject": "Non-syndromic hearing loss",
+    "relation": "has_cause",
+    "object": "GJB2:c.71G>A variant"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "has_cause",
+    "object": "TYR:c.832 C>T variant"
+  },
+  {
+    "subject": "Congenital adrenal hyperplasia",
+    "relation": "has_cause",
+    "object": "CYP21A2:c.29-13 C>G variant"
+  },
+  {
+    "subject": "Progressive pseudo rheumatoid dysplasia",
+    "relation": "has_cause",
+    "object": "CCN6:c.298T>A variant"
+  },
+  {
+    "subject": "Rare genetic diseases",
+    "relation": "associated_with",
+    "object": "multiple systems affected"
+  },
+  {
+    "subject": "Rare genetic diseases",
+    "relation": "treated_by",
+    "object": "target specific panel for affordable diagnosis"
+  },
+  {
+    "subject": "Rare genetic diseases",
+    "relation": "treated_by",
+    "object": "novel treatment strategies"
+  },
+  {
+    "subject": "cardiovascular disorders",
+    "relation": "has_model",
+    "object": "genome-edited rabbit models"
+  },
+  {
+    "subject": "immunodeficiencies",
+    "relation": "has_model",
+    "object": "genome-edited rabbit models"
+  },
+  {
+    "subject": "aging-related ailments",
+    "relation": "has_model",
+    "object": "genome-edited rabbit models"
+  },
+  {
+    "subject": "neurological diseases",
+    "relation": "has_model",
+    "object": "genome-edited rabbit models"
+  },
+  {
+    "subject": "ophthalmic pathologies",
+    "relation": "has_model",
+    "object": "genome-edited rabbit models"
+  }
+]

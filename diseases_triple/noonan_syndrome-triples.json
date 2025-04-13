@@ -1,0 +1,4767 @@
+[
+  {
+    "subject": "Sensorineural hearing loss",
+    "relation": "has_symptom",
+    "object": "Severe-to-profound hearing loss"
+  },
+  {
+    "subject": "Sensorineural hearing loss",
+    "relation": "has_symptom",
+    "object": "Congenital hearing loss"
+  },
+  {
+    "subject": "Noonan syndrome and related RASopathies",
+    "relation": "has_symptom",
+    "object": "Conductive hearing loss"
+  },
+  {
+    "subject": "Noonan syndrome and related RASopathies",
+    "relation": "has_symptom",
+    "object": "Sensorineural hearing loss"
+  },
+  {
+    "subject": "Sensorineural hearing loss",
+    "relation": "treated_by",
+    "object": "Cochlear implantation"
+  },
+  {
+    "subject": "Sensorineural hearing loss",
+    "relation": "has_cause",
+    "object": "PTPN11 variants"
+  },
+  {
+    "subject": "Sensorineural hearing loss",
+    "relation": "has_cause",
+    "object": "RAF1 variants"
+  },
+  {
+    "subject": "Sensorineural hearing loss",
+    "relation": "associated_with",
+    "object": "Noonan syndrome and related RASopathies"
+  },
+  {
+    "subject": "Noonan syndrome and related RASopathies",
+    "relation": "associated_with",
+    "object": "RAS/ERK cascade"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "congenital heart defects"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "abnormalities of the vascular system"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "lymphovascular system abnormalities"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "neuropsychological deficits"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "syndromic phenotype"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "treated_by",
+    "object": "personalized targeted therapies"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_cause",
+    "object": "genetic variant"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "congenital heart defects (CHDs)"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "hypertrophic cardiomyopathy (HCM)"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "severe outflow tract obstruction"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "intractable arrhythmias"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent syncope"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "feeding difficulties"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "RAF1 mutations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "PTPN11 mutations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "cardiac manifestations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "heart transplantation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_complication",
+    "object": "recurrent viral infections"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_complication",
+    "object": "pleural effusions"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_complication",
+    "object": "pericardial effusions"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_complication",
+    "object": "lymphangiectasias"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_complication",
+    "object": "posterior reversible encephalopathy syndrome"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_complication",
+    "object": "aspergillus pneumonia"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "abnormal Ras/mitogen-activated protein kinase (RAS/MAPK) pathway signalling"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "advanced paternal age"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "multiple benign granular cell tumours"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "genetic investigations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "dyspnea"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "pulmonary valve stenosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "secundum atrial septal defect"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "mitral valve abnormalities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "bleeding disorders"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "structural thoracic anomalies"
+  },
+  {
+    "subject": "Mitral regurgitation",
+    "relation": "treated_by",
+    "object": "totally endoscopic mitral valve repair"
+  },
+  {
+    "subject": "Mitral regurgitation",
+    "relation": "has_symptom",
+    "object": "dyspnea"
+  },
+  {
+    "subject": "Mitral regurgitation",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Coronary ectasia",
+    "relation": "has_cause",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Coronary ectasia",
+    "relation": "associated_with",
+    "object": "Tetralogy of Fallot"
+  },
+  {
+    "subject": "Coronary ectasia",
+    "relation": "has_symptom",
+    "object": "Severe ectasia of bilateral coronary arteries"
+  },
+  {
+    "subject": "Coronary ectasia",
+    "relation": "treated_by",
+    "object": "Transcatheter pulmonary valve placement"
+  },
+  {
+    "subject": "Noonan syndrome-like RASopathy",
+    "relation": "has_symptom",
+    "object": "feeding problems"
+  },
+  {
+    "subject": "Noonan syndrome-like RASopathy",
+    "relation": "has_symptom",
+    "object": "gastrointestinal problems"
+  },
+  {
+    "subject": "Noonan syndrome-like RASopathy",
+    "relation": "associated_with",
+    "object": "avoidant/restrictive food intake disorder"
+  },
+  {
+    "subject": "avoidant/restrictive food intake disorder",
+    "relation": "treated_by",
+    "object": "behavioral therapy"
+  },
+  {
+    "subject": "avoidant/restrictive food intake disorder",
+    "relation": "treated_by",
+    "object": "cognitive behavioral therapy"
+  },
+  {
+    "subject": "avoidant/restrictive food intake disorder",
+    "relation": "treated_by",
+    "object": "SLIK program"
+  },
+  {
+    "subject": "feeding problems",
+    "relation": "has_cause",
+    "object": "comorbid organic impairments"
+  },
+  {
+    "subject": "feeding problems",
+    "relation": "has_cause",
+    "object": "gastrointestinal problems"
+  },
+  {
+    "subject": "Noonan syndrome-like RASopathy",
+    "relation": "has_symptom",
+    "object": "tube feeding"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "has_symptom",
+    "object": "sparse hair"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "has_symptom",
+    "object": "easily shed hair"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "has_symptom",
+    "object": "enlarged head circumference"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "has_symptom",
+    "object": "intellectual and motor developmental delay"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "has_symptom",
+    "object": "structural cardiac abnormalities"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "treated_by",
+    "object": "growth hormone therapy"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "has_cause",
+    "object": "heterozygous missense mutations in SHOC2 gene"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "has_cause",
+    "object": "heterozygous missense mutation in PPP1CB gene"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "associated_with",
+    "object": "growth hormone deficiency"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "associated_with",
+    "object": "autoimmune diseases"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "associated_with",
+    "object": "systemic lupus erythematosus"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "associated_with",
+    "object": "arthritis"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "associated_with",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "associated_with",
+    "object": "atrial septal defect"
+  },
+  {
+    "subject": "Noonan-syndrome associated with loose anagen hair",
+    "relation": "associated_with",
+    "object": "patent foramen ovale"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "abnormalities of the facial"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "abnormalities of the musculoskeletal"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "abnormalities of the cardiovascular systems"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "effort intolerance"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cyanosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "patent foramen ovale"
+  },
+  {
+    "subject": "cyanosis",
+    "relation": "has_cause",
+    "object": "patent foramen ovale with right to left shunting"
+  },
+  {
+    "subject": "pulmonary stenosis",
+    "relation": "treated_by",
+    "object": "agitated saline contrast study"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "attention-deficit/hyperactivity disorder symptoms"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "depression"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "neuroanatomical variability"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "Ras/mitogen-activated protein kinase (MAPK) pathway disruption"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "neuropsychiatric disorders"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "neurogenetic syndromes"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "precision medicine approach"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "G361A variant of CRAF"
+  },
+  {
+    "subject": "G361A variant of CRAF",
+    "relation": "associated_with",
+    "object": "increased intrinsic kinase activity"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "increased intrinsic kinase activity"
+  },
+  {
+    "subject": "G361A variant of CRAF",
+    "relation": "treated_by",
+    "object": "specific inhibitors"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Cancer"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Myeloproliferative diseases"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Intracranial tumours"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Juvenile myelomonocytic leukemia"
+  },
+  {
+    "subject": "Juvenile myelomonocytic leukemia",
+    "relation": "has_cause",
+    "object": "PTPN11 variants"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "Growth hormone therapy"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_treatment_consideration",
+    "object": "Genetic analysis"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "growth hormone insensitivity"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_cause",
+    "object": "LZTR1 gene variants"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "impaired p53 activity"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "increased autophagy"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "treated_by",
+    "object": "targeting NOC2L"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "feeding difficulties"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "affected organ systems"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "multidisciplinary care coordination"
+  },
+  {
+    "subject": "Noonan Syndrome with Loose anagen Hair",
+    "relation": "has_symptom",
+    "object": "lymphatic abnormalities"
+  },
+  {
+    "subject": "Noonan Syndrome with Loose anagen Hair",
+    "relation": "has_cause",
+    "object": "Hereditary Shoc2 mutations"
+  },
+  {
+    "subject": "Noonan Syndrome with Loose anagen Hair",
+    "relation": "associated_with",
+    "object": "Ras-pathway-related congenital disorders"
+  },
+  {
+    "subject": "lymphatic abnormalities",
+    "relation": "treated_by",
+    "object": "endothelial autonomous expression of Shoc2"
+  },
+  {
+    "subject": "Shoc2 deficiency",
+    "relation": "has_symptom",
+    "object": "loss of lymphatic vasculature"
+  },
+  {
+    "subject": "Shoc2 deficiency",
+    "relation": "has_symptom",
+    "object": "impaired mitochondrial respiration"
+  },
+  {
+    "subject": "Shoc2 deficiency",
+    "relation": "has_symptom",
+    "object": "IRF/IFN-induced signaling"
+  },
+  {
+    "subject": "Shoc2 deficiency",
+    "relation": "has_symptom",
+    "object": "cell senescence"
+  },
+  {
+    "subject": "Shoc2 loss",
+    "relation": "associated_with",
+    "object": "increased mTORC1 signaling activity"
+  },
+  {
+    "subject": "Shoc2 loss",
+    "relation": "treated_by",
+    "object": "expression of Shoc2"
+  },
+  {
+    "subject": "Hypoparathyroidism",
+    "relation": "has_symptom",
+    "object": "low calcium levels"
+  },
+  {
+    "subject": "Hypoparathyroidism",
+    "relation": "has_symptom",
+    "object": "high phosphate levels"
+  },
+  {
+    "subject": "Hypoparathyroidism",
+    "relation": "has_symptom",
+    "object": "Hypocalcemia"
+  },
+  {
+    "subject": "Hypoparathyroidism",
+    "relation": "has_cause",
+    "object": "neck surgery"
+  },
+  {
+    "subject": "Non-surgical hypoparathyroidism",
+    "relation": "has_cause",
+    "object": "genetic causes"
+  },
+  {
+    "subject": "Non-surgical hypoparathyroidism",
+    "relation": "has_cause",
+    "object": "loss of the q11 region (22q11) on chromosome 22"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "associated_with",
+    "object": "Cardiac defects"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "associated_with",
+    "object": "Abnormal facies facial dysmorphia"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "associated_with",
+    "object": "Thymic hypoplasia"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "associated_with",
+    "object": "Cleft palate"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "associated_with",
+    "object": "Hypocalcemia"
+  },
+  {
+    "subject": "Hypocalcemia",
+    "relation": "treated_by",
+    "object": "calcitriol"
+  },
+  {
+    "subject": "Non-surgical hypoparathyroidism",
+    "relation": "associated_with",
+    "object": "DiGeorge syndrome"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "associated_with",
+    "object": "Graves’ disease"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "Hospitalization"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "High mortality"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "Morbidity"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "treated_by",
+    "object": "Surgical procedures"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "treated_by",
+    "object": "Antibiotic prescriptions"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_cause",
+    "object": "Congenital anomaly"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "High healthcare burden"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "heart failure"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "cardiac complications"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "pulmonary valve stenosis"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "atrial septal defects"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "cardio-facio-cutaneous syndrome"
+  },
+  {
+    "subject": "RAS gene mutations",
+    "relation": "has_cause",
+    "object": "RASopathies"
+  },
+  {
+    "subject": "RAS-related cardiac conditions",
+    "relation": "treated_by",
+    "object": "MEK inhibitors"
+  },
+  {
+    "subject": "RAS-related cardiac conditions",
+    "relation": "treated_by",
+    "object": "targeted therapies"
+  },
+  {
+    "subject": "cardiovascular diseases",
+    "relation": "has_cause",
+    "object": "RAS gene mutations"
+  },
+  {
+    "subject": "congenital heart disease",
+    "relation": "associated_with",
+    "object": "RAS gene mutations"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "has_symptom",
+    "object": "Height less than 2 standard deviation score"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "has_symptom",
+    "object": "Height less than the third percentile"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "treated_by",
+    "object": "Pegylated recombinant human growth hormone"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "treated_by",
+    "object": "Recombinant human growth hormone"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "has_cause",
+    "object": "Growth hormone disorder"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "has_cause",
+    "object": "Idiopathic short stature"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "has_cause",
+    "object": "Small for gestational age"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "has_cause",
+    "object": "Turner syndrome"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "has_cause",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "has_cause",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "has_cause",
+    "object": "SHOX deficiency"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "associated_with",
+    "object": "Growth hormone disorder"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "associated_with",
+    "object": "Idiopathic short stature"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "associated_with",
+    "object": "Small for gestational age"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "associated_with",
+    "object": "Turner syndrome"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "associated_with",
+    "object": "SHOX deficiency"
+  },
+  {
+    "subject": "Dandy-Walker malformation",
+    "relation": "has_symptom",
+    "object": "extended anterior membranous area"
+  },
+  {
+    "subject": "Dandy-Walker malformation",
+    "relation": "has_symptom",
+    "object": "dysplastic vermis"
+  },
+  {
+    "subject": "Walker-Warburg syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal brainstem morphology"
+  },
+  {
+    "subject": "Blake pouch cyst",
+    "relation": "has_symptom",
+    "object": "visible vermis"
+  },
+  {
+    "subject": "Blake pouch cyst",
+    "relation": "has_symptom",
+    "object": "choroid plexus of the fourth ventricle located backward"
+  },
+  {
+    "subject": "Posterior fossa anomalies",
+    "relation": "diagnosed_by",
+    "object": "second-trimester ultrasonography"
+  },
+  {
+    "subject": "Posterior fossa anomalies",
+    "relation": "diagnosed_by",
+    "object": "fetal magnetic resonance imaging"
+  },
+  {
+    "subject": "Posterior fossa anomalies",
+    "relation": "diagnosed_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Dandy-Walker malformation",
+    "relation": "associated_with",
+    "object": "posterior fossa cystic malformations"
+  },
+  {
+    "subject": "Blake pouch cyst",
+    "relation": "associated_with",
+    "object": "posterior fossa cystic malformations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "posterior fossa cystic malformations"
+  },
+  {
+    "subject": "Trisomy 21",
+    "relation": "associated_with",
+    "object": "posterior fossa cystic malformations"
+  },
+  {
+    "subject": "Trisomy 18",
+    "relation": "associated_with",
+    "object": "posterior fossa cystic malformations"
+  },
+  {
+    "subject": "Walker-Warburg syndrome",
+    "relation": "associated_with",
+    "object": "abnormal posterior brain"
+  },
+  {
+    "subject": "Posterior fossa anomalies",
+    "relation": "detected_by",
+    "object": "sonography"
+  },
+  {
+    "subject": "Hypoparathyroidism",
+    "relation": "has_symptom",
+    "object": "Low calcium levels"
+  },
+  {
+    "subject": "Hypoparathyroidism",
+    "relation": "has_symptom",
+    "object": "High phosphate levels"
+  },
+  {
+    "subject": "Hypoparathyroidism",
+    "relation": "has_symptom",
+    "object": "Hypocalciemia"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "has_symptom",
+    "object": "Cardiac defects"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "has_symptom",
+    "object": "Abnormal facies facial dysmorphia"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "has_symptom",
+    "object": "Thymic hypoplasia"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "has_symptom",
+    "object": "Cleft palate"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "has_symptom",
+    "object": "Hypocalciemia"
+  },
+  {
+    "subject": "Hypoparathyroidism",
+    "relation": "has_cause",
+    "object": "Neck surgery"
+  },
+  {
+    "subject": "Non-surgical hypoparathyroidism",
+    "relation": "has_cause",
+    "object": "Genetic causes"
+  },
+  {
+    "subject": "Non-surgical hypoparathyroidism",
+    "relation": "has_cause",
+    "object": "Loss of the q11 region on chromosome 22"
+  },
+  {
+    "subject": "DiGeorge syndrome",
+    "relation": "associated_with",
+    "object": "Graves’ disease"
+  },
+  {
+    "subject": "Hypocalciemia",
+    "relation": "treated_by",
+    "object": "Calcitriol"
+  },
+  {
+    "subject": "Non-surgical hypoparathyroidism",
+    "relation": "associated_with",
+    "object": "DiGeorge syndrome"
+  },
+  {
+    "subject": "Neurofibromatosis Type 1",
+    "relation": "has_symptom",
+    "object": "café-au-lait spots"
+  },
+  {
+    "subject": "Neurofibromatosis Type 1",
+    "relation": "has_symptom",
+    "object": "intellectual disabilities"
+  },
+  {
+    "subject": "Neurofibromatosis Type 1",
+    "relation": "has_symptom",
+    "object": "growth hormone deficiency"
+  },
+  {
+    "subject": "Tuberous Sclerosis Complex",
+    "relation": "has_symptom",
+    "object": "facial angiofibromas"
+  },
+  {
+    "subject": "Tuberous Sclerosis Complex",
+    "relation": "has_symptom",
+    "object": "intellectual disabilities"
+  },
+  {
+    "subject": "Ataxia-telangiectasia",
+    "relation": "has_symptom",
+    "object": "cerebellar ataxia"
+  },
+  {
+    "subject": "Beckwith-Wiedemann syndrome",
+    "relation": "has_symptom",
+    "object": "overgrowth"
+  },
+  {
+    "subject": "Neurofibromatosis Type 2",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "PTEN hamartoma tumor syndrome",
+    "relation": "has_symptom",
+    "object": "thyroid nodules"
+  },
+  {
+    "subject": "DICER1 syndrome",
+    "relation": "has_symptom",
+    "object": "thyroid nodules"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "treated_by",
+    "object": "surveillance programs"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "treated_by",
+    "object": "preventive measures"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "has_cause",
+    "object": "genetic disorders"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "malignancies"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "non-malignant dermatological features"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "neurological and developmental anomalies"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "growth and metabolic anomalies"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "facial anomalies"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "ocular manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "hearing issues"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "thyroid anomalies"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "cardiovascular manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "abdominal manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "musculoskeletal manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "pulmonary manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "genitourinary manifestations"
+  },
+  {
+    "subject": "Cancer predisposition syndromes",
+    "relation": "associated_with",
+    "object": "prenatal deviations"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_symptom",
+    "object": "multiple lentigines"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_symptom",
+    "object": "hypertelorism"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_symptom",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_symptom",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_symptom",
+    "object": "atrial septal defect"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_symptom",
+    "object": "left-sided heart lesions"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_symptom",
+    "object": "bilateral atrial and ventricular chamber enlargement"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_symptom",
+    "object": "atrial fibrillation"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "has_cause",
+    "object": "variants in the PTPN11 gene"
+  },
+  {
+    "subject": "Noonan syndrome with multiple lentigines",
+    "relation": "associated_with",
+    "object": "cardiac manifestations"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "overlapping clinical features"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "lymphangioma circumscriptum"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Meckel's diverticulum"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "omphalocele"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "corpus callosum thickness"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_cause",
+    "object": "germline variant in the genes encoding the Ras/mitogen-activated protein kinase pathway"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "treated_by",
+    "object": "targeted next-generation sequencing (NGS) panel"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "PTPN11 gene variations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "LZTR1 gene variations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "SOS1 gene variations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "RAF1 gene variations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "RIT1 gene variations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "KRAS gene variations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "RRAS gene variations"
+  },
+  {
+    "subject": "Costello syndrome",
+    "relation": "associated_with",
+    "object": "germline variants in genes involved in the Ras/mitogen-activated protein kinase pathway"
+  },
+  {
+    "subject": "Cardiofaciocutaneous syndrome",
+    "relation": "associated_with",
+    "object": "germline variants in genes involved in the Ras/mitogen-activated protein kinase pathway"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "associated_with",
+    "object": "germline variants in genes involved in the Ras/mitogen-activated protein kinase pathway"
+  },
+  {
+    "subject": "Legius syndrome",
+    "relation": "associated_with",
+    "object": "germline variants in genes involved in the Ras/mitogen-activated protein kinase pathway"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "mild ptosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "hypertelorism"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "down-slanting palpebral fissures"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "low-set angulated ears"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "giant cell tumors in the craniofacial skeleton"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "bilateral, symmetric, dystrophic auricular calcifications"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "germline son of sevenless homolog 1 mutations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "inversion of chromosome 2 (p11.2q13)"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "craniofacial abnormalities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "auricular calcifications"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cardiac manifestations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "extra-cardiac manifestations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "atrial arrhythmias"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "ventricular arrhythmias"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "ventricular fibrillation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "sudden cardiac arrest"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "SOS1 variant"
+  },
+  {
+    "subject": "ventricular arrhythmias",
+    "relation": "has_cause",
+    "object": "structural cardiac abnormalities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "SOS1 variant"
+  },
+  {
+    "subject": "ventricular fibrillation",
+    "relation": "associated_with",
+    "object": "SOS1-related NS"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "dysmorphic facies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "webbed neck"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "lymphatic obstruction"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cardiac anomalies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "increased nuchal translucency"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "fluid collection"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "lymphatic drainage disorders"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cardiac abnormalities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "polyhydramnios"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "absent ductus venosus"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "gene defect on chromosome 12"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "prenatal molecular genetic diagnosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "autosomal dominant congenital abnormality"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "Distinct facial features"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "Pulmonary stenosis"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_symptom",
+    "object": "Delayed growth"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Distinct facial features"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Pulmonary stenosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Delayed growth"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "has_symptom",
+    "object": "Distinct facial features"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "has_symptom",
+    "object": "Pulmonary stenosis"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "has_symptom",
+    "object": "Delayed growth"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "associated_with",
+    "object": "Pulmonary stenosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Pulmonary stenosis"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "associated_with",
+    "object": "Pulmonary stenosis"
+  },
+  {
+    "subject": "Genetic syndromes",
+    "relation": "diagnosed_by",
+    "object": "Facial recognition-based model"
+  },
+  {
+    "subject": "Williams-Beuren syndrome",
+    "relation": "has_cause",
+    "object": "Genetic"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "Genetic"
+  },
+  {
+    "subject": "Alagille syndrome",
+    "relation": "has_cause",
+    "object": "Genetic"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "has_symptom",
+    "object": "distinctive craniofacial features"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "has_symptom",
+    "object": "craniosynostosis"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "has_symptom",
+    "object": "microcephaly"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "has_symptom",
+    "object": "aortic dilation"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "has_symptom",
+    "object": "multivalvular heart disease"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "has_symptom",
+    "object": "abnormalities of the posterior fossa"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "has_symptom",
+    "object": "uterine congenital anomalies"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "has_symptom",
+    "object": "multiple giant cell granulomas"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "has_cause",
+    "object": "dysregulation of the Ras/mitogen-activated protein kinase (RAS/MAPK) pathway"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "associated_with",
+    "object": "PTPN11 gene mutation"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "associated_with",
+    "object": "SOS1 gene mutation"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "associated_with",
+    "object": "RAF1 gene mutation"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "associated_with",
+    "object": "LZTR1 gene mutation"
+  },
+  {
+    "subject": "RASopathy",
+    "relation": "associated_with",
+    "object": "RIT1 gene mutation"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "RASopathy"
+  },
+  {
+    "subject": "SOS1 variants",
+    "relation": "associated_with",
+    "object": "multiple giant cell granulomas"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "macrodontia"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "triangular face"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "micrognathia"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "hypertelorism"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "bushy eyebrows"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "prominent ears"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "low hairline"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "delayed cognitive development"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_cause",
+    "object": "frameshift mutation in ANKRD11"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "has_cause",
+    "object": "NM_013275.6:c.2589dup variant in ANKRD11"
+  },
+  {
+    "subject": "KBG syndrome",
+    "relation": "associated_with",
+    "object": "neurological manifestations"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "distinctive facial dysmorphia"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "cardiac defects"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_cause",
+    "object": "mutations in genes that reside along the canonical Ras/MAPK signaling pathway"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "RAF1-associated HCM",
+    "relation": "treated_by",
+    "object": "rigosertib"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "craniofacial abnormalities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "bone growth abnormalities"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "treated_by",
+    "object": "rigosertib"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_cause",
+    "object": "mutations in genes that reside along the canonical Ras-mitogen-activated protein kinase signaling cascade"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "congenital heart defects"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "cardiac diseases"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "infantile hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "treated_by",
+    "object": "symptom treatment"
+  },
+  {
+    "subject": "congenital heart defects",
+    "relation": "associated_with",
+    "object": "RASopathies"
+  },
+  {
+    "subject": "cardiac diseases",
+    "relation": "associated_with",
+    "object": "RASopathies"
+  },
+  {
+    "subject": "infantile hypertrophic cardiomyopathy",
+    "relation": "associated_with",
+    "object": "RASopathies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cardiovascular anomalies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "lymphatic anomalies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "chylothorax"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "hypoxic respiratory failure"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "congenital pulmonary lymphangiectasis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "trametinib"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "dominant gain-of-function variants in PTPN11, KRAS, SOS1, and RAF1 genes"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "overactivation of the RAS/MAPK signaling pathway"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "RASopathies"
+  },
+  {
+    "subject": "Trametinib",
+    "relation": "treated_for",
+    "object": "severe respiratory manifestations"
+  },
+  {
+    "subject": "Trametinib",
+    "relation": "treated_for",
+    "object": "cardiac manifestations"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_cause",
+    "object": "Ras pathway dysregulation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "Ras pathway dysregulation"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "associated_with",
+    "object": "Autism spectrum disorder"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Autism spectrum disorder"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "associated_with",
+    "object": "Social communication deficits"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Social communication deficits"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_symptom",
+    "object": "Inhibitory/excitatory imbalance"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Inhibitory/excitatory imbalance"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_symptom",
+    "object": "Changes in GABAergic transmission"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Changes in GABAergic transmission"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_symptom",
+    "object": "Changes in glutamatergic transmission"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Changes in glutamatergic transmission"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_symptom",
+    "object": "Changes in serotonergic transmission"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Changes in serotonergic transmission"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_symptom",
+    "object": "Corticostriatal connectivity issues"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Corticostriatal connectivity issues"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_symptom",
+    "object": "White matter connectivity issues"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "White matter connectivity issues"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_symptom",
+    "object": "Default mode network issues"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Default mode network issues"
+  },
+  {
+    "subject": "Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "relation": "has_symptom",
+    "object": "Heart Failure"
+  },
+  {
+    "subject": "Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "relation": "has_symptom",
+    "object": "Malignant Ventricular Arrhythmia"
+  },
+  {
+    "subject": "Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "relation": "has_symptom",
+    "object": "Left Ventricular Outflow Tract Obstruction (LVOTO)"
+  },
+  {
+    "subject": "Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "relation": "has_symptom",
+    "object": "Systolic Anterior Motion"
+  },
+  {
+    "subject": "Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "relation": "has_cause",
+    "object": "Genetic Mutation"
+  },
+  {
+    "subject": "Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "relation": "associated_with",
+    "object": "Noonan Syndrome"
+  },
+  {
+    "subject": "Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "relation": "treated_by",
+    "object": "Modified Morrow Surgery"
+  },
+  {
+    "subject": "Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+    "relation": "has_symptom",
+    "object": "Mid-Ventricular Obstruction"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "difficult child behavior"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "parental stress"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "dysfunctional parental-child interaction"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "parental distress"
+  },
+  {
+    "subject": "parental stress",
+    "relation": "treated_by",
+    "object": "early assessment and timely treatment"
+  },
+  {
+    "subject": "parental stress",
+    "relation": "treated_by",
+    "object": "evaluation by professionals"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "RASopathies"
+  },
+  {
+    "subject": "parental burnout",
+    "relation": "has_cause",
+    "object": "stress escalation"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "has_symptom",
+    "object": "Poor Adherence"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "has_symptom",
+    "object": "Injection Pain"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "has_symptom",
+    "object": "Difficulties with Storage and Travel"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "has_symptom",
+    "object": "Lipoatrophy at Injection Site"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "treated_by",
+    "object": "Long-acting Growth Hormones"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "treated_by",
+    "object": "Daily Recombinant Human Growth Hormone Therapy"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "associated_with",
+    "object": "Needle Phobia"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "associated_with",
+    "object": "Behavioral Disorders"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "associated_with",
+    "object": "Multi-drug Therapy"
+  },
+  {
+    "subject": "Long-acting Growth Hormones",
+    "relation": "has_cause",
+    "object": "Antibody Formation"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "associated_with",
+    "object": "Turner Syndrome"
+  },
+  {
+    "subject": "Pediatric Growth Hormone Deficiency",
+    "relation": "associated_with",
+    "object": "Noonan Syndrome"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "mild intellectual disability"
+  },
+  {
+    "subject": "Leopard syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Leopard syndrome",
+    "relation": "has_symptom",
+    "object": "mild intellectual disability"
+  },
+  {
+    "subject": "Chiari I malformation",
+    "relation": "has_symptom",
+    "object": "progressive abnormal gait"
+  },
+  {
+    "subject": "Chiari I malformation",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Chiari I malformation",
+    "relation": "has_symptom",
+    "object": "decreased muscle strength"
+  },
+  {
+    "subject": "Chiari I malformation",
+    "relation": "has_symptom",
+    "object": "foot drop"
+  },
+  {
+    "subject": "Syringomyelia",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Syringomyelia",
+    "relation": "has_symptom",
+    "object": "progressive abnormal gait"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Chiari I malformation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Syringomyelia"
+  },
+  {
+    "subject": "Leopard syndrome",
+    "relation": "associated_with",
+    "object": "Chiari I malformation"
+  },
+  {
+    "subject": "Leopard syndrome",
+    "relation": "associated_with",
+    "object": "Syringomyelia"
+  },
+  {
+    "subject": "Chiari I malformation",
+    "relation": "treated_by",
+    "object": "spinal cavity subarachnoid shunt"
+  },
+  {
+    "subject": "Syringomyelia",
+    "relation": "treated_by",
+    "object": "spinal cavity subarachnoid shunt"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "PTPN11 gene variant"
+  },
+  {
+    "subject": "Leopard syndrome",
+    "relation": "has_cause",
+    "object": "PTPN11 gene variant"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Ostium secundum defect"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "multisystemic clinical phenotypes"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "genetic cancer predisposition syndromes"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_cause",
+    "object": "dysregulation of the RAS-MAPK pathway"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "has_symptom",
+    "object": "benign and malignant neoplasms"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "treated_by",
+    "object": "targeted therapies"
+  },
+  {
+    "subject": "Neurofibromatosis type 1 (NF1)",
+    "relation": "associated_with",
+    "object": "RASopathies"
+  },
+  {
+    "subject": "Neurofibromatosis type 1 (NF1)",
+    "relation": "has_cause",
+    "object": "dysregulation of the RAS-MAPK pathway"
+  },
+  {
+    "subject": "Neurofibromatosis type 1 (NF1)",
+    "relation": "treated_by",
+    "object": "multidisciplinary care"
+  },
+  {
+    "subject": "low-grade and benign neoplastic lesions",
+    "relation": "treated_by",
+    "object": "targeted therapies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "characteristic facial features"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "congenital cardiac defects"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "lymphatic abnormalities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cerebrovascular anomalies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "renal malformations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "hematological abnormalities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "developmental issues"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "chylothorax"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "ventricular hypertrophy"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "germline mutations in genes involved in the RAS/Mitogen-Activated Protein Kinase signaling pathway"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "gain-of-function mutations in the PTPN11 gene"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "increased risk of cancer"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "trametinib"
+  },
+  {
+    "subject": "Neurofibromatosis type 1 (NF1)",
+    "relation": "has_symptom",
+    "object": "larger whole brain volume"
+  },
+  {
+    "subject": "Neurofibromatosis type 1 (NF1)",
+    "relation": "has_symptom",
+    "object": "larger gray matter volume"
+  },
+  {
+    "subject": "Neurofibromatosis type 1 (NF1)",
+    "relation": "has_symptom",
+    "object": "larger white matter volume"
+  },
+  {
+    "subject": "Neurofibromatosis type 1 (NF1)",
+    "relation": "has_symptom",
+    "object": "larger subcortical volumes"
+  },
+  {
+    "subject": "Fragile X syndrome (FXS)",
+    "relation": "has_symptom",
+    "object": "increased whole brain volume"
+  },
+  {
+    "subject": "Fragile X syndrome (FXS)",
+    "relation": "has_symptom",
+    "object": "increased gray matter volume"
+  },
+  {
+    "subject": "Fragile X syndrome (FXS)",
+    "relation": "has_symptom",
+    "object": "increased white matter volume"
+  },
+  {
+    "subject": "Noonan syndrome (NS)",
+    "relation": "has_symptom",
+    "object": "smaller whole brain volume"
+  },
+  {
+    "subject": "Noonan syndrome (NS)",
+    "relation": "has_symptom",
+    "object": "smaller gray matter volume"
+  },
+  {
+    "subject": "Noonan syndrome (NS)",
+    "relation": "has_symptom",
+    "object": "reduced subcortical volumes"
+  },
+  {
+    "subject": "Tuberous sclerosis complex (TSC)",
+    "relation": "has_symptom",
+    "object": "no significant differences in whole brain volume"
+  },
+  {
+    "subject": "Tuberous sclerosis complex (TSC)",
+    "relation": "has_symptom",
+    "object": "no significant differences in gray matter volume"
+  },
+  {
+    "subject": "Tuberous sclerosis complex (TSC)",
+    "relation": "has_symptom",
+    "object": "no significant differences in white matter volume"
+  },
+  {
+    "subject": "Neurofibromatosis type 1 (NF1)",
+    "relation": "associated_with",
+    "object": "dysregulation of mTOR signaling"
+  },
+  {
+    "subject": "Tuberous sclerosis complex (TSC)",
+    "relation": "associated_with",
+    "object": "dysregulation of mTOR signaling"
+  },
+  {
+    "subject": "Fragile X syndrome (FXS)",
+    "relation": "associated_with",
+    "object": "dysregulation of mTOR signaling"
+  },
+  {
+    "subject": "Noonan syndrome (NS)",
+    "relation": "associated_with",
+    "object": "dysregulation of mTOR signaling"
+  },
+  {
+    "subject": "Neurofibromatosis type 1 (NF1)",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Tuberous sclerosis complex (TSC)",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Fragile X syndrome (FXS)",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Noonan syndrome (NS)",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Neurofibromatosis type 1 (NF1), Tuberous sclerosis complex (TSC), Fragile X syndrome (FXS), Noonan syndrome (NS)",
+    "relation": "treated_by",
+    "object": "pharmaceutical interventions targeting shared molecular mechanisms"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "genotype-phenotype correspondence"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "long-term intervention strategies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "distinctive facial features"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "chest deformity"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "congenital heart defects"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short neck"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "pectus excavatum"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "gene variants of the RAS/MAPK pathway"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "PTPN11 gene variants"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "lentiginosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "comprehensive care"
+  },
+  {
+    "subject": "Rasopathies",
+    "relation": "has_symptom",
+    "object": "Irritability"
+  },
+  {
+    "subject": "Rasopathies",
+    "relation": "has_symptom",
+    "object": "ADHD symptoms"
+  },
+  {
+    "subject": "Rasopathies",
+    "relation": "has_symptom",
+    "object": "Social skills impairments"
+  },
+  {
+    "subject": "Rasopathies",
+    "relation": "has_cause",
+    "object": "Germline mutations in genes of the RAS/mitogen-activated protein kinase pathway"
+  },
+  {
+    "subject": "Rasopathies",
+    "relation": "associated_with",
+    "object": "Emotional dysregulation-related disorders"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "Social skills impairments"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "Irritability"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_symptom",
+    "object": "Irritability"
+  },
+  {
+    "subject": "Rasopathies",
+    "relation": "treated_by",
+    "object": "Prevention and treatments targeting irritability"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "Electrocardiogram abnormalities"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "Echocardiography abnormalities"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "Physical examination abnormalities"
+  },
+  {
+    "subject": "Rasopathies",
+    "relation": "has_symptom",
+    "object": "Non-cardiac red flags"
+  },
+  {
+    "subject": "Inherited metabolic disorders",
+    "relation": "has_symptom",
+    "object": "Non-cardiac red flags"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "has_symptom",
+    "object": "Non-cardiac red flags"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "has_cause",
+    "object": "Sarcomere gene variant"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "has_cause",
+    "object": "TTR and GLA variant"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "has_cause",
+    "object": "Syndromic cause"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Rasopathies"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Inherited metabolic disorders"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Mitochondrial disorders"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Danon disease"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Friedreich's ataxia"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "associated_with",
+    "object": "PRKAG2 cardiomyopathy"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "treated_by",
+    "object": "High-touch-low tech diagnostic approach"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "treated_by",
+    "object": "Widespread awareness for HCM-related red flags"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "atypical facial features"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "treated_by",
+    "object": "recombinant growth hormone therapy"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_cause",
+    "object": "MAP3K7 variant"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "RASopathy"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "genetic abnormalities in RAS/MAPK pathway"
+  },
+  {
+    "subject": "Increased fetal nuchal translucency",
+    "relation": "has_cause",
+    "object": "Biallelic variants in NUP107 gene"
+  },
+  {
+    "subject": "Increased fetal nuchal translucency",
+    "relation": "associated_with",
+    "object": "Aneuploidy"
+  },
+  {
+    "subject": "Increased fetal nuchal translucency",
+    "relation": "associated_with",
+    "object": "Monogenic syndromes"
+  },
+  {
+    "subject": "Increased fetal nuchal translucency",
+    "relation": "associated_with",
+    "object": "Structural malformations"
+  },
+  {
+    "subject": "Increased fetal nuchal translucency",
+    "relation": "associated_with",
+    "object": "Congenital heart disease"
+  },
+  {
+    "subject": "Aneuploidy",
+    "relation": "treated_by",
+    "object": "Fluorescence in situ hybridization (FISH)"
+  },
+  {
+    "subject": "Aneuploidy",
+    "relation": "treated_by",
+    "object": "Quantitative PCR"
+  },
+  {
+    "subject": "Aneuploidy",
+    "relation": "treated_by",
+    "object": "Cytogenetic analysis"
+  },
+  {
+    "subject": "Increased fetal nuchal translucency",
+    "relation": "treated_by",
+    "object": "Targeted gene panel analysis"
+  },
+  {
+    "subject": "Increased fetal nuchal translucency",
+    "relation": "treated_by",
+    "object": "Whole exome sequencing"
+  },
+  {
+    "subject": "Increased fetal nuchal translucency",
+    "relation": "treated_by",
+    "object": "Whole genome sequencing"
+  },
+  {
+    "subject": "Steroid-resistant nephrotic syndrome",
+    "relation": "has_symptom",
+    "object": "Renal phenotype"
+  },
+  {
+    "subject": "Galloway-Mowat syndrome",
+    "relation": "has_symptom",
+    "object": "Intellectual deficiency"
+  },
+  {
+    "subject": "Galloway-Mowat syndrome",
+    "relation": "has_symptom",
+    "object": "Dysmorphic features"
+  },
+  {
+    "subject": "Galloway-Mowat syndrome",
+    "relation": "has_cause",
+    "object": "Biallelic variants in NUP107 gene"
+  },
+  {
+    "subject": "Steroid-resistant nephrotic syndrome",
+    "relation": "has_cause",
+    "object": "Biallelic variants in NUP107 gene"
+  },
+  {
+    "subject": "RASopathy-associated childhood-onset hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "RV outflow tract obstruction"
+  },
+  {
+    "subject": "RASopathy-associated childhood-onset hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "Diastolic dysfunction"
+  },
+  {
+    "subject": "RASopathy-associated childhood-onset hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "Abnormal myocardial strain"
+  },
+  {
+    "subject": "RASopathy-associated childhood-onset hypertrophic cardiomyopathy",
+    "relation": "treated_by",
+    "object": "Trametinib"
+  },
+  {
+    "subject": "RASopathy-associated childhood-onset hypertrophic cardiomyopathy",
+    "relation": "treated_by",
+    "object": "Rapamycin"
+  },
+  {
+    "subject": "RASopathy-associated childhood-onset hypertrophic cardiomyopathy",
+    "relation": "treated_by",
+    "object": "Dasatinib"
+  },
+  {
+    "subject": "RASopathy-associated childhood-onset hypertrophic cardiomyopathy",
+    "relation": "has_cause",
+    "object": "RAS-mitogen-activated protein kinase pathway dysregulation"
+  },
+  {
+    "subject": "RASopathy-associated childhood-onset hypertrophic cardiomyopathy",
+    "relation": "associated_with",
+    "object": "RASopathy"
+  },
+  {
+    "subject": "Trametinib",
+    "relation": "improves",
+    "object": "Ca2+ handling"
+  },
+  {
+    "subject": "Trametinib",
+    "relation": "improves",
+    "object": "Sarcoplasmic reticulum function"
+  },
+  {
+    "subject": "Rapamycin",
+    "relation": "improves",
+    "object": "Sarcoplasmic reticulum function"
+  },
+  {
+    "subject": "Noonan syndrome-like disorder",
+    "relation": "has_symptom",
+    "object": "multiple melanocytic nevi"
+  },
+  {
+    "subject": "Noonan syndrome-like disorder",
+    "relation": "has_symptom",
+    "object": "superficial neurofibromas"
+  },
+  {
+    "subject": "Noonan syndrome-like disorder",
+    "relation": "has_symptom",
+    "object": "café-au-lait macules"
+  },
+  {
+    "subject": "Noonan syndrome-like disorder",
+    "relation": "has_symptom",
+    "object": "juvenile xanthogranuloma"
+  },
+  {
+    "subject": "Noonan syndrome-like disorder",
+    "relation": "has_symptom",
+    "object": "thin hair"
+  },
+  {
+    "subject": "Noonan syndrome-like disorder",
+    "relation": "has_cause",
+    "object": "pathological variants in CBL"
+  },
+  {
+    "subject": "Noonan syndrome-like disorder",
+    "relation": "associated_with",
+    "object": "Noonan syndrome phenotype"
+  },
+  {
+    "subject": "2p23.2p22.1 duplication",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "2p23.2p22.1 duplication",
+    "relation": "has_symptom",
+    "object": "learning disability"
+  },
+  {
+    "subject": "2p23.2p22.1 duplication",
+    "relation": "has_symptom",
+    "object": "visual deficit"
+  },
+  {
+    "subject": "2p23.2p22.1 duplication",
+    "relation": "has_symptom",
+    "object": "sleep disorder"
+  },
+  {
+    "subject": "2p23.2p22.1 duplication",
+    "relation": "has_symptom",
+    "object": "reduced visual acuity"
+  },
+  {
+    "subject": "2p23.2p22.1 duplication",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "2p23.2p22.1 duplication",
+    "relation": "has_cause",
+    "object": "duplication of PPP1CB and SOS1 genes"
+  },
+  {
+    "subject": "2p23.2p22.1 duplication",
+    "relation": "has_cause",
+    "object": "duplication of PPP1CB gene"
+  },
+  {
+    "subject": "Abnormal visual phenotype",
+    "relation": "has_cause",
+    "object": "duplication of PPP1CB gene"
+  },
+  {
+    "subject": "Tuberous sclerosis complex",
+    "relation": "has_cause",
+    "object": "TSC1"
+  },
+  {
+    "subject": "Tuberous sclerosis complex",
+    "relation": "has_cause",
+    "object": "TSC2"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "PTPN11"
+  },
+  {
+    "subject": "Polycystic kidney disease",
+    "relation": "has_cause",
+    "object": "PKD1"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_cause",
+    "object": "KMT2D"
+  },
+  {
+    "subject": "Dominant monogenic genetic diseases",
+    "relation": "associated_with",
+    "object": "Fetal structural abnormalities"
+  },
+  {
+    "subject": "Dominant monogenic genetic diseases",
+    "relation": "treated_by",
+    "object": "Invasive prenatal diagnosis"
+  },
+  {
+    "subject": "Dominant monogenic genetic diseases",
+    "relation": "treated_by",
+    "object": "Non-invasive prenatal testing"
+  },
+  {
+    "subject": "Tuberous sclerosis complex",
+    "relation": "associated_with",
+    "object": "Fetal structural abnormalities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Fetal structural abnormalities"
+  },
+  {
+    "subject": "Polycystic kidney disease",
+    "relation": "associated_with",
+    "object": "Fetal structural abnormalities"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "associated_with",
+    "object": "Fetal structural abnormalities"
+  },
+  {
+    "subject": "Dominant monogenic genetic diseases",
+    "relation": "has_symptom",
+    "object": "Fetal structural abnormalities"
+  },
+  {
+    "subject": "Growth Hormone Deficiency",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Turner syndrome",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "SHOX deficiency",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Idiopathic short stature",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Chronic kidney disease",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Small for Gestational Age",
+    "relation": "treated_by",
+    "object": "Recombinant Growth Hormone"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Poor body composition"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_symptom",
+    "object": "Cognitive dysfunction"
+  },
+  {
+    "subject": "Growth Hormone Deficiency",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Turner syndrome",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "SHOX deficiency",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Idiopathic short stature",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Chronic kidney disease",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Small for Gestational Age",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_treatment_outcome",
+    "object": "Improved adult height"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_treatment_outcome",
+    "object": "Improved body composition"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "has_treatment_outcome",
+    "object": "Improved cognitive function"
+  },
+  {
+    "subject": "Growth Hormone Deficiency",
+    "relation": "has_treatment_outcome",
+    "object": "Improved adult height"
+  },
+  {
+    "subject": "Recombinant Growth Hormone",
+    "relation": "has_side_effect",
+    "object": "None (good safety profile)"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cardiovascular anomalies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "pulmonary stenosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "atrial septal defects"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cryptorchidism"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "PTPN11 mutation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "SOS1 mutation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "cardiac anomalies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone treatment"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "white matter abnormalities"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_symptom",
+    "object": "white matter abnormalities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "neuropsychiatric disorders"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_symptom",
+    "object": "neuropsychiatric disorders"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in genes of the Ras-mitogen-activated protein kinase signalling pathway"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_cause",
+    "object": "pathogenic variants in genes of the Ras-mitogen-activated protein kinase signalling pathway"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Ras-mitogen-activated protein kinase pathway hyper-activation"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "associated_with",
+    "object": "Ras-mitogen-activated protein kinase pathway hyper-activation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "MEK inhibitors"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "treated_by",
+    "object": "MEK inhibitors"
+  },
+  {
+    "subject": "Dilated Cardiomyopathy",
+    "relation": "has_cause",
+    "object": "LZTR1 gene mutation"
+  },
+  {
+    "subject": "LZTR1 gene mutation",
+    "relation": "associated_with",
+    "object": "Cardiac disease"
+  },
+  {
+    "subject": "LZTR1 gene mutation",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "LZTR1 gene mutation",
+    "relation": "associated_with",
+    "object": "Schwannomatosis"
+  },
+  {
+    "subject": "LZTR1 gene mutation",
+    "relation": "associated_with",
+    "object": "Dilated Cardiomyopathy"
+  },
+  {
+    "subject": "Rare genetic disorders",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Rare genetic disorders",
+    "relation": "has_cause",
+    "object": "DNA variants"
+  },
+  {
+    "subject": "Noonan syndrome-like disorder",
+    "relation": "associated_with",
+    "object": "LZTR1"
+  },
+  {
+    "subject": "Noonan syndrome-like disorder",
+    "relation": "associated_with",
+    "object": "EPG5"
+  },
+  {
+    "subject": "ZTTK syndrome",
+    "relation": "associated_with",
+    "object": "CEP120"
+  },
+  {
+    "subject": "ZTTK syndrome",
+    "relation": "associated_with",
+    "object": "SON"
+  },
+  {
+    "subject": "Cutis Verticis Gyrata",
+    "relation": "has_symptom",
+    "object": "receding hairline"
+  },
+  {
+    "subject": "Cutis Verticis Gyrata",
+    "relation": "has_symptom",
+    "object": "dropping eyelids"
+  },
+  {
+    "subject": "Cutis Verticis Gyrata",
+    "relation": "has_symptom",
+    "object": "cerebral deformations"
+  },
+  {
+    "subject": "Cutis Verticis Gyrata",
+    "relation": "has_symptom",
+    "object": "deep furrows"
+  },
+  {
+    "subject": "Cutis Verticis Gyrata",
+    "relation": "has_symptom",
+    "object": "thickened dermis"
+  },
+  {
+    "subject": "Cutis Verticis Gyrata",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Cutis Verticis Gyrata",
+    "relation": "associated_with",
+    "object": "Turner syndrome"
+  },
+  {
+    "subject": "Cutis Verticis Gyrata",
+    "relation": "treated_by",
+    "object": "multidisciplinary approach"
+  },
+  {
+    "subject": "Cutis Verticis Gyrata",
+    "relation": "has_cause",
+    "object": "genetic syndromes"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "generalized joint hypermobility"
+  },
+  {
+    "subject": "LZTR1-related disorders",
+    "relation": "has_symptom",
+    "object": "multi-systemic involvement"
+  },
+  {
+    "subject": "LZTR1-related disorders",
+    "relation": "has_symptom",
+    "object": "severe manifestations"
+  },
+  {
+    "subject": "LZTR1-related disorders",
+    "relation": "has_symptom",
+    "object": "mild manifestations"
+  },
+  {
+    "subject": "schwannomatosis",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "breast cancer"
+  },
+  {
+    "subject": "LZTR1-related disorders",
+    "relation": "has_cause",
+    "object": "mutations in LZTR1"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "germline LZTR1 variants"
+  },
+  {
+    "subject": "schwannomatosis",
+    "relation": "has_cause",
+    "object": "germline LZTR1 variants"
+  },
+  {
+    "subject": "LZTR1-related disorders",
+    "relation": "treated_by",
+    "object": "therapeutic interventions"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "typical facial features"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "congenital heart disease"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "mild developmental delay"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cryptorchidism"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Hashimoto's thyroiditis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "systemic lupus erythematosus"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "mutations in genes encoding components or regulators of the Rat sarcoma virus/mitogen-activated protein kinase pathway"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "has_symptom",
+    "object": "thrombocytopenia"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "has_symptom",
+    "object": "nephritis"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "treated_by",
+    "object": "glucocorticoid"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "treated_by",
+    "object": "mycophenolate mofetil"
+  },
+  {
+    "subject": "Systemic lupus erythematosus",
+    "relation": "treated_by",
+    "object": "tacrolimus"
+  },
+  {
+    "subject": "Type B insulin resistance syndrome",
+    "relation": "has_symptom",
+    "object": "hypoglycaemia"
+  },
+  {
+    "subject": "Type B insulin resistance syndrome",
+    "relation": "has_cause",
+    "object": "insulin receptor antibody"
+  },
+  {
+    "subject": "Type B insulin resistance syndrome",
+    "relation": "treated_by",
+    "object": "glucocorticoid"
+  },
+  {
+    "subject": "Type B insulin resistance syndrome",
+    "relation": "treated_by",
+    "object": "mycophenolate mofetil"
+  },
+  {
+    "subject": "Type B insulin resistance syndrome",
+    "relation": "treated_by",
+    "object": "tacrolimus"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "missense mutations in the PTPN11 gene"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "higher risk of cancer occurrence"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "hematological disorders"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "transient myeloproliferative disorder"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "B-cell precursor acute lymphoblastic leukemia"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "juvenile myelomonocytic leukemia"
+  },
+  {
+    "subject": "juvenile myelomonocytic leukemia",
+    "relation": "has_symptom",
+    "object": "massive splenomegaly"
+  },
+  {
+    "subject": "juvenile myelomonocytic leukemia",
+    "relation": "has_symptom",
+    "object": "hyperleukocytosis"
+  },
+  {
+    "subject": "juvenile myelomonocytic leukemia",
+    "relation": "has_symptom",
+    "object": "thrombocytopenia"
+  },
+  {
+    "subject": "B-cell precursor acute lymphoblastic leukemia",
+    "relation": "treated_by",
+    "object": "two-year course of treatment"
+  },
+  {
+    "subject": "juvenile myelomonocytic leukemia",
+    "relation": "treated_by",
+    "object": "antimetabolite therapy"
+  },
+  {
+    "subject": "juvenile myelomonocytic leukemia",
+    "relation": "treated_by",
+    "object": "haploidentical hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "distinctive facial features"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "congenital heart defects"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "dysmorphic facial features"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "proptosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "hypertelorism"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "down slanted palpebral fissures"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "low-set posteriorly rotated ears"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "depressed nasal bridge"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in known genes"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "heterozygous ERF variants"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "syndromic craniosynostosis"
+  },
+  {
+    "subject": "Noonan syndrome-like phenotype",
+    "relation": "treated_by",
+    "object": "None mentioned"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "RAS/MAPK signaling pathway disorder"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "Pathogenic variant in PTPN11"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Type 1 Chiari malformations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Posterior fossa abnormalities"
+  },
+  {
+    "subject": "Type 1 Chiari malformations",
+    "relation": "has_symptom",
+    "object": ""
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": ""
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Facial dysmorphism"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Congenital heart disease"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Development delay"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Growth retardation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Lymphatic disease"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Nerve enlargement"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Pain in extremities"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "Germline pathogenic variants in Ras/mitogen-activated protein kinase signaling pathway genes"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Nerve enlargement on high-resolution nerve ultrasound"
+  },
+  {
+    "subject": "Nerve enlargement",
+    "relation": "associated_with",
+    "object": "Pain"
+  },
+  {
+    "subject": "Nerve enlargement",
+    "relation": "associated_with",
+    "object": "Increasing age"
+  },
+  {
+    "subject": "Noonan Syndrome with Loose anagen Hair",
+    "relation": "has_symptom",
+    "object": "Loose anagen Hair"
+  },
+  {
+    "subject": "Noonan Syndrome with Loose anagen Hair",
+    "relation": "has_cause",
+    "object": "Hereditary variants in Shoc2"
+  },
+  {
+    "subject": "Noonan Syndrome with Loose anagen Hair",
+    "relation": "associated_with",
+    "object": "Dysregulation in EGFR-mediated ERK1/2 pathway"
+  },
+  {
+    "subject": "Noonan Syndrome with Loose anagen Hair",
+    "relation": "associated_with",
+    "object": "Alterations in AKT signaling pathway"
+  },
+  {
+    "subject": "LZTR1-associated condition",
+    "relation": "has_symptom",
+    "object": "café au lait macules"
+  },
+  {
+    "subject": "LZTR1-associated condition",
+    "relation": "has_symptom",
+    "object": "axillar freckling"
+  },
+  {
+    "subject": "LZTR1-associated condition",
+    "relation": "has_cause",
+    "object": "LZTR1 gene variants"
+  },
+  {
+    "subject": "LZTR1-associated condition",
+    "relation": "associated_with",
+    "object": "schwannomatosis"
+  },
+  {
+    "subject": "LZTR1-associated condition",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "LZTR1-associated condition",
+    "relation": "treated_by",
+    "object": "gene panel analysis"
+  },
+  {
+    "subject": "Primary Ovarian Insufficiency",
+    "relation": "treated_by",
+    "object": "Oocyte Cryopreservation"
+  },
+  {
+    "subject": "Mosaic Turner Syndrome",
+    "relation": "treated_by",
+    "object": "Oocyte Cryopreservation"
+  },
+  {
+    "subject": "Acute Lymphoblastic Leukemia",
+    "relation": "associated_with",
+    "object": "Primary Ovarian Insufficiency"
+  },
+  {
+    "subject": "Ewing's Sarcoma",
+    "relation": "associated_with",
+    "object": "Primary Ovarian Insufficiency"
+  },
+  {
+    "subject": "Anaplastic B-cell Lymphoma",
+    "relation": "associated_with",
+    "object": "Primary Ovarian Insufficiency"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "Primary Ovarian Insufficiency"
+  },
+  {
+    "subject": "Thalassemia",
+    "relation": "associated_with",
+    "object": "Primary Ovarian Insufficiency"
+  },
+  {
+    "subject": "Primary Ovarian Insufficiency",
+    "relation": "has_symptom",
+    "object": "Irregular Menstrual Cycle"
+  },
+  {
+    "subject": "Primary Ovarian Insufficiency",
+    "relation": "has_symptom",
+    "object": "Absent Menarche"
+  },
+  {
+    "subject": "Ovarian Tumors",
+    "relation": "treated_by",
+    "object": "Ovarian Surgery"
+  },
+  {
+    "subject": "Ovarian Torsion",
+    "relation": "treated_by",
+    "object": "Ovarian Surgery"
+  },
+  {
+    "subject": "Primary Ovarian Insufficiency",
+    "relation": "has_treatment_outcome",
+    "object": "Controlled Ovarian Stimulation"
+  },
+  {
+    "subject": "Primary Ovarian Insufficiency",
+    "relation": "has_treatment_outcome",
+    "object": "Oocyte Retrieval"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "Immature Oocytes"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "LZTR1 variant"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "LZTR1L580P variant"
+  },
+  {
+    "subject": "hypertrophic cardiomyopathy",
+    "relation": "treated_by",
+    "object": "CRISPR-based therapies"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "RAS GTPases accumulation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "cellular hypertrophy"
+  },
+  {
+    "subject": "hypertrophic cardiomyopathy",
+    "relation": "has_cause",
+    "object": "LZTR1 complex dysfunction"
+  },
+  {
+    "subject": "LZTR1 complex dysfunction",
+    "relation": "has_cause",
+    "object": "LZTR1L580P variant"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_cause",
+    "object": "RAF1 mutations"
+  },
+  {
+    "subject": "Malignancies",
+    "relation": "has_cause",
+    "object": "BRAF mutations"
+  },
+  {
+    "subject": "Malignancies",
+    "relation": "has_cause",
+    "object": "RAF1 mutations"
+  },
+  {
+    "subject": "Developmental Disorders",
+    "relation": "has_cause",
+    "object": "BRAF mutations"
+  },
+  {
+    "subject": "Developmental Disorders",
+    "relation": "has_cause",
+    "object": "RAF1 mutations"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "RAF1 mutations"
+  },
+  {
+    "subject": "BRAF mutations",
+    "relation": "associated_with",
+    "object": "RASopathy"
+  },
+  {
+    "subject": "RAF1 mutations",
+    "relation": "associated_with",
+    "object": "Noonan Syndrome"
+  },
+  {
+    "subject": "BRAF mutations",
+    "relation": "associated_with",
+    "object": "Malignancies"
+  },
+  {
+    "subject": "RAF1 mutations",
+    "relation": "associated_with",
+    "object": "Malignancies"
+  },
+  {
+    "subject": "Familial short stature",
+    "relation": "has_cause",
+    "object": "Genetic factors"
+  },
+  {
+    "subject": "Familial short stature",
+    "relation": "has_cause",
+    "object": "Primary growth plate disorders"
+  },
+  {
+    "subject": "Familial short stature",
+    "relation": "has_cause",
+    "object": "Growth hormone deficiency/insensitivity"
+  },
+  {
+    "subject": "Familial short stature",
+    "relation": "has_cause",
+    "object": "Disruption of fundamental intracellular pathways"
+  },
+  {
+    "subject": "Familial short stature",
+    "relation": "associated_with",
+    "object": "Idiopathic short stature"
+  },
+  {
+    "subject": "Familial short stature",
+    "relation": "treated_by",
+    "object": "Genetic testing"
+  },
+  {
+    "subject": "Short stature",
+    "relation": "has_symptom",
+    "object": "Mild manifestations"
+  },
+  {
+    "subject": "Familial short stature",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Post-surgical ischemic complication",
+    "relation": "has_symptom",
+    "object": "haematoma"
+  },
+  {
+    "subject": "Post-surgical ischemic complication",
+    "relation": "has_symptom",
+    "object": "oedema"
+  },
+  {
+    "subject": "Post-surgical ischemic complication",
+    "relation": "has_symptom",
+    "object": "ischaemic appearances"
+  },
+  {
+    "subject": "Post-surgical ischemic complication",
+    "relation": "treated_by",
+    "object": "Hyperbaric Oxygen Treatment (HBOT)"
+  },
+  {
+    "subject": "Post-surgical ischemic complication",
+    "relation": "treated_by",
+    "object": "enoxaparin sodium"
+  },
+  {
+    "subject": "Post-surgical ischemic complication",
+    "relation": "treated_by",
+    "object": "fresh frozen plasma"
+  },
+  {
+    "subject": "Post-surgical ischemic complication",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Post-surgical ischemic complication",
+    "relation": "associated_with",
+    "object": "idiopathic thrombocytopenic purpura"
+  },
+  {
+    "subject": "Post-surgical ischemic complication",
+    "relation": "has_cause",
+    "object": "bilateral orchiopexy and circumcision"
+  },
+  {
+    "subject": "Post-surgical ischemic complication",
+    "relation": "has_cause",
+    "object": "idiopathic thrombocytopenic purpura"
+  },
+  {
+    "subject": "Koolen-de Vries syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Koolen-de Vries syndrome",
+    "relation": "has_symptom",
+    "object": "cardiomegaly"
+  },
+  {
+    "subject": "Koolen-de Vries syndrome",
+    "relation": "has_symptom",
+    "object": "dysplastic corpus callosum"
+  },
+  {
+    "subject": "Koolen-de Vries syndrome",
+    "relation": "has_symptom",
+    "object": "colpocephaly"
+  },
+  {
+    "subject": "Koolen-de Vries syndrome",
+    "relation": "has_symptom",
+    "object": "ventriculomegaly"
+  },
+  {
+    "subject": "Koolen-de Vries syndrome",
+    "relation": "has_symptom",
+    "object": "dysmorphic hippocampal formations"
+  },
+  {
+    "subject": "Koolen-de Vries syndrome",
+    "relation": "associated_with",
+    "object": "congenital heart disease"
+  },
+  {
+    "subject": "Koolen-de Vries syndrome",
+    "relation": "associated_with",
+    "object": "cryptorchidism"
+  },
+  {
+    "subject": "Koolen-de Vries syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Medulloblastoma",
+    "relation": "has_cause",
+    "object": "PGVs in APC, PTCH1, SUFU, and ELP1"
+  },
+  {
+    "subject": "Pediatric cancer predisposition syndromes",
+    "relation": "has_symptom",
+    "object": "Pediatric cancer"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "RASopathies",
+    "relation": "associated_with",
+    "object": "Costello syndrome"
+  },
+  {
+    "subject": "Cowden syndrome",
+    "relation": "has_cause",
+    "object": "PTEN PGVs"
+  },
+  {
+    "subject": "DICER1 syndrome",
+    "relation": "has_cause",
+    "object": "DICER1 PGVs"
+  },
+  {
+    "subject": "Pediatric cancer",
+    "relation": "treated_by",
+    "object": "Personalized precision medicine"
+  },
+  {
+    "subject": "Pediatric cancer",
+    "relation": "has_cause",
+    "object": "PGVs"
+  },
+  {
+    "subject": "Ataxia-telangiectasia",
+    "relation": "associated_with",
+    "object": "Pediatric cancer predisposition"
+  },
+  {
+    "subject": "Fanconi anemia",
+    "relation": "associated_with",
+    "object": "Pediatric cancer predisposition"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Proportional short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "Short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "Growth hormone treatment"
+  },
+  {
+    "subject": "Short stature in Noonan syndrome",
+    "relation": "treated_by",
+    "object": "Growth hormone treatment"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "distinctive facial appearance"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "congenital heart defects"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "skeletal dysplasia"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cryptorchidism"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "ambiguous genitalia"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "PTPN11 mutation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "46,XY disorders of sex development"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "dysmorphic features"
+  },
+  {
+    "subject": "46,XY disorders of sex development",
+    "relation": "associated_with",
+    "object": "FLNA mutation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "whole-exome sequencing"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "typical facial features"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "congenital heart defects"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "pectus excavatum"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "costal eversion"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "myopia"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "growth retardation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "ventricular arrhythmia"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "bundle branch block"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "germline mutations in genes coding for components of the Ras-mitogen-activated protein kinase (RAS-MAPK) pathway"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "LZTR1 mutation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "ventricular arrhythmia"
+  },
+  {
+    "subject": "LZTR1 mutation",
+    "relation": "associated_with",
+    "object": "ventricular arrhythmia"
+  },
+  {
+    "subject": "Growth Hormone Deficiency",
+    "relation": "has_symptom",
+    "object": "Short Stature"
+  },
+  {
+    "subject": "Central Precocious Puberty",
+    "relation": "has_symptom",
+    "object": "Early Puberty"
+  },
+  {
+    "subject": "Growth Hormone Deficiency",
+    "relation": "treated_by",
+    "object": "MRI"
+  },
+  {
+    "subject": "Central Precocious Puberty",
+    "relation": "treated_by",
+    "object": "MRI"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_cause",
+    "object": "Growth Hormone Deficiency"
+  },
+  {
+    "subject": "Short Stature",
+    "relation": "has_cause",
+    "object": "Other causes"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "Growth Hormone Deficiency"
+  },
+  {
+    "subject": "Incidentalomas",
+    "relation": "associated_with",
+    "object": "MRI scans"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "generalized edema"
+  },
+  {
+    "subject": "Severe generalized edema",
+    "relation": "has_cause",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Severe generalized edema",
+    "relation": "has_cause",
+    "object": "immune hydrops"
+  },
+  {
+    "subject": "Severe generalized edema",
+    "relation": "has_cause",
+    "object": "non-immune hydrops"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "generalized edema in neonates"
+  },
+  {
+    "subject": "Severe neonatal edema",
+    "relation": "treated_by",
+    "object": "differential diagnosis of NS"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "delayed puberty"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "bilateral epicanthal folds"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "down slanting eyes"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "fifth finger clinodactyly"
+  },
+  {
+    "subject": "Celiac disease",
+    "relation": "has_symptom",
+    "object": "elevated antitissue transglutaminase immunoglobulin A"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "growth hormone therapy"
+  },
+  {
+    "subject": "Celiac disease",
+    "relation": "treated_by",
+    "object": "gluten-free diet"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "heterozygous missense variant of BRAF gene"
+  },
+  {
+    "subject": "Celiac disease",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Celiac disease"
+  },
+  {
+    "subject": "Bleeding disorder of unknown cause",
+    "relation": "has_symptom",
+    "object": "Bleeding"
+  },
+  {
+    "subject": "Bleeding disorder of unknown cause",
+    "relation": "associated_with",
+    "object": "Hypermobility disorders"
+  },
+  {
+    "subject": "Bleeding disorder of unknown cause",
+    "relation": "associated_with",
+    "object": "Connective tissue disorders"
+  },
+  {
+    "subject": "Bleeding disorder of unknown cause",
+    "relation": "has_cause",
+    "object": "Low vitamin C status"
+  },
+  {
+    "subject": "Bleeding disorder of unknown cause",
+    "relation": "treated_by",
+    "object": "Vitamin C supplementation"
+  },
+  {
+    "subject": "Hypermobility disorders",
+    "relation": "has_symptom",
+    "object": "Skin hyperextensibility"
+  },
+  {
+    "subject": "Hypermobility disorders",
+    "relation": "has_symptom",
+    "object": "Hypermobility"
+  },
+  {
+    "subject": "Hypermobility disorders",
+    "relation": "associated_with",
+    "object": "Hypermobile Ehlers-Danlos syndrome"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "respiratory complications"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "pulmonary arterial hypertension"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "ID"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "RAF1:c.770C > T variant"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_cause",
+    "object": "RAF1:c.770C > T variant"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "treated_by",
+    "object": "early intervention"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "growth retardation"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "delayed puberty"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "short stature"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "genetic heterogeneity"
+  },
+  {
+    "subject": "short stature",
+    "relation": "has_cause",
+    "object": "feeding difficulties in infancy"
+  },
+  {
+    "subject": "short stature",
+    "relation": "has_cause",
+    "object": "congenital heart disease"
+  },
+  {
+    "subject": "short stature",
+    "relation": "has_cause",
+    "object": "disorders of the growth hormone/insulin-like growth factor-1 axis"
+  },
+  {
+    "subject": "short stature",
+    "relation": "treated_by",
+    "object": "Growth hormone"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "congenital heart disease"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "has_diagnostic_tool",
+    "object": "Flow cytometry"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "has_symptom",
+    "object": "Tumors"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "associated_with",
+    "object": "CEBPA mutation"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "associated_with",
+    "object": "DDX41 mutation"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "associated_with",
+    "object": "RUNX1 mutation"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "associated_with",
+    "object": "ANKRD26 mutation"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "associated_with",
+    "object": "GATA2 mutation"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "associated_with",
+    "object": "Fanconi anemia"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "associated_with",
+    "object": "Noonan syndrome"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "associated_with",
+    "object": "Down syndrome"
+  },
+  {
+    "subject": "Germline hematologic neoplasms",
+    "relation": "treated_by",
+    "object": "Molecular testing"
+  },
+  {
+    "subject": "GATA2 mutation",
+    "relation": "diagnosed_by",
+    "object": "Flow cytometry"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "diagnosed_by",
+    "object": "Flow cytometry"
+  },
+  {
+    "subject": "CEBPA mutation",
+    "relation": "screened_by",
+    "object": "Flow cytometry"
+  },
+  {
+    "subject": "Juvenile Myelomonocytic Leukemia",
+    "relation": "has_cause",
+    "object": "germline or somatic mutations in the RAS pathway"
+  },
+  {
+    "subject": "Juvenile Myelomonocytic Leukemia",
+    "relation": "associated_with",
+    "object": "Noonan Syndrome-associated Myeloproliferative Disorder"
+  },
+  {
+    "subject": "Juvenile Myelomonocytic Leukemia",
+    "relation": "treated_by",
+    "object": "5-azacitidine"
+  },
+  {
+    "subject": "Juvenile Myelomonocytic Leukemia",
+    "relation": "treated_by",
+    "object": "6-mercaptopurine"
+  },
+  {
+    "subject": "Juvenile Myelomonocytic Leukemia",
+    "relation": "treated_by",
+    "object": "stem cell transplant"
+  },
+  {
+    "subject": "Juvenile Myelomonocytic Leukemia",
+    "relation": "has_symptom",
+    "object": "myeloproliferative/myelodysplastic features"
+  },
+  {
+    "subject": "Juvenile Myelomonocytic Leukemia",
+    "relation": "has_symptom",
+    "object": "transformation to acute myeloid leukemia"
+  },
+  {
+    "subject": "Noonan Syndrome-associated Myeloproliferative Disorder",
+    "relation": "has_cause",
+    "object": "germline PTPN11 mutations"
+  },
+  {
+    "subject": "Noonan Syndrome-associated Myeloproliferative Disorder",
+    "relation": "treated_by",
+    "object": "surveillance"
+  },
+  {
+    "subject": "Juvenile Myelomonocytic Leukemia",
+    "relation": "associated_with",
+    "object": "cytogenetic abnormalities"
+  },
+  {
+    "subject": "Noonan Syndrome with Multiple Lentigines",
+    "relation": "has_symptom",
+    "object": "cardiac hypertrophy"
+  },
+  {
+    "subject": "Noonan Syndrome with Multiple Lentigines",
+    "relation": "associated_with",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Noonan Syndrome with Multiple Lentigines",
+    "relation": "has_cause",
+    "object": "autosomal dominant condition"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "has_symptom",
+    "object": "severely impacted functioning"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental disorders"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental disorders"
+  },
+  {
+    "subject": "Neurofibromatosis type 1",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_cause",
+    "object": "gain-of-function mutations in PTPN11"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "impaired experience-dependent glial pruning of OSN synaptic glomeruli"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "associated_with",
+    "object": "altered glial ERK signaling"
+  },
+  {
+    "subject": "Noonan Syndrome",
+    "relation": "has_symptom",
+    "object": "impaired experience-dependent glial pruning of OSN synaptic glomeruli"
+  },
+  {
+    "subject": "Nuchal translucency thickening",
+    "relation": "has_symptom",
+    "object": "Nuchal translucency thickening"
+  },
+  {
+    "subject": "Cystic hygroma",
+    "relation": "has_symptom",
+    "object": "Cystic hygroma"
+  },
+  {
+    "subject": "Fetal NT thickening/CH",
+    "relation": "associated_with",
+    "object": "Genetic abnormalities"
+  },
+  {
+    "subject": "Fetal NT thickening/CH",
+    "relation": "associated_with",
+    "object": "22q11.21 microdeletion-microduplication syndrome"
+  },
+  {
+    "subject": "Fetal NT thickening/CH",
+    "relation": "has_cause",
+    "object": "Pathogenic copy number variations"
+  },
+  {
+    "subject": "Fetal NT thickening/CH",
+    "relation": "has_cause",
+    "object": "Single-gene mutations"
+  },
+  {
+    "subject": "Fetal NT thickening/CH",
+    "relation": "treated_by",
+    "object": "Chromosome microarray analysis"
+  },
+  {
+    "subject": "Fetal NT thickening/CH",
+    "relation": "treated_by",
+    "object": "Whole exome sequencing"
+  },
+  {
+    "subject": "Fetal NT thickening/CH",
+    "relation": "treated_by",
+    "object": "Invasive prenatal diagnosis"
+  },
+  {
+    "subject": "Fetal NT thickening",
+    "relation": "associated_with",
+    "object": "Adverse pregnancy outcomes"
+  },
+  {
+    "subject": "Cystic hygroma",
+    "relation": "associated_with",
+    "object": "Adverse pregnancy outcomes"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cerebrovascular aneurysm"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "congenital heart disease"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "craniovertebral junction anomaly"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "cerebrovascular anomalies"
+  },
+  {
+    "subject": "cerebrovascular aneurysm",
+    "relation": "treated_by",
+    "object": "endovascular coiling"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "autosomal dominant inheritance"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "distinctive facial features"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "cardiac hypertrophy"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "low birth weight"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "LZTR1 AD mutations"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "dysfunction of RAS proteostasis"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "treated_by",
+    "object": "MEK inhibitor trametinib"
+  },
+  {
+    "subject": "Cardiac hypertrophy",
+    "relation": "treated_by",
+    "object": "MEK inhibitor trametinib"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "chylothorax"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_symptom",
+    "object": "hydrops"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "associated_with",
+    "object": "central conducting lymphatic anomaly"
+  },
+  {
+    "subject": "chylothorax",
+    "relation": "treated_by",
+    "object": "MEK-inhibitor"
+  },
+  {
+    "subject": "central conducting lymphatic anomaly",
+    "relation": "treated_by",
+    "object": "MEK-inhibitor"
+  },
+  {
+    "subject": "Noonan syndrome",
+    "relation": "has_cause",
+    "object": "central conducting lymphatic anomaly"
+  }
+]

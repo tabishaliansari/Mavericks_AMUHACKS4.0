@@ -1,0 +1,4342 @@
+[
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "oculocutaneous albinism"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "immune dysfunction"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "neurologic abnormalities"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "associated_with",
+    "object": "autosomal recessive disorder"
+  },
+  {
+    "subject": "Pulmonary Embolism",
+    "relation": "has_symptom",
+    "object": "Superior Vena Cava Syndrome"
+  },
+  {
+    "subject": "Pulmonary Embolism",
+    "relation": "treated_by",
+    "object": "Catheter-Directed Tissue-Type Plasminogen Activator (tPA) Thrombolysis"
+  },
+  {
+    "subject": "Pulmonary Embolism",
+    "relation": "has_cause",
+    "object": "Autoimmune Haemolytic Anaemia"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "associated_with",
+    "object": "Pulmonary Embolism"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "associated_with",
+    "object": "Autoimmune Haemolytic Anaemia"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "associated_with",
+    "object": "Bone Marrow Transplant"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "has_symptom",
+    "object": "Growth failure"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "has_symptom",
+    "object": "Recurrent infections"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "has_symptom",
+    "object": "Endocrinopathies"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "has_cause",
+    "object": "DNA-repair deficiencies"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "has_cause",
+    "object": "NHEJ1 variants"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "has_cause",
+    "object": "LYST variants"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "has_cause",
+    "object": "BRCA2 mutations"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "associated_with",
+    "object": "Inherited BMF syndromes"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "associated_with",
+    "object": "Inherited immunodeficiency disorders"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "associated_with",
+    "object": "Dyskeratosis congenita"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "associated_with",
+    "object": "Chediak-Higashi syndrome"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "treated_by",
+    "object": "Timely transplantation"
+  },
+  {
+    "subject": "Familial Hematological Malignancies",
+    "relation": "treated_by",
+    "object": "Personalized management"
+  },
+  {
+    "subject": "Bone Marrow Failure",
+    "relation": "associated_with",
+    "object": "Inherited BMF syndromes"
+  },
+  {
+    "subject": "Secondary Myelodysplastic Syndrome",
+    "relation": "associated_with",
+    "object": "Familial Hematological Malignancies"
+  },
+  {
+    "subject": "Acute Myeloid Leukemia",
+    "relation": "associated_with",
+    "object": "Familial Hematological Malignancies"
+  },
+  {
+    "subject": "Lymphoma",
+    "relation": "associated_with",
+    "object": "Familial Hematological Malignancies"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent infections"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hypopigmentation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hemophagocytic lymphohistiocytosis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "pale skin"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "silver hair"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "lymphadenectasis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "pancytopenia"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hypofibrinogenemia"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "high serum ferritin"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "umbilical cord blood transplantation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "HLH-related chemotherapy"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "LYST gene mutations"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "hemophagocytic lymphohistiocytosis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "typical clinical presentation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "novel heterozygous variants in the LYST gene"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "inborn errors of immunity"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "next-generation sequencing (NGS)"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "SpliceAI neural network"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "agarose gel electrophoresis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "cDNA Sanger sequencing"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "patchy gray hair"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hypopigmented patches"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "pancytopenia"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "large, coarse cytoplasmic granules in neutrophils"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "defect in vesicular trafficking"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "increased susceptibility to fatal hemophagocytic lymphohistiocytosis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "Griscelli syndrome"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "Hermansky-Pudlak syndrome"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "prompt treatment"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "partial oculocutaneous albinism"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "bleeding tendencies"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "neurodevelopmental deficits"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "progressive neurodegenerative symptoms"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent infections"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "hemophagocytic lymphohistiocytosis"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive decline"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "motor dysfunction"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the Lysosomal Trafficking Regulator (LYST) gene"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "associated_with",
+    "object": "hemophagocytic lymphohistiocytosis (HLH)"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation (HSCT)"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "treated_by",
+    "object": "symptomatic and supportive care"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "severe immunodeficiency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "coagulation deficiency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the CHS1/LYST gene"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "lysosomal abnormalities"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "SARS-CoV-2 infection"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "absence or impaired function of lysosomal trafficking regulator"
+  },
+  {
+    "subject": "SARS-CoV-2 infection",
+    "relation": "triggers",
+    "object": "accelerated phase development"
+  },
+  {
+    "subject": "VEXAS",
+    "relation": "has_symptom",
+    "object": "abnormal vacuolization"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal vacuolization"
+  },
+  {
+    "subject": "Danon disease",
+    "relation": "has_symptom",
+    "object": "abnormal vacuolization"
+  },
+  {
+    "subject": "Danon disease",
+    "relation": "has_symptom",
+    "object": "giant lysosomes"
+  },
+  {
+    "subject": "VEXAS",
+    "relation": "has_symptom",
+    "object": "giant lysosomes"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "giant lysosomes"
+  },
+  {
+    "subject": "VEXAS",
+    "relation": "has_symptom",
+    "object": "granulocyte dysfunction"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "granulocyte dysfunction"
+  },
+  {
+    "subject": "Danon disease",
+    "relation": "has_symptom",
+    "object": "granulocyte dysfunction"
+  },
+  {
+    "subject": "VEXAS",
+    "relation": "has_symptom",
+    "object": "monocyte dysfunction"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "monocyte dysfunction"
+  },
+  {
+    "subject": "Danon disease",
+    "relation": "has_symptom",
+    "object": "monocyte dysfunction"
+  },
+  {
+    "subject": "VEXAS",
+    "relation": "has_symptom",
+    "object": "inflammatory climate"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "inflammatory climate"
+  },
+  {
+    "subject": "Danon disease",
+    "relation": "has_symptom",
+    "object": "inflammatory climate"
+  },
+  {
+    "subject": "VEXAS",
+    "relation": "has_cause",
+    "object": "UBA1 mutation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "LYST mutation"
+  },
+  {
+    "subject": "Danon disease",
+    "relation": "has_cause",
+    "object": "LAMP2 mutation"
+  },
+  {
+    "subject": "VEXAS",
+    "relation": "associated_with",
+    "object": "dysfunction of the endo-lysosomal pathway"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "dysfunction of the endo-lysosomal pathway"
+  },
+  {
+    "subject": "Danon disease",
+    "relation": "associated_with",
+    "object": "dysfunction of the endo-lysosomal pathway"
+  },
+  {
+    "subject": "VEXAS",
+    "relation": "treated_by",
+    "object": "reacidification"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "reacidification"
+  },
+  {
+    "subject": "Danon disease",
+    "relation": "treated_by",
+    "object": "reacidification"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "repeated episodes of infection"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "haemorrhagic sequelae"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "partial albinism"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "photosensitivity"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "late neurological signs"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "cytopenias"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hemophagocytosis"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_cause",
+    "object": "autosomal recessive disorder"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "associated_with",
+    "object": "hemophagocytic lymphohistiocytosis"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "treated_by",
+    "object": "chemotherapy"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_symptom",
+    "object": "Increased susceptibility to infections"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "COVID-19 infection"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Cytokine-induced suppression of hematopoiesis"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Bone marrow repression due to inflammatory response"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "treated_by",
+    "object": "Monitoring of hematological parameters"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "treated_by",
+    "object": "Management of neutropenia"
+  },
+  {
+    "subject": "COVID-19 infection",
+    "relation": "associated_with",
+    "object": "Neutropenia"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "associated_with",
+    "object": "COVID-19-related hematological complications"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "partial oculocutaneous albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "bleeding diathesis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "immunological dysfunction"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neurological impairment"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "Bi-allelic loss-of-function variants in LYST"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "pathognomonic giant intracellular granules"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "partial oculocutaneous albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "mild bleeding tendency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neurologic manifestations"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "learning difficulties"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "peripheral neuropathy"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "parkinsonism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "giant granules within leukocytes"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "hemophagocytic lymphohistiocytosis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "ophthalmology services"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "low vision services"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "infectious disease management"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "hematology services"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "neurology services"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "physiatry"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "physical therapy"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "occupational therapy"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "neuropsychology"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "biallelic pathogenic variants in LYST"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent bacterial infections"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "oculocutaneous albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hypopigmentation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neutropenia"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "severe neutropenia"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "supportive treatment"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "chemotherapy"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "methylprednisolone"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "IL-2 administration"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation (HSCT)"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "Granulocyte-colony stimulating factor (G-CSF) therapy"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "bone marrow transplantation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "congenital immunodeficiency disorder"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "abnormal intracellular protein transport"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "treated_by",
+    "object": "Granulocyte-colony stimulating factor (G-CSF) therapy"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "recurrent infections"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "hair hypopigmentation"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "skin hypopigmentation"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "silvery-gray hair"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "pale bronze skin"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "hepatosplenomegaly"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "psychomotor developmental regression"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "intermittent fever"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "respiratory distress syndrome"
+  },
+  {
+    "subject": "Griscelli syndrome type 2",
+    "relation": "associated_with",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Griscelli syndrome type 2",
+    "relation": "associated_with",
+    "object": "hemophagocytic lymphohistiocytosis (HLH)"
+  },
+  {
+    "subject": "Griscelli syndrome type 1",
+    "relation": "associated_with",
+    "object": "early neurological alterations"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_cause",
+    "object": "genetic defect"
+  },
+  {
+    "subject": "Griscelli syndrome type 2",
+    "relation": "treated_by",
+    "object": "treatment for HLH"
+  },
+  {
+    "subject": "seizures",
+    "relation": "treated_by",
+    "object": "phenytoin"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "treated_by",
+    "object": "Aciclovir"
+  },
+  {
+    "subject": "Oculocutaneous albinism (OCA8)",
+    "relation": "has_symptom",
+    "object": "Infantile nystagmus syndrome"
+  },
+  {
+    "subject": "Oculocutaneous albinism (OCA8)",
+    "relation": "has_symptom",
+    "object": "Reduced visual acuity"
+  },
+  {
+    "subject": "Oculocutaneous albinism (OCA8)",
+    "relation": "has_symptom",
+    "object": "Foveal hypoplasia"
+  },
+  {
+    "subject": "Oculocutaneous albinism (OCA8)",
+    "relation": "has_symptom",
+    "object": "Macular hypopigmentation"
+  },
+  {
+    "subject": "Oculocutaneous albinism (OCA8)",
+    "relation": "has_symptom",
+    "object": "Iris transillumination"
+  },
+  {
+    "subject": "Oculocutaneous albinism (OCA8)",
+    "relation": "has_symptom",
+    "object": "Chiasmal misrouting"
+  },
+  {
+    "subject": "Oculocutaneous albinism (OCA8)",
+    "relation": "has_cause",
+    "object": "Variants in the DCT gene"
+  },
+  {
+    "subject": "Oculocutaneous albinism (OCA8)",
+    "relation": "associated_with",
+    "object": "Mild dermatological phenotype"
+  },
+  {
+    "subject": "Oculocutaneous albinism (OCA8)",
+    "relation": "associated_with",
+    "object": "Impaired vision"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "oculocutaneous albinism"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "easy bruising"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal functions of the natural killer cells"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent pyogenic infections"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neuropathies"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "progressive neurological symptoms"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "has_cause",
+    "object": "mutation in the lysosomal trafficking regulator (LYST) gene"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "associated_with",
+    "object": "abnormally large intracytoplasmic granules"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "associated_with",
+    "object": "lymphoproliferation into major organs"
+  },
+  {
+    "subject": "Chediak Higashi syndrome",
+    "relation": "treated_by",
+    "object": "allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "has_symptom",
+    "object": "bacterial infections"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "has_symptom",
+    "object": "fungal infections"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "has_symptom",
+    "object": "decreased neutrophil granulation"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "has_symptom",
+    "object": "abnormal neutrophil morphology"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "has_symptom",
+    "object": "decreased chromatin condensation"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "has_symptom",
+    "object": "cytoplasmic hypogranulation"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "has_symptom",
+    "object": "chronic inflammatory diseases"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "treated_by",
+    "object": "antibiotics"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "treated_by",
+    "object": "antifungal medications"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "associated_with",
+    "object": "heightened susceptibility to serious infections"
+  },
+  {
+    "subject": "MPO deficiency",
+    "relation": "has_cause",
+    "object": "unknown"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome",
+    "relation": "has_symptom",
+    "object": "albinism"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome",
+    "relation": "has_symptom",
+    "object": "bleeding diathesis"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome",
+    "relation": "has_cause",
+    "object": "genetic mutations in HPS genes"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome",
+    "relation": "associated_with",
+    "object": "platelet dysfunction"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome",
+    "relation": "treated_by",
+    "object": "management of bleeding episodes and other supportive care"
+  },
+  {
+    "subject": "SPAG9-related multisystem disorder",
+    "relation": "has_symptom",
+    "object": "coarse facial features"
+  },
+  {
+    "subject": "SPAG9-related multisystem disorder",
+    "relation": "has_symptom",
+    "object": "albinism"
+  },
+  {
+    "subject": "SPAG9-related multisystem disorder",
+    "relation": "has_symptom",
+    "object": "cataracts"
+  },
+  {
+    "subject": "SPAG9-related multisystem disorder",
+    "relation": "has_symptom",
+    "object": "skeletal abnormalities"
+  },
+  {
+    "subject": "SPAG9-related multisystem disorder",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "SPAG9-related multisystem disorder",
+    "relation": "has_cause",
+    "object": "biallelic SPAG9 gene variation"
+  },
+  {
+    "subject": "SPAG9-related multisystem disorder",
+    "relation": "has_cause",
+    "object": "homozygous frameshift variant (c.903del; p.Phe301Leufs*2) in the SPAG9 gene"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_symptom",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_symptom",
+    "object": "Destructive effect on supportive mucosal tissues around the teeth"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_cause",
+    "object": "Bacterial endotoxins"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_cause",
+    "object": "Malnutrition"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_cause",
+    "object": "Vitamin deficiencies"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_cause",
+    "object": "Smoking"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_cause",
+    "object": "Systemic inherited and acquired immune-mediated diseases"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_cause",
+    "object": "Infections"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_cause",
+    "object": "Endocrinological diseases"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "has_cause",
+    "object": "Pharmacological agents"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "associated_with",
+    "object": "Primary immunodeficiency diseases"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "associated_with",
+    "object": "Immune-mediated diseases"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "treated_by",
+    "object": "Mechanical debridement"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "treated_by",
+    "object": "Nutritional supplements"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "treated_by",
+    "object": "Anti-inflammatory therapies"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "treated_by",
+    "object": "IL-17 and IL-23-targeted therapies"
+  },
+  {
+    "subject": "Periodontitis",
+    "relation": "treated_by",
+    "object": "Therapy against inflammatory cytokines"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "congenital immunodeficiency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "bleeding diathesis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "pyogenic infection"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "partial oculocutaneous albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hereditary spastic paraplegia"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "parkinsonism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "bone marrow transplantation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the lysosomal trafficking regulator (LYST) gene"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "LYST deficiency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "autophagosome lysosome reformation impairment"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "phagosome accumulation"
+  },
+  {
+    "subject": "Haemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "novel mutation in the LYST gene"
+  },
+  {
+    "subject": "Haemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "Philadelphia chromosome-positive acute lymphoblastic leukaemia"
+  },
+  {
+    "subject": "Haemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "initial symptom in a child"
+  },
+  {
+    "subject": "Platelet storage deficiencies",
+    "relation": "has_symptom",
+    "object": "Bleeding"
+  },
+  {
+    "subject": "Platelet storage deficiencies",
+    "relation": "has_symptom",
+    "object": "Menorrhagia"
+  },
+  {
+    "subject": "Platelet storage deficiencies",
+    "relation": "has_symptom",
+    "object": "Mucocutaneous pallor"
+  },
+  {
+    "subject": "Platelet storage deficiencies",
+    "relation": "has_cause",
+    "object": "Decreased number or content of platelet granules"
+  },
+  {
+    "subject": "Platelet storage deficiencies",
+    "relation": "associated_with",
+    "object": "Decreased number of dense granules"
+  },
+  {
+    "subject": "Platelet storage deficiencies",
+    "relation": "treated_by",
+    "object": "Tranexamic acid"
+  },
+  {
+    "subject": "Platelet storage deficiencies",
+    "relation": "treated_by",
+    "object": "Ferrous sulfate"
+  },
+  {
+    "subject": "Platelet storage deficiencies",
+    "relation": "treated_by",
+    "object": "Oral contraceptives"
+  },
+  {
+    "subject": "Menorrhagia",
+    "relation": "treated_by",
+    "object": "Tranexamic acid"
+  },
+  {
+    "subject": "Menorrhagia",
+    "relation": "treated_by",
+    "object": "Oral contraceptives"
+  },
+  {
+    "subject": "Mucocutaneous pallor",
+    "relation": "treated_by",
+    "object": "Ferrous sulfate"
+  },
+  {
+    "subject": "Evans syndrome",
+    "relation": "has_symptom",
+    "object": "neurodevelopmental delay"
+  },
+  {
+    "subject": "Evans syndrome",
+    "relation": "has_symptom",
+    "object": "immune dysfunction"
+  },
+  {
+    "subject": "Evans syndrome",
+    "relation": "associated_with",
+    "object": "BCL11B mutation"
+  },
+  {
+    "subject": "Evans syndrome",
+    "relation": "associated_with",
+    "object": "STX11 mutation"
+  },
+  {
+    "subject": "Evans syndrome",
+    "relation": "treated_by",
+    "object": "IL-2 treatment"
+  },
+  {
+    "subject": "BCL11B defects",
+    "relation": "has_symptom",
+    "object": "neurological disorders"
+  },
+  {
+    "subject": "BCL11B defects",
+    "relation": "has_symptom",
+    "object": "immunological features"
+  },
+  {
+    "subject": "BCL11B defects",
+    "relation": "has_cause",
+    "object": "Heterozygous BCL11B defects"
+  },
+  {
+    "subject": "Familial hemophagocytic lymphohistiocytosis type 4",
+    "relation": "has_cause",
+    "object": "Biallelic mutations in STX11"
+  },
+  {
+    "subject": "Immune dysfunction",
+    "relation": "has_cause",
+    "object": "Impaired IL-2 secretion"
+  },
+  {
+    "subject": "Immune dysfunction",
+    "relation": "has_cause",
+    "object": "STX11 dysfunction"
+  },
+  {
+    "subject": "Autoimmune disorders",
+    "relation": "associated_with",
+    "object": "abnormal NK- and T-cells function"
+  },
+  {
+    "subject": "therapy-related acute myeloid leukemia with myelodysplasia-related changes",
+    "relation": "has_symptom",
+    "object": "Pseudo-Chediak-Higashi inclusions"
+  },
+  {
+    "subject": "Pseudo-Chediak-Higashi granules",
+    "relation": "associated_with",
+    "object": "Chediak-Higashi syndrome"
+  },
+  {
+    "subject": "therapy-related acute myeloid leukemia with myelodysplasia-related changes",
+    "relation": "has_cause",
+    "object": "therapy"
+  },
+  {
+    "subject": "Pseudo-Chediak-Higashi inclusions",
+    "relation": "treated_by",
+    "object": "integrated diagnostic work-up"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "rash"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "lymphadenopathy"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "organomegaly"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "arthritis"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "colitis"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "chronic lymphadenopathy"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "hepatomegaly"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "splenomegaly"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "vasculitis"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_symptom",
+    "object": "recurrent or persistent fever"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "has_cause",
+    "object": "monogenic disorders"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "associated_with",
+    "object": "autoimmunity"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "associated_with",
+    "object": "hyperinflammation"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "associated_with",
+    "object": "hemophagocytic lymphohistiocytosis"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "associated_with",
+    "object": "Epstein Barr virus susceptibility"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "treated_by",
+    "object": "nonspecific immune modulators"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "treated_by",
+    "object": "symptom-directed therapies"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "treated_by",
+    "object": "targeted immune therapy"
+  },
+  {
+    "subject": "Primary immune regulatory disorders",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "has_symptom",
+    "object": "Pallor"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "has_symptom",
+    "object": "Decreased or absent melanin in ectoderm-derived tissues"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Misrouted optic nerve fibers"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Ocular manifestations"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Skin manifestations"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome",
+    "relation": "has_symptom",
+    "object": "Bleeding diathesis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "Propinquity to infection"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_cause",
+    "object": "Errors in melanin synthesis"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome",
+    "relation": "has_cause",
+    "object": "Loss-of-function mutations in genes involved in lysosomal synthesis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "Loss-of-function mutations in genes involved in lysosomal synthesis"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "associated_with",
+    "object": "Congenital nystagmus"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "associated_with",
+    "object": "Generalized hypopigmentation"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "associated_with",
+    "object": "Hermansky-Pudlak syndrome"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "associated_with",
+    "object": "Chediak-Higashi syndrome"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "associated_with",
+    "object": "Oculocutaneous albinism type 2"
+  },
+  {
+    "subject": "Prader-Willi syndrome",
+    "relation": "associated_with",
+    "object": "Oculocutaneous albinism type 2"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "Ruxolitinib"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "Corticosteroids"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "Dostarlimab"
+  },
+  {
+    "subject": "Metastatic endometrial cancer",
+    "relation": "treated_by",
+    "object": "Dostarlimab"
+  },
+  {
+    "subject": "Metastatic endometrial cancer",
+    "relation": "treated_by",
+    "object": "Chemotherapy"
+  },
+  {
+    "subject": "Xeroderma Pigmentosum",
+    "relation": "has_symptom",
+    "object": "Pseudopterygia"
+  },
+  {
+    "subject": "Xeroderma Pigmentosum",
+    "relation": "associated_with",
+    "object": "Foveal Hypoplasia"
+  },
+  {
+    "subject": "Foveal Hypoplasia",
+    "relation": "has_cause",
+    "object": "LYST gene mutation"
+  },
+  {
+    "subject": "Xeroderma Pigmentosum",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Xeroderma Pigmentosum",
+    "relation": "treated_by",
+    "object": "Visual rehabilitation"
+  },
+  {
+    "subject": "Xeroderma Pigmentosum",
+    "relation": "has_symptom",
+    "object": "Symblepharon"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Hypopigmentation of the eyes"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Hypopigmentation of the hair"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Hypopigmentation of the skin"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Depigmentation of the skin"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Depigmentation of the hair"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Depigmentation of the iris"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Depigmentation of the fundus"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Photophobia"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Decreased vision"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Nystagmus"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "Macular fovea hypoplasia"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_cause",
+    "object": "Congenital melanin deficiency"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "associated_with",
+    "object": "Secondary angle closure"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "associated_with",
+    "object": "Cataract"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "associated_with",
+    "object": "Ocular hypertension"
+  },
+  {
+    "subject": "Secondary angle closure",
+    "relation": "has_cause",
+    "object": "Opacity and expansion of the lens"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "treated_by",
+    "object": "Carteolol eye drops"
+  },
+  {
+    "subject": "Cataract",
+    "relation": "treated_by",
+    "object": "Phacoemulsification and intraocular lens implantation surgery"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_cause",
+    "object": "TYR gene variants"
+  },
+  {
+    "subject": "Elejalde syndrome",
+    "relation": "has_symptom",
+    "object": "silvery-gray hair"
+  },
+  {
+    "subject": "Elejalde syndrome",
+    "relation": "has_symptom",
+    "object": "neurological abnormalities"
+  },
+  {
+    "subject": "Elejalde syndrome",
+    "relation": "has_symptom",
+    "object": "diffuse skin hypopigmentation"
+  },
+  {
+    "subject": "Elejalde syndrome",
+    "relation": "has_symptom",
+    "object": "suntanned skin color"
+  },
+  {
+    "subject": "Elejalde syndrome",
+    "relation": "has_symptom",
+    "object": "hemiplegia"
+  },
+  {
+    "subject": "Elejalde syndrome",
+    "relation": "has_symptom",
+    "object": "status epilepticus"
+  },
+  {
+    "subject": "Elejalde syndrome",
+    "relation": "has_symptom",
+    "object": "loss of consciousness"
+  },
+  {
+    "subject": "Elejalde syndrome",
+    "relation": "treated_by",
+    "object": "mechanical ventilation"
+  },
+  {
+    "subject": "Elejalde syndrome",
+    "relation": "has_cause",
+    "object": "autosomal recessive heredity"
+  },
+  {
+    "subject": "Elejalde syndrome",
+    "relation": "associated_with",
+    "object": "silvery-gray hair syndrome"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "bi-allelic variants in LYST gene"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "access to services and treatments"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "clinical trials"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "has_symptom",
+    "object": "[Symptom]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "treated_by",
+    "object": "[Treatment]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "has_cause",
+    "object": "[Cause]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "associated_with",
+    "object": "[Associated Condition]"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hypopigmentation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "bleeding tendencies"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "NK cell dysfunction"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "dysfunction of lysosomal trafficking"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "Hemophagocytic lymphohistiocytosis"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "etoposide"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "dexamethasone"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "cyclosporine"
+  },
+  {
+    "subject": "Ophthalmology diseases",
+    "relation": "has_treatment",
+    "object": "drugs"
+  },
+  {
+    "subject": "Ophthalmology diseases",
+    "relation": "has_treatment",
+    "object": "medical devices"
+  },
+  {
+    "subject": "Ophthalmology diseases",
+    "relation": "has_treatment",
+    "object": "procedures"
+  },
+  {
+    "subject": "Ophthalmology diseases",
+    "relation": "has_treatment",
+    "object": "diagnostic imaging"
+  },
+  {
+    "subject": "Ophthalmology diseases",
+    "relation": "has_treatment",
+    "object": "behavioral changes"
+  },
+  {
+    "subject": "Ophthalmology clinical trials",
+    "relation": "associated_with",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "Ophthalmology clinical trials discontinuation",
+    "relation": "has_cause",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "Vitiligo",
+    "relation": "has_cause",
+    "object": "Autoimmune disorder"
+  },
+  {
+    "subject": "Vitiligo",
+    "relation": "has_cause",
+    "object": "Genetic polymorphisms"
+  },
+  {
+    "subject": "Vitiligo",
+    "relation": "has_cause",
+    "object": "Immune dysregulation"
+  },
+  {
+    "subject": "Vitiligo",
+    "relation": "treated_by",
+    "object": "Targeting immune pathways"
+  },
+  {
+    "subject": "Vitiligo",
+    "relation": "associated_with",
+    "object": "Hematological disorders"
+  },
+  {
+    "subject": "Morphea",
+    "relation": "associated_with",
+    "object": "Hematological involvement"
+  },
+  {
+    "subject": "Morphea",
+    "relation": "has_symptom",
+    "object": "Inflammatory skin disorder"
+  },
+  {
+    "subject": "Syndromic albinism",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Syndromic albinism",
+    "relation": "associated_with",
+    "object": "Hematologic abnormalities"
+  },
+  {
+    "subject": "Syndromic albinism",
+    "relation": "has_symptom",
+    "object": "Hypopigmentation"
+  },
+  {
+    "subject": "Hypopigmentation disorders",
+    "relation": "has_symptom",
+    "object": "Hypopigmentation"
+  },
+  {
+    "subject": "Hypopigmentation disorders",
+    "relation": "associated_with",
+    "object": "Hematological conditions"
+  },
+  {
+    "subject": "Drug-induced vitiligo",
+    "relation": "has_cause",
+    "object": "Immune checkpoint inhibitors"
+  },
+  {
+    "subject": "Drug-induced vitiligo",
+    "relation": "has_cause",
+    "object": "Small-molecule targeted anticancer therapies"
+  },
+  {
+    "subject": "Hematological disorders",
+    "relation": "has_symptom",
+    "object": "Dermatological manifestations"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_symptom",
+    "object": "Recurrent severe infections"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_symptom",
+    "object": "Organ damage"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "Thymus transplantation"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "Small molecule inhibitors"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "Biological therapies"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "Adoptive transfer of virus-specific T-cells"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "associated_with",
+    "object": "Primary immunodeficiencies"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "silvery hair"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "diffuse pigment dilution"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "bleeding diathesis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neurological manifestations"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "accelerated phase due to lymphohistiocytic infiltration"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "hypopigmentation of skin"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "hypopigmentation of hair"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "large clumps of pigment in the hair shaft"
+  },
+  {
+    "subject": "Griscelli syndrome Type 1",
+    "relation": "has_symptom",
+    "object": "neurologic impairments"
+  },
+  {
+    "subject": "Griscelli syndrome Type 1",
+    "relation": "has_symptom",
+    "object": "hematologic impairments"
+  },
+  {
+    "subject": "Griscelli syndrome Type 2",
+    "relation": "has_symptom",
+    "object": "neurologic impairments"
+  },
+  {
+    "subject": "Griscelli syndrome Type 2",
+    "relation": "has_symptom",
+    "object": "hematologic impairments"
+  },
+  {
+    "subject": "Griscelli syndrome Type 3",
+    "relation": "has_symptom",
+    "object": "skin manifestations"
+  },
+  {
+    "subject": "Silver hair syndromes",
+    "relation": "has_symptom",
+    "object": "silver-gray hair"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "disorder of vesicle trafficking"
+  },
+  {
+    "subject": "Elejalde disease",
+    "relation": "associated_with",
+    "object": "Griscelli syndrome Type 1"
+  },
+  {
+    "subject": "Silver hair syndromes",
+    "relation": "treated_by",
+    "object": "hair shaft microscopy"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_symptom",
+    "object": "Immunodeficiency"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "treated_by",
+    "object": "Flow Cytometry"
+  },
+  {
+    "subject": "Omenn Syndrome",
+    "relation": "treated_by",
+    "object": "Flow Cytometry"
+  },
+  {
+    "subject": "MHC Class II Deficiency",
+    "relation": "treated_by",
+    "object": "Flow Cytometry"
+  },
+  {
+    "subject": "Familial Hemophagocytic Lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "Flow Cytometry"
+  },
+  {
+    "subject": "CD55 Deficiency",
+    "relation": "treated_by",
+    "object": "Flow Cytometry"
+  },
+  {
+    "subject": "Hyper-IgE Syndrome",
+    "relation": "associated_with",
+    "object": "Genetic Defects"
+  },
+  {
+    "subject": "STAT1-gain of Function",
+    "relation": "associated_with",
+    "object": "Genetic Defects"
+  },
+  {
+    "subject": "Autoimmune Lymphoproliferative Syndrome",
+    "relation": "associated_with",
+    "object": "Genetic Defects"
+  },
+  {
+    "subject": "Activated PI3K Delta Syndrome",
+    "relation": "associated_with",
+    "object": "Genetic Defects"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_cause",
+    "object": "Genetic Defects"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "Flow Cytometry"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_symptom",
+    "object": "Clinical Features Suggestive of Immunodeficiency"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "has_symptom",
+    "object": "Gray hair"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "has_cause",
+    "object": "Genetic factors"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "has_cause",
+    "object": "Environmental factors"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "has_cause",
+    "object": "Cellular factors"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "associated_with",
+    "object": "Osteopenia"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "associated_with",
+    "object": "Hearing loss"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "associated_with",
+    "object": "Smoking"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "associated_with",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "associated_with",
+    "object": "Dyslipidemia"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "associated_with",
+    "object": "Cardiovascular disease"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "has_symptom",
+    "object": "Psychological impacts"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "has_symptom",
+    "object": "Low self-esteem"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "has_symptom",
+    "object": "Reduced quality of life"
+  },
+  {
+    "subject": "Premature graying of hair",
+    "relation": "treated_by",
+    "object": "Emerging therapies"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "has_symptom",
+    "object": "Neurodevelopmental features"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "has_symptom",
+    "object": "Neurodegenerative features"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "has_symptom",
+    "object": "Neuromuscular features"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "has_symptom",
+    "object": "Abnormalities of the eyes"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "has_symptom",
+    "object": "Abnormalities of the skin"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "has_symptom",
+    "object": "Abnormalities of the heart"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "has_symptom",
+    "object": "Abnormalities of the bones"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "has_symptom",
+    "object": "Abnormalities of the immune cells"
+  },
+  {
+    "subject": "EPG5-related Vici syndrome",
+    "relation": "is_a",
+    "object": "Congenital disorder of autophagy"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "has_cause",
+    "object": "Monogenic defects in key autophagy genes"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "associated_with",
+    "object": "Defective cargo accumulation"
+  },
+  {
+    "subject": "Congenital disorders of autophagy",
+    "relation": "treated_by",
+    "object": "Therapy development"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "has_symptom",
+    "object": "lymphadenopathy"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "has_symptom",
+    "object": "monoclonal lymphocytosis"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "has_symptom",
+    "object": "bone marrow infiltration"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "has_cause",
+    "object": "gene mutations"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "has_cause",
+    "object": "immunosuppressive drugs"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "has_cause",
+    "object": "viral infections"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "has_cause",
+    "object": "invasive fungal infections"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "associated_with",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "associated_with",
+    "object": "X-linked immunodeficiency syndrome"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "associated_with",
+    "object": "common variable immunodeficiency"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "associated_with",
+    "object": "severe combined immunodeficiency"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "associated_with",
+    "object": "Wiskott-Aldrich syndrome"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "associated_with",
+    "object": "ataxia-telangiectasia"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "associated_with",
+    "object": "Chediak–Higashi syndrome"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "associated_with",
+    "object": "HIV"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "treated_by",
+    "object": "tissue transplantation management"
+  },
+  {
+    "subject": "Lymphoproliferative disorders",
+    "relation": "treated_by",
+    "object": "immunosuppressive drug management"
+  },
+  {
+    "subject": "Autoimmune lymphoproliferative syndrome",
+    "relation": "has_cause",
+    "object": "mutation in Fas protein gene"
+  },
+  {
+    "subject": "X-linked LPD",
+    "relation": "has_cause",
+    "object": "mutation in X chromosome"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "weakening of the immune defence"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "infections"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "enlarged cytoplasmic granules"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "vitamin C supplementation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "abnormal granulogenesis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "Sapphire mink"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "leukocyte abnormalities"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "periodontal disease"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "ulceration of the oral mucosa"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "gingival/labial abscess"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "periodontal abscess"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "oculocutaneous albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent infections"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "bleeding"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "oral rehabilitation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "dental implants"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "oral prophylaxis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "periodontal therapy"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "autosomal recessive disorder"
+  },
+  {
+    "subject": "periodontal disease",
+    "relation": "treated_by",
+    "object": "periodontal therapy"
+  },
+  {
+    "subject": "tooth losses",
+    "relation": "treated_by",
+    "object": "dental implants"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "leukocytes with giant secretory granules"
+  },
+  {
+    "subject": "Systemic Lupus Erythematosus (SLE)",
+    "relation": "has_cause",
+    "object": "WDFY4 variants"
+  },
+  {
+    "subject": "Rheumatoid Arthritis (RA)",
+    "relation": "has_cause",
+    "object": "WDFY4 variants"
+  },
+  {
+    "subject": "Primary Biliary Cholangitis",
+    "relation": "has_cause",
+    "object": "WDFY4 variants"
+  },
+  {
+    "subject": "Clinically Amyopathic Dermatomyositis",
+    "relation": "associated_with",
+    "object": "WDFY4 variant rs7919656"
+  },
+  {
+    "subject": "Rapidly Progressive Interstitial Lung Disease (RP-ILD)",
+    "relation": "associated_with",
+    "object": "WDFY4 variant rs7919656"
+  },
+  {
+    "subject": "MDA5+ Dermatomyositis",
+    "relation": "associated_with",
+    "object": "WDFY4 variant rs7919656"
+  },
+  {
+    "subject": "WDFY4-related autoimmune diseases",
+    "relation": "treated_by",
+    "object": "None mentioned"
+  },
+  {
+    "subject": "Systemic Lupus Erythematosus (SLE)",
+    "relation": "has_symptom",
+    "object": "None mentioned"
+  },
+  {
+    "subject": "Rheumatoid Arthritis (RA)",
+    "relation": "has_symptom",
+    "object": "None mentioned"
+  },
+  {
+    "subject": "Primary Biliary Cholangitis",
+    "relation": "has_symptom",
+    "object": "None mentioned"
+  },
+  {
+    "subject": "Clinically Amyopathic Dermatomyositis",
+    "relation": "has_symptom",
+    "object": "None mentioned"
+  },
+  {
+    "subject": "Rapidly Progressive Interstitial Lung Disease (RP-ILD)",
+    "relation": "has_symptom",
+    "object": "None mentioned"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "immunologic manifestations"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hematologic manifestations"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neurologic complications"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "Haploidentical HSCT"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "HSCT with post-transplant cyclophosphamide"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "HSCT with reduced-toxicity conditioning"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "primary immunodeficiency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "HLH"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "HLH"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_symptom",
+    "object": "neurological features"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome",
+    "relation": "has_symptom",
+    "object": "severe sepsis"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome",
+    "relation": "has_symptom",
+    "object": "neurological problems"
+  },
+  {
+    "subject": "Silvery Hair Syndromes",
+    "relation": "associated_with",
+    "object": "immunological defects"
+  },
+  {
+    "subject": "Silvery Hair Syndromes",
+    "relation": "associated_with",
+    "object": "neurological defects"
+  },
+  {
+    "subject": "Silvery Hair Syndromes",
+    "relation": "has_cause",
+    "object": "autosomal recessive inheritance"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "chemotherapy"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplant"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "treated_by",
+    "object": "chemotherapy"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplant"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome",
+    "relation": "treated_by",
+    "object": "symptomatic management"
+  },
+  {
+    "subject": "Q fever",
+    "relation": "has_symptom",
+    "object": "severe flu-illness"
+  },
+  {
+    "subject": "Q fever",
+    "relation": "has_cause",
+    "object": "Coxiella burnetii infection"
+  },
+  {
+    "subject": "Q fever",
+    "relation": "associated_with",
+    "object": "Coxiella-containing vacuole (CCV)"
+  },
+  {
+    "subject": "Coxiella burnetii infection",
+    "relation": "treated_by",
+    "object": "E-64d"
+  },
+  {
+    "subject": "Coxiella burnetii infection",
+    "relation": "associated_with",
+    "object": "LYST"
+  },
+  {
+    "subject": "Coxiella burnetii infection",
+    "relation": "associated_with",
+    "object": "low iNOS level"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis (HLH)",
+    "relation": "has_symptom",
+    "object": "persistent fever"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis (HLH)",
+    "relation": "associated_with",
+    "object": "T-cell/histiocyte-rich large B-cell lymphoma (TCHRLBCL)"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis (HLH)",
+    "relation": "has_cause",
+    "object": "dysfunction of NK cells and cytotoxic lymphocytes"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "has_symptom",
+    "object": "Fever"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "has_symptom",
+    "object": "Decreased activity"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "has_symptom",
+    "object": "Hepatosplenomegaly"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "has_cause",
+    "object": "Mutation in the PRF1 gene"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "associated_with",
+    "object": "Epstein-Barr virus"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "associated_with",
+    "object": "Bacterial infection"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "associated_with",
+    "object": "Fungal infection"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "associated_with",
+    "object": "Autoimmune conditions"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "associated_with",
+    "object": "Autoinflammatory diseases"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "associated_with",
+    "object": "Metabolic disorders"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistocytosis",
+    "relation": "associated_with",
+    "object": "Cancer"
+  },
+  {
+    "subject": "Primary Hemophagocytic lymphohistocytosis",
+    "relation": "treated_by",
+    "object": "Genetic counselling"
+  },
+  {
+    "subject": "Primary Hemophagocytic lymphohistocytosis",
+    "relation": "treated_by",
+    "object": "Antenatal screening"
+  },
+  {
+    "subject": "Primary Hemophagocytic lymphohistocytosis",
+    "relation": "treated_by",
+    "object": "Early neonatal screening"
+  },
+  {
+    "subject": "Primary Hemophagocytic lymphohistocytosis",
+    "relation": "treated_by",
+    "object": "Early diagnosis and intervention"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis (HLH)",
+    "relation": "has_symptom",
+    "object": "Fever"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis (HLH)",
+    "relation": "has_symptom",
+    "object": "Hepatosplenomegaly"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis (HLH)",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation (HSCT)"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis (HLH)",
+    "relation": "has_cause",
+    "object": "Familial HLH variants"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis (HLH)",
+    "relation": "associated_with",
+    "object": "Consanguineous marriage"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis (HLH)",
+    "relation": "associated_with",
+    "object": "History of sibling death"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis (HLH)",
+    "relation": "associated_with",
+    "object": "Familial history of similar disease"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_symptom",
+    "object": "Progressive arm weakness"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_symptom",
+    "object": "Dysarthria"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_symptom",
+    "object": "Upper motor neuron signs"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_symptom",
+    "object": "Lower motor neuron signs"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "associated_with",
+    "object": "Amyotrophic Lateral Sclerosis"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_cause",
+    "object": "LYST gene mutation"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_cause",
+    "object": "LYST gene mutation"
+  },
+  {
+    "subject": "Chediak-Higashi Syndrome",
+    "relation": "has_symptom",
+    "object": "T2-weighted white matter hyperintensities"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "albinism"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neuropathies"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "defective immune responses"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "enlargement of lysosomes and lysosome-related organelles"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "retinal detachment"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the Lysosome Trafficking Regulator (Lyst) gene"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "associated_with",
+    "object": "accumulation of photoreceptor outer segment phagosomes"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "associated_with",
+    "object": "elevated levels of cathepsins"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "associated_with",
+    "object": "elevated levels of matrix metallopeptidase (MMP) 3"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "associated_with",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Chediak–Higashi syndrome",
+    "relation": "associated_with",
+    "object": "reduced adhesion between photoreceptor outer segment and retinal pigment epithelial cells"
+  },
+  {
+    "subject": "Major Histocompatibility Complex Class II Deficiency",
+    "relation": "has_symptom",
+    "object": "recurrent fever"
+  },
+  {
+    "subject": "Major Histocompatibility Complex Class II Deficiency",
+    "relation": "has_symptom",
+    "object": "respiratory symptoms"
+  },
+  {
+    "subject": "Major Histocompatibility Complex Class II Deficiency",
+    "relation": "has_symptom",
+    "object": "pancytopenia"
+  },
+  {
+    "subject": "Major Histocompatibility Complex Class II Deficiency",
+    "relation": "has_symptom",
+    "object": "hypogammaglobulinemia"
+  },
+  {
+    "subject": "Major Histocompatibility Complex Class II Deficiency",
+    "relation": "has_cause",
+    "object": "mutation in the RFXANK gene"
+  },
+  {
+    "subject": "Major Histocompatibility Complex Class II Deficiency",
+    "relation": "associated_with",
+    "object": "hemophagocytic syndrome"
+  },
+  {
+    "subject": "Major Histocompatibility Complex Class II Deficiency",
+    "relation": "associated_with",
+    "object": "cytomegalovirus infection"
+  },
+  {
+    "subject": "Major Histocompatibility Complex Class II Deficiency",
+    "relation": "diagnosed_by",
+    "object": "peripheral blood whole-exon sequencing (WES)"
+  },
+  {
+    "subject": "Major Histocompatibility Complex Class II Deficiency",
+    "relation": "treated_by",
+    "object": "treatment for hemophagocytic syndrome"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "has_symptom",
+    "object": "Severe visual abnormalities"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "has_symptom",
+    "object": "Foveal hypoplasia"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "has_symptom",
+    "object": "Chiasmal misrouting"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "has_cause",
+    "object": "Defects affecting the genesis or function of different intra-cellular organelles"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "has_cause",
+    "object": "Melanosome impairments"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "associated_with",
+    "object": "Hermansky-Pudlak syndrome"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "associated_with",
+    "object": "Chediak-Higashi syndrome"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "associated_with",
+    "object": "Oculocutaneous albinism"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "associated_with",
+    "object": "Ocular albinism"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "associated_with",
+    "object": "FHONDA"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "associated_with",
+    "object": "Age-related macular degeneration"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "treated_by",
+    "object": "None mentioned in the abstract"
+  },
+  {
+    "subject": "Albinism",
+    "relation": "treated_by",
+    "object": "None mentioned in the abstract"
+  },
+  {
+    "subject": "Myeloid neoplasms",
+    "relation": "has_symptom",
+    "object": "similar clinical and morphological characteristics"
+  },
+  {
+    "subject": "Acute myeloid leukemia",
+    "relation": "associated_with",
+    "object": "germline predisposition"
+  },
+  {
+    "subject": "Myeloid neoplasms",
+    "relation": "has_cause",
+    "object": "germline predisposition"
+  },
+  {
+    "subject": "Myeloid neoplasms",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Myeloid neoplasms",
+    "relation": "associated_with",
+    "object": "family history"
+  },
+  {
+    "subject": "Acute myeloid leukemia",
+    "relation": "treated_by",
+    "object": "AML management"
+  },
+  {
+    "subject": "Hematologic disease",
+    "relation": "has_symptom",
+    "object": "Apoptosis"
+  },
+  {
+    "subject": "Hematologic disease",
+    "relation": "has_symptom",
+    "object": "Differentiation block"
+  },
+  {
+    "subject": "Hematologic disease",
+    "relation": "treated_by",
+    "object": "HSC transplantation (HSCT)"
+  },
+  {
+    "subject": "Hematologic disease",
+    "relation": "has_cause",
+    "object": "NBEA deficiency"
+  },
+  {
+    "subject": "Hematologic disease",
+    "relation": "associated_with",
+    "object": "Conditions affecting hematopoietic stem cells"
+  },
+  {
+    "subject": "Localized Aggressive Periodontitis",
+    "relation": "has_symptom",
+    "object": "Localized Gingival Inflammation"
+  },
+  {
+    "subject": "Localized Aggressive Periodontitis",
+    "relation": "has_symptom",
+    "object": "High Mobility of Deciduous Teeth"
+  },
+  {
+    "subject": "Localized Aggressive Periodontitis",
+    "relation": "has_symptom",
+    "object": "Periodontal Loss"
+  },
+  {
+    "subject": "Localized Aggressive Periodontitis",
+    "relation": "has_symptom",
+    "object": "Bone Loss"
+  },
+  {
+    "subject": "Localized Aggressive Periodontitis",
+    "relation": "has_cause",
+    "object": "Hyper-aggressive Auto-immune Response"
+  },
+  {
+    "subject": "Localized Aggressive Periodontitis",
+    "relation": "has_cause",
+    "object": "High Periodontopathic Bacteria Levels"
+  },
+  {
+    "subject": "Localized Aggressive Periodontitis",
+    "relation": "treated_by",
+    "object": "Mechanical Cleaning"
+  },
+  {
+    "subject": "Localized Aggressive Periodontitis",
+    "relation": "treated_by",
+    "object": "Systemic Antibiotic Treatment (Augmentin and Metronidazole)"
+  },
+  {
+    "subject": "Localized Aggressive Periodontitis",
+    "relation": "associated_with",
+    "object": "Periodontopathic Bacteria"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "colorless retina"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "pale pink iris"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "fear of light"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "white or yellowish-white skin"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "white or yellowish-white hair"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "decreased vision"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "blue iris"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "poorly defined optic disk borders"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "insufficient pigmentation of the fundus"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "significant vascular exposure"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_cause",
+    "object": "mutations in specific genes necessary for melanin production"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_cause",
+    "object": "compound heterozygous mutations in the OCA2 gene"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "associated_with",
+    "object": "genetic disorders"
+  },
+  {
+    "subject": "Oculocutaneous albinism type 2",
+    "relation": "treated_by",
+    "object": "next-generation sequencing technologies such as WES"
+  },
+  {
+    "subject": "Familial hemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "multi-system disease manifestations"
+  },
+  {
+    "subject": "Familial hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "abnormal vesicular transport in the lymphocytes"
+  },
+  {
+    "subject": "Lymphocyte intracellular trafficking diseases",
+    "relation": "associated_with",
+    "object": "abnormalities of cytoskeletal structures"
+  },
+  {
+    "subject": "Lymphocyte intracellular trafficking diseases",
+    "relation": "associated_with",
+    "object": "autophagy"
+  },
+  {
+    "subject": "Lymphocyte intracellular trafficking diseases",
+    "relation": "associated_with",
+    "object": "membrane contact sites"
+  },
+  {
+    "subject": "Lymphocyte intracellular trafficking diseases",
+    "relation": "treated_by",
+    "object": "management aspects"
+  },
+  {
+    "subject": "Cellular trafficking disorders",
+    "relation": "has_symptom",
+    "object": "multi-system disease manifestations"
+  },
+  {
+    "subject": "Cellular trafficking disorders",
+    "relation": "associated_with",
+    "object": "abnormalities in protein and lipid synthesis"
+  },
+  {
+    "subject": "Cellular trafficking disorders",
+    "relation": "associated_with",
+    "object": "abnormalities in cargo sorting"
+  },
+  {
+    "subject": "Cellular trafficking disorders",
+    "relation": "associated_with",
+    "object": "abnormalities in packaging"
+  },
+  {
+    "subject": "Cellular trafficking disorders",
+    "relation": "associated_with",
+    "object": "abnormalities in delivery"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "progressive neurologic abnormalities"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "learning disabilities"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neuropsychiatric disorders"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "middle-age dementia"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "autosomal disorder"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "socioemotional adaptability"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "early neuropsychological and neuropsychiatric profiling"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "intervention selection"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "has_symptom",
+    "object": "Respiratory Disease"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "associated_with",
+    "object": "Immunocompromised"
+  },
+  {
+    "subject": "Bordetella bronchiseptica infection",
+    "relation": "has_symptom",
+    "object": "Respiratory Disease"
+  },
+  {
+    "subject": "Bordetella bronchiseptica infection",
+    "relation": "treated_by",
+    "object": "Acellular dead vaccine"
+  },
+  {
+    "subject": "Bordetella bronchiseptica infection",
+    "relation": "treated_by",
+    "object": "Live-attenuated bacterial veterinary vaccines"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "treated_by",
+    "object": "Non-live vaccines"
+  },
+  {
+    "subject": "Infection from live-attenuated veterinary vaccines",
+    "relation": "has_cause",
+    "object": "Live-attenuated bacterial veterinary vaccines"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "associated_with",
+    "object": "Chronic granulomatous disease"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "associated_with",
+    "object": "Leukocyte adhesion deficiency"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "associated_with",
+    "object": "Myeloperoxidase deficiency"
+  },
+  {
+    "subject": "Cystic Fibrosis",
+    "relation": "associated_with",
+    "object": "Chediak-Higashi syndrome"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "hypopigmentation"
+  },
+  {
+    "subject": "Griscelli syndrome type 2",
+    "relation": "has_symptom",
+    "object": "hypopigmentation"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome type 2",
+    "relation": "has_symptom",
+    "object": "hypopigmentation"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome type 10",
+    "relation": "has_symptom",
+    "object": "hypopigmentation"
+  },
+  {
+    "subject": "Vici syndrome",
+    "relation": "has_symptom",
+    "object": "hypopigmentation"
+  },
+  {
+    "subject": "P14/LAMTOR2 deficiency",
+    "relation": "has_symptom",
+    "object": "hypopigmentation"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "dysfunction in vesicular/endosomal trafficking"
+  },
+  {
+    "subject": "Griscelli syndrome type 2",
+    "relation": "has_cause",
+    "object": "dysfunction in vesicular/endosomal trafficking"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome type 2",
+    "relation": "has_cause",
+    "object": "dysfunction in vesicular/endosomal trafficking"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome type 10",
+    "relation": "has_cause",
+    "object": "dysfunction in vesicular/endosomal trafficking"
+  },
+  {
+    "subject": "Vici syndrome",
+    "relation": "has_cause",
+    "object": "dysfunction in vesicular/endosomal trafficking"
+  },
+  {
+    "subject": "P14/LAMTOR2 deficiency",
+    "relation": "has_cause",
+    "object": "dysfunction in vesicular/endosomal trafficking"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Griscelli syndrome type 2",
+    "relation": "associated_with",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome type 2",
+    "relation": "associated_with",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Hermansky-Pudlak syndrome type 10",
+    "relation": "associated_with",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Vici syndrome",
+    "relation": "associated_with",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "P14/LAMTOR2 deficiency",
+    "relation": "associated_with",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Primary immunodeficiency diseases",
+    "relation": "associated_with",
+    "object": "hypopigmentation syndromes"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "oculocutaneous albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent bacterial infections"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "progressive neurologic abnormalities"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "coagulation defects"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "silvery hair"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "pancytopenia"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "high fever"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "lymphohistiocytic infiltration of liver, spleen, and lymph nodes"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "etoposide"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "cyclosporine"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "dexamethasone"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "autosomal-recessive disorder"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "hemophagocytic lymphohistiocytosis"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "Epstein-Barr virus (EBV) infection"
+  },
+  {
+    "subject": "hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "HLH-2004 protocol"
+  },
+  {
+    "subject": "Hereditary spastic paraplegias",
+    "relation": "has_symptom",
+    "object": "weakness"
+  },
+  {
+    "subject": "Hereditary spastic paraplegias",
+    "relation": "has_symptom",
+    "object": "leg spasticity"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "partial oculocutaneous albinism"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "primary immunodeficiency"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "bleeding tendency"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "spastic paraplegia"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Hereditary spastic paraplegias with LYST mutations",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Hereditary spastic paraplegias with LYST mutations",
+    "relation": "has_symptom",
+    "object": "cerebellar ataxia"
+  },
+  {
+    "subject": "Hereditary spastic paraplegias with LYST mutations",
+    "relation": "has_symptom",
+    "object": "neuropathy"
+  },
+  {
+    "subject": "Hereditary spastic paraplegias with LYST mutations",
+    "relation": "has_symptom",
+    "object": "pyramidal signs"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "LYST mutations"
+  },
+  {
+    "subject": "Hereditary spastic paraplegias",
+    "relation": "associated_with",
+    "object": "LYST mutations"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "Hereditary spastic paraplegias"
+  },
+  {
+    "subject": "Chédiak-Higashi Syndrome",
+    "relation": "has_cause",
+    "object": "mutations in LYST"
+  },
+  {
+    "subject": "Chédiak-Higashi Syndrome",
+    "relation": "associated_with",
+    "object": "LYST mutations (c.4322_4325delAGAG and c.10127A>G)"
+  },
+  {
+    "subject": "Recurrent aphthous stomatitis",
+    "relation": "has_symptom",
+    "object": "Recurrent oral ulcers"
+  },
+  {
+    "subject": "Recurrent aphthous stomatitis",
+    "relation": "has_symptom",
+    "object": "Oral ulcers"
+  },
+  {
+    "subject": "Recurrent aphthous stomatitis",
+    "relation": "associated_with",
+    "object": "Neutrophil defects"
+  },
+  {
+    "subject": "Recurrent aphthous stomatitis",
+    "relation": "has_cause",
+    "object": "Impaired neutrophil extravasation"
+  },
+  {
+    "subject": "Recurrent aphthous stomatitis",
+    "relation": "has_cause",
+    "object": "Defective ROS production"
+  },
+  {
+    "subject": "Recurrent aphthous stomatitis",
+    "relation": "has_cause",
+    "object": "Neutropenia"
+  },
+  {
+    "subject": "Oral ulcers",
+    "relation": "has_cause",
+    "object": "Neutropenia"
+  },
+  {
+    "subject": "Oral ulcers",
+    "relation": "has_cause",
+    "object": "Impaired extravasation"
+  },
+  {
+    "subject": "Oral ulcers",
+    "relation": "has_cause",
+    "object": "Defective ROS production"
+  },
+  {
+    "subject": "Recurrent aphthous stomatitis",
+    "relation": "treated_by",
+    "object": "Unknown/Unsatisfactory management"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "immune function abnormalities"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "infection"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "tumors"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "intracranial multifocal germinoma"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "hormone"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "etoposide(VP-16)"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "hematological malignancies"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "solid tumors"
+  },
+  {
+    "subject": "Malignancy-associated HLH",
+    "relation": "associated_with",
+    "object": "hematological malignancies"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "intracranial multifocal germinoma"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neuropathies"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "defective immune responses"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "enlargement of lysosomes and lysosome-related organelles"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the Lysosome Trafficking Regulator (Lyst) gene"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "accumulation of photoreceptor outer segment phagosomes"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "elevated levels of cathepsins"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "elevated levels of matrix metallopeptidase (MMP) 3"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "reduced adhesion between photoreceptor outer segment and retinal pigment epithelial cells"
+  },
+  {
+    "subject": "Haemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "hyperinflammatory syndromes"
+  },
+  {
+    "subject": "Macrophage activation syndrome",
+    "relation": "has_symptom",
+    "object": "hyperinflammatory syndromes"
+  },
+  {
+    "subject": "Haemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "early intervention targeting hyperinflammation"
+  },
+  {
+    "subject": "Macrophage activation syndrome",
+    "relation": "treated_by",
+    "object": "early intervention targeting hyperinflammation"
+  },
+  {
+    "subject": "Haemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "inflammatory contexts"
+  },
+  {
+    "subject": "Macrophage activation syndrome",
+    "relation": "has_cause",
+    "object": "inflammatory contexts"
+  },
+  {
+    "subject": "Haemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "organ failure"
+  },
+  {
+    "subject": "Macrophage activation syndrome",
+    "relation": "associated_with",
+    "object": "organ failure"
+  },
+  {
+    "subject": "Haemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "mortality"
+  },
+  {
+    "subject": "Macrophage activation syndrome",
+    "relation": "associated_with",
+    "object": "mortality"
+  },
+  {
+    "subject": "Haemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "expert multidisciplinary assistance"
+  },
+  {
+    "subject": "Macrophage activation syndrome",
+    "relation": "treated_by",
+    "object": "expert multidisciplinary assistance"
+  },
+  {
+    "subject": "Neutrophilia",
+    "relation": "has_cause",
+    "object": "infection"
+  },
+  {
+    "subject": "Neutrophilia",
+    "relation": "has_cause",
+    "object": "medications"
+  },
+  {
+    "subject": "Neutrophilia",
+    "relation": "has_cause",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Neutrophilia",
+    "relation": "has_cause",
+    "object": "splenectomy"
+  },
+  {
+    "subject": "Neutrophilia",
+    "relation": "has_cause",
+    "object": "congenital disorders"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "infection"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "medications"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "autoimmune destruction"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "sequestration"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "nutritional deficiency"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "malignancy"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "congenital neutropenia syndromes"
+  },
+  {
+    "subject": "Neutrophilia",
+    "relation": "associated_with",
+    "object": "increased mortality"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "associated_with",
+    "object": "increased mortality"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Fever"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Cytopenia"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Hepatosplenomegaly"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Multisystem organ failure"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Abdominal distension"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "Silvery hair"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "Hemophagocytic lymphohistiocytosis-2004 chemotherapy protocol"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "Emapalumab"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "Infections"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "Autoimmune disorders"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "Malignancies"
+  },
+  {
+    "subject": "Hemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "Chédiak-Higashi syndrome"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_symptom",
+    "object": "ulcerations"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_symptom",
+    "object": "lesions"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "distinct therapeutic approaches"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "treated_by",
+    "object": "antimicrobial prophylaxis"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "has_cause",
+    "object": "impaired antibody production"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "associated_with",
+    "object": "serious systemic diseases"
+  },
+  {
+    "subject": "Inborn Errors of Immunity",
+    "relation": "associated_with",
+    "object": "immune deficiencies"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Fever"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Pallor"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Splenomegaly"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Hepatomegaly"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Chest manifestations"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Renal manifestations"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Neurological manifestations"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "Bone marrow haemophagocytosis"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "HLH 2004 protocol"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "Multi-organ failure"
+  },
+  {
+    "subject": "Paediatric haemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "Relapse"
+  },
+  {
+    "subject": "primary hemophagocytic lymphohistiocytosis",
+    "relation": "has_symptom",
+    "object": "graft-versus-host disease"
+  },
+  {
+    "subject": "primary hemophagocytic lymphohistiocytosis",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "primary hemophagocytic lymphohistiocytosis",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "primary hemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "Griscelli syndrome"
+  },
+  {
+    "subject": "primary hemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "Chediak-Higashi syndrome"
+  },
+  {
+    "subject": "primary hemophagocytic lymphohistiocytosis",
+    "relation": "associated_with",
+    "object": "XIAP mutation"
+  },
+  {
+    "subject": "Griscelli syndrome",
+    "relation": "has_treatment_outcome",
+    "object": "71% overall survival"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_treatment_outcome",
+    "object": "50% overall survival"
+  },
+  {
+    "subject": "XIAP mutation",
+    "relation": "has_treatment_outcome",
+    "object": "100% overall survival"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "reduced vision"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "high sensitivity to light"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_symptom",
+    "object": "rapid and uncontrolled eye movements"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "has_cause",
+    "object": "genetic variants in TYR, OCA2, and HPS1 genes"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "associated_with",
+    "object": "reduced or absent melanin pigment in the skin, hair, and eyes"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "treated_by",
+    "object": "genetic counselling services"
+  },
+  {
+    "subject": "Oculocutaneous albinism",
+    "relation": "associated_with",
+    "object": "syndromic and non-syndromic forms"
+  },
+  {
+    "subject": "Dengue Fever",
+    "relation": "has_complication",
+    "object": "Hemophagocytic Lymphohistiocytosis (HLH)"
+  },
+  {
+    "subject": "Dengue Fever",
+    "relation": "has_cause",
+    "object": "Infected Aedes Mosquitoes"
+  },
+  {
+    "subject": "Hemophagocytic Lymphohistiocytosis (HLH)",
+    "relation": "treated_by",
+    "object": "Methylprednisolone Pulse Regimen"
+  },
+  {
+    "subject": "Dengue Fever",
+    "relation": "associated_with",
+    "object": "Hemophagocytic Lymphohistiocytosis (HLH)"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "has_cause",
+    "object": "Adalimumab"
+  },
+  {
+    "subject": "Neutropenia",
+    "relation": "treated_by",
+    "object": "Management strategies"
+  },
+  {
+    "subject": "Inflammatory bowel disease (IBD)",
+    "relation": "treated_by",
+    "object": "Adalimumab"
+  },
+  {
+    "subject": "Periodontal diseases",
+    "relation": "has_symptom",
+    "object": "Infections and inflammation of the gums and supporting bones"
+  },
+  {
+    "subject": "Periodontal diseases",
+    "relation": "associated_with",
+    "object": "Cardiovascular diseases"
+  },
+  {
+    "subject": "Periodontal diseases",
+    "relation": "treated_by",
+    "object": "Advanced artificial intelligence (AI) technologies"
+  },
+  {
+    "subject": "Periodontal diseases",
+    "relation": "has_cause",
+    "object": "Infections"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "Loss of LYST protein"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "Defects in lysosomes"
+  },
+  {
+    "subject": "Chédiak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "Defects in lysosome-related organelles"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "partial oculocutaneous albinism"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "immunodeficiency"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_symptom",
+    "object": "acidophilic inclusion body"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "has_cause",
+    "object": "LYST gene variant"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "associated_with",
+    "object": "consanguineous family"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Chediak-Higashi syndrome",
+    "relation": "treated_by",
+    "object": "prenatal diagnosis"
+  }
+]

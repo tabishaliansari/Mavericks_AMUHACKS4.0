@@ -1,0 +1,3642 @@
+[
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "cardiomyopathy"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "alglucosidase-alfa"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "avalglucosidase-alfa"
+  },
+  {
+    "subject": "alglucosidase-alfa",
+    "relation": "has_side_effect",
+    "object": "anaphylaxia"
+  },
+  {
+    "subject": "anaphylaxia",
+    "relation": "treated_by",
+    "object": "desensitization protocol"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "ptosis"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "oropharyngeal dysphagia"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "dysarthria"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "glycogen accumulation in tissues"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "genetic condition"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "oculopharyngeal muscular dystrophy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "diagnosed_by",
+    "object": "dried blood spot testing"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory dysfunction"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "cardiac dysfunction"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "musculoskeletal dysfunction"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapies (ERTs)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "rehabilitation programs"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "nutritional programs"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficient enzyme function"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "neuromuscular diseases"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory problems"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "heart abnormalities"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of the enzyme acid alpha-glucosidase"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "different genetic mutations"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "diagnosed_by",
+    "object": "measurement of the activity of the enzyme alpha-glucosidase"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "diagnosed_by",
+    "object": "molecular genetic testing using PCR amplification and sequencing of the acid alpha-glucosidase (GAA) gene"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "myocardial and vascular changes"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "fibrosis"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "autophagy buildup"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "GAA variants"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Therapeutic options"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_subtype",
+    "object": "Infantile onset Pompe disease (IOPD)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_subtype",
+    "object": "Late onset Pompe disease (LOPD)"
+  },
+  {
+    "subject": "Infantile onset Pompe disease (IOPD)",
+    "relation": "associated_with",
+    "object": "Specific pathogenic variants"
+  },
+  {
+    "subject": "Late onset Pompe disease (LOPD)",
+    "relation": "associated_with",
+    "object": "Specific pathogenic variants"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Elevated serum creatine kinase levels"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Elevated urine glucose tetrasaccharide levels"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Pulmonary dysfunction"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Impaired motor function"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Alglucosidase alfa"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Avalglucosidase alfa"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Cipaglucosidase alfa plus miglustat"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "Low mannose-6-phosphate content (in treatment)"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Antidrug antibodies"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Infusion-associated reactions"
+  },
+  {
+    "subject": "Late onset Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of the enzyme acid α-glucosidase"
+  },
+  {
+    "subject": "Late onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "glycogen accumulation in lysosomes"
+  },
+  {
+    "subject": "Late onset Pompe disease",
+    "relation": "associated_with",
+    "object": "downregulation of neurofilament, cytoskeleton, axon ensheathment, and myelin sheath"
+  },
+  {
+    "subject": "Late onset Pompe disease",
+    "relation": "associated_with",
+    "object": "upregulation of lysosome, autophagy, and mTOR pathways"
+  },
+  {
+    "subject": "Late onset Pompe disease",
+    "relation": "associated_with",
+    "object": "decreased L-arginine levels"
+  },
+  {
+    "subject": "Late onset Pompe disease",
+    "relation": "treated_by",
+    "object": "L-arginine supplementation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory failure"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "proximal muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory insufficiency"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "cardiac symptoms"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "gastrointestinal symptoms"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid α-glucosidase"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "mutations in the GAA gene"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "CRIM status"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "prognosis"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "response to enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Cognitive changes"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Executive function impairment"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Selective attention impairment"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Neurological involvement"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "National Institutes of Health Toolbox Cognition Battery (NIHT-CB)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Neuropsychological battery"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Brain imaging studies"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "hearing loss"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle symptoms"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "small fiber neuropathy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "large fiber neuropathy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "treatments"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": null
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "associated_with",
+    "object": "Infantile-onset Pompe Disease"
+  },
+  {
+    "subject": "Infantile-onset Pompe Disease",
+    "relation": "treated_by",
+    "object": "alglucosidase alfa"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Elevated creatine kinase (CK)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Elevated aspartate aminotransferase (AST)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Elevated alanine aminotransferase (ALT)"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Normal echocardiogram"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Normal electrocardiogram (EKG)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "Deficiency of acid alpha-glucosidase (GAA) enzyme"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Compound heterozygote genotype"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Homozygote genotype for the common splice site pathogenic variant (c.-32-13T>G)"
+  },
+  {
+    "subject": "Limb-girdle muscular dystrophies",
+    "relation": "has_symptom",
+    "object": "limb-girdle muscular weakness"
+  },
+  {
+    "subject": "Limb-girdle muscular dystrophies",
+    "relation": "treated_by",
+    "object": "next-generation sequencing"
+  },
+  {
+    "subject": "Limb-girdle muscular dystrophies",
+    "relation": "associated_with",
+    "object": "genetic variants"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "limb-girdle muscular weakness"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "next-generation sequencing"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "pathogenic variants in GAA gene"
+  },
+  {
+    "subject": "Limb-girdle muscular weakness",
+    "relation": "associated_with",
+    "object": "Limb-girdle muscular dystrophies"
+  },
+  {
+    "subject": "Limb-girdle muscular weakness",
+    "relation": "associated_with",
+    "object": "Late-onset Pompe disease"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "heart problems"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory difficulties"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "immune cell infiltration"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle damage"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "progressive cellular dysfunction"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "accumulation of glycogen in the lysosome"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "vacuolated myofibres"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid alpha-glucosidase"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "apoptosis"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "muscle regeneration"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "autophagy"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "defective oxidative phosphorylation"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "metabolic abnormalities"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Comorbidities"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Heart disease"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "Intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "MPS I",
+    "relation": "treated_by",
+    "object": "Intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "Comorbidities"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Heart disease"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Heart disease"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Heart disease"
+  },
+  {
+    "subject": "MPS I",
+    "relation": "associated_with",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "MPS I",
+    "relation": "associated_with",
+    "object": "Heart disease"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "cardiorespiratory failure"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "neuromuscular failure"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "reduced inspiratory tidal volumes"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "impaired cardiac volumes"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "absence of functional acid-α-glucosidase (GAA)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "glycogen accumulation in diaphragm muscle"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "abnormal glycans"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "neonatal gene therapy with adeno-associated virus serotype 9 (AAV9)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "AAV9-DES-GAA therapy"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "hyperCKemia"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "proximal muscle weakness"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "waddling gait"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "positive Gowers manoeuver"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "mild hypotrophy of the thighs"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "alglucosidase alfa"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "avalglucosidase alfa"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapy"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "vacuolar myopathy"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "tissue glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "elevation of urine Hex4"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficient lysosomal glycogen degradation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "late-onset phenotypes"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "infantile-onset phenotypes"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "avalglucosidase alfa"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "standard of care"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "motor impairment"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "alglucosidase alfa"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "avalglucosidase alfa"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_biomarker",
+    "object": "urinary hexose tetrasaccharide"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "late-onset Pompe disease"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "progressive skeletal muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory distress"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "cardiomyopathy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "acid alpha-glucosidase (GAA) deficiency"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy (ERT) with human recombinant GAA"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Centyrin-mediated delivery of Gys1 siRNA"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "lysosomal glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "impaired treadmill exercise performance"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Progressive muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Dyspnea"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "Deficiency of acid alpha-glucosidase (GAA) enzyme activity"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Disease-modifying treatments"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "diagnosed_by",
+    "object": "Dried blood spots (DBS) for GAA enzyme deficiency detection"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "diagnosed_by",
+    "object": "Genetic studies"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "diagnosed_by",
+    "object": "Next-generation sequencing"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "followed_up_by",
+    "object": "Functional studies"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Significant morbidity"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Impacts patients' quality of life"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "defects in alpha-glucosidase"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "abnormal glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Glycogen storage disease type II"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "proximal muscle weakness"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory failure"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "loss of ambulation"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "LOPD testing"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "deficient acid-α-glucosidase"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory failure"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "dyspnea"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "pneumonia"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "alglucosidase alfa"
+  },
+  {
+    "subject": "alglucosidase alfa",
+    "relation": "has_adverse_event",
+    "object": "pyrexia"
+  },
+  {
+    "subject": "alglucosidase alfa",
+    "relation": "has_adverse_event",
+    "object": "pneumonia"
+  },
+  {
+    "subject": "alglucosidase alfa",
+    "relation": "has_adverse_event",
+    "object": "dyspnea"
+  },
+  {
+    "subject": "alglucosidase alfa",
+    "relation": "has_adverse_event",
+    "object": "respiratory failure"
+  },
+  {
+    "subject": "alglucosidase alfa",
+    "relation": "has_adverse_event",
+    "object": "chronic recurrent multifocal osteomyelitis"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "alglucosidase alfa",
+    "relation": "associated_with",
+    "object": "infections and infestations"
+  },
+  {
+    "subject": "alglucosidase alfa",
+    "relation": "associated_with",
+    "object": "general disorders and administration-site conditions"
+  },
+  {
+    "subject": "alglucosidase alfa",
+    "relation": "associated_with",
+    "object": "respiratory, thoracic, and mediastinal disorders"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Alglucosidase alfa"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Decreased %FVC"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Poor 6MWT performance"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Delayed treatment initiation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "eyelid edema"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "flushing"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "avalglucosidase alfa"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "infusion-associated reactions"
+  },
+  {
+    "subject": "infusion-associated reactions",
+    "relation": "has_symptom",
+    "object": "eyelid edema"
+  },
+  {
+    "subject": "infusion-associated reactions",
+    "relation": "has_symptom",
+    "object": "flushing"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "adverse events"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "progressive weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory dysfunction"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "MZE001"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "mutations in the enzyme acid α-glucosidase (GAA)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "glycogen accumulation in muscle tissues"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "pathological accumulation of glycogen"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of lysosomal acid alpha-glucosidase"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "manifestations"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "supportive measures"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "pregnancy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_diagnosis_method",
+    "object": "laboratory diagnosis"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "requires",
+    "object": "multidisciplinary evaluation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "requires",
+    "object": "follow-up"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "requires",
+    "object": "monitoring"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "genetic insufficiency of the GAA enzyme"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "GAA enzyme replacement therapies"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "tissue glycogen disorder"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "poor lysosomal trafficking of the recombinant GAA molecule"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "has_symptom",
+    "object": "[Symptom]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "treated_by",
+    "object": "[Treatment]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "has_cause",
+    "object": "[Cause]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "associated_with",
+    "object": "[Associated Condition]"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "castanospermine-related drug candidates"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid alpha-glucosidase"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "aberrant accumulation of glycogen"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "reduced acid alpha-glucosidase activity"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Myozyme (alglucosidase alfa)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "avalglucosidase alfa (Nexviazyme)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "cipaglucosidase alfa (Pombiliti) with miglustat (Opfolda)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "tissue-targeted enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "substrate reduction therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorders"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "clinical decline"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "suboptimal responses"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "central nervous system involvement"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "progressive muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "limb weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory failure"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "limb-girdle muscular weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "myozyme"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "mutations in the acid α-glucosidase gene"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "inflammatory myopathy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "congenital metabolic disorder"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "neuromuscular disorders"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "has_symptom",
+    "object": "Muscle Weakness"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "has_cause",
+    "object": "SMN1 Gene Mutation"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "treated_by",
+    "object": "Gene Therapy"
+  },
+  {
+    "subject": "Duchenne Muscular Dystrophy",
+    "relation": "has_symptom",
+    "object": "Progressive Muscle Degeneration"
+  },
+  {
+    "subject": "Duchenne Muscular Dystrophy",
+    "relation": "has_cause",
+    "object": "Dystrophin Gene Mutation"
+  },
+  {
+    "subject": "Duchenne Muscular Dystrophy",
+    "relation": "treated_by",
+    "object": "Corticosteroids"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "has_symptom",
+    "object": "Muscle Weakness"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "has_cause",
+    "object": "Acid Alpha-Glucosidase Deficiency"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapy"
+  },
+  {
+    "subject": "X-linked Adrenoleukodystrophy",
+    "relation": "has_symptom",
+    "object": "Adrenal Insufficiency"
+  },
+  {
+    "subject": "X-linked Adrenoleukodystrophy",
+    "relation": "has_cause",
+    "object": "ABCD1 Gene Mutation"
+  },
+  {
+    "subject": "X-linked Adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Krabbe Disease",
+    "relation": "has_symptom",
+    "object": "Severe Neurological Symptoms"
+  },
+  {
+    "subject": "Krabbe Disease",
+    "relation": "has_cause",
+    "object": "Galactosylceramidase Deficiency"
+  },
+  {
+    "subject": "Krabbe Disease",
+    "relation": "treated_by",
+    "object": "Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Metachromatic Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Neurological Symptoms"
+  },
+  {
+    "subject": "Metachromatic Leukodystrophy",
+    "relation": "has_cause",
+    "object": "Arylsulfatase A Deficiency"
+  },
+  {
+    "subject": "Metachromatic Leukodystrophy",
+    "relation": "treated_by",
+    "object": "Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Myotonic Dystrophy 1",
+    "relation": "has_symptom",
+    "object": "Myotonia"
+  },
+  {
+    "subject": "Myotonic Dystrophy 1",
+    "relation": "has_cause",
+    "object": "CTG Repeat Expansion in DMPK Gene"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "skeletal muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "cardiomyopathy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "lack or deficiency of lysosomal acid alpha-glucosidase"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "respiratory muscle training (RMT)"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Bi-ventricular hypertrophy"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Elevated urine HEX-4"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Elevated CK"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Elevated liver transaminases"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Dose-intensive therapy"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Immune tolerization induction"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "Acid α-glucosidase enzyme activity deficiency"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Anti-rhGAA antibody formation"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Cross-reactive immunologic material status"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "motor difficulties"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "loss of mobility"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid alpha-glucosidase"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "lysosomal glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "damaged autophagic system"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "New clinical features"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "Next-generation treatments"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Metabolic storage disorders"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Respiratory problems"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "Deficiency of acid alpha-glucosidase enzyme"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Rehabilitation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Respiratory failure"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Cardiac issues"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "has_symptom",
+    "object": "Metabolic decompensation"
+  },
+  {
+    "subject": "Urea cycle disorders",
+    "relation": "has_symptom",
+    "object": "Acute metabolic decompensation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "has_symptom",
+    "object": "Acute metabolic decompensation"
+  },
+  {
+    "subject": "Glycogen storage disease type I",
+    "relation": "has_symptom",
+    "object": "Acute metabolic decompensation"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Fabry disease"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Pompe disease"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Gaucher disease"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Mitochondrial disorders"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Urea cycle disorders"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Phenylketonuria"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "treated_by",
+    "object": "Adult specialists trained in metabolic disorders"
+  },
+  {
+    "subject": "Huntington's disease",
+    "relation": "has_symptom",
+    "object": "oral expressions problems"
+  },
+  {
+    "subject": "scleroderma",
+    "relation": "has_symptom",
+    "object": "dexterity problems"
+  },
+  {
+    "subject": "myasthenia gravis",
+    "relation": "has_symptom",
+    "object": "muscle problems"
+  },
+  {
+    "subject": "neuromyelitis optica",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "multiple sclerosis",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Marfan syndrome",
+    "relation": "has_symptom",
+    "object": "self-image problems"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "safety concerns"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_symptom",
+    "object": "itching"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_symptom",
+    "object": "social relationships problems"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_symptom",
+    "object": "respiratory problems"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_symptom",
+    "object": "isolation"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_symptom",
+    "object": "muscle problems"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_symptom",
+    "object": "visual acuity problems"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_symptom",
+    "object": "fertility problems"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "treated_by",
+    "object": "EQ-5D-5L"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "assessed_by",
+    "object": "bolt-ons"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "impaired 6-min walk distance"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "cipaglucosidase alfa plus miglustat"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "alglucosidase alfa"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Heart condition"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Abnormal myocardial native T1 values"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Abnormal regions in myocardium"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "cardiac dysfunction"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "motor dysfunction"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory dysfunction"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory problems"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory problems"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid alpha-glucosidase (GAA)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "pathological glycogen storage"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "almost complete GAA deficiency"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "partial GAA activity"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "substrate reduction therapies"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "premature death"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "premature death by the age of 2 years without treatment"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "lentiviral vector-mediated hematopoietic stem and progenitor cell (HSPC) gene therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid alpha-glucosidase (GAA)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "accumulation of glycogen in lysosomes"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "heart problems"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "enzyme deficiency"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "congenital heart disease"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "urgent treatment"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "high creatine kinase levels"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "timely treatment initiation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Mitochondrial DNA depletion syndrome 12-A"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Immunodeficiency-71"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Niemann-Pick disease type C"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Group B Streptococcus meningitis"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "requirement for ventilatory support"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "requirement for ambulatory support"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "cipaglucosidase alfa plus miglustat"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "alglucosidase alfa"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "accumulation of glycogen"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "early mortality"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "reductions in mobility"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "respiratory function impairment"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_treatment",
+    "object": "Chaperone therapy"
+  },
+  {
+    "subject": "G<sub>M1</sub>-gangliosidosis",
+    "relation": "has_treatment",
+    "object": "Chaperone therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_treatment",
+    "object": "Enzyme Replacement Therapy (ERT)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_treatment",
+    "object": "Chaperone-ERT combination therapy"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_treatment",
+    "object": "Chaperone therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Protein misfolding"
+  },
+  {
+    "subject": "G<sub>M1</sub>-gangliosidosis",
+    "relation": "has_cause",
+    "object": "Protein misfolding"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "Protein misfolding"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "has_cause",
+    "object": "Protein misfolding"
+  },
+  {
+    "subject": "Lysosomal diseases",
+    "relation": "associated_with",
+    "object": "Protein misfolding diseases"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Lysosomal diseases"
+  },
+  {
+    "subject": "G<sub>M1</sub>-gangliosidosis",
+    "relation": "associated_with",
+    "object": "Lysosomal diseases"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Lysosomal diseases"
+  },
+  {
+    "subject": "Myasthenia Gravis",
+    "relation": "has_treatment",
+    "object": "Efgartigimod"
+  },
+  {
+    "subject": "Myasthenia Gravis",
+    "relation": "has_treatment",
+    "object": "Ravulizumab"
+  },
+  {
+    "subject": "Myasthenia Gravis",
+    "relation": "has_treatment",
+    "object": "Rozanolixizumab"
+  },
+  {
+    "subject": "Myasthenia Gravis",
+    "relation": "has_treatment",
+    "object": "Zilucoplan"
+  },
+  {
+    "subject": "Myasthenia Gravis",
+    "relation": "has_symptom",
+    "object": "Respiratory impairment"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "has_treatment",
+    "object": "Nusinersen"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "has_treatment",
+    "object": "Risdiplam"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "has_treatment",
+    "object": "Onasemnogene abeparvovec"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "has_symptom",
+    "object": "Respiratory impairment"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_treatment",
+    "object": "Avalglucosidase alfa"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_treatment",
+    "object": "Cipaglucosidase alfa"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_treatment",
+    "object": "Miglustat"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Respiratory impairment"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Ambulation impairment"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_treatment",
+    "object": "Sodium phenylbutyrate"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_treatment",
+    "object": "Tofersen"
+  },
+  {
+    "subject": "Myasthenia Gravis",
+    "relation": "has_cause",
+    "object": "Acetylcholine receptor antibody"
+  },
+  {
+    "subject": "Myasthenia Gravis",
+    "relation": "has_cause",
+    "object": "Muscle-specific tyrosine kinase antibodies"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "has_cause",
+    "object": "SMN2 gene mutation"
+  },
+  {
+    "subject": "Neuromuscular disorders",
+    "relation": "associated_with",
+    "object": "Respiratory impairment"
+  },
+  {
+    "subject": "Neuromuscular disorders",
+    "relation": "associated_with",
+    "object": "Morbidity"
+  },
+  {
+    "subject": "Neuromuscular disorders",
+    "relation": "associated_with",
+    "object": "Mortality"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "functional limitations"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "skeletal muscle issues"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "alglucosidase alfa"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "avalglucosidase alfa"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid alpha-glucosidase"
+  },
+  {
+    "subject": "infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "severe symptoms"
+  },
+  {
+    "subject": "late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "less severe symptoms"
+  },
+  {
+    "subject": "NBS conditions",
+    "relation": "has_symptom",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Severe combined immunodeficiencies",
+    "relation": "associated_with",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Congenital hypothyroidism",
+    "relation": "associated_with",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "NBS conditions",
+    "relation": "treated_by",
+    "object": "Part C Early Intervention"
+  },
+  {
+    "subject": "NBS conditions",
+    "relation": "treated_by",
+    "object": "private therapies"
+  },
+  {
+    "subject": "NBS conditions",
+    "relation": "treated_by",
+    "object": "school-based services"
+  },
+  {
+    "subject": "NBS conditions",
+    "relation": "treated_by",
+    "object": "medical care"
+  },
+  {
+    "subject": "NBS conditions",
+    "relation": "has_cause",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "progressive muscle degeneration"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency in the acid α-glucosidase (GAA) enzyme"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "alglucosidase alfa"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "cipaglucosidase alfa plus miglustat"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "lysosomal glycogen accumulation"
+  },
+  {
+    "subject": "deficiency in the acid α-glucosidase (GAA) enzyme",
+    "relation": "associated_with",
+    "object": "lysosomal glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "progressive muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "metabolic dysregulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "abnormal glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "glucose intolerance"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "reduced spontaneous activity"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid alpha-glucosidase (GAA)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "GYS1 inhibitor (MZ-101)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "glycogen storage disorders"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "insulin sensitivity issues"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Physical Function impairment"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Depression/anxiety"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Self-care impairment"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Usual activities impairment"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Ability to move around impairment"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Cipaglucosidase alfa plus miglustat"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Alglucosidase alfa"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "Autosomal recessive genetic disorder"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Impaired health-related quality of life"
+  },
+  {
+    "subject": "Classic infantile Pompe disease",
+    "relation": "has_symptom",
+    "object": "cognitive deficits"
+  },
+  {
+    "subject": "Classic infantile Pompe disease",
+    "relation": "has_symptom",
+    "object": "white matter lesions"
+  },
+  {
+    "subject": "Classic infantile Pompe disease",
+    "relation": "has_cause",
+    "object": "deficit in acid α-glucosidase"
+  },
+  {
+    "subject": "Classic infantile Pompe disease",
+    "relation": "treated_by",
+    "object": "recombinant human acid α-glucosidase"
+  },
+  {
+    "subject": "Classic infantile Pompe disease",
+    "relation": "associated_with",
+    "object": "glycogen accumulation"
+  },
+  {
+    "subject": "Classic infantile Pompe disease",
+    "relation": "associated_with",
+    "object": "neuronal damage"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "has_symptom",
+    "object": "abnormal glycogen accumulation"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "has_symptom",
+    "object": "multiple tissues affected"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "has_symptom",
+    "object": "liver affected"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "has_symptom",
+    "object": "skeletal muscle affected"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "has_symptom",
+    "object": "heart affected"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "has_symptom",
+    "object": "CNS pathology"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "has_cause",
+    "object": "defects in glycogen metabolism"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "associated_with",
+    "object": "central nervous system pathology"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "treated_by",
+    "object": "substrate reduction therapy"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "treated_by",
+    "object": "small molecule drugs"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "neurological-GSDs",
+    "relation": "has_symptom",
+    "object": "spectrum of clinical presentations"
+  },
+  {
+    "subject": "neurological-GSDs",
+    "relation": "has_cause",
+    "object": "deficits in neurological glycogen metabolism"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "has_symptom",
+    "object": "progressive myopathy"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "has_symptom",
+    "object": "early respiratory involvement"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "has_symptom",
+    "object": "axial and proximal weakness"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "has_symptom",
+    "object": "respiratory insufficiency"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "has_cause",
+    "object": "deficiency of the enzyme acid alpha-glucosidase"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "associated_with",
+    "object": "partial GAA deficiency"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "generalized hypotonia"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "macroglossia"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "hyporeflexia"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "mild left ventricular hypertrophy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "motor development delay"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "frequent falls"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "grip strength alterations"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "acid alpha-glucosidase deficiency"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "methotrexate"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "anti-recombinant human acid alpha-glucosidase antibodies"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "Deficiency of GAA"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Glycogen storage disease type II"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Altered levels of miR-206"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Altered levels of miR-133"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Altered levels of miR-1a"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Altered levels of miR-486"
+  },
+  {
+    "subject": "Nemaline myopathy",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Nemaline myopathy",
+    "relation": "has_symptom",
+    "object": "respiratory distress"
+  },
+  {
+    "subject": "Nemaline myopathy",
+    "relation": "has_symptom",
+    "object": "axial and peripheral hypotonia"
+  },
+  {
+    "subject": "Nemaline myopathy",
+    "relation": "has_symptom",
+    "object": "tongue fasciculations"
+  },
+  {
+    "subject": "Nemaline myopathy",
+    "relation": "has_symptom",
+    "object": "rhabdomyolysis"
+  },
+  {
+    "subject": "Nemaline myopathy",
+    "relation": "associated_with",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Nemaline myopathy",
+    "relation": "associated_with",
+    "object": "psychomotor retardation"
+  },
+  {
+    "subject": "Nemaline myopathy",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "Nemaline myopathy",
+    "relation": "treated_by",
+    "object": "mechanical ventilation"
+  },
+  {
+    "subject": "Nemaline myopathy",
+    "relation": "treated_by",
+    "object": "muscle biopsy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "motor impairment"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "premature death"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "severe cellular damage"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "GAA deficiency"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "therapeutic chaperones"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Sleeve gastrectomy"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Obesity",
+    "relation": "treated_by",
+    "object": "Sleeve gastrectomy"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Respiratory dysfunction"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "Unknown/Not mentioned in the abstract"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "clinical features"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "mutations in GAA gene"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "low acid alpha-glucosidase enzyme activity"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "genetic variants of uncertain significance (GVUS)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "new diagnostic/therapeutic proposals"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Difficulty swallowing"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Difficulty speaking"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Scoliosis"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Declining physical functioning"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Lower quality of life"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Use of mobility aids"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Use of ventilation aids"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "Autosomal recessive metabolic disorder"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "avalglucosidase alfa"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Respiratory dysfunction"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "GAA gene mutation"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Pompe disease"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Pompe disease"
+  },
+  {
+    "subject": "Glycogen storage disease type 5",
+    "relation": "has_symptom",
+    "object": "exercise intolerance"
+  },
+  {
+    "subject": "Glycogen storage disease type 5",
+    "relation": "has_symptom",
+    "object": "second wind phenomenon"
+  },
+  {
+    "subject": "Glycogen storage disease type 5",
+    "relation": "has_symptom",
+    "object": "camptocormia"
+  },
+  {
+    "subject": "Glycogen storage disease type 5",
+    "relation": "has_symptom",
+    "object": "axial myopathy"
+  },
+  {
+    "subject": "Glycogen storage disease type 5",
+    "relation": "has_cause",
+    "object": "pathogenic variants in the PYGM gene"
+  },
+  {
+    "subject": "Glycogen storage disease type 5",
+    "relation": "associated_with",
+    "object": "Pompe disease"
+  },
+  {
+    "subject": "Glycogen storage disease type 5",
+    "relation": "has_cause",
+    "object": "c.148C > T [p.(Arg50*)] variant"
+  },
+  {
+    "subject": "Glycogen storage disease type 5",
+    "relation": "has_cause",
+    "object": "missense variant in exon 12, c.1471C > T [p.(Arg491Cys)]"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Decline of physical QoL"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Change in overall health state"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "Change in mental QoL"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Being female"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Being employed or at school"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Higher score of physical QoL at baseline"
+  },
+  {
+    "subject": "Late-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "Higher score of overall health state at baseline"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "has_cause",
+    "object": "ABCD1 gene variant"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "associated_with",
+    "object": "ABCD1 gene variant of unknown significance"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "pseudodeficiency alleles"
+  },
+  {
+    "subject": "Mucopolysaccharidosis II",
+    "relation": "associated_with",
+    "object": "pseudodeficiency alleles"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "associated_with",
+    "object": "pseudodeficiency alleles"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Impaired Activities of Daily Living"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "Mobility issues"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "GAA gene mutation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Difficulty in practicing sports"
+  },
+  {
+    "subject": "Genetic neuromuscular disorders",
+    "relation": "has_symptom",
+    "object": "polyhydramnios"
+  },
+  {
+    "subject": "Genetic neuromuscular disorders",
+    "relation": "has_symptom",
+    "object": "preterm labor"
+  },
+  {
+    "subject": "Genetic neuromuscular disorders",
+    "relation": "has_symptom",
+    "object": "miscarriages"
+  },
+  {
+    "subject": "Genetic neuromuscular disorders",
+    "relation": "has_symptom",
+    "object": "cesarean sections"
+  },
+  {
+    "subject": "Genetic neuromuscular disorders",
+    "relation": "has_symptom",
+    "object": "disease symptom exacerbation"
+  },
+  {
+    "subject": "Myotonic dystrophy type 1",
+    "relation": "has_symptom",
+    "object": "neonatal risks"
+  },
+  {
+    "subject": "Spinal muscular atrophy",
+    "relation": "has_symptom",
+    "object": "exacerbated muscle weakness"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "associated_with",
+    "object": "preterm labor"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "associated_with",
+    "object": "cesarean deliveries"
+  },
+  {
+    "subject": "Limb-girdle muscular dystrophy",
+    "relation": "associated_with",
+    "object": "preterm labor"
+  },
+  {
+    "subject": "Limb-girdle muscular dystrophy",
+    "relation": "associated_with",
+    "object": "cesarean deliveries"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "exacerbated symptoms"
+  },
+  {
+    "subject": "Non-dystrophic myotonias",
+    "relation": "has_symptom",
+    "object": "fetal distress"
+  },
+  {
+    "subject": "Non-dystrophic myotonias",
+    "relation": "has_symptom",
+    "object": "postpartum complications"
+  },
+  {
+    "subject": "Genetic neuromuscular disorders",
+    "relation": "treated_by",
+    "object": "multidisciplinary care between neurologists and obstetricians"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_cause",
+    "object": "mutations in sarcomeric proteins"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "abnormal thickening of the left ventricular wall"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "associated_with",
+    "object": "cardiac amyloidosis"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Fabry disease"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "associated_with",
+    "object": "mitochondrial myopathies"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "treated_by",
+    "object": "personalized management strategies"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "treated_by",
+    "object": "cardiac magnetic resonance"
+  },
+  {
+    "subject": "Late-onset Pompe Disease",
+    "relation": "has_symptom",
+    "object": "Mobility alterations"
+  },
+  {
+    "subject": "Late-onset Pompe Disease",
+    "relation": "has_symptom",
+    "object": "Lower speed in walking"
+  },
+  {
+    "subject": "Late-onset Pompe Disease",
+    "relation": "has_symptom",
+    "object": "Postural transition difficulties"
+  },
+  {
+    "subject": "Late-onset Pompe Disease",
+    "relation": "has_symptom",
+    "object": "Turning lower performances"
+  },
+  {
+    "subject": "Late-onset Pompe Disease",
+    "relation": "has_symptom",
+    "object": "Gait alterations"
+  },
+  {
+    "subject": "Late-onset Pompe Disease",
+    "relation": "treated_by",
+    "object": "Mobile health technology (MHT) assessment"
+  },
+  {
+    "subject": "Late-onset Pompe Disease",
+    "relation": "associated_with",
+    "object": "Subtle mobility alterations"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_symptom",
+    "object": "Restlessness"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_symptom",
+    "object": "Confusion"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_symptom",
+    "object": "Anxiety"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_symptom",
+    "object": "Depression"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_symptom",
+    "object": "Mood swings"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_symptom",
+    "object": "Palpitations"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_symptom",
+    "object": "Nausea"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_symptom",
+    "object": "Vomiting"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_symptom",
+    "object": "Fatigue"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "treated_by",
+    "object": "AI-based Human-in-the-Loop screening"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "has_cause",
+    "object": "Genetic"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "associated_with",
+    "object": "Psychological symptoms"
+  },
+  {
+    "subject": "Acute Hepatic Porphyria",
+    "relation": "associated_with",
+    "object": "Psychosomatic symptoms"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lyso-Gb3"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "lyso-Gb1"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "psychosine"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "Glc4"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "symptoms"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "symptoms"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "symptoms"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "symptoms"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "treatment"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "Cardiac involvement"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "Skeletal muscle involvement"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "Bone and joint involvement"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "Adeno-associated viral vector-mediated gene therapy"
+  },
+  {
+    "subject": "Danon disease",
+    "relation": "treated_by",
+    "object": "Adeno-associated viral vector-mediated gene therapy"
+  },
+  {
+    "subject": "Maroteaux-Lamy syndrome",
+    "relation": "treated_by",
+    "object": "Adeno-associated viral vector-mediated gene therapy"
+  },
+  {
+    "subject": "Morquio A syndrome",
+    "relation": "treated_by",
+    "object": "Adeno-associated viral vector-mediated gene therapy"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Cardiovascular disease"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Musculoskeletal disease"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "elevated left ventricular mass index"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "elevated urine glucose tetrasaccharide"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "elevated creatine kinase"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "elevated aspartate aminotransferase"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency in acid alpha-glucosidase"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "high antibody titers"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "alglucosidase-alfa"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "avalglucosidase-alfa"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "immune tolerance induction"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "associated_with",
+    "object": "CRIM-negative status"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "lysosomal glycogen accumulation"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "heart and skeletal muscles"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "accumulation of glycogen in various tissues"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid α-glucosidase (GAA)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "glycogen storage disease type II"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_subtype",
+    "object": "infantile-onset Pompe disease (IOPD)"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_subtype",
+    "object": "late-onset Pompe disease (LOPD)"
+  },
+  {
+    "subject": "infantile-onset Pompe disease (IOPD)",
+    "relation": "has_symptom",
+    "object": "lower GAA activity in skeletal muscles"
+  },
+  {
+    "subject": "infantile-onset Pompe disease (IOPD)",
+    "relation": "has_symptom",
+    "object": "higher glycogen content levels in skeletal muscles"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "GAA activity measurement"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "quantifying GAA activity and glycogen content in skeletal muscle"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "respiratory decline"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "motor decline"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "mutations in the GAA gene"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "alglucosidase alfa"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "new ERTs with increased levels of M6P"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "deficiency of acid α glucosidase"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "glycogen breakdown impairment"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "glycogen buildup"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "heart harm"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "muscle harm"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_cause",
+    "object": "enzyme deficiency"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "treated_by",
+    "object": "urgent treatment"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "congenital heart disease"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "associated_with",
+    "object": "high creatine kinase levels"
+  },
+  {
+    "subject": "Infantile-onset Pompe disease",
+    "relation": "has_symptom",
+    "object": "particular symptoms"
+  },
+  {
+    "subject": "Inclusion body myositis",
+    "relation": "has_treatment",
+    "object": "Arimoclomol"
+  },
+  {
+    "subject": "Inclusion body myositis",
+    "relation": "has_treatment",
+    "object": "Janus kinase inhibitors"
+  },
+  {
+    "subject": "Dermatomyositis",
+    "relation": "has_treatment",
+    "object": "Janus kinase inhibitors"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_treatment",
+    "object": "Gene replacement therapy"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_treatment",
+    "object": "Tamoxifen"
+  },
+  {
+    "subject": "X-linked myotubular myopathy",
+    "relation": "has_treatment",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Muscular dystrophy",
+    "relation": "has_cause",
+    "object": "3-hydroxy-3-methylglutaryl-CoA reductase mutations"
+  },
+  {
+    "subject": "GNE myopathy",
+    "relation": "associated_with",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_treatment",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Becker muscular dystrophy",
+    "relation": "has_management",
+    "object": "Comprehensive management"
+  },
+  {
+    "subject": "Adult Duchenne muscular dystrophy",
+    "relation": "associated_with",
+    "object": "Gastrointestinal complications"
+  },
+  {
+    "subject": "Immune checkpoint inhibitor neuromuscular complications",
+    "relation": "has_treatment",
+    "object": "Targeted therapy"
+  },
+  {
+    "subject": "Inclusion body myositis",
+    "relation": "associated_with",
+    "object": "Anti-cN1A antibodies"
+  }
+]

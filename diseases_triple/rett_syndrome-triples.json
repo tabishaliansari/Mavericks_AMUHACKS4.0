@@ -1,0 +1,3422 @@
+[
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "microcephaly"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "visual recognition impairment"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "deterioration of motor function"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "methyl-CpG-binding protein 2 gene abnormalities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "altered synapse development"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "regional brain volume abnormalities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "cortical-dominant volume reduction"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "depression"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 mutations"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "menopause"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "detailed attention to medical and social care"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "quality care"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "functional decline"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "RTT-like phenotypes"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "NGN-401 gene therapy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "adeno-associated virus serotype 9 (AAV9) construct"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "MECP2 overexpression"
+  },
+  {
+    "subject": "MECP2 overexpression",
+    "relation": "has_symptom",
+    "object": "adverse effects"
+  },
+  {
+    "subject": "NGN-401 gene therapy",
+    "relation": "has_treatment_method",
+    "object": "intracerebroventricular injection"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Impaired bone health"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Low bone mineral density"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Reduced lumbar BMD"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Poor mobility"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Osteoporosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "Valproate treatment"
+  },
+  {
+    "subject": "Osteoporosis in Rett syndrome",
+    "relation": "treated_by",
+    "object": "Zoledronate"
+  },
+  {
+    "subject": "Low bone mineral density",
+    "relation": "associated_with",
+    "object": "Lower anthropometric measurements"
+  },
+  {
+    "subject": "Low bone mineral density",
+    "relation": "associated_with",
+    "object": "Impaired mobility"
+  },
+  {
+    "subject": "Low bone mineral density",
+    "relation": "associated_with",
+    "object": "Valproic acid use"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_cause",
+    "object": "duplications of the MECP2 gene"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral impairments"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_symptom",
+    "object": "early mortality"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "associated_with",
+    "object": "Rett syndrome"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "treated_by",
+    "object": "small interfering RNAs (siRNAs)"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "treated_by",
+    "object": "total isoform-silencing siRNA"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "treated_by",
+    "object": "isoform-selective siRNA"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MeCP2 mutations"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Neurological disorder"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "MeCP2 level changes"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Heterochromatin organization changes"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "variants in the MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "General Mood"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Breathing Problems"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Hand Behaviours"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Body Rocking"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Expressionless Face"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Breathing Problems"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Hand Behaviours"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Body Rocking"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Expressionless Face"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "General Mood"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "developmental regression"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "stereotypic hand movements"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "microcephaly"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "macrocephaly"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "loss of speech"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "impaired social interactions"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "intractable epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "mild osteopenia"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "central precocious puberty"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "hyperostosis frontalis interna (HFI)"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "hormonal dysregulation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "leuprorelin acetate"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "anti-seizure medication (ASM)"
+  },
+  {
+    "subject": "intractable epilepsy",
+    "relation": "treated_by",
+    "object": "multiple ASMs"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "dental pain"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Intellectual and developmental disabilities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 mutation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "professional dental care"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "at-home oral care"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "loss-of-function mutations in the methyl-CpG binding protein 2 (MeCP2) gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "respiratory phenotypes"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "apneas"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "lethality"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "M1 positive allosteric modulator (PAM) VU0453595 (VU595)"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "hyperactivity in brain regions that regulate respiration"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "excessive neuronal activity in cardiorespiratory nuclei"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "respiratory distress"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "motor function disorders"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive disorders"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "apneic events"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "respiratory irregularity"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the X-linked gene encoding the methyl-CpG-binding protein 2 (MECP2)"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "NLX-101"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "neurological defects"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "severe motor impairments"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive impairments"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "emotional impairments"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "fine motor deficits"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_cause",
+    "object": "loss-of-function mutations in the MECP2 gene"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "altered prefrontal cortex connectivity"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "changes in cortical connections"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "environmental enrichment"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral dysfunction"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "nausea"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "irritability"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "esketamine"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "N-Methyl-d-aspartate receptor"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MeCP2 mutations"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental disorder"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "MeCP2 dysfunction"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "pneumothorax"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "respiratory failure"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "pneumonia"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "ileus"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "acute kidney injury"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "urinary tract infections"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "posterior spinal fusion (PSF)"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "neuromuscular scoliosis (NMS)"
+  },
+  {
+    "subject": "scoliosis",
+    "relation": "treated_by",
+    "object": "posterior spinal fusion (PSF)"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_complication",
+    "object": "transfusion"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 mutations"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "small-intermediate structural variants (SVs)"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "similar neurodevelopmental disorders"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Scoliosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Gross motor dysfunction"
+  },
+  {
+    "subject": "Scoliosis",
+    "relation": "treated_by",
+    "object": "Surgical intervention"
+  },
+  {
+    "subject": "Scoliosis",
+    "relation": "treated_by",
+    "object": "Home exercise program"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Scoliosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "no verbal communication"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "unable to use hands"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "repetitive hand movements"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "unable to walk"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "impaired balance"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "mood disturbance"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "constipation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "limited ability to use hands"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "trofinetide"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorder"
+  },
+  {
+    "subject": "Rett syndrome scoliosis",
+    "relation": "has_symptom",
+    "object": "deformity"
+  },
+  {
+    "subject": "Rett syndrome scoliosis",
+    "relation": "has_symptom",
+    "object": "Cobb angle"
+  },
+  {
+    "subject": "Rett syndrome scoliosis",
+    "relation": "treated_by",
+    "object": "bipolar minimally invasive fusionless surgery"
+  },
+  {
+    "subject": "Rett syndrome scoliosis",
+    "relation": "treated_by",
+    "object": "posterior spinal fusion (PSF)"
+  },
+  {
+    "subject": "Rett syndrome scoliosis",
+    "relation": "treated_by",
+    "object": "traditional growing rods (TGRs)"
+  },
+  {
+    "subject": "Rett syndrome scoliosis",
+    "relation": "has_cause",
+    "object": "Rett syndrome"
+  },
+  {
+    "subject": "Rett syndrome scoliosis",
+    "relation": "associated_with",
+    "object": "skeletal maturity"
+  },
+  {
+    "subject": "Rett syndrome scoliosis",
+    "relation": "has_complication",
+    "object": "surgical complication"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the X-linked methyl-CpG binding protein 2 (MECP2) gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "osteoporosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "hip displacement"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "fragility fractures"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "low bone mineral density"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "dysfunctional osteoblast activity"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "immobilization"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "low physical activity"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "poor nutrition"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "inadequate vitamin D intake"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "nutritional interventions"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "pharmacological interventions"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "surgical interventions"
+  },
+  {
+    "subject": "fragility fractures",
+    "relation": "has_cause",
+    "object": "reduced BMD"
+  },
+  {
+    "subject": "fragility fractures",
+    "relation": "has_cause",
+    "object": "diminished bone size"
+  },
+  {
+    "subject": "low bone mineral density",
+    "relation": "has_cause",
+    "object": "slow rate of bone formation"
+  },
+  {
+    "subject": "low bone mineral density",
+    "relation": "has_cause",
+    "object": "dysfunctional osteoblast activity"
+  },
+  {
+    "subject": "Head and Neck Cancer",
+    "relation": "has_symptom",
+    "object": "Cancer of the tongue"
+  },
+  {
+    "subject": "Head and Neck Cancer",
+    "relation": "has_symptom",
+    "object": "Cancer of the trachea"
+  },
+  {
+    "subject": "Head and Neck Cancer",
+    "relation": "associated_with",
+    "object": "Intellectual Disability"
+  },
+  {
+    "subject": "Head and Neck Cancer",
+    "relation": "treated_by",
+    "object": "Post-operative supportive dental care"
+  },
+  {
+    "subject": "Head and Neck Cancer",
+    "relation": "treated_by",
+    "object": "Cancer diagnosis and treatment"
+  },
+  {
+    "subject": "Head and Neck Cancer",
+    "relation": "has_cause",
+    "object": "Increased barriers of access to healthcare"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Intellectual Disability"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Head and Neck Cancer"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "decreased dendritic morphogenesis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "dendritic anomalies"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "dendritic pathology"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorder"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "miR-199a expression"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive regression"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "motor skill regression"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "neurobehavioral impairments"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutation in MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "CGS21680"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "X-linked genetic disorder"
+  },
+  {
+    "subject": "CGS21680",
+    "relation": "has_mechanism",
+    "object": "activation of A2AR receptor"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_pathway",
+    "object": "BDNF-TrkB signaling pathway"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "has_symptom",
+    "object": "Intellectual disorder"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "has_symptom",
+    "object": "Lingual difficulties"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "has_symptom",
+    "object": "Social difficulties"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "has_symptom",
+    "object": "Motor difficulties"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "has_symptom",
+    "object": "Disruptive behavior"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "has_symptom",
+    "object": "Verbal skills problems"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "has_cause",
+    "object": "MECP2 variants"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "has_cause",
+    "object": "MECP2 mutation"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "associated_with",
+    "object": "Rett syndrome"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "treated_by",
+    "object": "Medical treatment"
+  },
+  {
+    "subject": "MECP2 related disorder",
+    "relation": "treated_by",
+    "object": "Non-medical treatment"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "has_symptom",
+    "object": "Atypical motor development"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "Atypical motor development"
+  },
+  {
+    "subject": "Autism Spectrum Disorder",
+    "relation": "associated_with",
+    "object": "Motor impairments"
+  },
+  {
+    "subject": "Neurodevelopmental conditions",
+    "relation": "has_symptom",
+    "object": "Atypical motor development"
+  },
+  {
+    "subject": "Neurodevelopmental conditions",
+    "relation": "treated_by",
+    "object": "Early intervention"
+  },
+  {
+    "subject": "Neurodevelopmental conditions",
+    "relation": "treated_by",
+    "object": "Early diagnosis"
+  },
+  {
+    "subject": "Motor impairments",
+    "relation": "diagnosed_by",
+    "object": "Traditional clinical assessments"
+  },
+  {
+    "subject": "Motor impairments",
+    "relation": "diagnosed_by",
+    "object": "Automated technologies"
+  },
+  {
+    "subject": "Pediatric care",
+    "relation": "improved_by",
+    "object": "Automated detections"
+  },
+  {
+    "subject": "Classical Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the MECP2 gene"
+  },
+  {
+    "subject": "Classical Rett syndrome",
+    "relation": "has_symptom",
+    "object": "RTT phenotype"
+  },
+  {
+    "subject": "Classical Rett syndrome",
+    "relation": "has_symptom",
+    "object": "motor deficit"
+  },
+  {
+    "subject": "Classical Rett syndrome",
+    "relation": "has_symptom",
+    "object": "defects in neuromuscular junction organization"
+  },
+  {
+    "subject": "Classical Rett syndrome",
+    "relation": "associated_with",
+    "object": "lack of gene expression control"
+  },
+  {
+    "subject": "Classical Rett syndrome",
+    "relation": "treated_by",
+    "object": "Environmental enrichment"
+  },
+  {
+    "subject": "Classical Rett syndrome",
+    "relation": "treated_by",
+    "object": "treatment with young plasma"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "CDKL5 deficiency disorder",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "PCDH19-related epilepsy",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "subcortical band heterotopia",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "periventricular heterotopia",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Aicardi syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "juvenile myoclonic epilepsy",
+    "relation": "has_symptom",
+    "object": "myoclonus"
+  },
+  {
+    "subject": "epilepsy",
+    "relation": "treated_by",
+    "object": "tailored treatment approach"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "genetic variant"
+  },
+  {
+    "subject": "CDKL5 deficiency disorder",
+    "relation": "has_cause",
+    "object": "CDKL5 gene mutation"
+  },
+  {
+    "subject": "PCDH19-related epilepsy",
+    "relation": "has_cause",
+    "object": "PCDH19 gene mutation"
+  },
+  {
+    "subject": "epilepsy in female individuals",
+    "relation": "associated_with",
+    "object": "X chromosome genetic variant"
+  },
+  {
+    "subject": "idiopathic generalized epilepsies",
+    "relation": "associated_with",
+    "object": "complex inheritance"
+  },
+  {
+    "subject": "juvenile myoclonic epilepsy",
+    "relation": "associated_with",
+    "object": "thousands of variants in genes throughout the genome"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in methyl-CpG-binding protein 2 (MeCP2)"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "Disruption of intragenic methylation-independent gene regulation by MeCP2"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Disrupted gene transcription"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Transcriptional repression of genes enriched for neuronal functions"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "trofinetide"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "associated_with",
+    "object": "neurogenetic syndromes"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Autism spectrum disorder"
+  },
+  {
+    "subject": "Autism spectrum disorder",
+    "relation": "has_cause",
+    "object": "neurobiology"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in MeCP2"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "altered barrier function"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "higher permeability"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "hyperpermeability"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "vascular impairment"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "neurodegenerative disease"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "rescue of miR126-3p level"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive impairments"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "motor impairments"
+  },
+  {
+    "subject": "CDKL5 deficiency syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive impairments"
+  },
+  {
+    "subject": "CDKL5 deficiency syndrome",
+    "relation": "has_symptom",
+    "object": "motor impairments"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "disruptions in neuroepigenetic processes"
+  },
+  {
+    "subject": "CDKL5 deficiency syndrome",
+    "relation": "has_cause",
+    "object": "disruptions in neuroepigenetic processes"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "environmental enrichment"
+  },
+  {
+    "subject": "CDKL5 deficiency syndrome",
+    "relation": "treated_by",
+    "object": "environmental enrichment"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "CDKL5 deficiency syndrome",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "neurological disorders"
+  },
+  {
+    "subject": "CDKL5 deficiency syndrome",
+    "relation": "associated_with",
+    "object": "neurological disorders"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "neuromuscular scoliosis"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "has_symptom",
+    "object": "neuromuscular scoliosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "posterior spinal fusion"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "treated_by",
+    "object": "posterior spinal fusion"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "nonverbal"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "nonambulatory"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "associated_with",
+    "object": "nonverbal"
+  },
+  {
+    "subject": "Cerebral palsy",
+    "relation": "associated_with",
+    "object": "nonambulatory"
+  },
+  {
+    "subject": "neuromuscular scoliosis",
+    "relation": "treated_by",
+    "object": "posterior spinal fusion"
+  },
+  {
+    "subject": "nonambulatory status",
+    "relation": "has_cause",
+    "object": "postoperative complication"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Cerebral palsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "loss of function MECP2 mutations"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorder"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "depression"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Methylmalonic acidaemia",
+    "relation": "has_symptom",
+    "object": "Neuroregression"
+  },
+  {
+    "subject": "Methylmalonic acidaemia",
+    "relation": "has_symptom",
+    "object": "Neurodegenerative disorders"
+  },
+  {
+    "subject": "Methylmalonic acidaemia",
+    "relation": "treated_by",
+    "object": "Low-protein diet"
+  },
+  {
+    "subject": "Methylmalonic acidaemia",
+    "relation": "treated_by",
+    "object": "Vitamin B12"
+  },
+  {
+    "subject": "Methylmalonic acidaemia",
+    "relation": "treated_by",
+    "object": "Levocarnitine"
+  },
+  {
+    "subject": "Methylmalonic acidaemia",
+    "relation": "has_cause",
+    "object": "Abnormal neurometabolism"
+  },
+  {
+    "subject": "Methylmalonic acidaemia",
+    "relation": "associated_with",
+    "object": "Rett syndrome"
+  },
+  {
+    "subject": "Methylmalonic acidaemia",
+    "relation": "associated_with",
+    "object": "Neurodegenerative disorders"
+  },
+  {
+    "subject": "Methylmalonic acidaemia",
+    "relation": "has_symptom",
+    "object": "Acute gastroenteritis"
+  },
+  {
+    "subject": "Rare Disease",
+    "relation": "has_research_infrastructure",
+    "object": "Washington University in St. Louis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "constipation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "gas and bloating"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "issues with eating, chewing and swallowing"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "irritability because of stomach or intestinal problems"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "proton pump inhibitors"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "laxatives"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "surgical interventions"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "GI problems"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "gastrointestinal issues"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "developmental regression of spoken language"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "hand stereotypies"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "impaired ambulation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "breathing irregularities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "constipation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "trofinetide"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in MECP2"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "MeCP2 deficiency"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "reductions in brain size"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "global decreases in neuronal size"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "alterations in multiple neurotransmitter systems"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "motor impairment"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "sensory abnormalities"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "clasping"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "gait abnormalities"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "hypersensitivity"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "hyposensitivity"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_cause",
+    "object": "Mecp2 mutation"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "central deficits in modulation of endogenous analgesia"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "decreased neuronal activation in periaqueductal gray"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "lower expression of cannabinoid receptor 1 (CB1)"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "hip displacement"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "foot deformities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "knee problems"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 gene mutations"
+  },
+  {
+    "subject": "Scoliosis",
+    "relation": "associated_with",
+    "object": "MECP2 positivity"
+  },
+  {
+    "subject": "Scoliosis",
+    "relation": "associated_with",
+    "object": "older age"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "musculoskeletal abnormalities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "stereotypical hand movements"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "communication impairment"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "breathing abnormalities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "bruxism"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal tone"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "inappropriate laughing"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "autism spectrum disorder"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 mutation"
+  },
+  {
+    "subject": "Diabetes mellitus type 1",
+    "relation": "has_symptom",
+    "object": "polydipsia"
+  },
+  {
+    "subject": "Diabetes mellitus type 1",
+    "relation": "has_symptom",
+    "object": "polyuria"
+  },
+  {
+    "subject": "Diabetes mellitus type 1",
+    "relation": "has_symptom",
+    "object": "decreased appetite"
+  },
+  {
+    "subject": "Diabetes mellitus type 1",
+    "relation": "has_symptom",
+    "object": "hyperglycemia"
+  },
+  {
+    "subject": "Diabetes mellitus type 1",
+    "relation": "has_symptom",
+    "object": "ketonuria"
+  },
+  {
+    "subject": "Diabetes mellitus type 1",
+    "relation": "treated_by",
+    "object": "fluid resuscitation"
+  },
+  {
+    "subject": "Diabetes mellitus type 1",
+    "relation": "treated_by",
+    "object": "insulin therapy"
+  },
+  {
+    "subject": "Diabetes mellitus type 1",
+    "relation": "treated_by",
+    "object": "continuous subcutaneous insulin infusion"
+  },
+  {
+    "subject": "Diabetes mellitus type 1",
+    "relation": "has_cause",
+    "object": "autoimmune"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Diabetes mellitus type 1"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "speech-language abnormalities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "stagnation and regression in speech-language development"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "deviations in density and distribution of inspiratory and high-pitched vocalizations"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "decrease in vocalization quantity, complexity, and variability"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "atypical development"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "early stagnation and regression"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Trofinetide"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_treatment_regimen",
+    "object": "Weight-banded dosing regimen"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "Loss-of-function mutations in the MeCP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "motor impairment"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "communication impairment"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "non-random X chromosome inactivation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "alterations in metabolic pathways"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "down-regulation of genes associated with the extracellular matrix (ECM) and cytoskeletal components"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "changes in microtubule-related gene expression and alternative splicing events"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "up-regulation of ketone body synthesis and degradation pathways"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "increase in free fatty acid levels"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal liver enzymes"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "dyslipidemia"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "steatotic liver disease"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "hepatic steatosis"
+  },
+  {
+    "subject": "dyslipidemia",
+    "relation": "has_symptom",
+    "object": "elevated triglycerides"
+  },
+  {
+    "subject": "dyslipidemia",
+    "relation": "has_symptom",
+    "object": "low-density lipoprotein"
+  },
+  {
+    "subject": "steatotic liver disease",
+    "relation": "diagnosed_by",
+    "object": "liver biopsy"
+  },
+  {
+    "subject": "steatotic liver disease",
+    "relation": "diagnosed_by",
+    "object": "transient elastography"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "early screening for liver disease"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "neurological regression"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "neurological impairment"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "malnutrition"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "bone alterations"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "alterations of puberty onset"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "growth disorders"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "thyroid disorders"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "weight abnormalities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "genetic intellectual disability"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "endocrinopathies"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "endocrinological management"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "multidisciplinary approach"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_cause",
+    "object": "pathogenic variants in the MECP2 gene"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "impairment of expressive language"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "impairment of hand skills"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "impairment of ambulation"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "hand stereotypies"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "developmental regression"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive impairments"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "sensory deficits"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "motor deficits"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive deficits"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "dopamine neurotransmission dysfunction"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "Mecp2 gene mutation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "ghrelin"
+  },
+  {
+    "subject": "cognitive deficits",
+    "relation": "treated_by",
+    "object": "ghrelin"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "X-linked neurodevelopmental disorder"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "neuromotor regression"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_symptom",
+    "object": "hand flapping at sides"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Rett syndrome like",
+    "relation": "has_symptom",
+    "object": "large amplitude whole body tremor"
+  },
+  {
+    "subject": "Rett syndrome like",
+    "relation": "has_symptom",
+    "object": "midline stereotypies"
+  },
+  {
+    "subject": "Rett syndrome like",
+    "relation": "has_symptom",
+    "object": "earlier neuromotor regression"
+  },
+  {
+    "subject": "Rett syndrome like",
+    "relation": "has_symptom",
+    "object": "earlier onset epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "underexpression of MECP2"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_cause",
+    "object": "overexpression of MECP2"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "genetic-based treatment"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "treated_by",
+    "object": "genetic-based treatment"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "abnormal sleep physiology"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "associated_with",
+    "object": "abnormal sleep physiology"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 variants"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "maternally inherited MECP2 variants"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "de novo MECP2 variants"
+  },
+  {
+    "subject": "Rett syndrome in males",
+    "relation": "associated_with",
+    "object": "Klinefelter syndrome (47XXY)"
+  },
+  {
+    "subject": "Rett syndrome in males",
+    "relation": "associated_with",
+    "object": "mosaicism"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "gene replacement strategies"
+  },
+  {
+    "subject": "FOXG1 Syndrome",
+    "relation": "associated_with",
+    "object": "Rett Syndrome"
+  },
+  {
+    "subject": "FOXG1 Syndrome",
+    "relation": "associated_with",
+    "object": "severe neurodevelopmental disease"
+  },
+  {
+    "subject": "FOXG1 Syndrome",
+    "relation": "has_symptom",
+    "object": "severe neurodevelopmental disease"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_cause",
+    "object": "MECP2"
+  },
+  {
+    "subject": "FOXG1 Syndrome",
+    "relation": "has_cause",
+    "object": "FOXG1 mutation"
+  },
+  {
+    "subject": "FOXG1 Syndrome",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "neurodevelopment disorder"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "genetic changes"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "paediatric disorder"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "early or presymptomatic testing"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "interventions"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "apneas"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "irregular breathing"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "breathing disturbances"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "loss-of-function mutations in the methyl-CPG-binding protein 2 (Mecp2) gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "autism spectrum disorder"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "sarizotan"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "quinpirole"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "targeting the 5HT1a receptor"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "Genetic abnormalities of the MECP2 gene"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "has_cause",
+    "object": "Genetic abnormalities of the MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "trofenatide"
+  },
+  {
+    "subject": "MECP2-related disorders",
+    "relation": "associated_with",
+    "object": "variety of phenotypes"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "MECP2-related disorders"
+  },
+  {
+    "subject": "MECP2 duplication syndrome",
+    "relation": "associated_with",
+    "object": "MECP2-related disorders"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in methyl CpG binding protein 2 (MeCP2)"
+  },
+  {
+    "subject": "epilepsy",
+    "relation": "has_symptom",
+    "object": "spontaneous recurrent seizures (SRSs)"
+  },
+  {
+    "subject": "epilepsy",
+    "relation": "has_symptom",
+    "object": "cognitive deficits"
+  },
+  {
+    "subject": "epilepsy",
+    "relation": "has_symptom",
+    "object": "stage 5 seizures"
+  },
+  {
+    "subject": "epilepsy",
+    "relation": "treated_by",
+    "object": "over-expression of MeCP2"
+  },
+  {
+    "subject": "cognitive deficits",
+    "relation": "treated_by",
+    "object": "over-expression of MeCP2"
+  },
+  {
+    "subject": "epilepsy",
+    "relation": "associated_with",
+    "object": "mossy fiber sprouting (MFS)"
+  },
+  {
+    "subject": "epilepsy",
+    "relation": "associated_with",
+    "object": "Rett syndrome"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "abnormal neuronal activity"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "altered network function"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the X-linked methyl-CpG binding protein 2 (MECP2) gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "targeted strategies ( potentially involving HDAC2 modulation or GABA A receptor expression regulation)"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "differences in activity and functional connectivity of inhibitory and excitatory neurons"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "Loss of speech"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "Loss of motor skills"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in the MECP2 gene"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "Physical therapy"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "Occupational therapy"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "Speech therapy"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "Medications for associated conditions"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "has_symptom",
+    "object": "Excitatory-inhibitory imbalance"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "associated_with",
+    "object": "Disruption in synaptic homeostasis"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "associated_with",
+    "object": "Cell signaling abnormalities"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "has_cause",
+    "object": "Metabolic processes disruption"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Trofinetide"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "treated_by",
+    "object": "Targeting signaling pathways"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "motor-behavioral dysfunction"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "increasing disease severity"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "pharmacological therapies"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "prokinetic agents"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "supportive therapies"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "physical therapy"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "speech-language therapy"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "hospital or emergency room visit"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "diarrhea"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "trofinetide"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Rett Syndrome Behaviour Questionnaire (RSBQ) score changes"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "assessed_by",
+    "object": "Clinical Global Impression-Improvement (CGI-I) scores"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "diarrhea"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "trofinetide"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Rett Syndrome Behaviour Questionnaire score"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "aggressive behaviors"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "Repetitive Face Movement"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "General Mood disturbances"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "heart-related symptoms"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "bone-related symptoms"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "trofinetide"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "drugs for seizures and aggressive behaviors"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_cause",
+    "object": "abnormal brain development"
+  },
+  {
+    "subject": "Trofinetide",
+    "relation": "has_side_effect",
+    "object": "diarrhea"
+  },
+  {
+    "subject": "Trofinetide",
+    "relation": "has_side_effect",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Trofinetide",
+    "relation": "has_side_effect",
+    "object": "weight loss"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "Mecp2 mutation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "MeCP2 protein deficiency"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "A-to-I RNA base editing"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "GSK-3β alteration"
+  },
+  {
+    "subject": "Bipolar disorder",
+    "relation": "associated_with",
+    "object": "GSK-3β alteration"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "GSK-3β alteration"
+  },
+  {
+    "subject": "HIV-associated dementia",
+    "relation": "associated_with",
+    "object": "GSK-3β upregulation"
+  },
+  {
+    "subject": "HIV-associated dementia",
+    "relation": "has_cause",
+    "object": "HIV-1 infection"
+  },
+  {
+    "subject": "HIV-associated dementia",
+    "relation": "treated_by",
+    "object": "GSK-3β inhibitors"
+  },
+  {
+    "subject": "HIV-associated dementia",
+    "relation": "treated_by",
+    "object": "Etravirine"
+  },
+  {
+    "subject": "HIV-associated dementia",
+    "relation": "treated_by",
+    "object": "Rilpivirine"
+  },
+  {
+    "subject": "HIV-associated dementia",
+    "relation": "treated_by",
+    "object": "Compound 11726169"
+  },
+  {
+    "subject": "HIV-1 infection",
+    "relation": "has_symptom",
+    "object": "Neuronal dysfunction"
+  },
+  {
+    "subject": "HIV-associated dementia",
+    "relation": "has_symptom",
+    "object": "Neuronal dysfunction"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "has_symptom",
+    "object": "Apnea"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "treated_by",
+    "object": "Pressure-supported ventilation (PSV)"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "treated_by",
+    "object": "Pressure-controlled ventilation (PCV)"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "treated_by",
+    "object": "Continuous positive airway pressure (CPAP)"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Hypoxic-ischemic encephalopathy"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Ondine syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Polymalformative syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Prader-Willi syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Brain tumor"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Down syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "ROHHAD syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Arnold-Chiari II"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Primary central apnea"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Lisosomal diseases"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Hydrocephalus"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Myopathy"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "associated_with",
+    "object": "Rett Syndrome"
+  },
+  {
+    "subject": "Central Apnea",
+    "relation": "has_cause",
+    "object": "Underlying pathologies"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "social memory impairments"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "altered neuronal activity"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "hyperactive hippocampal network"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "atypically heightened inhibition and impaired excitation in the mPFC network"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "clinical features"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "genetic variants in MECP2"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "MECP2 variants"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "increased longevity"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutation in methyl-CpG binding protein 2 (MeCP2)"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "autoimmune diseases"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "environmental factors"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "infectious agents"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "non typeable Haemophilus influenzae"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "perturbation of the immune system"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the X-linked MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "impaired mitochondrial function"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "perturbed redox homeostasis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "chronic subclinical inflammation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "improper cholesterol metabolism"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "peripheral co-morbidities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "altered immune/inflammatory functions"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "autoimmunity responses"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "intestinal micro- and mycobiota"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "therapeutic strategies to re-establish an adequate immune/inflammatory response"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "severe intellectual disability"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "apraxia"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "breathing abnormalities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "motor deterioration"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 deficiency"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "neuropsychiatric disorders"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "mitochondrial dysfunction"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "rhNGF"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "trofinetide"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "Global Developmental Delay"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "Developmental Arrest"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_symptom",
+    "object": "Regression"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "treated_by",
+    "object": "Targeted MECP2 Testing"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 Mutation"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental Delays"
+  },
+  {
+    "subject": "Rett Syndrome",
+    "relation": "associated_with",
+    "object": "Exonic Deletions"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "cognitive disabilities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "physical disabilities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "imbalance of redox homeostasis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "exacerbated inflammatory responses"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "LM11A-31"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "p75 neurotrophin receptor"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "clinical features"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "MECP2 variants"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 variants"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "constipation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "diarrhea"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "aspiration"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "dysphagia"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "gastroesophageal reflux"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "nausea"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "gastroparesis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "gastritis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "abdominal bloating"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "trofinetide"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the MECP2 gene"
+  },
+  {
+    "subject": "Trofinetide",
+    "relation": "associated_with",
+    "object": "adverse GI events"
+  },
+  {
+    "subject": "Trofinetide",
+    "relation": "associated_with",
+    "object": "diarrhea"
+  },
+  {
+    "subject": "Trofinetide",
+    "relation": "associated_with",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Cornelia de Lange Syndrome",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Cornelia de Lange Syndrome",
+    "relation": "has_symptom",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Cornelia de Lange Syndrome",
+    "relation": "has_symptom",
+    "object": "Growth abnormalities"
+  },
+  {
+    "subject": "Cornelia de Lange Syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in cohesin complex genes"
+  },
+  {
+    "subject": "Cornelia de Lange Syndrome",
+    "relation": "associated_with",
+    "object": "Cohesin dysfunction"
+  },
+  {
+    "subject": "Cornelia de Lange Syndrome",
+    "relation": "treated_by",
+    "object": "Supportive care and management of symptoms"
+  },
+  {
+    "subject": "Cornelia de Lange Syndrome",
+    "relation": "treated_by",
+    "object": "Physical therapy"
+  },
+  {
+    "subject": "Cornelia de Lange Syndrome",
+    "relation": "treated_by",
+    "object": "Speech therapy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "breath abnormalities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "gastroesophageal dysfunction"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "scoliosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "orthopedic issues"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "progressive motor deterioration"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "parkinsonian features"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "variants in the MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "X chromosome inactivation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "trofinetide"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "blarcamesine"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Taysha102"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Neurogene-401"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "gene editing"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "RNA editing"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "X-chromosome reactivation"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "has_cause",
+    "object": "Misregulation of LINE-1 elements"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "Misregulation of LINE-1 elements"
+  },
+  {
+    "subject": "Aicardi Goutierrez disease",
+    "relation": "has_cause",
+    "object": "Misregulation of LINE-1 elements"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "has_cause",
+    "object": "Misregulation of LINE-1 elements"
+  },
+  {
+    "subject": "LINE-1 elements misregulation",
+    "relation": "associated_with",
+    "object": "Cancer"
+  },
+  {
+    "subject": "LINE-1 elements misregulation",
+    "relation": "associated_with",
+    "object": "Rett syndrome"
+  },
+  {
+    "subject": "LINE-1 elements misregulation",
+    "relation": "associated_with",
+    "object": "Aicardi Goutierrez disease"
+  },
+  {
+    "subject": "LINE-1 elements misregulation",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental disorders"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "has_cause",
+    "object": "Disruptions in DNA methylation"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "has_cause",
+    "object": "Disruptions in genome architecture"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "associated_with",
+    "object": "Aberrant chromatin architecture"
+  },
+  {
+    "subject": "Single-gene neurodevelopmental disorders",
+    "relation": "has_cause",
+    "object": "Disruptions in epigenetic features"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Generalized tonic-clonic epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Myoclonic epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Absence epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Focal epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "MECP2 mutation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "FoxG1 mutation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "CDKL5 mutation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "EEG abnormalities"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "MRI findings"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Valproate"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Levetiracetam"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Lamotrigine"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Clobazam"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Ketogenic diet"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Vagal nerve stimulation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Steroid treatment"
+  },
+  {
+    "subject": "Disordered puberty",
+    "relation": "has_cause",
+    "object": "Abnormal neuronal migration or function"
+  },
+  {
+    "subject": "Disordered puberty",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental disorders"
+  },
+  {
+    "subject": "Reproductive abnormalities",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental disorders"
+  },
+  {
+    "subject": "Puberty and reproductive abnormalities",
+    "relation": "treated_by",
+    "object": "Therapeutic interventions"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Sleep disturbances"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Sleep difficulties"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Poor sleep quality in caregivers"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Improved sleep management"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Respiratory morbidity"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Obstructive apnea-hypopnea"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Oxygen desaturation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "Hypercapnia"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "Scoliosis"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "Respiratory morbidity"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Noninvasive ventilation"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_cause",
+    "object": "mutation in MECP2 gene"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "brain development issues"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "treated_by",
+    "object": "Trofinetide"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "symptoms assessed by Clinical Global Impression-Improvement (CGI)"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "has_symptom",
+    "object": "symptoms assessed by Rett syndrome Behavior Questionnaire (RSBQ)"
+  }
+]

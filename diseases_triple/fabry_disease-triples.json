@@ -1,0 +1,3217 @@
+[
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficiency of alpha-galactosidase A"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "arimoclomol"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "neuronal ceroid lipofuscinosis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "symptoms"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "has_symptom",
+    "object": "[Symptom]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "treated_by",
+    "object": "[Treatment]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "has_cause",
+    "object": "[Cause]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "associated_with",
+    "object": "[Associated Condition]"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "α-galactosidase A deficiency"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "intracellular accumulation of globotriaosylceramides"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "cellular toxicity from accumulation of the misfolded α-galactosidase A protein"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "chronic endoplasmic reticulum stress"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "unfolded protein response"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "GLA variants"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "pharmacologic modulation of defective proteostasis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "mutations in the GLA gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "migalastat"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "multiple organs affected"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "reduced α-Gal A protein expression"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "reduced enzyme activity levels"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "reduced GLA gene mRNA"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "heart failure"
+  },
+  {
+    "subject": "Cardiac amyloidosis",
+    "relation": "has_symptom",
+    "object": "heart failure"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "impaired relaxation"
+  },
+  {
+    "subject": "Cardiac amyloidosis",
+    "relation": "associated_with",
+    "object": "impaired relaxation"
+  },
+  {
+    "subject": "Cardiac amyloidosis",
+    "relation": "treated_by",
+    "object": "echocardiogram"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "echocardiogram"
+  },
+  {
+    "subject": "Cardiac amyloidosis",
+    "relation": "has_cause",
+    "object": "amyloidosis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "hypotension"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "agalsidase α"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "agalsidase β"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapies"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "X-linked lysosomal storage disorder"
+  },
+  {
+    "subject": "Infusion-related reactions",
+    "relation": "has_cause",
+    "object": "immune responses"
+  },
+  {
+    "subject": "Infusion-related reactions",
+    "relation": "associated_with",
+    "object": "Enzyme replacement therapies"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "chest discomfort"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "extremity pain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "hypohidrosis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "sinus bradycardia"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "short PR interval"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "delta wave"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "complete right bundle branch block"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "T-wave inversion"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "ST-segment depression"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "left ventricular hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "cardiomyopathies"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "GLA: c.700_702del"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Left ventricular hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Abnormal left atrial strain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Late gadolinium enhancement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Cardiovascular magnetic resonance"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "X-linked lysosomal disorder"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Ventricular myocardial involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Abnormal LV mechanics"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Myocardial sphingolipid deposition"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Angiokeratomas"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Telangiectasias"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Sweat abnormalities"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Lymphoedema"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Hair abnormalities"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Accumulation of glycosphingolipids"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "X-linked lysosomal storage disorder"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Left Ventricular Hypertrophy",
+    "relation": "has_symptom",
+    "object": "Preserved Left Ventricular Ejection Fraction"
+  },
+  {
+    "subject": "Hypertrophic Cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Left Ventricular Hypertrophy"
+  },
+  {
+    "subject": "Cardiac Amyloidosis",
+    "relation": "associated_with",
+    "object": "Left Ventricular Hypertrophy"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "associated_with",
+    "object": "Left Ventricular Hypertrophy"
+  },
+  {
+    "subject": "Cardiac Amyloidosis",
+    "relation": "has_symptom",
+    "object": "Reduced Left Atrial Strain"
+  },
+  {
+    "subject": "Cardiac Amyloidosis",
+    "relation": "has_cause",
+    "object": "Atrial Wall Infiltration"
+  },
+  {
+    "subject": "Left Ventricular Hypertrophy",
+    "relation": "has_symptom",
+    "object": "Abnormal Left Atrial Strain"
+  },
+  {
+    "subject": "Left Atrial Strain",
+    "relation": "associated_with",
+    "object": "Adverse Cardiovascular Events"
+  },
+  {
+    "subject": "Left Ventricular Hypertrophy",
+    "relation": "has_outcome",
+    "object": "Cardiovascular Mortality"
+  },
+  {
+    "subject": "Left Ventricular Hypertrophy",
+    "relation": "has_outcome",
+    "object": "Device Implantation"
+  },
+  {
+    "subject": "Left Ventricular Hypertrophy",
+    "relation": "has_outcome",
+    "object": "Heart Failure Hospitalization"
+  },
+  {
+    "subject": "Left Ventricular Hypertrophy",
+    "relation": "has_outcome",
+    "object": "New-onset Atrial Fibrillation"
+  },
+  {
+    "subject": "Left Ventricular Hypertrophy",
+    "relation": "has_outcome",
+    "object": "Stroke"
+  },
+  {
+    "subject": "Left Atrial Strain Measurement",
+    "relation": "treated_by",
+    "object": "Monitoring"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_cause",
+    "object": "mutations in sarcomeric proteins"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "abnormal thickening of the left ventricular wall"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "associated_with",
+    "object": "cardiac amyloidosis"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Fabry disease"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "associated_with",
+    "object": "mitochondrial myopathies"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "treated_by",
+    "object": "personalized management strategies"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "diagnosed_by",
+    "object": "cardiac magnetic resonance"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "diagnosed_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "diagnosed_by",
+    "object": "tissue characterization"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "chronic kidney disease"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "variants in the GLA gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "migalastat therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "genetic modifiers"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "atrial fibrillation"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "left atrial enlargement"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "right bundle branch block"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "QRS fragmentation"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "symmetric lateral negative T waves"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "prolonged P<sub>end</sub>Q interval"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "pathologic QTc"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "treated_by",
+    "object": "chaperone therapy"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "cardiac hypertrophy"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "left ventricle wall thickness increase"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "unknown symptom"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "unknown treatment"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "p.A143T GLA variant"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lyso-GL3 elevation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "newborn screening (NBS)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "gene panel testing"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "cascade testing"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "fibrogenesis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "globotriaosylceramide (Gb3) accumulation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "arrhythmia"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "atrial fibrillation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiovascular morbidity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiovascular mortality"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "heart failure"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "left ventricular hypertrophy (LVH)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "X-linked disorder"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "myocardial sphingolipid deposition"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "low native T1"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "late gadolinium enhancement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Cardiac involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Specific treatment"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Lipid storage"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "mutation of α-galactosidase A (GLA)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "accumulation of globotriaosylceramide and other glycosphingolipid"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "drugs"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "neuropathic pain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "DRG pathomorphological injury"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "DRG MRI segmentation"
+  },
+  {
+    "subject": "DRG injury",
+    "relation": "diagnosed_by",
+    "object": "DRG MRI segmentation"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "treated_by",
+    "object": "effective disease-specific therapies"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "disease-specific therapies with variable effectiveness"
+  },
+  {
+    "subject": "mucopolysaccharidosis type III A/B",
+    "relation": "treated_by",
+    "object": "supportive care"
+  },
+  {
+    "subject": "Gaucher disease type 1",
+    "relation": "associated_with",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "mucopolysaccharidosis type III A/B",
+    "relation": "associated_with",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "Fabry disease cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "myocarditis"
+  },
+  {
+    "subject": "Fabry disease cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "myocardial fibrosis"
+  },
+  {
+    "subject": "Fabry disease cardiomyopathy",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease cardiomyopathy",
+    "relation": "treated_by",
+    "object": "β-agalsidase infusion"
+  },
+  {
+    "subject": "Fabry disease cardiomyopathy",
+    "relation": "associated_with",
+    "object": "mitral stenosis"
+  },
+  {
+    "subject": "Fabry disease cardiomyopathy",
+    "relation": "has_cause",
+    "object": "down-regulation of mannose-6-phosphate receptors"
+  },
+  {
+    "subject": "Fabry disease cardiomyopathy",
+    "relation": "has_cause",
+    "object": "myocardial fibrosis"
+  },
+  {
+    "subject": "Fabry disease cardiomyopathy",
+    "relation": "has_cause",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "neuropathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorder"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "progressive glycolipid accumulation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "none mentioned"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "peripheral nervous system involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "proteinuric kidney disease"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "albuminuria"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "SGLT2 inhibitors"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Fabry nephropathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "kidney disease"
+  },
+  {
+    "subject": "Fabry nephropathy",
+    "relation": "treated_by",
+    "object": "SGLT2 inhibitors"
+  },
+  {
+    "subject": "Fabry-related kidney disease",
+    "relation": "treated_by",
+    "object": "SGLT2 inhibitors"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "X-linked inheritance"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Gastrointestinal symptoms"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "GLA gene variants"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Reduced or absent α-galactosidase A activity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Migalastat"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Renal issues"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Cardiac issues"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Reduced quality of life"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "classic phenotype"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "late onset clinical features"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "pathogenic variants in the GLA gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficient GLA enzyme activity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "accumulation of globotriaosylceramide"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "accumulation of globotriaosylsphingosine (LysoGb3)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "alfa-galactosidase A enzyme activity test"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "LysoGb3 test"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "GLA genetic test"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficiency or reduced activity of alpha-Galactosidase"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "progressive and irreversible organ damage"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "failure of vital organs"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "progressive disability"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "premature death"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "accumulation of sphingolipids"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "mid-infrared Fiber Evanescent Wave Spectroscopy (FEWS) supported by statistical analysis and Machine Learning (ML) algorithms"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "damage to heart, kidneys, skin, eyes, central nervous system, and digestive system"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "proteinuria"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "microscopic haematuria"
+  },
+  {
+    "subject": "IgA nephropathy",
+    "relation": "has_symptom",
+    "object": "proteinuria"
+  },
+  {
+    "subject": "IgA nephropathy",
+    "relation": "has_symptom",
+    "object": "microscopic haematuria"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "low alpha-galactosidase A enzyme activity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "IgA nephropathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Crohn's disease"
+  },
+  {
+    "subject": "IgA nephropathy",
+    "relation": "associated_with",
+    "object": "Crohn's disease"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "urticaria"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "abnormal substrate globotriaosylsphingosine"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "anti-drug antibody production"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "renal dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "left heart mass index abnormality"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "mutations in the GLA gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficiency of the lysosomal enzyme α-GAL"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "progressive accumulation of Gb3 in cells"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "autoinflammatory diseases"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "dexamethasone"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Early contractile dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "LV hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Pharmacological chaperone therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Deficiency of α-galactosidase A"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Cardiac involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Left atrium volume indexed"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "E/e'"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Left ventricular mass indexed"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Maximum LV wall thickness"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "LV-global longitudinal strain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Late gadolinium enhancement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Echocardiography"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Cardiovascular magnetic resonance (CMR)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Cardiac involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Cardiac involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Cardiovascular endpoint"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Composite clinical endpoint"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "anxiety"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "depression"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cognitive deficits"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "anxiety-like behavior"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "pathological glycosphingolipid deposits"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "cerebrovascular abnormalities"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "differential gene expression"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Gb3 accumulation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "unknown/inadequate treatment"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "stroke"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiac failure"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "renal failure"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "pathogenic variants in the GLA gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "cardiac involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "renal involvement"
+  },
+  {
+    "subject": "Late-onset Fabry disease",
+    "relation": "associated_with",
+    "object": "N215S missense mutation"
+  },
+  {
+    "subject": "Fabry nephropathy",
+    "relation": "associated_with",
+    "object": "late-onset N215S variant"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "left ventricular hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "myocardial ischaemia"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "heart failure"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "arrhythmias"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "myocardial inflammation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficient activity of the enzyme α-galactosidase A"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "cardiac involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "chaperone therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "substrate reduction therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "accumulation of globotriaosylceramide in various tissues"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "insufficient enzyme activity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative changes"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "liver and spleen enlargement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapy (ERT)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "recombinant α-galactosidase A (GLA) drugs"
+  },
+  {
+    "subject": "Antidrug antibodies (ADAs)",
+    "relation": "has_symptom",
+    "object": "allergic reactions"
+  },
+  {
+    "subject": "Antidrug antibodies (ADAs)",
+    "relation": "has_effect",
+    "object": "reduce therapeutic efficacy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Antidrug antibodies (ADAs)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiac symptoms"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "renal symptoms"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "neurologic symptoms"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "GLA mutations"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "organ damage"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Gb3/lyso-Gb3 accumulation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficient alpha-galactosidase A activity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "ventricular fibrillation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "ventricular arrhythmia"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "cardiac arrest"
+  },
+  {
+    "subject": "Motor neuron disease",
+    "relation": "associated_with",
+    "object": "nervous system damage"
+  },
+  {
+    "subject": "Ventricular fibrillation",
+    "relation": "treated_by",
+    "object": "subcutaneous implantable cardioverter defibrillator"
+  },
+  {
+    "subject": "Cardiac arrest",
+    "relation": "treated_by",
+    "object": "subcutaneous implantable cardioverter defibrillator"
+  },
+  {
+    "subject": "Ventricular arrhythmia",
+    "relation": "treated_by",
+    "object": "subcutaneous implantable cardioverter defibrillator"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "subcutaneous implantable cardioverter defibrillator"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "atypical chest pain"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "hypertrophic phenotype cardiomyopathy"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_cause",
+    "object": "mutation in the exon 5 of the GLA gene"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "asymmetric wall hypertrophy"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "reduced native T1 values"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "cardiac magnetic resonance (CMR)"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "genetic analysis"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "T1 native mapping"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_cause",
+    "object": "defect in alpha-galactosidase A"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_cause",
+    "object": "excessive storage of globotriaosylceramide"
+  },
+  {
+    "subject": "Anderson-Fabry disease cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "left ventricular hypertrophy"
+  },
+  {
+    "subject": "Anderson-Fabry disease cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "diastolic dysfunction"
+  },
+  {
+    "subject": "Anderson-Fabry disease cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "restrictive cardiomyopathy"
+  },
+  {
+    "subject": "Anderson-Fabry disease cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "systolic heart failure"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "renal disease"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "cardiac disease"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "vascular disease"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "nervous system disease"
+  },
+  {
+    "subject": "Anderson-Fabry disease cardiomyopathy",
+    "relation": "treated_by",
+    "object": "specific therapies"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "treated_by",
+    "object": "multimodality imaging guided management"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "genetic tests"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "cardiac imaging"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "diagnosed_by",
+    "object": "clinical evaluation"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "hypertension"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "heart disease"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "treated_by",
+    "object": "intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "MPS I",
+    "relation": "treated_by",
+    "object": "intravenous enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "retinal vessel tortuosity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cornea verticillata"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "inner retinal hyper-reflective foci"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "heart involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "kidney involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "brain involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "genetic mutation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "chest tightness"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "left ventricular hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "obstruction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "papillary muscle hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "depressed longitudinal strain in the basal inferolateral region"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "percutaneous endocardial septal radiofrequency ablation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "left ventricular outflow tract obstruction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "FD symptoms"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficiency in α-galactosidase enzyme activity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "clinical deterioration"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiac complications"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "microvascular dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "retinal microvascular abnormalities"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "arteriolar narrowing"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "reduced venular dilation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Pharmacological chaperone therapy (PCT)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "accumulation of globotriaosylceramide (Gb3)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "chronic inflammation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "endothelial dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "cardiac involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "progressive organ damage"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "life-threatening complications"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "accumulation of glycosphingolipids in body tissues and fluids"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "variable X-activation pattern"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "residual enzymatic activity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "disease-specific treatment"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "psychological treatment"
+  },
+  {
+    "subject": "Fabry disease in females",
+    "relation": "has_cause",
+    "object": "dynamic nature of the X-chromosome inactivation process"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "treated_by",
+    "object": "Enzyme Replacement Therapies (ERTs)"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "treated_by",
+    "object": "Chaperone therapy"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "treated_by",
+    "object": "mRNA therapy"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "treated_by",
+    "object": "Gene therapies"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "Complete enzyme deficiency"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "Anti-drug antibodies"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Kidney symptoms"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Elevated blood pressure"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Enzyme therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Deficiency of α-galactosidase A"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Elevated troponin levels"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Elevated urinary protein levels"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Elevated LVMI"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Elevated lyso-Gb3 levels"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Elevated Gb3 levels"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "left ventricular hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "FD-specific therapies"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "genetic conditions"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "genetic variants"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "associated_with",
+    "object": "Fabry disease"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "left ventricular hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "mutations in the galactosidase alpha (GLA) gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "accumulation of globotriaosylceramide (Gb3) and globotriaosylsphingosine (Lyso-Gb3)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "immune dysregulation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "complement system activation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "endothelial cell abnormalities"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "vascular dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "upregulation of adhesion molecules"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "excessive recruitment of leukocytes"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "tissue damage"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "targeting complement components C3a, C5a, or their respective receptors"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "α-galactosidase A deficiency"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "X sex chromosome gene mutation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "end-organ lesions"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "agalsidase α"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "agalsidase β"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Migalastat"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "new generation of ERT therapies"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "substrate reduction therapy drugs"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "accumulation of globotriaosylceramide"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "accumulation of globotriaosylsphingosine"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_cause",
+    "object": "deficient alpha-galactosidase A activity"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "significant cardiac involvement"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "left ventricular hypertrophy (LVH)"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "chronic renal failure"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "has_symptom",
+    "object": "non-ischemic fibrosis"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "treated_by",
+    "object": "kidney transplantation"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "cardiac involvement"
+  },
+  {
+    "subject": "Anderson-Fabry disease",
+    "relation": "associated_with",
+    "object": "renal failure"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "kidney structural damage"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "kidney dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiovascular events"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "end-stage kidney disease"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "disease-modifying treatments"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "renin-angiotensin-aldosterone system inhibitor"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "kidney replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "accumulation of sphingolipids"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "chronic kidney disease"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "higher urine albumin-to-creatinine ratio"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lower eGFR levels"
+  },
+  {
+    "subject": "Chronic kidney disease",
+    "relation": "has_cause",
+    "object": "higher urine albumin-to-creatinine ratio"
+  },
+  {
+    "subject": "Chronic kidney disease",
+    "relation": "has_cause",
+    "object": "lower eGFR levels"
+  },
+  {
+    "subject": "End-stage kidney disease",
+    "relation": "treated_by",
+    "object": "kidney replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "X-linked disorder"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "minority ethnic under-representation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiac events"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "septum thickness"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "decreased eGFR"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "agalsidase-beta"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "agalsidase-alfa"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "migalastat"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "chaperone therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "plasma lyso-Gb3 levels"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiac disorders"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "gastrointestinal disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "skin and subcutaneous disorders"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_symptom",
+    "object": "infections and infestations"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "agalsidase alfa"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "treated_by",
+    "object": "velaglucerase alfa"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficiency in α-galactosidase A"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "deficiency in β-glucocerebrosidase"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "infusion-related reactions"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "infusion-related reactions"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "has_symptom",
+    "object": "Hypertrophic Cardiomyopathy"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "associated_with",
+    "object": "Hypertrophic Cardiomyopathy"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "diagnosed_by",
+    "object": "Genetic Testing"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "diagnosed_by",
+    "object": "Enzyme-activity test of α-galactosidase A"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "screened_by",
+    "object": "Native T1 mapping"
+  },
+  {
+    "subject": "Fabry Disease",
+    "relation": "treated_by",
+    "object": "Early treatment"
+  },
+  {
+    "subject": "Type-II diabetes",
+    "relation": "has_biomarker",
+    "object": "α-Glucosidase"
+  },
+  {
+    "subject": "Azoospermia",
+    "relation": "has_biomarker",
+    "object": "α-Glucosidase"
+  },
+  {
+    "subject": "Pompe diseases",
+    "relation": "has_biomarker",
+    "object": "α-Glucosidase"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "mutations in α-galactosidase"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "effective chaperones"
+  },
+  {
+    "subject": "Type-II diabetes",
+    "relation": "treated_by",
+    "object": "anti-diabetic medications"
+  },
+  {
+    "subject": "α-Glucosidase",
+    "relation": "associated_with",
+    "object": "Type-II diabetes"
+  },
+  {
+    "subject": "α-Glucosidase",
+    "relation": "associated_with",
+    "object": "Azoospermia"
+  },
+  {
+    "subject": "α-Glucosidase",
+    "relation": "associated_with",
+    "object": "Pompe diseases"
+  },
+  {
+    "subject": "α-galactosidase",
+    "relation": "associated_with",
+    "object": "Fabry disease"
+  },
+  {
+    "subject": "Protein misfolding diseases",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Protein misfolding diseases",
+    "relation": "has_cause",
+    "object": "Environmental factors"
+  },
+  {
+    "subject": "Protein misfolding diseases",
+    "relation": "has_symptom",
+    "object": "Toxic protein accumulation"
+  },
+  {
+    "subject": "Protein misfolding diseases",
+    "relation": "has_symptom",
+    "object": "Stress induction"
+  },
+  {
+    "subject": "Protein misfolding diseases",
+    "relation": "has_symptom",
+    "object": "Impaired protein function"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Protein misfolding diseases"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Protein stabilization"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Trafficking modulation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "UPR sensor targeting approaches"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Combination approaches"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Ischemic stroke"
+  },
+  {
+    "subject": "Ischemic stroke",
+    "relation": "has_cause",
+    "object": "Fabry disease"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Disease-modifying treatments"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Ischemic stroke in young adults"
+  },
+  {
+    "subject": "Ischemic stroke in young adults",
+    "relation": "has_cause",
+    "object": "Fabry disease"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Transient ischemic attack"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "renal dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiac system injury"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "neuropathic pain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "limb pain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "proteinuria"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "increased left ventricular mass index"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy (ERT)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "symptomatic treatment"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "anti-inflammatory and anti-allergic drugs"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "renal dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "cardiac system injury"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "neuropathic pain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Lymphedema of the lower legs"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Erysipelas"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Pathogenic variants in GLA"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Deficient activity of alpha-galactosidase A"
+  },
+  {
+    "subject": "Erysipelas",
+    "relation": "treated_by",
+    "object": "Prompt treatment of skin wound or infection"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Glycosphingolipid storage"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "proteinuria"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "stroke"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "hypohidrosis/anhidrosis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiac insufficiency"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiac damage"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "gene mutation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lesions in the heart"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lesions in the brain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lesions in the kidneys"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "treatment at the University of Hong Kong-Shenzhen Hospital"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_treatment",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_treatment",
+    "object": "Agalactosidase-α"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_treatment",
+    "object": "Disease-nonspecific treatment"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Genetic disorder"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Cardiac dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Renal dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Organ involvement"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "mutations in GLA"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "concentric left ventricular hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "intracellular accumulation of globotriaosylceramide"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "diastolic dysfunction"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "fatal arrhythmias"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "HCM with mid-ventricular obstruction"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "unexplained left ventricular hypertrophy"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "diastolic dysfunction"
+  },
+  {
+    "subject": "Hypertrophic cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "asymmetric left ventricular hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Exercise intolerance"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Impaired aerobic capacity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Cardiomyopathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "Multiorgan sphingolipid accumulation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "FD-specific therapy"
+  },
+  {
+    "subject": "Exercise intolerance",
+    "relation": "associated_with",
+    "object": "Impaired left atrial global longitudinal strain"
+  },
+  {
+    "subject": "Exercise intolerance",
+    "relation": "associated_with",
+    "object": "Biochemical markers of inflammation"
+  },
+  {
+    "subject": "Cardiomyopathy",
+    "relation": "has_symptom",
+    "object": "Decline in peak oxygen uptake (V̇O2peak)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "tissue fibrosis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "renal damage"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "enzyme deficiency"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "misfolded alpha-galactosidase A protein"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "chronic inflammation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "endoplasmic reticulum stress"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "unfolded protein response"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Fabry disease-specific therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "stroke"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "carotid artery occlusion"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "hypertrophic cardiomyopathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "chronic kidney disease"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "atrial flutter"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "carotid stenosis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "proteinuria"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "impairment of α-galactosidase A"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "complex intronic haplotype (CIH) variants"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "lamellated inclusion bodies"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "mutations in the GLA gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "enzymatic absence or malfunction of alpha-galactosidase A"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "variety of symptoms"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "progressive accumulation of glycosphingolipids"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "available treatments"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "personalized disease modeling"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "current and future treatment strategies"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "different phenotypes"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "pathogenic variant in GLA gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "disfunction of alpha-galactosidase A enzyme"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "multiple organ disorders"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "chronic kidney disease"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "corticosteroid therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "kidney transplant"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "proteinuria"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "reduced eGFR"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_comorbidity",
+    "object": "Cerebrovascular disease"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Small vessel disease"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_genetic_cause",
+    "object": "NOTCH3 variant"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_genetic_cause",
+    "object": "HTRA1 variant"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_genetic_cause",
+    "object": "COL4A1 variant"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_genetic_cause",
+    "object": "COL4A2 variant"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_genetic_cause",
+    "object": "CST3 variant"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_genetic_cause",
+    "object": "GLA variant"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Alzheimer's disease pathology"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Fabry disease pathology"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "Further studies/therapy not specified in the text"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "absence of alpha-galactosidase-A enzyme activity"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "multi-organ damage"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "accumulation of globotriaosylceramide"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "growth differentiation factor 15 (GDF15)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "leucine-rich alpha-2-glycoprotein-1 (LRG1)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "galectin-3 (LGALS3)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Cardiomyopathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Cardiac hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficiency or loss of α-galactosidase A (GLA)"
+  },
+  {
+    "subject": "Cardiomyopathy",
+    "relation": "has_cause",
+    "object": "accumulation of globotriaosylceramide (Gb3)"
+  },
+  {
+    "subject": "Cardiomyopathy",
+    "relation": "has_cause",
+    "object": "increased autophagy activity"
+  },
+  {
+    "subject": "Cardiomyopathy",
+    "relation": "treated_by",
+    "object": "3-methyladenine (3-MA)"
+  },
+  {
+    "subject": "Cardiomyopathy",
+    "relation": "treated_by",
+    "object": "overexpression of GLA by cardiomyocyte-specific adeno-associated virus"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "disturbances in fatty acid metabolism"
+  },
+  {
+    "subject": "Cardiomyopathy",
+    "relation": "associated_with",
+    "object": "dysfunction in hearts"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Alterations of the basilar artery anatomy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "dolichoectasia"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "heart failure"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "cardiomegaly"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "left ventricular hypertrophy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "myocardial fibrosis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "absence or deficiency of alpha-galactosidase A"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "mutations of the GLA gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "orthotopic heart transplantation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "immunosuppressive treatment"
+  },
+  {
+    "subject": "heart failure",
+    "relation": "treated_by",
+    "object": "cardiac transplantation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "progressive dyspnea"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "headache"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "lower limb pain"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "periorbital edema"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "severe anemia"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "proteinuria"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "glomerular and segmental tuft sclerosis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "podocyte enlargement with fine vacuolization"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "sequential hemodialysis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "diuretic therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "treated_by",
+    "object": "oral chaperone therapy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "mutations in the GLA gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "deficient activity of the enzyme alpha-galactosidase A"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "accumulation of globotriaosylceramide (Gb3)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "hypertension"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "chronic kidney disease (CKD)"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "renal dysfunction"
+  },
+  {
+    "subject": "Fibrodysplasia Ossificans Progressiva (FOP)",
+    "relation": "has_symptom",
+    "object": "painful swelling"
+  },
+  {
+    "subject": "Fibrodysplasia Ossificans Progressiva (FOP)",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Fibrodysplasia Ossificans Progressiva (FOP)",
+    "relation": "has_cause",
+    "object": "mutation in the ACVR1 gene"
+  },
+  {
+    "subject": "Fibrodysplasia Ossificans Progressiva (FOP)",
+    "relation": "treated_by",
+    "object": "corticosteroids"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Cardiac complications"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Cardiomyopathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Cardiac muscle fibrosis"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Severe arrhythmia"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Central nervous system complications"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "Renal complications"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Cardiac functional factors"
+  },
+  {
+    "subject": "Cardiac complications",
+    "relation": "has_cause",
+    "object": "CHN1 expression"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Oxidative stress generation"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Myocardial fibrosis"
+  }
+]

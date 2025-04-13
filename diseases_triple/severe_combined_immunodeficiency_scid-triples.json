@@ -1,0 +1,502 @@
+[
+  {
+    "subject": "Purine nucleoside phosphorylase deficiency",
+    "relation": "has_symptom",
+    "object": "recurrent infections"
+  },
+  {
+    "subject": "Purine nucleoside phosphorylase deficiency",
+    "relation": "has_symptom",
+    "object": "neurological manifestations"
+  },
+  {
+    "subject": "Purine nucleoside phosphorylase deficiency",
+    "relation": "has_symptom",
+    "object": "severe neutropenia"
+  },
+  {
+    "subject": "Purine nucleoside phosphorylase deficiency",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Purine nucleoside phosphorylase deficiency",
+    "relation": "has_cause",
+    "object": "homozygous variant c.46T>C p.(Trp16Arg) in PNP"
+  },
+  {
+    "subject": "Purine nucleoside phosphorylase deficiency",
+    "relation": "associated_with",
+    "object": "autoimmune disorders"
+  },
+  {
+    "subject": "Purine nucleoside phosphorylase deficiency",
+    "relation": "associated_with",
+    "object": "severe combined immunodeficiency"
+  },
+  {
+    "subject": "Purine nucleoside phosphorylase deficiency",
+    "relation": "associated_with",
+    "object": "combined immunodeficiency"
+  },
+  {
+    "subject": "Purine nucleoside phosphorylase deficiency",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "has_symptom",
+    "object": "Lymphopenia"
+  },
+  {
+    "subject": "Combined Immunodeficiencies (CID)",
+    "relation": "has_symptom",
+    "object": "Lymphopenia"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "treated_by",
+    "object": "Hematopoietic Stem Cell Transplantation (HSCT)"
+  },
+  {
+    "subject": "Combined Immunodeficiencies (CID)",
+    "relation": "treated_by",
+    "object": "Hematopoietic Stem Cell Transplantation (HSCT)"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "has_cause",
+    "object": "Consanguineous marriage"
+  },
+  {
+    "subject": "Combined Immunodeficiencies (CID)",
+    "relation": "has_cause",
+    "object": "Consanguineous marriage"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "associated_with",
+    "object": "Sibling death"
+  },
+  {
+    "subject": "Combined Immunodeficiencies (CID)",
+    "relation": "associated_with",
+    "object": "Sibling death"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "associated_with",
+    "object": "Family history of similar characteristics"
+  },
+  {
+    "subject": "Combined Immunodeficiencies (CID)",
+    "relation": "associated_with",
+    "object": "Family history of similar characteristics"
+  },
+  {
+    "subject": "Inborn errors of immunity",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "X-linked Chronic granulomatous",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Immune dysregulation diseases",
+    "relation": "treated_by",
+    "object": "Hematopoietic cell transplantation"
+  },
+  {
+    "subject": "Inborn errors of immunity",
+    "relation": "has_complication",
+    "object": "Infectious complications"
+  },
+  {
+    "subject": "Inborn errors of immunity",
+    "relation": "has_comorbidity",
+    "object": "Long-term comorbidities"
+  },
+  {
+    "subject": "X-linked Chronic granulomatous",
+    "relation": "has_symptom",
+    "object": "Severe phenotype"
+  },
+  {
+    "subject": "Immune dysregulation diseases",
+    "relation": "has_treatment_requirement",
+    "object": "Additional drugs pretransplant"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_symptom",
+    "object": "severe and recurrent infections"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_symptom",
+    "object": "fatal infection"
+  },
+  {
+    "subject": "X-linked agammaglobulinaemia",
+    "relation": "has_symptom",
+    "object": "severe or recurrent infections"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "associated_with",
+    "object": "T-cell deficiency"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "treated_by",
+    "object": "newborn screening"
+  },
+  {
+    "subject": "X-linked agammaglobulinaemia",
+    "relation": "treated_by",
+    "object": "newborn screening"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_cause",
+    "object": "inborn error of immunity"
+  },
+  {
+    "subject": "Ataxia-telangiectasia",
+    "relation": "associated_with",
+    "object": "low TREC levels"
+  },
+  {
+    "subject": "Ataxia-telangiectasia",
+    "relation": "associated_with",
+    "object": "low KREC levels"
+  },
+  {
+    "subject": "X-linked agammaglobulinaemia",
+    "relation": "associated_with",
+    "object": "low KREC levels"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "associated_with",
+    "object": "low TREC levels"
+  },
+  {
+    "subject": "B-cell deficiency",
+    "relation": "has_symptom",
+    "object": "severe or recurrent infections"
+  },
+  {
+    "subject": "B-cell deficiency",
+    "relation": "treated_by",
+    "object": "newborn screening"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_treatment",
+    "object": "Hematopoietic cell transplantation"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_treatment",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_cause",
+    "object": "Inborn error of immunity"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "associated_with",
+    "object": "Graft versus host disease"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "associated_with",
+    "object": "Infection"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_symptom",
+    "object": "Chronic and late effects"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_symptom",
+    "object": "Late mortality"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Neuropsychiatric Lupus Erythematosus (NPLE)",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "treated_by",
+    "object": "Tailored Management Strategies"
+  },
+  {
+    "subject": "Neuropsychiatric Lupus Erythematosus (NPLE)",
+    "relation": "treated_by",
+    "object": "Tailored Management Strategies"
+  },
+  {
+    "subject": "Extended-Spectrum Beta-Lactamases (ESBLs)",
+    "relation": "has_cause",
+    "object": "Antimicrobial Resistance"
+  },
+  {
+    "subject": "Neuropsychiatric Lupus Erythematosus (NPLE)",
+    "relation": "associated_with",
+    "object": "Immune-Mediated Disorders"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "associated_with",
+    "object": "Immune-Mediated Disorders"
+  },
+  {
+    "subject": "Extended-Spectrum Beta-Lactamases (ESBLs)",
+    "relation": "treated_by",
+    "object": "Antimicrobial Stewardship Programs"
+  },
+  {
+    "subject": "Primary Immunodeficiencies",
+    "relation": "has_treatment",
+    "object": "Newborn Screening"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "has_screening",
+    "object": "Newborn Screening"
+  },
+  {
+    "subject": "Primary Immunodeficiencies",
+    "relation": "associated_with",
+    "object": "Genomics"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_symptom",
+    "object": "severe interstitial pneumonia"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_symptom",
+    "object": "fatal infection"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "treated_by",
+    "object": "allogeneic hematopoietic cell transplantation"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "has_cause",
+    "object": "RAG1-deficiency"
+  },
+  {
+    "subject": "Severe interstitial pneumonia",
+    "relation": "has_cause",
+    "object": "rhinovirus"
+  },
+  {
+    "subject": "Severe interstitial pneumonia",
+    "relation": "has_cause",
+    "object": "Pneumocystis jirovecii"
+  },
+  {
+    "subject": "Severe interstitial pneumonia",
+    "relation": "treated_by",
+    "object": "ribavirin"
+  },
+  {
+    "subject": "Severe interstitial pneumonia",
+    "relation": "treated_by",
+    "object": "interferon-α therapy"
+  },
+  {
+    "subject": "Severe interstitial pneumonia",
+    "relation": "treated_by",
+    "object": "antibiotics"
+  },
+  {
+    "subject": "Severe interstitial pneumonia",
+    "relation": "treated_by",
+    "object": "trimethoprim-sulfamethoxazole"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "associated_with",
+    "object": "RAG1-deficiency"
+  },
+  {
+    "subject": "Severe combined immunodeficiency",
+    "relation": "associated_with",
+    "object": "immunocompromised state"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "has_symptom",
+    "object": "systemic lymphopenia"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "has_symptom",
+    "object": "decreased white blood cells"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "has_symptom",
+    "object": "reduced CD4+ T cells"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "has_symptom",
+    "object": "reduced CD8+ T cells"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "has_symptom",
+    "object": "reduced CD161+ NK cells"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "has_symptom",
+    "object": "hypoplasia of the germinal center"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "has_symptom",
+    "object": "atrophy of the thymus"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "has_cause",
+    "object": "Il2rg knockout"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "has_cause",
+    "object": "Rag2 knockout"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "associated_with",
+    "object": "tumor xenograft"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency",
+    "relation": "treated_by",
+    "object": "human acute lymphoblastic leukemia xenograft rat model"
+  },
+  {
+    "subject": "Graft failure",
+    "relation": "has_symptom",
+    "object": "Viral reactivation"
+  },
+  {
+    "subject": "Graft failure",
+    "relation": "has_symptom",
+    "object": "Acute graft-versus-host disease"
+  },
+  {
+    "subject": "Graft failure",
+    "relation": "treated_by",
+    "object": "Second HSCT"
+  },
+  {
+    "subject": "Graft failure",
+    "relation": "has_cause",
+    "object": "Unconditioned infusion or no serotherapy at first HSCT"
+  },
+  {
+    "subject": "Inborn errors of immunity",
+    "relation": "associated_with",
+    "object": "Graft failure"
+  },
+  {
+    "subject": "Inborn errors of immunity",
+    "relation": "treated_by",
+    "object": "HSCT"
+  },
+  {
+    "subject": "Graft failure",
+    "relation": "associated_with",
+    "object": "Sepsis"
+  },
+  {
+    "subject": "Second HSCT",
+    "relation": "has_complication",
+    "object": "Early-transplant related complications"
+  },
+  {
+    "subject": "Second HSCT",
+    "relation": "has_complication",
+    "object": "Late sepsis"
+  },
+  {
+    "subject": "HSCT",
+    "relation": "has_complication",
+    "object": "Graft failure"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "has_symptom",
+    "object": "T cell lymphopenia"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "has_symptom",
+    "object": "Neurodevelopmental delay"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "has_symptom",
+    "object": "Hearing loss"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "has_symptom",
+    "object": "Intellectual deficiency"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "has_cause",
+    "object": "POLD3 deficiency"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "has_cause",
+    "object": "Mutations in POLD3"
+  },
+  {
+    "subject": "POLD3 deficiency",
+    "relation": "associated_with",
+    "object": "Syndromic SCID"
+  },
+  {
+    "subject": "Severe Combined Immunodeficiency (SCID)",
+    "relation": "associated_with",
+    "object": "Inborn errors of immunity"
+  }
+]

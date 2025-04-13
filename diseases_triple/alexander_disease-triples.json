@@ -1,0 +1,3592 @@
+[
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in the astrocyte-specific gene GFAP"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_pathological_feature",
+    "object": "Rosenthal fiber formation within the astrocyte cytoplasm"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrocytic pathology"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "microglia activation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "microglial manipulation-based therapies"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "acute respiratory distress"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "bilateral vocal cord paralysis"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "white matter degeneration"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "bulbospinal atrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "T2-weighted hyperintensities in the frontal periventricular white matter"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in the GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrocytic inclusions called Rosenthal fibers"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "None"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_symptom",
+    "object": "Symptom Y"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "treated_by",
+    "object": "Treatment Z"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_cause",
+    "object": "Cause W"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "associated_with",
+    "object": "Associated Condition V"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "bladder dysfunction"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "upper airway dysfunction"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "psychiatric conditions"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "heterozygous pathogenic variants in the glial fibrillar acidic protein (GFAP) gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "paternal history of dementia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_radiological_characteristic",
+    "object": "brainstem atrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "GFAP mutations"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "protein aggregation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "proteostasis defects"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "altered organelle homeostasis"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "mitochondrial alterations"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "defective lysosomal activity"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "lysosomal distribution alterations"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "compromised lysosomal membrane integrity"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "has_symptom",
+    "object": "paroxysmal neurodegeneration"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "has_symptom",
+    "object": "refractory epilepsy"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "has_symptom",
+    "object": "encephalopathy"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "has_symptom",
+    "object": "irritability"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "has_symptom",
+    "object": "abnormal ocular movements"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "has_cause",
+    "object": "mutation in GFAP gene"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "associated_with",
+    "object": "hydrocephalus"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "associated_with",
+    "object": "aqueduct stenosis"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "treated_by",
+    "object": "amoxicillin"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "treated_by",
+    "object": "perampanel"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "treated_by",
+    "object": "ceftriaxone"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "treated_by",
+    "object": "levomepromazine"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "treated_by",
+    "object": "valproate"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "treated_by",
+    "object": "clonazepam"
+  },
+  {
+    "subject": "Type I Alexander disease",
+    "relation": "treated_by",
+    "object": "phenobarbital"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "genetically altered glial fibrillary acidic protein (GFAP) filaments"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "neuroinflammation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrocytic disease"
+  },
+  {
+    "subject": "Rett syndrome",
+    "relation": "associated_with",
+    "object": "glial cells"
+  },
+  {
+    "subject": "Fragile-X syndrome",
+    "relation": "associated_with",
+    "object": "glial cells"
+  },
+  {
+    "subject": "Aicardi-Goutières syndrome",
+    "relation": "associated_with",
+    "object": "glial cells"
+  },
+  {
+    "subject": "Down syndrome",
+    "relation": "associated_with",
+    "object": "glial cells"
+  },
+  {
+    "subject": "Fetal alcohol spectrum disorder",
+    "relation": "associated_with",
+    "object": "glial cells"
+  },
+  {
+    "subject": "Fetal alcohol spectrum disorder",
+    "relation": "has_cause",
+    "object": "epigenetic effects"
+  },
+  {
+    "subject": "mTOR malformations",
+    "relation": "has_symptom",
+    "object": "distorted size and morphology of glial cells"
+  },
+  {
+    "subject": "Callosal agenesis",
+    "relation": "has_cause",
+    "object": "failure of glial apoptosis"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "failure to thrive"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "intellectual impairment"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "motor impairment"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "white matter deficits"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "reduced hippocampal long-term potentiation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "dominant gain-of-function mutations in GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrocyte dysfunction"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "neuroinflammatory response"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Alzheimer's disease"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "no effective treatments"
+  },
+  {
+    "subject": "Alexander Disease",
+    "relation": "has_cause",
+    "object": "Gain-of-function variants in GFAP"
+  },
+  {
+    "subject": "Alexander Disease",
+    "relation": "has_symptom",
+    "object": "neurodegenerative disorder"
+  },
+  {
+    "subject": "GFAP frameshift variant",
+    "relation": "associated_with",
+    "object": "gliosis of the optic nerve head"
+  },
+  {
+    "subject": "GFAP frameshift variant",
+    "relation": "associated_with",
+    "object": "visual impairment"
+  },
+  {
+    "subject": "GFAP loss-of-function",
+    "relation": "has_symptom",
+    "object": "vision impairment"
+  },
+  {
+    "subject": "GFAP loss-of-function",
+    "relation": "has_symptom",
+    "object": "retinal dysplasia"
+  },
+  {
+    "subject": "GFAP loss-of-function",
+    "relation": "has_symptom",
+    "object": "loss of Müller glia cells"
+  },
+  {
+    "subject": "GFAP loss-of-function",
+    "relation": "has_symptom",
+    "object": "loss of photoreceptor cells"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "atypical MR imaging findings"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "unusual clinical features"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "bilateral symmetric hyperintense signal on T2-weighted images"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophies"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "vanishing white matter"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "adult polyglucosan body disease"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "none"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "none"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "dysphagia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "sleep apnea"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "recurrent vomiting"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "general anesthesia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "monitored anesthesia care (MAC)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "hypotension"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "emergence agitation"
+  },
+  {
+    "subject": "General anesthesia",
+    "relation": "treated_by",
+    "object": "ephedrine"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_treatment_procedure",
+    "object": "magnetic resonance imaging"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_treatment_procedure",
+    "object": "lumbar puncture"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "GFAP gene variants"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "clinical manifestations"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrocyte disorder"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "variable expressivity of clinical manifestations"
+  },
+  {
+    "subject": "GFAP variants",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_treatment",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "limb weakness"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "trouble walking"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_symptom",
+    "object": "mental behavioral problems"
+  },
+  {
+    "subject": "Alexander's disease",
+    "relation": "has_symptom",
+    "object": "diminished speech"
+  },
+  {
+    "subject": "Alexander's disease",
+    "relation": "has_symptom",
+    "object": "limb weakness"
+  },
+  {
+    "subject": "Alexander's disease",
+    "relation": "has_symptom",
+    "object": "trouble walking"
+  },
+  {
+    "subject": "Alexander's disease",
+    "relation": "has_symptom",
+    "object": "mental behavioral problems"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "has_cause",
+    "object": "mutation in the ATP7B gene"
+  },
+  {
+    "subject": "Alexander's disease",
+    "relation": "has_cause",
+    "object": "mutation in the GFAP gene"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "treated_by",
+    "object": "precise treatment plan"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "associated_with",
+    "object": "Alexander's disease"
+  },
+  {
+    "subject": "Alexander's disease",
+    "relation": "associated_with",
+    "object": "Wilson's disease"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "diagnosed_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Alexander's disease",
+    "relation": "diagnosed_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "diagnosed_by",
+    "object": "neuroimaging"
+  },
+  {
+    "subject": "Alexander's disease",
+    "relation": "diagnosed_by",
+    "object": "neuroimaging"
+  },
+  {
+    "subject": "Wilson's disease",
+    "relation": "diagnosed_by",
+    "object": "detailed clinical evaluation"
+  },
+  {
+    "subject": "Alexander's disease",
+    "relation": "diagnosed_by",
+    "object": "detailed clinical evaluation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in the astrocytic filament gene GFAP"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "abnormalities in neurons"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "abnormalities in myelination"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_pathological_phenotype",
+    "object": "Rosenthal fibers (RFs)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "upregulated extracellular matrix (ECM) components"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "upregulated chondroitin sulfate proteoglycans (CSPGs)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "downregulated ECM-degrading enzymes"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "none"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "heterozygous mutations in the GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "severe phenotypes of AxD type I"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "immune system response"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "alterations in cell respiration"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "alterations in lipid metabolism"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "tyrosine metabolic processes dysregulation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "butanoate metabolic processes dysregulation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "extracellular matrix dysregulation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "lipoxidation"
+  },
+  {
+    "subject": "Rare neurological disorders",
+    "relation": "has_cause",
+    "object": "Ferroptosis"
+  },
+  {
+    "subject": "Rare neurological disorders",
+    "relation": "has_symptom",
+    "object": "Neurodegeneration"
+  },
+  {
+    "subject": "Rare neurological disorders",
+    "relation": "has_symptom",
+    "object": "Oxidative damage"
+  },
+  {
+    "subject": "Rare neurological disorders",
+    "relation": "has_symptom",
+    "object": "Neuronal dysfunction"
+  },
+  {
+    "subject": "Rare neurological disorders",
+    "relation": "treated_by",
+    "object": "Iron chelators"
+  },
+  {
+    "subject": "Rare neurological disorders",
+    "relation": "treated_by",
+    "object": "Lipid peroxidation blockers"
+  },
+  {
+    "subject": "Rare neurological disorders",
+    "relation": "treated_by",
+    "object": "Antioxidant-based strategies"
+  },
+  {
+    "subject": "Ferroptosis",
+    "relation": "associated_with",
+    "object": "Iron dependency"
+  },
+  {
+    "subject": "Ferroptosis",
+    "relation": "associated_with",
+    "object": "Lipid peroxidation"
+  },
+  {
+    "subject": "Rare neurological disorders",
+    "relation": "associated_with",
+    "object": "Significant therapeutic gaps"
+  },
+  {
+    "subject": "Rare neurological disorders",
+    "relation": "associated_with",
+    "object": "High unmet medical needs"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "motor disturbance"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "severe atrophy of medulla, spinal cord, and midbrain tegmentum"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "periventricular hyperintensity"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "novel in-frame deletion/insertion mutation in the exon 3 of the GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "progressive supranuclear palsy (PSP)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "decreased striatal uptake in dopamine transporter SPECT"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "neurological findings suggestive of PSP"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "white matter degeneration"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "mutations affecting glial cells"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "mutations"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "genetic neurologic disorders"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "targeted therapeutic strategies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "astroglial leukodystrophies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "oligodendroglial leukodystrophies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "microglial leukodystrophies"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "Rosenthal fibers"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "aberrant Ca2+ signals"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "upregulation of disease-associated genes"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in glial fibrillary acidic protein (GFAP)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrocyte disease"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative disease"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "Mutations of GFAP"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Abnormal mitochondrial division"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Hyperfused mitochondria"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Increased mitochondrial fissions"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_symptom",
+    "object": "headache"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_cause",
+    "object": "viral infection"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "associated_with",
+    "object": "condition Y"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "treated_by",
+    "object": "medication Z"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in glial fibrillary acidic protein (GFAP)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "impaired differentiation of astrocytes and neurons"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "increased stress susceptibility"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "cytoskeletal abnormalities"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "altered extracellular matrix and cell-cell communication patterns"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "higher cell death after stress"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "central nervous system (CNS) development issues"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "altered lineage commitment"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "reduced abundance of astrocytes"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "macrocephaly"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "developmental deterioration"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "progressive quadriparesis"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "increased intracranial pressure"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "focal-onset motor seizures"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "GFAP mutation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "ventriculoperitoneal shunt"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "anti-seizure medications"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophies"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Early Infantile Epileptic Encephalopathy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "Macrocephaly"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "Loss of motor function"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "Loss of independent ambulation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Mild delays"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "First seizure"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "involuntary movements at the front of neck"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "laryngeal tremor"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "palatopharyngeal tremor"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "lower limb dysmetria"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "cerebellar ataxia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "spinal cord atrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "medulla oblongata atrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "hyperintensities at cerebellum"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "cerebral white matter hyperintensities"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutation in the GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophies"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "neurogenetic diseases"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "anticonvulsants"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "supportive treatment"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "abnormal development or destruction of the myelin sheath"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "primary disease of astrocytes"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_symptom",
+    "object": "progressive loss of neurological function"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "damage to nerve cells in the central nervous system"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "protein aggregates"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "impaired protein transport in nerve cells"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "mitochondrial dysfunction"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "inflammatory processes"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "gene therapies"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "reduction in inflammation and oxidative stress"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "use of miRNAs"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "treated_by",
+    "object": "regenerative medicine"
+  },
+  {
+    "subject": "Neurodegenerative diseases",
+    "relation": "associated_with",
+    "object": "increasing human life expectancy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "dominant gain-of-function mutations in the gene encoding glial fibrillary acidic protein (GFAP)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "elevated GFAP in plasma"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "elevated neurofilament light protein (NfL)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "elevated phosphorylated forms of tau (p-tau)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "Antisense Oligonucleotides (ASOs)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative diseases"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "bulbar disturbance"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "gait disturbance"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "pyramidal impairment"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "cerebellar impairment"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "dysautonomia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "cognitive decline"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "heterozygous mutations in GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "medullary and cervical spinal atrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "infratentorial white matter hyperintensities"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "genetic counselling"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "progressive neurological motor decline"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "pyramidal signs"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "bulbar signs"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "symmetrical white matter lesions"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "probable pathogenic variant in GFAP: p.Leu359Pro"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "progressive neurological disease"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "involvement of the brainstem"
+  },
+  {
+    "subject": "Aicardi-Goutières syndrome",
+    "relation": "has_cause",
+    "object": "mutations in any of the nine genes"
+  },
+  {
+    "subject": "Aicardi-Goutières syndrome",
+    "relation": "has_symptom",
+    "object": "characteristic clinical features"
+  },
+  {
+    "subject": "Aicardi-Goutières syndrome",
+    "relation": "has_symptom",
+    "object": "neuroimaging features"
+  },
+  {
+    "subject": "Aicardi-Goutières syndrome",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Leukoencephalopathy with calcifications and cysts",
+    "relation": "has_cause",
+    "object": "mutations in the SNORD118 gene"
+  },
+  {
+    "subject": "Leukoencephalopathy with calcifications and cysts",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Coats plus",
+    "relation": "has_cause",
+    "object": "mutations in the CTC1, POT1, or STN genes"
+  },
+  {
+    "subject": "Coats plus",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Cockayne syndrome",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "X-ALD",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Occulodentodigital dysplasia",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "GFAP mutations"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "aberrant Ca2+ signals in astrocytes"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "aberrant Ca2+ signals in microglia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "highly ramified morphology in microglia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Rosenthal fibres within astrocytes"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "clopidogrel (P2Y12 receptor antagonist)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrocyte dysfunction"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "microglial alterations"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in the glial fibrillary acidic protein"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "astrocytes present characteristic aggregates (Rosenthal fibers)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "impairing astrocyte normal function"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "impairing neurons function"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "mitochondrial dysfunction"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "redox imbalance"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "susceptibility to oxidative stress"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "novel therapeutic strategies"
+  },
+  {
+    "subject": "Alexander disease infantile form",
+    "relation": "has_symptom",
+    "object": "impairment in gross-motor skills"
+  },
+  {
+    "subject": "Alexander disease infantile form",
+    "relation": "has_symptom",
+    "object": "memory impairment"
+  },
+  {
+    "subject": "Alexander disease infantile form",
+    "relation": "has_symptom",
+    "object": "narrative macrostructure impairment"
+  },
+  {
+    "subject": "Alexander disease infantile form",
+    "relation": "has_symptom",
+    "object": "regressive trend"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "has_symptom",
+    "object": "Right hemiparesis"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "has_symptom",
+    "object": "Regression of milestones"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "has_symptom",
+    "object": "Elevated lactate"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "has_symptom",
+    "object": "White matter signal changes"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "has_symptom",
+    "object": "Cardiomyopathy"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "has_symptom",
+    "object": "Stroke-like episodes"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "treated_by",
+    "object": "Mitochondrial cocktail"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "treated_by",
+    "object": "Ramipril"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "treated_by",
+    "object": "Frusemide"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "has_cause",
+    "object": "Homozygous missense variant c.304C>T in NDUFS8 gene"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "associated_with",
+    "object": "Chicken pox"
+  },
+  {
+    "subject": "Mitochondrial disorders",
+    "relation": "associated_with",
+    "object": "Alexander disease"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "progressive enlargement of head"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "severe developmental delay"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in the gene encoding glial fibrillary acidic protein"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "presence of numerous Rosenthal fibers in the brain"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrocytic pathology"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Progressive damage to white matter of the brain"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "X-linked adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Globoid cell leukodystrophy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Giant axonal neuropathy",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "GM2 gangliosidoses",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "Single gene disorders"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Genotoxicity"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Immunotoxicity"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Insertional mutagenesis"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Immune responses"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Ex vivo lentiviral gene delivery"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "In vivo AAV-mediated gene delivery"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Intrathecal antisense oligonucleotide approaches"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "cerebellar ataxia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "pyramidal signs"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "mild dysarthria"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "p.E332K mutation in GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "atrophy of the medulla oblongata"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "atrophy of the cervical spinal cord"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "reduced sagittal diameter of the MO"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "garland-like hyperintensity signals along the lateral ventricular walls"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Progressive motor impairment"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Cognitive impairment"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Exacerbation of illness"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Side effects"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_cause",
+    "object": "Genetic disorder"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "treated_by",
+    "object": "Novel therapies"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "associated_with",
+    "object": "Clinical trials"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_symptom",
+    "object": "Progressive Motor Weakness"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_symptom",
+    "object": "Upper Motor Neuron Degeneration"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_symptom",
+    "object": "Lower Motor Neuron Degeneration"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_symptom",
+    "object": "Respiratory Muscle Symptoms"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_symptom",
+    "object": "Bulbar Area Symptoms"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "has_symptom",
+    "object": "Limbs Symptoms"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "associated_with",
+    "object": "ALS Mimics"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "diagnosed_by",
+    "object": "Clinical Investigations"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "diagnosed_by",
+    "object": "Electrophysiological Investigations"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "diagnosed_by",
+    "object": "Biological Investigations"
+  },
+  {
+    "subject": "Amyotrophic Lateral Sclerosis",
+    "relation": "diagnosed_by",
+    "object": "Radiological Investigations"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "macrocephaly"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "progressive spasticity"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "deletion mutations in GFAP"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophies"
+  },
+  {
+    "subject": "Vimentin-related disease",
+    "relation": "has_cause",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Vimentin-related disease",
+    "relation": "has_cause",
+    "object": "Electrophilic modifications"
+  },
+  {
+    "subject": "Vimentin-related disease",
+    "relation": "has_symptom",
+    "object": "Disrupted filament assembly"
+  },
+  {
+    "subject": "Vimentin-related disease",
+    "relation": "has_symptom",
+    "object": "Reorganization of actin filaments"
+  },
+  {
+    "subject": "Vimentin-related disease",
+    "relation": "associated_with",
+    "object": "Redox signaling"
+  },
+  {
+    "subject": "Vimentin-related disease",
+    "relation": "associated_with",
+    "object": "Cytoskeletal reorganization"
+  },
+  {
+    "subject": "Van der Knaap's disease",
+    "relation": "has_symptom",
+    "object": "motor difficulties"
+  },
+  {
+    "subject": "Van der Knaap's disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Van der Knaap's disease",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Van der Knaap's disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Van der Knaap's disease",
+    "relation": "associated_with",
+    "object": "megalencephalic leukoencephalopathy"
+  },
+  {
+    "subject": "Van der Knaap's disease",
+    "relation": "associated_with",
+    "object": "subcortical cysts"
+  },
+  {
+    "subject": "Van der Knaap's disease",
+    "relation": "associated_with",
+    "object": "subependymal nodular heterotopia"
+  },
+  {
+    "subject": "Van der Knaap's disease",
+    "relation": "associated_with",
+    "object": "subependymal cysts"
+  },
+  {
+    "subject": "Van der Knaap's disease",
+    "relation": "associated_with",
+    "object": "cortical laminar necrosis"
+  },
+  {
+    "subject": "Van der Knaap's disease",
+    "relation": "treated_by",
+    "object": "comprehensive neuroradiological evaluation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "autosomal dominant mutations in GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "loss of motor skills"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "loss of language skills"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "abnormal brain MRI findings"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "has_symptom",
+    "object": "Symptomatic"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "has_symptom",
+    "object": "Acute cholecystitis"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "treated_by",
+    "object": "Ursodeoxycholic acid (UDCA)"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "has_cause",
+    "object": "Use of cephalosporin antibiotic therapy"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "has_cause",
+    "object": "Sepsis"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "has_cause",
+    "object": "Total parenteral nutrition"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "has_cause",
+    "object": "Prematurity"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "associated_with",
+    "object": "Congenital heart disease"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "associated_with",
+    "object": "Genetic disease (Down syndrome)"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "treated_by",
+    "object": "Surgical treatment"
+  },
+  {
+    "subject": "Cholelithiasis",
+    "relation": "treated_by",
+    "object": "Endoscopic treatment"
+  },
+  {
+    "subject": "Inherited white matter disorders",
+    "relation": "has_symptom",
+    "object": "nonspecific clinical features"
+  },
+  {
+    "subject": "Inherited white matter disorders",
+    "relation": "has_symptom",
+    "object": "radiologic features"
+  },
+  {
+    "subject": "Inherited white matter disorders",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Inherited white matter disorders",
+    "relation": "associated_with",
+    "object": "posterior fossa involvement"
+  },
+  {
+    "subject": "Inherited white matter disorders",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Inherited white matter disorders",
+    "relation": "treated_by",
+    "object": "MRI-based diagnostic approach"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in the gene encoding for glial fibrillary acidic protein"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "gait disturbance"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "urinary incontinence"
+  },
+  {
+    "subject": "Type II Alexander disease",
+    "relation": "has_symptom",
+    "object": "bulbospinal symptoms"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "rapid neurological deterioration"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "hydromyelia of the cervicomedullary junction"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "minor head injury"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "dominant gain-of-function mutations in the gene coding for glial fibrillary acidic protein (GFAP)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "GFAP accumulation as Rosenthal fibers"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "abnormal GFAP crosslinking"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "GFAP aggregation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "abnormal GFAP modifications"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "targeting abnormal GFAP modifications"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "arginine"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "caudotentorial encephalopathy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "cerebellar enlargement"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "diffuse, bilateral, T2-weighted and T2-weighted-FLAIR hyperintense, T1-weighted hypointense, noncontrast-enhancing lesions"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "euthanasia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "unknown"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukoencephalopathies"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "fibrinoid leukodystrophy"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Fever"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Diarrhea"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Paucity of movements of both upper and lower limbs"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Decreased tone"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Diminished reflexes"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Sudden motor abnormalities"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_cause",
+    "object": "Traumatic brain injury"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_cause",
+    "object": "Febrile episode"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "associated_with",
+    "object": "Leukodystrophy"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "treated_by",
+    "object": "Symptomatic and supportive care"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "treated_by",
+    "object": "Antibiotics"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "treated_by",
+    "object": "Antipyretics"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "treated_by",
+    "object": "Prevention of traumatic brain injury"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "treated_by",
+    "object": "Prevention of stressful event"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in the gene for glial fibrillary acidic protein (GFAP)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "GFAP aggregation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrogliosis"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrocyte stress response"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "reactive astrocytes"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "microglial activation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "pharmacological inhibition of STAT3"
+  },
+  {
+    "subject": "Multiple Sclerosis (MS)",
+    "relation": "has_biomarker",
+    "object": "Glial Fibrillary Acidic Protein (GFAP)"
+  },
+  {
+    "subject": "Multiple Sclerosis (MS)",
+    "relation": "has_biomarker",
+    "object": "Neurofilament Light (NfL)"
+  },
+  {
+    "subject": "Aquaporin-4 Neuromyelitis Optica Spectrum Disorder (AQP4-NMOSD)",
+    "relation": "has_biomarker",
+    "object": "Glial Fibrillary Acidic Protein (GFAP)"
+  },
+  {
+    "subject": "Aquaporin-4 Neuromyelitis Optica Spectrum Disorder (AQP4-NMOSD)",
+    "relation": "has_biomarker",
+    "object": "Neurofilament Light (NfL)"
+  },
+  {
+    "subject": "Multiple Sclerosis (MS)",
+    "relation": "treated_by",
+    "object": "personalized treatment approaches"
+  },
+  {
+    "subject": "Aquaporin-4 Neuromyelitis Optica Spectrum Disorder (AQP4-NMOSD)",
+    "relation": "treated_by",
+    "object": "personalized treatment approaches"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_symptom",
+    "object": "memory loss"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "treated_by",
+    "object": "medication"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "astrocyte dysfunction"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "galactosylceramidase deficiency"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "damaged oligodendrocytes"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "LUNAR-human galactosylceramidase mRNA"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "neurological disorders"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "oligodendrocyte damage"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "seizure"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "bulbar palsy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "psychiatric symptoms"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "depression"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "disorientation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "delirious state"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "mutations in the GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "whole exon deletion of the GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "white matter hyperintensity in MRI"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "genetic study"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "neurologic consultation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "appropriate imaging and laboratory procedures"
+  },
+  {
+    "subject": "chronic non-specific low back pain",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "chronic non-specific low back pain",
+    "relation": "has_symptom",
+    "object": "function"
+  },
+  {
+    "subject": "chronic non-specific low back pain",
+    "relation": "treated_by",
+    "object": "graded activity"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "neuronal dysfunction"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "neuronal death"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrogliopathy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "dysfunctional anastasis"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "therapeutic strategies targeting toxic senescent astroglia"
+  },
+  {
+    "subject": "Alexander Disease",
+    "relation": "has_cause",
+    "object": "Gain-of-function variants in GFAP"
+  },
+  {
+    "subject": "Alexander Disease",
+    "relation": "has_symptom",
+    "object": "neurodegenerative disorder"
+  },
+  {
+    "subject": "Optico-retinal dysplasia",
+    "relation": "has_cause",
+    "object": "Loss-of-function variant in GFAP"
+  },
+  {
+    "subject": "Optico-retinal dysplasia",
+    "relation": "has_symptom",
+    "object": "vision impairment"
+  },
+  {
+    "subject": "Optico-retinal dysplasia",
+    "relation": "has_symptom",
+    "object": "retinal dysplasia"
+  },
+  {
+    "subject": "Optico-retinal dysplasia",
+    "relation": "has_symptom",
+    "object": "gliosis of the optic nerve head"
+  },
+  {
+    "subject": "Optico-retinal dysplasia",
+    "relation": "has_symptom",
+    "object": "visual impairment"
+  },
+  {
+    "subject": "Optico-retinal dysplasia",
+    "relation": "associated_with",
+    "object": "loss of Müller glia cells"
+  },
+  {
+    "subject": "Optico-retinal dysplasia",
+    "relation": "associated_with",
+    "object": "loss of photoreceptor cells"
+  },
+  {
+    "subject": "Multi system atrophy",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Multi system atrophy",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Multi system atrophy",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Multi system atrophy",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Progressive supranuclear palsy",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Progressive supranuclear palsy",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Progressive supranuclear palsy",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Progressive supranuclear palsy",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Sporadic adult onset ataxia",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Sporadic adult onset ataxia",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Sporadic adult onset ataxia",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Sporadic adult onset ataxia",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Pulmonary fibrosis",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Pulmonary fibrosis",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Pulmonary fibrosis",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Pulmonary fibrosis",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Huntington's disease",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Huntington's disease",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Huntington's disease",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Huntington's disease",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Lupus",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Lupus",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Lupus",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Lupus",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Anti-phospholipid syndrome",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Anti-phospholipid syndrome",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Anti-phospholipid syndrome",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Anti-phospholipid syndrome",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Fibromyalgia",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Fibromyalgia",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Fibromyalgia",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Fibromyalgia",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Machado-Joseph disease",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Machado-Joseph disease",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Machado-Joseph disease",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Machado-Joseph disease",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Acyl-CoA dehydrogenase deficiency",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Acyl-CoA dehydrogenase deficiency",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Acyl-CoA dehydrogenase deficiency",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Acyl-CoA dehydrogenase deficiency",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Leber's optic neuropathy",
+    "relation": "associated_with",
+    "object": "Mitochondrial dysfunction"
+  },
+  {
+    "subject": "Leber's optic neuropathy",
+    "relation": "associated_with",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Leber's optic neuropathy",
+    "relation": "associated_with",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Leber's optic neuropathy",
+    "relation": "treated_by",
+    "object": "Coenzyme Q10"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Macrocephaly"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Leukodystrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Macrocephaly"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "associated_with",
+    "object": "Leukodystrophy"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "associated_with",
+    "object": "Macrocephaly"
+  },
+  {
+    "subject": "Megalencephalic leukodystrophy with subcortical cysts",
+    "relation": "associated_with",
+    "object": "Leukodystrophy"
+  },
+  {
+    "subject": "Megalencephalic leukodystrophy with subcortical cysts",
+    "relation": "associated_with",
+    "object": "Macrocephaly"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "White matter involvement"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "Periventricular T2-hypointense rim"
+  },
+  {
+    "subject": "Acute Ischemic Stroke",
+    "relation": "has_symptom",
+    "object": "Ischemia"
+  },
+  {
+    "subject": "Acute Ischemic Stroke",
+    "relation": "associated_with",
+    "object": "Modified Rankin Scale"
+  },
+  {
+    "subject": "Acute Ischemic Stroke",
+    "relation": "has_cause",
+    "object": "Brain Ischemia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": null
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "uncommon presentations"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "persistent nausea"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "vomiting"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "weight loss"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "status epilepticus"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "generalized atonic seizures"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "weak gag reflex"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "prominent drooling"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "exaggerated knee-deep tendon reflexes"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "nasal tone speech"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "de novo heterozygous mutation in GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophies"
+  },
+  {
+    "subject": "Alexander disease type II",
+    "relation": "treated_by",
+    "object": "prednisolone"
+  },
+  {
+    "subject": "autosomal dominant disorders",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "autosomal dominant disorders",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "autosomal dominant disorders",
+    "relation": "has_cause",
+    "object": "high-impact variants"
+  },
+  {
+    "subject": "autosomal dominant disorders",
+    "relation": "associated_with",
+    "object": "genes"
+  },
+  {
+    "subject": "Destabilized IF networks",
+    "relation": "has_cause",
+    "object": "Phosphorylation-mediated filament severing"
+  },
+  {
+    "subject": "Destabilized IF networks",
+    "relation": "has_cause",
+    "object": "Cellular proteases"
+  },
+  {
+    "subject": "Destabilized IF networks",
+    "relation": "associated_with",
+    "object": "N-degron and C-degron pathways"
+  },
+  {
+    "subject": "Neurological disorder associated with IF networks",
+    "relation": "treated_by",
+    "object": "NF and GFAP-based clinical biomarker tests"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_symptom",
+    "object": "Disability"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_symptom",
+    "object": "Progressive condition"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "has_cause",
+    "object": "Early death"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "treated_by",
+    "object": "Therapeutic products"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "treated_by",
+    "object": "Medicines"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "treated_by",
+    "object": "Medical devices"
+  },
+  {
+    "subject": "Rare diseases",
+    "relation": "associated_with",
+    "object": "Chronic conditions"
+  },
+  {
+    "subject": "Glaucoma",
+    "relation": "has_cause",
+    "object": "High Intraocular Pressure"
+  },
+  {
+    "subject": "Glaucoma",
+    "relation": "associated_with",
+    "object": "Astrocyte Polarization"
+  },
+  {
+    "subject": "Glaucoma",
+    "relation": "associated_with",
+    "object": "A1 Astrocytes"
+  },
+  {
+    "subject": "Glaucoma",
+    "relation": "associated_with",
+    "object": "A2 Astrocytes"
+  },
+  {
+    "subject": "Glaucoma",
+    "relation": "has_symptom",
+    "object": "High Intraocular Pressure"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "Brain cavitation"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "heterozygous mutations in the gene encoding glial fibrillary acidic protein (GFAP)"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "white matter cavitation"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "has_cause",
+    "object": "Aberrant protein folding"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "has_cause",
+    "object": "Protein aggregation"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "has_cause",
+    "object": "Accumulation of proteins"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "has_symptom",
+    "object": "Neuronal degeneration"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "treated_by",
+    "object": "Protein quality control mechanisms"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "treated_by",
+    "object": "Interventions targeting protein aggregation"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "treated_by",
+    "object": "Regulation of post-translational modifications"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "treated_by",
+    "object": "Enhancement of molecular chaperones"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "treated_by",
+    "object": "Clearance of protein aggregates"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "associated_with",
+    "object": "β-amyloid (Aβ)"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "associated_with",
+    "object": "Tau"
+  },
+  {
+    "subject": "Neurodegenerative disease",
+    "relation": "associated_with",
+    "object": "α-synuclein"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "missense mutation in the GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Fragile X-associated tremor/ataxia syndrome"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "Whole-genome sequencing"
+  },
+  {
+    "subject": "Fragile X-associated tremor/ataxia syndrome",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Fragile X-associated tremor/ataxia syndrome",
+    "relation": "has_cause",
+    "object": "pre-mutation in the FMR1 gene"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "white matter imaging abnormalities"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "delayed developmental milestones"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "cognitive developmental delay"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "motor developmental delay"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "repurposing of existing small molecules"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "gene therapies"
+  },
+  {
+    "subject": "Krabbe Disease",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Aicardi Goutières Syndrome (AGS)",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy (MLD)",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Alexander Disease (AxD)",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher Disease (PMD)",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "X-Linked Adrenoleukodystrophy (X-ALD)",
+    "relation": "associated_with",
+    "object": "Leukodystrophies"
+  },
+  {
+    "subject": "the condition",
+    "relation": "has_symptom",
+    "object": "subacute ataxia"
+  },
+  {
+    "subject": "the condition",
+    "relation": "has_symptom",
+    "object": "encephalopathy"
+  },
+  {
+    "subject": "the condition",
+    "relation": "has_symptom",
+    "object": "ophthalmoplegia"
+  },
+  {
+    "subject": "the condition",
+    "relation": "has_symptom",
+    "object": "dysarthria"
+  },
+  {
+    "subject": "the condition",
+    "relation": "has_cause",
+    "object": "sore throat"
+  },
+  {
+    "subject": "the condition",
+    "relation": "associated_with",
+    "object": "multifocal enhancing and nonenhancing supratentorial white matter lesions"
+  },
+  {
+    "subject": "the condition",
+    "relation": "associated_with",
+    "object": "symmetric brainstem lesions"
+  },
+  {
+    "subject": "the condition",
+    "relation": "treated_by",
+    "object": "rituximab"
+  },
+  {
+    "subject": "Alexander's Disease",
+    "relation": "has_symptom",
+    "object": "noncoherence"
+  },
+  {
+    "subject": "Alexander's Disease",
+    "relation": "treated_by",
+    "object": "intrathecal injections"
+  },
+  {
+    "subject": "Alexander's Disease",
+    "relation": "associated_with",
+    "object": "astrocyte dysfunction"
+  },
+  {
+    "subject": "Alexander's Disease",
+    "relation": "associated_with",
+    "object": "neurodevelopmental diseases"
+  },
+  {
+    "subject": "prolonged postanesthetic recovery",
+    "relation": "treated_by",
+    "object": "EEG-guided propofol dosing"
+  },
+  {
+    "subject": "anesthetic sensitivity",
+    "relation": "has_cause",
+    "object": "astrocyte dysfunction"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "dominant variants in the Glial Fibrillary Acidic Protein gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "neurologic decline"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "cognitive impairment"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "delay in neuromotor development"
+  },
+  {
+    "subject": "Type Ia Alexander disease",
+    "relation": "has_symptom",
+    "object": "Neonatal presentation"
+  },
+  {
+    "subject": "Type Ia Alexander disease",
+    "relation": "has_symptom",
+    "object": "rapidly evolving course"
+  },
+  {
+    "subject": "Type Ib Alexander disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Type Ib Alexander disease",
+    "relation": "has_symptom",
+    "object": "deterioration by the age of 5"
+  },
+  {
+    "subject": "Type Ic Alexander disease",
+    "relation": "has_symptom",
+    "object": "delay in neuromotor development"
+  },
+  {
+    "subject": "Type Ic Alexander disease",
+    "relation": "has_symptom",
+    "object": "deteriorating after 6 years of age"
+  },
+  {
+    "subject": "Type Id Alexander disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Type Id Alexander disease",
+    "relation": "has_symptom",
+    "object": "clinically stable beyond adolescence"
+  },
+  {
+    "subject": "Juvenile Alexander disease",
+    "relation": "has_symptom",
+    "object": "normal neuromotor development"
+  },
+  {
+    "subject": "Juvenile Alexander disease",
+    "relation": "has_symptom",
+    "object": "mild cognitive impairment"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "astrocyte dysfunction"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_symptom",
+    "object": "anosmia"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "genetic causes"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "non-genetic causes"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "traumatic brain injury"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Alexander disease"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Prader-Willi mutation"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "treated_by",
+    "object": "TYROBP gene manipulation"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "treated_by",
+    "object": "ATG7 gene manipulation"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_symptom",
+    "object": "headache"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_symptom",
+    "object": "fatigue"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_cause",
+    "object": "mutations in a specific gene"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "treated_by",
+    "object": "medication"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "treated_by",
+    "object": "lifestyle changes"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "associated_with",
+    "object": "diabetes"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "Variants in GFAP"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "clinical symptoms"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "leukodystrophy"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "genetic diagnosis"
+  },
+  {
+    "subject": "Focal Cortical Dysplasia Type IIb",
+    "relation": "has_symptom",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Tuberous Sclerosis Complex",
+    "relation": "has_symptom",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Focal Cortical Dysplasia Type IIb",
+    "relation": "associated_with",
+    "object": "Balloon/giant cells"
+  },
+  {
+    "subject": "Tuberous Sclerosis Complex",
+    "relation": "associated_with",
+    "object": "Balloon/giant cells"
+  },
+  {
+    "subject": "Focal Cortical Dysplasia Type IIb",
+    "relation": "has_cause",
+    "object": "Hyperactive mTOR pathway"
+  },
+  {
+    "subject": "Tuberous Sclerosis Complex",
+    "relation": "has_cause",
+    "object": "Hyperactive mTOR pathway"
+  },
+  {
+    "subject": "Focal Cortical Dysplasia Type IIb",
+    "relation": "associated_with",
+    "object": "Malformations of cortical development"
+  },
+  {
+    "subject": "Tuberous Sclerosis Complex",
+    "relation": "associated_with",
+    "object": "Malformations of cortical development"
+  },
+  {
+    "subject": "Leukoencephalopathies",
+    "relation": "has_symptom",
+    "object": "progressive neurological symptoms"
+  },
+  {
+    "subject": "Leukoencephalopathies",
+    "relation": "has_cause",
+    "object": "degeneration of white matter"
+  },
+  {
+    "subject": "Leukoencephalopathies",
+    "relation": "has_cause",
+    "object": "genetic mutations"
+  },
+  {
+    "subject": "Leukoencephalopathies",
+    "relation": "treated_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Leukoencephalopathies",
+    "relation": "associated_with",
+    "object": "NOTCH3 mutations"
+  },
+  {
+    "subject": "Leukoencephalopathies",
+    "relation": "associated_with",
+    "object": "NOTCH2NLC mutations"
+  },
+  {
+    "subject": "Leukoencephalopathies",
+    "relation": "associated_with",
+    "object": "NOTCH2NLC GGC repeat expansions"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "hyponatremia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "cognitive decline"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "brisk deep tendon reflex"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "personality change"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_symptom",
+    "object": "psychogenic polydipsia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "has_cause",
+    "object": "heterozygous mutations in GFAP gene"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "extensive white matter lesions"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "psychiatric manifestations"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "treated_by",
+    "object": "none mentioned"
+  },
+  {
+    "subject": "psychogenic polydipsia",
+    "relation": "has_symptom",
+    "object": "hyponatremia"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "schizophrenia"
+  },
+  {
+    "subject": "Infantile Alexander Disease",
+    "relation": "has_symptom",
+    "object": "Seizure"
+  },
+  {
+    "subject": "Infantile Alexander Disease",
+    "relation": "has_symptom",
+    "object": "Macrocephaly"
+  },
+  {
+    "subject": "Infantile Alexander Disease",
+    "relation": "has_symptom",
+    "object": "Developmental Delay"
+  },
+  {
+    "subject": "Infantile Alexander Disease",
+    "relation": "has_symptom",
+    "object": "Spasticity"
+  },
+  {
+    "subject": "Alexander Disease",
+    "relation": "has_cause",
+    "object": "GFAP Mutations"
+  },
+  {
+    "subject": "Infantile Alexander Disease",
+    "relation": "associated_with",
+    "object": "GFAP Mutation"
+  },
+  {
+    "subject": "Alexander Disease",
+    "relation": "treated_by",
+    "object": "Genetic Testing"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Gastrointestinal symptoms"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Gastroesophageal reflux disease (GERD)"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Dysphagia"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Neuro-motor disability"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "associated_with",
+    "object": "Gut dysbiosis"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "associated_with",
+    "object": "Neuroinflammation"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "treated_by",
+    "object": "Gastroenterological assessment"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "treated_by",
+    "object": "Nutritional intervention"
+  }
+]

@@ -1,0 +1,4137 @@
+[
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Narrowing of intervertebral space"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Calcium deposits"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Vacuum disc phenomenon"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Spine disorder"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "High HGA levels"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Joint issues"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Poor general health perception"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Poor mental health"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Poor mental role functioning"
+  },
+  {
+    "subject": "Nitisinone treatment",
+    "relation": "associated_with",
+    "object": "Increased tyrosine levels"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "bluish-black coloring of the bone and cartilage"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "calcification"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "degeneration"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "osteoporosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronotic degenerative arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "joint pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "hip replacement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "joint replacement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "deficiency in the homogentisate 1,2-dioxygenase enzyme"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "elevated levels of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "elevated levels of benzoquinone acetic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "accumulation of pigments in the spine and major joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Tendinopathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Osteopenia"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Discolouration of auricular regions"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Discolouration of fingers"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Scleral discolouration"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Secondary glaucoma"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Proteinuria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Calcification of mitral valve"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Black urethral stones"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Black prostate stones"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Chronic cough"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Polyneuropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Corpus cysts in thoracic spine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Genetic variant"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Homogentisic acid accumulation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Familial symptom patterns"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "black urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "deficiency of the enzyme Homogentisate 1,2-dioxygenase"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "accumulation of Homogentisic acid (HGA)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "homogentisic aciduria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "bluish-black discoloration of connective tissues"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "arthropathy of the spine and large weight-bearing joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "coronary and valvular calcification"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "aortic stenosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "limited chest expansion"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "renal calculi"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "urethral calculi"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "prostate calculi"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ocular pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "cutaneous pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "spondylotic changes of the spine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "enthesopathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "tendon ruptures"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "reduced bone density"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "autosomal recessive enzymatic deficiency of homogentisic acid (HGA) oxidase"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "low-protein diet"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "ascorbic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "joint arthroplasty"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "cementless fixation"
+  },
+  {
+    "subject": "malaria",
+    "relation": "has_cause",
+    "object": "Plasmodium parasites"
+  },
+  {
+    "subject": "malaria",
+    "relation": "transmitted_by",
+    "object": "anopheline mosquitoes"
+  },
+  {
+    "subject": "malaria",
+    "relation": "associated_with",
+    "object": "Anopheles gambiae"
+  },
+  {
+    "subject": "alkaptonuria",
+    "relation": "treated_by",
+    "object": "nitisinone"
+  },
+  {
+    "subject": "tyrosine pathway disorders",
+    "relation": "treated_by",
+    "object": "nitisinone"
+  },
+  {
+    "subject": "Anopheles gambiae",
+    "relation": "treated_by",
+    "object": "nitisinone"
+  },
+  {
+    "subject": "malaria",
+    "relation": "prevented_by",
+    "object": "nitisinone"
+  },
+  {
+    "subject": "tyrosine pathway disorders",
+    "relation": "has_symptom",
+    "object": "metabolic disorder"
+  },
+  {
+    "subject": "alkaptonuria",
+    "relation": "has_cause",
+    "object": "genetic disorder in tyrosine degradation pathway"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "right hip pain"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "difficulty walking"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "restricted movement at the hip and spine"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "arthritic changes in the right hip joint"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "mid-substance tear in the quadriceps tendon"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "joint replacement surgery"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "absence of the enzyme homogentisate 1,2 dioxygenase"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_cause",
+    "object": "accumulation of homogentisic acid in connective tissues and blood"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "associated_with",
+    "object": "Alkaptonuria"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "associated_with",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Shoulder pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Tear of the long head of biceps tendon"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Labral tear"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Blackish discoloration of the glenoid rim"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Debridement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Biceps tenodesis"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "associated_with",
+    "object": "Shoulder involvement"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Chronic organ failure"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_cause",
+    "object": "Genetic inheritance"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Parental consanguinity"
+  },
+  {
+    "subject": "Glycogen storage diseases",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Tyrosinemia type 1",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Primary hyperoxaluria",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Urea cycle disorders",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Homozygous familial hypercholesterolemia",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Propionic acidemia",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Deoxyguanosine kinase deficiency",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Maple syrup urine disease",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Methylmalonic acidemia",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Niemann-Pick disease type B",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Alkaptonuria with unknown neonatal cholestasis",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Bile acid synthesis disorder",
+    "relation": "treated_by",
+    "object": "Liver transplantation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Reduced hip flexion"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Reduced hip abduction"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Reduced hip range of motion"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "chronic lower back pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "radiating pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "black discoloration of cartilage"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "degeneration of intervertebral disks"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "inflammation of intervertebral disks"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "calcification of large joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "impaired quality of life"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "deficient activity of homogentisic acid oxidase"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "lumbar degenerative disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "lumbar spondylolisthesis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "migrated lumbar disk herniation"
+  },
+  {
+    "subject": "Alkaptonuria-related lumbar degenerative disease",
+    "relation": "treated_by",
+    "object": "transforaminal lumbar interbody fusion surgery"
+  },
+  {
+    "subject": "Lumbar degenerative disease",
+    "relation": "treated_by",
+    "object": "transforaminal lumbar interbody fusion surgery"
+  },
+  {
+    "subject": "Bilateral spontaneous calcaneal avulsion",
+    "relation": "has_cause",
+    "object": "Alkaptonuria"
+  },
+  {
+    "subject": "Bilateral spontaneous calcaneal avulsion",
+    "relation": "has_symptom",
+    "object": "Tendon ruptures"
+  },
+  {
+    "subject": "Achilles tendon ruptures",
+    "relation": "has_cause",
+    "object": "Oral corticosteroid use"
+  },
+  {
+    "subject": "Achilles tendon ruptures",
+    "relation": "has_cause",
+    "object": "Fluoroquinolone use"
+  },
+  {
+    "subject": "Achilles tendon ruptures",
+    "relation": "has_cause",
+    "object": "Degenerative changes within the tendon"
+  },
+  {
+    "subject": "Bilateral spontaneous ruptures",
+    "relation": "associated_with",
+    "object": "Long-term corticosteroid therapy"
+  },
+  {
+    "subject": "Atraumatic tendon ruptures",
+    "relation": "associated_with",
+    "object": "Metabolic disorders"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_symptom",
+    "object": "Ochronotic pigmentation"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_symptom",
+    "object": "Valvular disease"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_cause",
+    "object": "Homogentisate 1,2-dioxygenase deficiency"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "associated_with",
+    "object": "Alkaptonuria"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "associated_with",
+    "object": "Aortic valve stenosis"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "associated_with",
+    "object": "Coronary artery disease"
+  },
+  {
+    "subject": "Valvular disease",
+    "relation": "treated_by",
+    "object": "Differential diagnosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Bilateral hip pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronotic arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Black bone tissue"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Black cartilage"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Bilateral hip pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Homogentisic acid accumulation"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "associated_with",
+    "object": "Alkaptonuria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Surgery"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "progressive ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "joint degeneration"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "acute inflammation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "secondary amyloidosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "therapeutic approaches aimed at stabilizing SAA1.1 protein and preventing amyloid fibril formation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "NTBC"
+  },
+  {
+    "subject": "NTBC-induced tyrosinemia",
+    "relation": "has_symptom",
+    "object": "Skin issues"
+  },
+  {
+    "subject": "NTBC-induced tyrosinemia",
+    "relation": "has_symptom",
+    "object": "Corneal keratopathy"
+  },
+  {
+    "subject": "NTBC-induced tyrosinemia",
+    "relation": "treated_by",
+    "object": "Low-protein diet"
+  },
+  {
+    "subject": "NTBC-induced tyrosinemia",
+    "relation": "treated_by",
+    "object": "cGMP protein substitute"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "NTBC-induced tyrosinemia"
+  },
+  {
+    "subject": "NTBC-induced tyrosinemia",
+    "relation": "has_cause",
+    "object": "NTBC treatment"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Blue-black pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Brittle cartilage"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Knee pain"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Recurrent swelling"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Restricted range of motion"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Tricompartmental osteoarthritis"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Valgus deformity"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Deficient homogentisic acid oxidase enzyme activity"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "associated_with",
+    "object": "Articular cartilage damage"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "Total knee replacement"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "Joint replacement surgery"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "dark coloration of urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "pink-to-brown discolouration of diapers"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "brown-staining of clothes and skin"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "hyperoxaluria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "nephrotic range proteinuria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "false increase of urine total protein"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "false-low creatinine"
+  },
+  {
+    "subject": "Disease Name",
+    "relation": "has_symptom",
+    "object": "Symptom Name"
+  },
+  {
+    "subject": "Disease Name",
+    "relation": "treated_by",
+    "object": "Treatment Name"
+  },
+  {
+    "subject": "Disease Name",
+    "relation": "has_cause",
+    "object": "Cause Name"
+  },
+  {
+    "subject": "Disease Name",
+    "relation": "associated_with",
+    "object": "Associated Condition Name"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Headache"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Giddiness"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Aortic Stenosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_manifestation",
+    "object": "Cardiac Ochronosis"
+  },
+  {
+    "subject": "Cardiac Ochronosis",
+    "relation": "associated_with",
+    "object": "Atherosclerotic Plaques"
+  },
+  {
+    "subject": "Aortic Stenosis",
+    "relation": "treated_by",
+    "object": "Valve Replacement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Degenerative Calcific Aortic Stenosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Autosomal Recessive Disorder"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Eye pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Back pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Joint pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Biallelic pathogenic variants in the homogentisate 1,2-dioxygenase (HGD) gene"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Homozygous splice donor variant (c.87+1G>A)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "High levels of homogentisic acid (HGA)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Deposition of HGA in connective tissues"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Genetic counselling"
+  },
+  {
+    "subject": "Cyanide Toxicity",
+    "relation": "treated_by",
+    "object": "Hydroxocobalamin"
+  },
+  {
+    "subject": "Hydroxocobalamin-induced Chromaturia",
+    "relation": "has_symptom",
+    "object": "Purple Urine"
+  },
+  {
+    "subject": "Hydroxocobalamin-induced Chromaturia",
+    "relation": "has_cause",
+    "object": "Hydroxocobalamin"
+  },
+  {
+    "subject": "Hydroxocobalamin-induced Chromaturia",
+    "relation": "associated_with",
+    "object": "Cyanide Toxicity"
+  },
+  {
+    "subject": "Cyanide Toxicity",
+    "relation": "has_cause",
+    "object": "Smoke Inhalation"
+  },
+  {
+    "subject": "Hydroxocobalamin-induced Chromaturia",
+    "relation": "treated_by",
+    "object": "No Intervention"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "progressive arthropathy of the spine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "progressive arthropathy of large joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "cardiac valvular disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "genitourinary stones"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "deficiency of homogentisate 1,2-dioxygenase"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "deposition of HGA-derived polymers in connective tissue"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronotic arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "cardiovascular manifestations"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "valvular heart disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "renal stones"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "prostatic stones"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "hypothyroidism"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "mutations within a gene coding for homogentisate 1,2 dioxygenase enzyme"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "nitisinone (NTBC)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "symptomatic treatment"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Homogentisic acid"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "has_cause",
+    "object": "N-acetyl aspartic acid"
+  },
+  {
+    "subject": "Isovaleric acidemia",
+    "relation": "has_cause",
+    "object": "Isovaleric acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Amyloidogenic aggregates"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "associated_with",
+    "object": "Amyloidogenic aggregates"
+  },
+  {
+    "subject": "Isovaleric acidemia",
+    "relation": "associated_with",
+    "object": "Amyloidogenic aggregates"
+  },
+  {
+    "subject": "Amyloidogenic aggregates",
+    "relation": "has_symptom",
+    "object": "Cytotoxicity"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Cytotoxicity"
+  },
+  {
+    "subject": "Canavan disease",
+    "relation": "has_symptom",
+    "object": "Cytotoxicity"
+  },
+  {
+    "subject": "Isovaleric acidemia",
+    "relation": "has_symptom",
+    "object": "Cytotoxicity"
+  },
+  {
+    "subject": "Aortic Stenosis",
+    "relation": "has_symptom",
+    "object": "Progressive Exertional Shortness of Breath"
+  },
+  {
+    "subject": "Aortic Stenosis",
+    "relation": "treated_by",
+    "object": "Aortic Valve Repair"
+  },
+  {
+    "subject": "Aortic Stenosis",
+    "relation": "associated_with",
+    "object": "Unicuspid Aortic Valve"
+  },
+  {
+    "subject": "Aortic Stenosis",
+    "relation": "associated_with",
+    "object": "Severe Acne"
+  },
+  {
+    "subject": "Aortic Stenosis",
+    "relation": "has_cause",
+    "object": "Minocycline"
+  },
+  {
+    "subject": "Aortic Stenosis",
+    "relation": "has_symptom",
+    "object": "Calcification of Aortic Valve"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronotic pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Pigmentation in cartilage and perichondrium of ear ossicles"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Pigmentation in pubic symphysis fibrocartilaginous disc"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Pigmentation in non-articular hyaline cartilage"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Pigmentation of chondrons and surrounding territorial matrix"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark pigmentation of perichondrium adjacent to articular surface"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Unmetabolized homogentisic acid (HGA) in circulation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Enzyme deficiency in liver"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Osteochondral tissue damage"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Arthroplasty surgeries"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone treatment"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Spondyloarthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ocular pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dermal pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Genitourinary tract obstruction"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Cardiovascular system involvement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Aortic stenosis"
+  },
+  {
+    "subject": "Cardiac ochronosis",
+    "relation": "treated_by",
+    "object": "Sutureless aortic valve replacement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Deficient homogentisic acid dioxygenase enzyme"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Cardiac ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Ochronosis stones"
+  },
+  {
+    "subject": "Cardiac ochronosis",
+    "relation": "associated_with",
+    "object": "Aortic valve stenosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark brown pigmentation of connective tissues"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Arthropathy of large joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Pain in the hip"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Black urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Hemiarthroplasty"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Autosomal recessive genetic disorder"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Fracture neck of the femur"
+  },
+  {
+    "subject": "Fracture neck of the femur",
+    "relation": "treated_by",
+    "object": "Hemiarthroplasty"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "degenerative arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "renal calculi"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "salivary calculi"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "pancreatic calculi"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "gall bladder calculi"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "cardiac valve stenosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "cardiac valve regurgitation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "cardiac failure"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "accumulation of homogentistic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "cardiac ochronosis"
+  },
+  {
+    "subject": "cardiac valve stenosis",
+    "relation": "treated_by",
+    "object": "aortic valve replacement"
+  },
+  {
+    "subject": "Alkaptonuria with cardiac involvement",
+    "relation": "treated_by",
+    "object": "coronary artery bypass graft surgery"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Mutation in HGD gene"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Decrease in HGO activity"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Accumulation of homogentisic acid in connective tissues"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Kaempferol"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "AIK (Artificial Intelligence Kaempferol)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "mutation in the homogentisate 1,2-dioxygenase (HGO) gene"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Achilles tendon rupture"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "joint prostheses"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "aortic valve replacement"
+  },
+  {
+    "subject": "Achilles tendon rupture",
+    "relation": "treated_by",
+    "object": "surgical reinsertion using a double-row system reinforced with a percutaneous Bunnel stitch"
+  },
+  {
+    "subject": "Achilles tendon rupture",
+    "relation": "has_symptom",
+    "object": "pain in posterior right ankle"
+  },
+  {
+    "subject": "Achilles tendon rupture",
+    "relation": "has_symptom",
+    "object": "dysfunction"
+  },
+  {
+    "subject": "Achilles tendon rupture",
+    "relation": "has_symptom",
+    "object": "right ankle edema"
+  },
+  {
+    "subject": "Achilles tendon rupture",
+    "relation": "has_symptom",
+    "object": "pain upon palpation"
+  },
+  {
+    "subject": "Achilles tendon rupture",
+    "relation": "has_symptom",
+    "object": "palpable gap at the insertion of the tendon"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_cause",
+    "object": "accumulation of homogentisic acid (HGA)"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "associated_with",
+    "object": "tendon ruptures"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "homogentisic aciduria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "bluish-black discoloration of connective tissues"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "arthropathy of large weight bearing joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronotic arthritis"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "Total joint replacement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "deficiency of homogentisic acid oxidase"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "accumulation of homogentisic acid in collagenous structures"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "associated_with",
+    "object": "severe arthropathy of peripheral joints"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "associated_with",
+    "object": "Multiple joint affection"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Back stiffness"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Back pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Black vermiform foreign bodies in conjunctiva"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Corneal limbal pigmented deposits"
+  },
+  {
+    "subject": "Pseudofilariasis",
+    "relation": "has_symptom",
+    "object": "Wormlike objects in conjunctiva"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Pseudofilariasis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Hypertension"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Hypercholesterolemia"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Myocardial infarct"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Tissue discoloration"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Alkaptonuric arthropathy"
+  },
+  {
+    "subject": "Alkaptonuric arthropathy",
+    "relation": "has_symptom",
+    "object": "Cervical spinal canal stenosis"
+  },
+  {
+    "subject": "Alkaptonuric degenerative changes",
+    "relation": "has_symptom",
+    "object": "Black discoloration of the nucleus pulposus"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Accumulation of homogentisic acid and its oxidation products"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Phenylalanine and tyrosine metabolism disorder"
+  },
+  {
+    "subject": "Cervical spinal canal stenosis",
+    "relation": "treated_by",
+    "object": "C6-C7 anterior cervical microdiscectomy and interbody fusion"
+  },
+  {
+    "subject": "Alkaptonuric degenerative abnormalities",
+    "relation": "associated_with",
+    "object": "Black discoloration of the intervertebral disc"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "blackish discoloration"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "degenerative changes"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "restricted mobility"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "stiffening of the vertebral spine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "stiffening of shoulders"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "stiffening of knees"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "stiffening of hip joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "stiffening of thoracic cage"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "pathophysiological changes in heart valves"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "pathophysiological changes in endocardium"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "pathophysiological changes in kidneys"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "hereditary condition"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "total knee arthroplasty"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "perioperative anesthesia management"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "joint involvement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "scleral involvement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "blue-black discoloration"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "mutation in the homogentisic acid dioxygenase gene"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "deposition of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "physiotherapy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "vitamin C"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Increased homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Arthroplasty"
+  },
+  {
+    "subject": "Arthritis",
+    "relation": "treated_by",
+    "object": "Arthroplasty"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronotic arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Tendinopathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Osteopenia"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Osteoporosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Achilles tendon rupture"
+  },
+  {
+    "subject": "Achilles tendon rupture",
+    "relation": "treated_by",
+    "object": "Surgical repair"
+  },
+  {
+    "subject": "Achilles tendon rupture",
+    "relation": "has_cause",
+    "object": "Ankle sprain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Pigmented hip cartilage"
+  },
+  {
+    "subject": "Chronic Achilles tendon rupture",
+    "relation": "treated_by",
+    "object": "Resection of scar tissue and direct repair"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Ochronotic tendinopathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Osteopenia/osteoporosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "homogentisic aciduria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "bluish-black discoloration of connective tissues"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "arthropathy of large weight bearing joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "deficiency of homogentisic acid oxidase"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "ochronotic arthritis"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "Total joint replacement"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "associated_with",
+    "object": "severe arthropathy of peripheral joints"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_symptom",
+    "object": "Multiple joint affection"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark discoloration of skin and other tissues"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Shortness of breath"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Cardiac disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Cardiovascular disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Valvular disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Lack of enzymatic activity"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Increase in homogentisic acid (HGA)"
+  },
+  {
+    "subject": "Alkaptonuria-related cardiac disease",
+    "relation": "treated_by",
+    "object": "Cardiac surgery"
+  },
+  {
+    "subject": "Alkaptonuria-related cardiac disease",
+    "relation": "treated_by",
+    "object": "Aortic valve replacement"
+  },
+  {
+    "subject": "Alkaptonuria-related cardiac disease",
+    "relation": "treated_by",
+    "object": "Mitral valve replacement"
+  },
+  {
+    "subject": "Alkaptonuria-related cardiac disease",
+    "relation": "treated_by",
+    "object": "Coronary artery bypass grafting"
+  },
+  {
+    "subject": "Alkaptonuria-related cardiac disease",
+    "relation": "treated_by",
+    "object": "Extensive debridement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Corneal keratopathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Dietetic intervention"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Increased homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Protein nutrition disorder"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Increased tyrosine"
+  },
+  {
+    "subject": "Corneal keratopathy",
+    "relation": "has_cause",
+    "object": "Increased tyrosine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Painful and severe osteoarthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Kidney stones"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Prostate stones"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Aortic stenosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Bone fractures"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Tendon ruptures"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ligament ruptures"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Muscle ruptures"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Deficiency of homogentisate 1,2-dioxygenase activity"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Homogentisic acid accumulation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Comorbidities"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Medications"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Physical therapy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Surgery"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Multidisciplinary management"
+  },
+  {
+    "subject": "Erdheim-Chester Disease",
+    "relation": "has_symptom",
+    "object": "bone pain"
+  },
+  {
+    "subject": "Erdheim-Chester Disease",
+    "relation": "has_symptom",
+    "object": "diabetes insipidus"
+  },
+  {
+    "subject": "Erdheim-Chester Disease",
+    "relation": "has_symptom",
+    "object": "exophthalmos"
+  },
+  {
+    "subject": "Erdheim-Chester Disease",
+    "relation": "treated_by",
+    "object": "BRAF inhibitors"
+  },
+  {
+    "subject": "Erdheim-Chester Disease",
+    "relation": "treated_by",
+    "object": "interferon-alpha"
+  },
+  {
+    "subject": "Erdheim-Chester Disease",
+    "relation": "has_cause",
+    "object": "mutations in the MAPK pathway"
+  },
+  {
+    "subject": "Erdheim-Chester Disease",
+    "relation": "associated_with",
+    "object": "cardiovascular disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Osteoarthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Cartilage degeneration"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Inflammatory responses"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Reactive oxygen species"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Lipid peroxidation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Nitric oxide production"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Amyloid fibril formation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Drug development and therapeutic interventions"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "deficiency in the homogentisic acid oxidase enzyme"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_symptom",
+    "object": "pigment accumulation in body tissues"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "secondary osteoarthritis"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "pigment accumulation in the joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "ochronotic arthropathy"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "surgery"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronotic arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Altered activity of specific enzymes in phenylalanine-tyrosine metabolism"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Tissue accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Increased biofluid concentration of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Tissue ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Hereditary tyrosinaemia type 1"
+  },
+  {
+    "subject": "Nitisinone treatment",
+    "relation": "has_cause",
+    "object": "Accumulation of metabolites upstream of HGA"
+  },
+  {
+    "subject": "Nitisinone treatment",
+    "relation": "has_effect",
+    "object": "Increased biliary tyrosine, 3(4-hydroxyphenyl)pyruvic acid (HPPA) and 3(4-hydroxyphenyl)lactic acid (HPLA)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "genetic deficiency of the homogentisic acid oxidase enzyme"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronotic arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "cardiovascular involvement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "severe aortic stenosis"
+  },
+  {
+    "subject": "severe aortic stenosis",
+    "relation": "treated_by",
+    "object": "operation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Severe calcification"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "pigmentation in the aortic valve leaflets and ascending aortic wall"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Bilateral pain in the knees"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Severe osteoarthritis"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "Cemented total knee replacement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Deficiency in homogentisic acid 1,2 dioxygenase"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "associated_with",
+    "object": "Alkaptonuria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Degenerative disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Deficiency of homogentisate 1,2 dioxygenase"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronotic arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Diffuse painful right hip"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Loss of joint space"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Osteophytes"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Acetabular sclerosis"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "Joint hip replacement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Ochronotic arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Spondyloarthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Eye pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Skin pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Obstruction of the genitourinary tract"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Cardiovascular system involvement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Aortic stenosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Lack of homogenetic acid dioxygenase enzyme"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Cardiac ochronosis"
+  },
+  {
+    "subject": "Cardiac ochronosis",
+    "relation": "treated_by",
+    "object": "Sutureless aortic valve replacement"
+  },
+  {
+    "subject": "Aortic stenosis",
+    "relation": "treated_by",
+    "object": "Sutureless aortic valve replacement"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Increased biofluid concentration of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Altered activity of specific enzymes in phenylalanine-tyrosine metabolism"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Hereditary tyrosinaemia type-1"
+  },
+  {
+    "subject": "Nitisinone treatment",
+    "relation": "has_symptom",
+    "object": "Increased biliary tyrosine"
+  },
+  {
+    "subject": "Nitisinone treatment",
+    "relation": "has_symptom",
+    "object": "Increased biliary 4-hydroxyphenylpyruvic acid"
+  },
+  {
+    "subject": "Nitisinone treatment",
+    "relation": "has_symptom",
+    "object": "Increased biliary 4-hydroxyphenyllactic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Disorders of metabolism"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "defective metabolism of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Ochronotic arthropathy"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "arthritis of hip and knee"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "involvement of spine"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "involvement of bilateral elbow joints"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "Total joint arthroplasty"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "arthritis of weight bearing joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "severe acute back pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "back pain radiating to the left leg"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "pain medication"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "dietary modifications"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "surgical interventions"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "homozygous pathogenic variant"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "severe morbidities"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "mutations in the homogentisate 1,2-dioxygenase gene"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "severe inflammatory conditions"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "AA amyloidosis"
+  },
+  {
+    "subject": "AA amyloidosis",
+    "relation": "has_symptom",
+    "object": "extracellular tissue deposition of fibrils"
+  },
+  {
+    "subject": "AA amyloidosis",
+    "relation": "associated_with",
+    "object": "rheumatoid arthritis"
+  },
+  {
+    "subject": "AA amyloidosis",
+    "relation": "associated_with",
+    "object": "ankylosing spondylitis"
+  },
+  {
+    "subject": "AA amyloidosis",
+    "relation": "associated_with",
+    "object": "inflammatory bowel disease"
+  },
+  {
+    "subject": "AA amyloidosis",
+    "relation": "associated_with",
+    "object": "chronic infections"
+  },
+  {
+    "subject": "AA amyloidosis",
+    "relation": "associated_with",
+    "object": "neoplasms"
+  },
+  {
+    "subject": "AA amyloidosis",
+    "relation": "treated_by",
+    "object": "reducing SAA concentrations"
+  },
+  {
+    "subject": "AA amyloidosis",
+    "relation": "treated_by",
+    "object": "SAA regulation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Low back pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Left leg radiculopathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Wafer-like disc calcifications"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Surgical intervention"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Raised urine homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Degenerative disc disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Disc calcification"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Modic type 2 changes"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Herniated disc"
+  },
+  {
+    "subject": "Ochronotic Arthritis",
+    "relation": "has_symptom",
+    "object": "Destructive Arthritis"
+  },
+  {
+    "subject": "Ochronotic Arthritis",
+    "relation": "has_symptom",
+    "object": "Arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Ochronotic Arthritis",
+    "relation": "treated_by",
+    "object": "Ankle Arthrodesis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Deficiency in homogentisic acid 1,2 dioxygenase"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_cause",
+    "object": "Deposition of yellowish-brown pigment in connective tissue"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Ochronotic Arthritis",
+    "relation": "associated_with",
+    "object": "Subtalar Arthropathy"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_cause",
+    "object": "enzyme defects"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_cause",
+    "object": "single-gene disorders"
+  },
+  {
+    "subject": "Bone metastasis",
+    "relation": "has_symptom",
+    "object": "Bone resorption"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Bone resorption"
+  },
+  {
+    "subject": "Lung cancer",
+    "relation": "associated_with",
+    "object": "Bone metastasis"
+  },
+  {
+    "subject": "Bone resorption",
+    "relation": "has_cause",
+    "object": "Osteoclast activity"
+  },
+  {
+    "subject": "Bone resorption",
+    "relation": "has_cause",
+    "object": "Cathepsin K"
+  },
+  {
+    "subject": "Bone resorption",
+    "relation": "has_symptom",
+    "object": "Presence of collagen peptide fragments in biofluids"
+  },
+  {
+    "subject": "Bone metastasis",
+    "relation": "has_symptom",
+    "object": "Higher concentration of specific collagen peptide fragments in urine"
+  },
+  {
+    "subject": "Bone resorption",
+    "relation": "treated_by",
+    "object": "Monitoring concentrations of novel bone markers in biofluids"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "dark urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "arthritis of the spine and major joints"
+  },
+  {
+    "subject": "Ochronotic arthritis",
+    "relation": "treated_by",
+    "object": "total knee replacement surgery"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Ochronotic arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Excessive HGA in urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Hereditary metabolic disorder of phenylalanine and tyrosine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "None"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Excretion of Homogentisic acid (HGA)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "diagnosed_by",
+    "object": "Detection of HGA in urine by ESI-MS"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "mutant homogentisate dioxygenase coding gene"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "tendon rupture"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "renal manifestations"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "chronic kidney disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "ankylosing spondylitis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "rheumatoid arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "medical management"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "quadriceps tendon rupture"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Homogentisic aciduria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Ochronotic osteoarthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Astigmatism"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Central vein occlusion"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Glaucoma"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Blindness"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Mutation of the homogentisate 1,2-dioxygenase (HGD) gene"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Deficiency of the HGD enzyme"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Consanguineous marriages"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Early identification and diagnosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Management and treatment"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "cartilage degeneration"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "tendon calcification"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "heart problems"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "osteoarthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "homogentisic acid accumulation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "oxidative stress"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "inflammation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "ApreciseKUre digital platform"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Dysmorphisms"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Physical abnormalities in appearance"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Dysmorphic features"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_cause",
+    "object": "Genetic characteristics"
+  },
+  {
+    "subject": "Dysmorphic features",
+    "relation": "associated_with",
+    "object": "Inherited Metabolic Disorders"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "treated_by",
+    "object": "Healthcare providers"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "diagnosed_by",
+    "object": "Diagnostic strategies"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Urine turns brown upon standing"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Homozygous missense variant of the HGD gene"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "c.1081G>A (p.Gly361Arg) mutation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Elevation in homogentisic acid"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Phenylalanine metabolism disorder",
+    "relation": "has_symptom",
+    "object": "Hypotension"
+  },
+  {
+    "subject": "Phenylalanine metabolism disorder",
+    "relation": "has_symptom",
+    "object": "Albinism"
+  },
+  {
+    "subject": "Tyrosinemias",
+    "relation": "has_cause",
+    "object": "Deficiency in metabolic enzymes"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Deficiency in metabolic enzymes"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "has_cause",
+    "object": "Deficiency of phenylalanine hydroxylase (PAH)"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "has_cause",
+    "object": "Deficiency of tetrahydrobiopterin (BH4)"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "associated_with",
+    "object": "Schizophrenia"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "associated_with",
+    "object": "Attention deficit/hyperactivity disorder"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "treated_by",
+    "object": "Dietary restriction of phenylalanine"
+  },
+  {
+    "subject": "Tyrosinemias",
+    "relation": "treated_by",
+    "object": "Dietary restriction of amino acid(s)"
+  },
+  {
+    "subject": "Phenylalanine metabolism disorder",
+    "relation": "treated_by",
+    "object": "Dietary restriction of amino acid(s)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "complications in various organs"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "complications in joints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "complications in heart valves"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "complications in kidneys"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "pathogenic variants in the homogentisate 1,2-dioxygenase gene"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "deficient HGD enzyme"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "high level of HGA in urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Joint pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark ear wax"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Cognitive functioning deficits"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Adaptive abilities deficits"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Musculoskeletal complaints"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Eye pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Skin pigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Nephrolithiasis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "HGD gene mutation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "c.481G>A (p.Gly161Arg) mutation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "c.240A>T (p.His80Gln) polymorphism"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "c.948G>T (p.Val316Phe) mutation"
+  },
+  {
+    "subject": "Rapidly destructive coxopathy",
+    "relation": "has_symptom",
+    "object": "severe hip pain"
+  },
+  {
+    "subject": "Rapidly destructive coxopathy",
+    "relation": "has_symptom",
+    "object": "rapid decline in mobility"
+  },
+  {
+    "subject": "Rapidly destructive coxopathy",
+    "relation": "associated_with",
+    "object": "rheumatoid arthritis"
+  },
+  {
+    "subject": "Rapidly destructive coxopathy",
+    "relation": "has_symptom",
+    "object": "febrile episode"
+  },
+  {
+    "subject": "Rapidly destructive coxopathy",
+    "relation": "has_symptom",
+    "object": "hip destruction"
+  },
+  {
+    "subject": "Alkaptonuric shoulder arthropathy",
+    "relation": "has_symptom",
+    "object": "severe right shoulder pain"
+  },
+  {
+    "subject": "Alkaptonuric shoulder arthropathy",
+    "relation": "has_symptom",
+    "object": "limitations of the range of motion"
+  },
+  {
+    "subject": "Alkaptonuric shoulder arthropathy",
+    "relation": "has_symptom",
+    "object": "abduction limitation"
+  },
+  {
+    "subject": "Alkaptonuric shoulder arthropathy",
+    "relation": "treated_by",
+    "object": "reverse total shoulder arthroplasty"
+  },
+  {
+    "subject": "Alkaptonuric shoulder arthropathy",
+    "relation": "has_cause",
+    "object": "ochronosis caused by alkaptonuria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "musculoskeletal system manifestations"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "early degenerative arthritis changes"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "glenohumeral arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "rotator cuff arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "inborn error of metabolism"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "significant excretion in urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "binding agents"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "amino acid transporter inhibitors"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "cell therapy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "hypertyrosinemia"
+  },
+  {
+    "subject": "nitisinone",
+    "relation": "has_side_effect",
+    "object": "hypertyrosinemia"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Decreased VA"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Red eye"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Foreign body sensation"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Ocular pain"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Conjunctival hyperemia"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Ochronosis"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Scleral nodule"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Keratic precipitates"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Cells in the anterior chamber"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Vitreous cells"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "has_symptom",
+    "object": "Vitreous haze"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "associated_with",
+    "object": "Sjögren's syndrome"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "associated_with",
+    "object": "Hashimoto's thyroiditis"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "associated_with",
+    "object": "Multiple autoimmune syndrome"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "treated_by",
+    "object": "Immunomodulatory medications"
+  },
+  {
+    "subject": "Sclerouveitis",
+    "relation": "treated_by",
+    "object": "Biological treatment"
+  },
+  {
+    "subject": "Multiple autoimmune syndrome",
+    "relation": "associated_with",
+    "object": "Alkaptonuria"
+  },
+  {
+    "subject": "Sjögren's syndrome",
+    "relation": "has_symptom",
+    "object": "Sicca symptoms"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Parkinson's disease"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "life-long exposure to redox-active homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "treated_by",
+    "object": "deep brain stimulation"
+  },
+  {
+    "subject": "Alkaptonuria with Nitisinone therapy",
+    "relation": "has_symptom",
+    "object": "unmasked dopamine deficiency"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Parkinson's disease symptoms"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "characteristic symptoms"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "autosomal recessive inheritance"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "diagnosed_by",
+    "object": "biochemical investigations"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "diagnosed_by",
+    "object": "radiographic pictures"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "diagnosed_by",
+    "object": "specialised tests"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "diagnosed_by",
+    "object": "genetic testing"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "diagnosed_by",
+    "object": "gas chromatography"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "diagnosed_by",
+    "object": "mass spectrometry"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "gene variants"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "tissue degeneration"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "organ malfunction"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "ochronotic pigment"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "pharmacological chaperones"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Joint degeneration"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Stiffness"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_symptom",
+    "object": "Functional impairment"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "has_cause",
+    "object": "Abnormal accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "Total hip arthroplasty (THA)"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "Dual mobility cup (DMC)"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "associated_with",
+    "object": "Poor bone quality"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "associated_with",
+    "object": "Post-surgical dislocation"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "associated_with",
+    "object": "Instability"
+  },
+  {
+    "subject": "Total hip arthroplasty (THA)",
+    "relation": "treated_by",
+    "object": "Dual mobility cup (DMC)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "disorders of tyrosine metabolism"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "pathological ossification of cartilage tissue"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "new bone regeneration therapy based on the activation of osteoblasts"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "deposition of homogentisic acid polymers"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Pyomelanin (PyoM)"
+  },
+  {
+    "subject": "Multidrug-resistant bacteria",
+    "relation": "has_treatment",
+    "object": "Antibiotics"
+  },
+  {
+    "subject": "Multidrug-resistant bacteria",
+    "relation": "treated_by",
+    "object": "Antibiotics"
+  },
+  {
+    "subject": "Bacterial infection",
+    "relation": "treated_by",
+    "object": "Homogentisic acid (HGA)"
+  },
+  {
+    "subject": "Bacterial infection",
+    "relation": "has_treatment",
+    "object": "Homogentisic acid (HGA)"
+  },
+  {
+    "subject": "Homogentisic acid (HGA) treatment",
+    "relation": "has_symptom",
+    "object": "Cytotoxicity to human HepG2 cells"
+  },
+  {
+    "subject": "Bacterial infection",
+    "relation": "has_symptom",
+    "object": "Gram-positive and Gram-negative bacterial infection"
+  },
+  {
+    "subject": "Homogentisic acid (HGA)",
+    "relation": "has_cause",
+    "object": "Tyrosine degradation pathway"
+  },
+  {
+    "subject": "Bacterial membranes disruption",
+    "relation": "has_cause",
+    "object": "Homogentisic acid (HGA)"
+  },
+  {
+    "subject": "Homogentisic acid (HGA) treatment",
+    "relation": "associated_with",
+    "object": "Topical agent use"
+  },
+  {
+    "subject": "Homogentisic acid (HGA)",
+    "relation": "associated_with",
+    "object": "Small-molecule medicinal chemistry program"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Joint tissue remodelling"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Changes in biomarkers of bone and cartilage remodelling"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Limited mobility"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Type I collagen remodelling"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Type II collagen remodelling"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "kyphosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "lower extremity muscle weakness"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "melanin deposits on the sclera and skin"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "darkened urine"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "thoracolumbar spinal stenosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "spinal decompression"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "vertebral body fixation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "autosomal genetic disorder"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "thoracolumbar spinal stenosis"
+  },
+  {
+    "subject": "Thoracolumbar spinal stenosis",
+    "relation": "associated_with",
+    "object": "Alkaptonuria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "ankylosing spondylitis"
+  },
+  {
+    "subject": "Ankylosing spondylitis",
+    "relation": "has_symptom",
+    "object": "low back pain"
+  },
+  {
+    "subject": "Ankylosing spondylitis",
+    "relation": "has_symptom",
+    "object": "neck pain"
+  },
+  {
+    "subject": "Ankylosing spondylitis",
+    "relation": "has_symptom",
+    "object": "stiffness"
+  },
+  {
+    "subject": "Ankylosing spondylitis",
+    "relation": "has_symptom",
+    "object": "kyphosis"
+  },
+  {
+    "subject": "Ankylosing spondylitis",
+    "relation": "has_symptom",
+    "object": "fractures"
+  },
+  {
+    "subject": "Ankylosing spondylitis",
+    "relation": "associated_with",
+    "object": "psoriatic arthritis"
+  },
+  {
+    "subject": "Ankylosing spondylitis",
+    "relation": "associated_with",
+    "object": "reactive arthritis"
+  },
+  {
+    "subject": "Ankylosing spondylitis",
+    "relation": "associated_with",
+    "object": "diffuse idiopathic skeletal hyperostosis"
+  },
+  {
+    "subject": "Ankylosing spondylitis",
+    "relation": "associated_with",
+    "object": "ochronotic arthritis"
+  },
+  {
+    "subject": "Ochronotic arthritis",
+    "relation": "has_cause",
+    "object": "alkaptonuria"
+  },
+  {
+    "subject": "Seronegative inflammatory spondyloarthropathies",
+    "relation": "treated_by",
+    "object": "laboratory tests and radiographic findings guided management"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "hereditary disorder of tyrosine degradation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "breakdown of connective tissue"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "tendon rupture"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "bilateral patellar tendon rupture"
+  },
+  {
+    "subject": "Tendon rupture",
+    "relation": "treated_by",
+    "object": "direct repair of the extensor mechanism"
+  },
+  {
+    "subject": "Tendon rupture",
+    "relation": "treated_by",
+    "object": "Achilles allograft"
+  },
+  {
+    "subject": "Tendon rupture",
+    "relation": "treated_by",
+    "object": "bilateral knee revision"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "complications after total knee arthroplasty"
+  },
+  {
+    "subject": "Tympanic membrane discoloration",
+    "relation": "has_symptom",
+    "object": "black discoloration"
+  },
+  {
+    "subject": "Tympanic membrane discoloration",
+    "relation": "has_cause",
+    "object": "inserting a graphite pencil into the ear canal"
+  },
+  {
+    "subject": "Tympanic membrane discoloration",
+    "relation": "associated_with",
+    "object": "otitis media"
+  },
+  {
+    "subject": "Tympanic membrane discoloration",
+    "relation": "associated_with",
+    "object": "otitis externa"
+  },
+  {
+    "subject": "Tympanic membrane discoloration",
+    "relation": "associated_with",
+    "object": "middle ear effusion"
+  },
+  {
+    "subject": "Tympanic membrane discoloration",
+    "relation": "treated_by",
+    "object": "thorough evaluation"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "has_symptom",
+    "object": "Fragility fractures"
+  },
+  {
+    "subject": "Osteoporosis",
+    "relation": "has_symptom",
+    "object": "Height loss"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Bilateral conjunctival hyperpigmentation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Bluish black discoloration of the conjunctiva and ear lobes"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Limited joint movements"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Compound heterozygous mutation for the HGD gene"
+  },
+  {
+    "subject": "Osteoporosis in patients with alkaptonuria",
+    "relation": "treated_by",
+    "object": "Teriparatide"
+  },
+  {
+    "subject": "Osteoporosis in patients with alkaptonuria",
+    "relation": "treated_by",
+    "object": "Bisphosphonate therapy"
+  },
+  {
+    "subject": "Osteoporosis in patients with alkaptonuria",
+    "relation": "treated_by",
+    "object": "Nitisinone"
+  },
+  {
+    "subject": "Osteoporosis in patients with alkaptonuria",
+    "relation": "treated_by",
+    "object": "Zoledronic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Osteoporosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Bilateral knee pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Melanin pigmentation on the skin"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Low back pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dark urine"
+  },
+  {
+    "subject": "Alkaptonuria-related knee arthritis",
+    "relation": "treated_by",
+    "object": "Total knee arthroplasty"
+  },
+  {
+    "subject": "Alkaptonuria-related knee arthritis",
+    "relation": "treated_by",
+    "object": "Physical therapy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Accumulation of homogentisic acid"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Lumbar disc herniation"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Ankylosing spondylitis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Knee arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Blue/black coloration of the conjunctivae"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "HGA oxidase deficiency"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Secondary arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Palliative treatment"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Symptomatic treatment"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "Joint replacements"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Incomplete emptying of urinary bladder"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Dysuria"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Nocturia"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "Arthritis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "Urinary tract infection"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Increased levels of urinary homogentisic acid (HGA)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "ochronosis"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "fractures"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_symptom",
+    "object": "tendon ruptures"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "alterations in homogentisate dioxygenase (HGD) gene"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "associated_with",
+    "object": "elevated serum levels of homogentisic acid (HGA)"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "physiotherapy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "strong painkillers"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "treated_by",
+    "object": "nitisinone"
+  },
+  {
+    "subject": "nitisinone",
+    "relation": "has_side_effect",
+    "object": "keratopathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_potential_treatment",
+    "object": "compounds c and f"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_symptom",
+    "object": "multilevel spinal degeneration"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_symptom",
+    "object": "arthritis of large weight-bearing joints"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_symptom",
+    "object": "severe joint pain"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "total hip arthroplasty (THA)"
+  },
+  {
+    "subject": "Ochronotic arthropathy",
+    "relation": "treated_by",
+    "object": "total knee arthroplasty (TKA)"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "has_cause",
+    "object": "disorder of tyrosine metabolism"
+  },
+  {
+    "subject": "Ochronosis",
+    "relation": "associated_with",
+    "object": "ochronotic arthropathy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_treatment",
+    "object": "Drug therapy"
+  },
+  {
+    "subject": "Alkaptonuria",
+    "relation": "has_cause",
+    "object": "Inherited disorder"
+  }
+]

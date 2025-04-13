@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Immunoactinopathies",
+    "relation": "has_symptom",
+    "object": "Immunodeficiency"
+  },
+  {
+    "subject": "Immunoactinopathies",
+    "relation": "has_symptom",
+    "object": "Immune dysregulation"
+  },
+  {
+    "subject": "Immunoactinopathies",
+    "relation": "has_symptom",
+    "object": "Malignancies"
+  },
+  {
+    "subject": "Immunoactinopathies",
+    "relation": "has_symptom",
+    "object": "Atopy"
+  },
+  {
+    "subject": "Immunoactinopathies",
+    "relation": "has_symptom",
+    "object": "Thrombocytopenia"
+  },
+  {
+    "subject": "Immunoactinopathies",
+    "relation": "has_symptom",
+    "object": "Bleeding"
+  },
+  {
+    "subject": "Immunoactinopathies",
+    "relation": "has_symptom",
+    "object": "Skin involvement"
+  },
+  {
+    "subject": "Immunoactinopathies",
+    "relation": "has_symptom",
+    "object": "Congenital defects"
+  },
+  {
+    "subject": "Immunoactinopathies",
+    "relation": "treated_by",
+    "object": "HSCT"
+  },
+  {
+    "subject": "Immunoactinopathies",
+    "relation": "has_cause",
+    "object": "Mutations in genes regulating actin cytoskeleton"
+  },
+  {
+    "subject": "Wiskott Aldrich Syndrome",
+    "relation": "associated_with",
+    "object": "Immunoactinopathies"
+  },
+  {
+    "subject": "Pancreatic ductal adenocarcinoma",
+    "relation": "has_symptom",
+    "object": "Metastasis"
+  },
+  {
+    "subject": "Pancreatic ductal adenocarcinoma",
+    "relation": "associated_with",
+    "object": "Epithelial-mesenchymal transition"
+  },
+  {
+    "subject": "Pancreatic ductal adenocarcinoma",
+    "relation": "associated_with",
+    "object": "LOXL2"
+  },
+  {
+    "subject": "Pancreatic ductal adenocarcinoma",
+    "relation": "associated_with",
+    "object": "FAK"
+  },
+  {
+    "subject": "Pancreatic ductal adenocarcinoma",
+    "relation": "treated_by",
+    "object": "N-WASP inhibition"
+  },
+  {
+    "subject": "Pancreatic ductal adenocarcinoma",
+    "relation": "has_cause",
+    "object": "N-WASP signaling"
+  },
+  {
+    "subject": "Pancreatic ductal adenocarcinoma metastasis",
+    "relation": "has_cause",
+    "object": "N-WASP"
+  },
+  {
+    "subject": "Pancreatic ductal adenocarcinoma metastasis",
+    "relation": "has_cause",
+    "object": "LOXL2"
+  }
+]

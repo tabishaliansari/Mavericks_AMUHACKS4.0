@@ -1,0 +1,4602 @@
+[
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "neurological abnormalities"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "severe lower limb motor disorders"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual development delay"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "variants in the HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "global developmental delay"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "nephrolithiasis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "extraction of teeth"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "restraint measures"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "deficiency of the enzyme hypoxanthine-guanine phosphoribosyl transferase"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "X-linked inheritance"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "motor developmental delay"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "orange-colored crystalline deposits in diapers"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-injurious behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "mutations in the HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "HPRT deficiency"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "timely interventions"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "diagnosed_by",
+    "object": "Molecular genetic testing"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "diagnosed_by",
+    "object": "whole exome sequencing"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "diagnosed_by",
+    "object": "biochemical testing"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "hyperuricosuria"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-aggression"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "choreoathetosis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual abnormalities"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "ambulatory general anesthesia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "comprehensive perioperative management"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "dental caries"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "congenital disorder"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_symptom",
+    "object": "Renal colic"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_symptom",
+    "object": "Urinary tract infections"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_symptom",
+    "object": "Acute kidney injury"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_symptom",
+    "object": "Chronic kidney disease"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Obesity"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Increased intake of fructose-containing energy drinks"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Increased sodium content in junk foods"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Decrease in water intake"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Poor oral calcium intake"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Increasing usage of antibiotics that deplete the oxalate-metabolizing bacteria in the gut"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Primary hyperoxaluria types 1, 2 and 3"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Hypercalciuria"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Hyperuricosuria"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Cystinuria"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Hereditary xanthinurias"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Adenine phosphoribosyl transferase (APRT) deficiency"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "associated_with",
+    "object": "Lesch-Nyhan syndrome"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "associated_with",
+    "object": "Urate transporter defects"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "treated_by",
+    "object": "Multidisciplinary approach involving pediatricians, pediatric nephrologists, urologists, dietitians, and nurses"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "treated_by",
+    "object": "Genetic testing"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "treated_by",
+    "object": "Metabolic evaluation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "oral self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "ulceration"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "lacerations"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "multiple teeth extractions"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "mouth splints"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "mouth guards"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "allopurinol"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "botulinum toxin-A"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "oral self-injury"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "has_symptom",
+    "object": "urolithiasis"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "has_symptom",
+    "object": "nephrolithiasis"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "treated_by",
+    "object": "Allopurinol"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "has_cause",
+    "object": "X-linked disorder affecting the metabolism of the purine salvage pathway"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "associated_with",
+    "object": "excessive serum uric acid production"
+  },
+  {
+    "subject": "Allopurinol treatment",
+    "relation": "has_complication",
+    "object": "xanthine urolithiasis"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "associated_with",
+    "object": "urate stones"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "associated_with",
+    "object": "xanthine stones"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "Alzheimer’s disease",
+    "relation": "has_symptom",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "schizophrenia",
+    "relation": "has_symptom",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "autoimmune disorders",
+    "relation": "has_symptom",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "viral infection",
+    "relation": "has_symptom",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "nucleobase metabolism disorder"
+  },
+  {
+    "subject": "distorted expression profiles",
+    "relation": "has_cause",
+    "object": "viral infection"
+  },
+  {
+    "subject": "distorted expression profiles",
+    "relation": "has_cause",
+    "object": "multiple complex genetic disorders"
+  },
+  {
+    "subject": "distorted expression profiles",
+    "relation": "has_cause",
+    "object": "treatment with certain chemical entities"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "nucleobase analogue treatments"
+  },
+  {
+    "subject": "multiple complex genetic disorders",
+    "relation": "associated_with",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "viral infection",
+    "relation": "associated_with",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "Alzheimer’s disease",
+    "relation": "associated_with",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "schizophrenia",
+    "relation": "associated_with",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "autoimmune disorders",
+    "relation": "associated_with",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "treatment with certain chemical entities",
+    "relation": "associated_with",
+    "object": "distorted expression profiles"
+  },
+  {
+    "subject": "global expression regulation",
+    "relation": "associated_with",
+    "object": "GxE interactions"
+  },
+  {
+    "subject": "global expression regulation",
+    "relation": "associated_with",
+    "object": "disease aetiopathology"
+  },
+  {
+    "subject": "global expression regulation",
+    "relation": "associated_with",
+    "object": "pharmacological response"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "has_cause",
+    "object": "Nucleic acid/nucleotide metabolism disorders"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "has_cause",
+    "object": "Metabolic disorders"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Nucleic acid/nucleotide metabolism disorders",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Adenosine succinate lyase deficiency",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "ATIC deficiency",
+    "relation": "associated_with",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Nucleic acid/nucleotide metabolism disorders",
+    "relation": "treated_by",
+    "object": "Therapeutic approaches"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Spasticity"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Motor developmental delay"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Self-injurious behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Orange-colored crystalline deposits in diapers"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in the HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "HPRT deficiency"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "Timely interventions"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "Molecular genetic testing"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Hyperuricosuria"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_symptom",
+    "object": "Kidney stones"
+  },
+  {
+    "subject": "Chronic Kidney Disease (CKD)",
+    "relation": "has_symptom",
+    "object": "Kidney stones"
+  },
+  {
+    "subject": "Primary Hyperoxaluria",
+    "relation": "associated_with",
+    "object": "CKD"
+  },
+  {
+    "subject": "Familial Hypomagnesemia with Hypercalciuria and Nephrocalcinosis",
+    "relation": "associated_with",
+    "object": "CKD"
+  },
+  {
+    "subject": "Cystinuria",
+    "relation": "associated_with",
+    "object": "CKD"
+  },
+  {
+    "subject": "Dent disease",
+    "relation": "associated_with",
+    "object": "CKD"
+  },
+  {
+    "subject": "Adenine Phosphoribosyltransferase Deficiency",
+    "relation": "associated_with",
+    "object": "CKD"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "associated_with",
+    "object": "CKD"
+  },
+  {
+    "subject": "Idiopathic Infantile Hypercalciuria",
+    "relation": "associated_with",
+    "object": "CKD"
+  },
+  {
+    "subject": "Bartter Syndrome (BS)",
+    "relation": "has_symptom",
+    "object": "Urolithiasis"
+  },
+  {
+    "subject": "Bartter Syndrome (BS)",
+    "relation": "associated_with",
+    "object": "CKD"
+  },
+  {
+    "subject": "Autosomal Dominant Hypocalcemia",
+    "relation": "has_symptom",
+    "object": "Urolithiasis"
+  },
+  {
+    "subject": "Nephrolithiasis",
+    "relation": "has_cause",
+    "object": "Genetic disorders"
+  },
+  {
+    "subject": "CKD",
+    "relation": "has_cause",
+    "object": "Genetic disorders"
+  },
+  {
+    "subject": "Kidney stone disorders",
+    "relation": "treated_by",
+    "object": "Genetic diagnosis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemic symptoms"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "neurologic symptoms"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral symptoms"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hypotension"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hypernatremia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "reduced ability to recycle purines"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "increased de novo purine synthesis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "uric acid production"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "autonomic instability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "excessive free water loss"
+  },
+  {
+    "subject": "Lesch-Nyhan Disease",
+    "relation": "has_symptom",
+    "object": "generalized dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan Disease",
+    "relation": "has_symptom",
+    "object": "motor dysfunctions"
+  },
+  {
+    "subject": "Lesch-Nyhan Disease",
+    "relation": "has_symptom",
+    "object": "self-injurious behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan Disease",
+    "relation": "has_cause",
+    "object": "hypoxanthine phosphoribosyltransferase 1 gene mutations"
+  },
+  {
+    "subject": "Lesch-Nyhan Disease",
+    "relation": "treated_by",
+    "object": "S-Adenosylmethionine"
+  },
+  {
+    "subject": "Lesch-Nyhan Disease",
+    "relation": "treated_by",
+    "object": "Deep Brain Stimulation"
+  },
+  {
+    "subject": "Lesch-Nyhan Disease",
+    "relation": "treated_by",
+    "object": "levodopa"
+  },
+  {
+    "subject": "Lesch-Nyhan Disease",
+    "relation": "associated_with",
+    "object": "X-linked recessive genetic disorder"
+  },
+  {
+    "subject": "Kidney stones",
+    "relation": "treated_by",
+    "object": "PCNL"
+  },
+  {
+    "subject": "Kidney stones",
+    "relation": "associated_with",
+    "object": "postoperative complications"
+  },
+  {
+    "subject": "Kidney stones",
+    "relation": "has_characteristic",
+    "object": "stone burden"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "motor disabilities"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "cognitive deficits"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "self-injurious behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "deficiency in hypoxanthine-guanine phosphoribosyltransferase (HPRT)"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "treated_by",
+    "object": "novel treatment options"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorder"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "associated_with",
+    "object": "purines salvage pathway alterations"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_symptom",
+    "object": "symptom Y"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "treated_by",
+    "object": "treatment Z"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "has_cause",
+    "object": "cause W"
+  },
+  {
+    "subject": "Disease X",
+    "relation": "associated_with",
+    "object": "condition V"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "HPRT1 gene mutation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "induced pluripotent stem cells (iPSCs)"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_symptom",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_symptom",
+    "object": "Endothelial dysfunction"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_symptom",
+    "object": "Oxidative stress"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_symptom",
+    "object": "Endoplasmic reticulum stress"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_cause",
+    "object": "Underexcretion of uric acid"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_cause",
+    "object": "Overproduction of uric acid"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_cause",
+    "object": "Intake of purine-rich foods"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_cause",
+    "object": "High caloric diet"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_cause",
+    "object": "Decreased activity of HGPRT"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_cause",
+    "object": "Increased XOR enzyme activity"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "associated_with",
+    "object": "Metabolic syndrome"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "treated_by",
+    "object": "Xanthine oxide inhibitors"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "treated_by",
+    "object": "Anti-urate medicines"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_cause",
+    "object": "Uric acid"
+  },
+  {
+    "subject": "Hyperuricaemia",
+    "relation": "has_cause",
+    "object": "Uric acid"
+  },
+  {
+    "subject": "Hypertension",
+    "relation": "associated_with",
+    "object": "Uric acid"
+  },
+  {
+    "subject": "Kidney disease",
+    "relation": "associated_with",
+    "object": "Uric acid"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Uric acid"
+  },
+  {
+    "subject": "Gout",
+    "relation": "associated_with",
+    "object": "Hyperuricaemia"
+  },
+  {
+    "subject": "Gout",
+    "relation": "associated_with",
+    "object": "Uric acid"
+  },
+  {
+    "subject": "Hyperuricaemia",
+    "relation": "associated_with",
+    "object": "Gout"
+  },
+  {
+    "subject": "Uric acid levels",
+    "relation": "has_symptom",
+    "object": "High UA levels"
+  },
+  {
+    "subject": "High UA levels",
+    "relation": "treated_by",
+    "object": "Noninvasive wearable UA sensor"
+  },
+  {
+    "subject": "High UA levels",
+    "relation": "treated_by",
+    "object": "Real-time monitoring"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "has_symptom",
+    "object": "physical aggression"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "has_cause",
+    "object": "genetic predispositions"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "has_cause",
+    "object": "epigenetic modifications"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "has_cause",
+    "object": "neurotransmitter dysregulation"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "has_cause",
+    "object": "environmental stressors"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorders"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "associated_with",
+    "object": "psychiatric disorders"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "associated_with",
+    "object": "genetic disorders"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "treated_by",
+    "object": "deep brain stimulation"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "treated_by",
+    "object": "neuromodulation therapies"
+  },
+  {
+    "subject": "Nonsuicidal self-injurious behaviour",
+    "relation": "treated_by",
+    "object": "pharmacological therapies"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "Mutations in the HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Gout"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Kidney dysfunction"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "Allopurinol"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "Behavioral therapy"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_cause",
+    "object": "Dysfunction of the urea cycle and uric acid pathway"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Gout"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Lesch-Nyhan syndrome"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Xanthinuria"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Citrullinemia"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Cytotoxicity"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_cause",
+    "object": "Amyloidogenic nature of metabolites"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "Amyloidogenic nature of metabolites"
+  },
+  {
+    "subject": "Xanthinuria",
+    "relation": "has_cause",
+    "object": "Amyloidogenic nature of metabolites"
+  },
+  {
+    "subject": "Citrullinemia",
+    "relation": "has_cause",
+    "object": "Amyloidogenic nature of metabolites"
+  },
+  {
+    "subject": "Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome",
+    "relation": "has_cause",
+    "object": "Amyloidogenic nature of metabolites"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "treated_by",
+    "object": "Targeted interventions"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "associated_with",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Tourette syndrome",
+    "relation": "associated_with",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Schizophrenia",
+    "relation": "associated_with",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Bipolar disorder",
+    "relation": "associated_with",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Stress-associated disorders",
+    "relation": "associated_with",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Stroke",
+    "relation": "associated_with",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "associated_with",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "associated_with",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_cause",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_cause",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Tourette syndrome",
+    "relation": "has_cause",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Schizophrenia",
+    "relation": "has_cause",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Bipolar disorder",
+    "relation": "has_cause",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Stress-associated disorders",
+    "relation": "has_cause",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Stroke",
+    "relation": "has_cause",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "has_cause",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "has_cause",
+    "object": "Abnormal Adcy2 expression"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "excessive production of uric acid"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "mental retardation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "choreoathetosis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "compulsive self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-biting behaviors"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "mutation in the HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "restraints"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "behavioral treatment"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "medications"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "deep brain stimulation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "tooth extraction"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "botulinum toxin A injection"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "cheiloplasty"
+  },
+  {
+    "subject": "Lesch Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "neurodevelopmental abnormalities"
+  },
+  {
+    "subject": "Lesch Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "global developmental delay"
+  },
+  {
+    "subject": "Lesch Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "involuntary movements"
+  },
+  {
+    "subject": "Lesch Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-injurious behavior"
+  },
+  {
+    "subject": "Lesch Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "deficiency of hypoxanthine-guanine phosphoribosyltransferase (HPRT) enzyme"
+  },
+  {
+    "subject": "Lesch Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "HPRT related hyperuricemia"
+  },
+  {
+    "subject": "Lesch Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Keeley–Seegmiller syndrome"
+  },
+  {
+    "subject": "Lesch Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "hyperuricemia with neurological disability"
+  },
+  {
+    "subject": "HPRT related hyperuricemia",
+    "relation": "has_symptom",
+    "object": "hyperuricemia related symptoms"
+  },
+  {
+    "subject": "hyperuricemia with neurological disability",
+    "relation": "has_symptom",
+    "object": "hyperuricemia symptoms"
+  },
+  {
+    "subject": "hyperuricemia with neurological disability",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "hyperuricemia with neurological disability",
+    "relation": "has_symptom",
+    "object": "choreoathetosis"
+  },
+  {
+    "subject": "hyperuricemia with neurological disability",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "hyperuricemia with neurological disability",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-harming behaviours"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "epileptic seizures"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "HPRT1 mutation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "dystonic movements",
+    "relation": "treated_by",
+    "object": "Levetiracetam"
+  },
+  {
+    "subject": "epileptic seizures",
+    "relation": "treated_by",
+    "object": "Levetiracetam"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "deficiency of HPRT enzyme"
+  },
+  {
+    "subject": "deficiency of HPRT enzyme",
+    "relation": "has_cause",
+    "object": "HPRT1 mutation"
+  },
+  {
+    "subject": "accumulation of uric acid",
+    "relation": "has_cause",
+    "object": "deficiency of HPRT enzyme"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "accumulation of uric acid"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Abnormal movements"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Dysphagia"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Involuntary protrusion of the tongue"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Biting of the cheeks and lips"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Generalized chorea"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Severe orolingual dystonia"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Sudden loss of tone while walking"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Flexion of the trunk"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Self-mutilatory mouth movements"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Feeding-related tongue dystonia"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Rubber man gait"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "has_symptom",
+    "object": "Head drops"
+  },
+  {
+    "subject": "Neuroacanthocytosis syndromes",
+    "relation": "has_cause",
+    "object": "Genetic disorders"
+  },
+  {
+    "subject": "Chorea-acanthocytosis",
+    "relation": "associated_with",
+    "object": "Acanthocytes"
+  },
+  {
+    "subject": "Neuroacanthocytosis syndromes",
+    "relation": "associated_with",
+    "object": "Progressive degeneration of the basal ganglia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "treated_by",
+    "object": "allopurinol"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome-associated hyperuricemia",
+    "relation": "treated_by",
+    "object": "allopurinol"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-injurious behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "deep brain stimulation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "movement disorders"
+  },
+  {
+    "subject": "Self-inflicted gingival injury",
+    "relation": "has_symptom",
+    "object": "Gingival recession"
+  },
+  {
+    "subject": "Self-inflicted gingival injury",
+    "relation": "treated_by",
+    "object": "Oral hygiene instructions"
+  },
+  {
+    "subject": "Self-inflicted gingival injury",
+    "relation": "treated_by",
+    "object": "Analgesic and antiseptic gel"
+  },
+  {
+    "subject": "Self-inflicted gingival injury",
+    "relation": "treated_by",
+    "object": "Behavioral management"
+  },
+  {
+    "subject": "Self-inflicted gingival injury",
+    "relation": "has_cause",
+    "object": "Fingernail-scratching habit"
+  },
+  {
+    "subject": "Self-inflicted gingival injury",
+    "relation": "associated_with",
+    "object": "Psychological disorders"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-injurious behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilation behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "Deep brain stimulation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "DBS in the posterolateral GPi"
+  },
+  {
+    "subject": "dystonia",
+    "relation": "treated_by",
+    "object": "DBS in the posterolateral GPi"
+  },
+  {
+    "subject": "self-injurious behavior",
+    "relation": "treated_by",
+    "object": "DBS in the posterolateral GPi"
+  },
+  {
+    "subject": "self-mutilation behavior",
+    "relation": "treated_by",
+    "object": "DBS in the posterolateral GPi"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "self-injury"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "treated_by",
+    "object": "levodopa"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "HPRT1 gene mutations"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "associated_with",
+    "object": "dopamine deficiency"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "associated_with",
+    "object": "HPRT1 gene mutations"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "incontinentia pigmenti",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Duchene muscular dystrophy",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "half-chromatid mutation"
+  },
+  {
+    "subject": "incontinentia pigmenti",
+    "relation": "has_cause",
+    "object": "half-chromatid mutation"
+  },
+  {
+    "subject": "Duchene muscular dystrophy",
+    "relation": "has_cause",
+    "object": "half-chromatid mutation"
+  },
+  {
+    "subject": "gynandromorphs",
+    "relation": "has_cause",
+    "object": "half-chromatid mutation"
+  },
+  {
+    "subject": "fertile male tortoiseshell phenotype",
+    "relation": "has_cause",
+    "object": "half-chromatid mutation"
+  },
+  {
+    "subject": "half-chromatid mutation",
+    "relation": "associated_with",
+    "object": "mosaic individual"
+  },
+  {
+    "subject": "half-chromatid mutation",
+    "relation": "associated_with",
+    "object": "recessive mutations"
+  },
+  {
+    "subject": "half-chromatid mutation",
+    "relation": "associated_with",
+    "object": "gynandromorphs"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "incontinentia pigmenti",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Duchene muscular dystrophy",
+    "relation": "treated_by",
+    "object": null
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Chorea"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Athetosis"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Ballismus"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Dysarthria"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Optic atrophy"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Facial dysmorphia"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_symptom",
+    "object": "Failure to thrive"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Cognitive abnormalities"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Developmental abnormalities"
+  },
+  {
+    "subject": "Chorea",
+    "relation": "treated_by",
+    "object": "Symptomatic treatment"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "has_cause",
+    "object": "Trace elements and metals imbalance"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "neurological dysfunction"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "c.500_501delGGinsC variant of the HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "genetic counseling"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "prenatal diagnosis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "HPRT1 gene mutation"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_symptom",
+    "object": "Uric acid urolithiasis"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_symptom",
+    "object": "Monosodium urate crystal deposits"
+  },
+  {
+    "subject": "Gout",
+    "relation": "associated_with",
+    "object": "Chronic kidney disease"
+  },
+  {
+    "subject": "Uric acid urolithiasis",
+    "relation": "treated_by",
+    "object": "Dual-energy computed tomography"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_cause",
+    "object": "Monosodium urate crystals"
+  },
+  {
+    "subject": "Chronic kidney disease",
+    "relation": "associated_with",
+    "object": "Gout"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "has_symptom",
+    "object": "ulcerative processes"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "has_symptom",
+    "object": "granulomatous processes"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "has_symptom",
+    "object": "dehydration"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "has_symptom",
+    "object": "nutritional deficiency"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "has_symptom",
+    "object": "deformity of the tongue"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "has_cause",
+    "object": "repetitive trauma from mandibular anterior incisors"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "associated_with",
+    "object": "natal and neonatal teeth"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "associated_with",
+    "object": "eruption of mandibular primary incisors"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "treated_by",
+    "object": "smoothening of incisal edges"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "treated_by",
+    "object": "extraction of offending teeth"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "treated_by",
+    "object": "topical corticosteroids"
+  },
+  {
+    "subject": "Sublingual traumatic ulceration",
+    "relation": "treated_by",
+    "object": "multivitamin supplements"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_cause",
+    "object": "Abnormalities in UA metabolism"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_cause",
+    "object": "Abnormalities in UA metabolism"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "Abnormalities in UA metabolism"
+  },
+  {
+    "subject": "Gout",
+    "relation": "associated_with",
+    "object": "Hyperuricemia"
+  },
+  {
+    "subject": "Gout",
+    "relation": "associated_with",
+    "object": "Lesch-Nyhan syndrome"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "associated_with",
+    "object": "Lesch-Nyhan syndrome"
+  },
+  {
+    "subject": "Abnormalities in UA metabolism",
+    "relation": "has_symptom",
+    "object": "Crystal deposition as monosodium urate"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_symptom",
+    "object": "Crystal deposition as monosodium urate"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_symptom",
+    "object": "Crystal deposition as monosodium urate"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Crystal deposition as monosodium urate"
+  },
+  {
+    "subject": "Gout",
+    "relation": "treated_by",
+    "object": "Monitoring UA levels using CuFe2O4/rGO/ITO-based nonenzymatic sensor"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "treated_by",
+    "object": "Monitoring UA levels using CuFe2O4/rGO/ITO-based nonenzymatic sensor"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "Monitoring UA levels using CuFe2O4/rGO/ITO-based nonenzymatic sensor"
+  },
+  {
+    "subject": "Choreiform movement disorders",
+    "relation": "has_symptom",
+    "object": "involuntary movements"
+  },
+  {
+    "subject": "Choreiform movement disorders",
+    "relation": "has_symptom",
+    "object": "rapid movements"
+  },
+  {
+    "subject": "Choreiform movement disorders",
+    "relation": "has_symptom",
+    "object": "irregular movements"
+  },
+  {
+    "subject": "Choreiform movement disorders",
+    "relation": "has_symptom",
+    "object": "unpredictable movements"
+  },
+  {
+    "subject": "Huntington disease",
+    "relation": "associated_with",
+    "object": "choreiform hyperkinesia"
+  },
+  {
+    "subject": "Huntington disease",
+    "relation": "associated_with",
+    "object": "dystonic postures"
+  },
+  {
+    "subject": "Choreiform movement disorders",
+    "relation": "has_cause",
+    "object": "hereditary factors"
+  },
+  {
+    "subject": "Choreiform movement disorders",
+    "relation": "has_cause",
+    "object": "non-hereditary factors"
+  },
+  {
+    "subject": "Huntington disease",
+    "relation": "has_cause",
+    "object": "autosomal-dominant transmission"
+  },
+  {
+    "subject": "Huntington disease",
+    "relation": "has_cause",
+    "object": "CAG repeats in the expandable range"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "compulsive self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "biting behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "deep ulcerated lesions on the lips and tongue"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "arm and oral injuries"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "substance loss"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "decrease in food intake"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "weight loss"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "deficiency of hypoxanthine-guanine phosphoribosyltransferase"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "gabapentin"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "lorazepam"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "botulinum toxin injections"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "dental extractions"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "secondary lesions"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "renal dysfunction"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "increased uric acid"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "increased renal malondialdehyde level"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "HGPRT1 deficiency"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "associated_with",
+    "object": "renal failure"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "treated_by",
+    "object": "naringin (NAR)"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "KBrO3"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "caffeine (CAF)"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "global developmental delay"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "speech delay"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "HPRT1 deficiency"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "novel de novo frameshift variant in HPRT1"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "high levels of uric acid"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "100% skewed X chromosome carrying the affected allele"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "early and accurate diagnosis"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "inborn errors of purine metabolism"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "associated_with",
+    "object": "neurologic consequences"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual deficits"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "neural abnormalities"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hypercoagulability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "uncontrolled self-injury"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "gout"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "deficiency of hypoxanthine-guanine phosphoribosyltransferase"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "S162N HPRT1 mutation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "allopurinol"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "accumulation of glycolytic intermediates"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "changes in RBC membrane proteins"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "elevation in protein glutamine deamidation and methylation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "enrichment of coagulation proteins"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "decrease in intracellular iron, zinc, selenium, and potassium"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "profound intellectual disabilities"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "physical disabilities"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilating behaviors"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "Pathogenic variants in HPRT1"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "deficiency in hypoxanthine-guanine phosphoribosyltransferase"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "rapid exome sequencing (ES)"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "X-linked recessive inheritance"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "hemizygous maternally inherited deletion of at least 1.3 Mb of Xq26.3"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "complex neurological symptoms"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "neuropsychiatric symptoms"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "loss of function mutations in the HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "decrease activity of hypoxanthine-guanine phosphoribosyl transferase enzyme (HGPRT)"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "altered purine salvage pathway"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disorder"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_symptom",
+    "object": "Joint Pain"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_symptom",
+    "object": "Inflammation"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_cause",
+    "object": "High Uric Acid Levels"
+  },
+  {
+    "subject": "Gout",
+    "relation": "treated_by",
+    "object": "Urate-Lowering Therapy"
+  },
+  {
+    "subject": "Gout",
+    "relation": "associated_with",
+    "object": "Kidney Disease"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "has_cause",
+    "object": "High Uric Acid Levels"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "associated_with",
+    "object": "Gout"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "associated_with",
+    "object": "Kidney Disease"
+  },
+  {
+    "subject": "Destructive behavior",
+    "relation": "has_treatment",
+    "object": "Less intrusive interventions"
+  },
+  {
+    "subject": "Destructive behavior",
+    "relation": "has_treatment",
+    "object": "Contingent electric skin shock (CESS)"
+  },
+  {
+    "subject": "Destructive behavior",
+    "relation": "associated_with",
+    "object": "Autism"
+  },
+  {
+    "subject": "Destructive behavior",
+    "relation": "associated_with",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Contingent electric skin shock (CESS)",
+    "relation": "has_symptom",
+    "object": "Painful skin shock"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Mood Disorders"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Anxiety Disorders"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Schizophrenia-spectrum Disorders"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Catatonia"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Eating Disorders"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "has_symptom",
+    "object": "Self-injurious Behaviors"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "treated_by",
+    "object": "Early and Appropriate Treatments"
+  },
+  {
+    "subject": "Inherited Metabolic Disorders",
+    "relation": "associated_with",
+    "object": "Psychiatric Disorders"
+  },
+  {
+    "subject": "Psychiatric Disorders",
+    "relation": "has_cause",
+    "object": "Inherited Metabolic Disorders"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_symptom",
+    "object": "profound muscle weakness"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_symptom",
+    "object": "respiratory failure"
+  },
+  {
+    "subject": "Hemophilia A",
+    "relation": "has_symptom",
+    "object": "hemorrhage"
+  },
+  {
+    "subject": "X-linked agammaglobulinemia",
+    "relation": "has_symptom",
+    "object": "susceptibility to infections"
+  },
+  {
+    "subject": "Alport syndrome",
+    "relation": "has_symptom",
+    "object": "kidney damage"
+  },
+  {
+    "subject": "Alport syndrome",
+    "relation": "has_symptom",
+    "object": "eye problems"
+  },
+  {
+    "subject": "Alport syndrome",
+    "relation": "has_symptom",
+    "object": "cochlea problems"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "has_symptom",
+    "object": "inherited neuropathy"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "skin lesions"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "renal failure"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "stroke"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_symptom",
+    "object": "heart attack"
+  },
+  {
+    "subject": "Red-green color blindness",
+    "relation": "has_symptom",
+    "object": "color vision deficiency"
+  },
+  {
+    "subject": "Hemophilia A",
+    "relation": "treated_by",
+    "object": "blood transfusions"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "associated_with",
+    "object": "mutation in the dystrophin gene"
+  },
+  {
+    "subject": "Hemophilia A",
+    "relation": "associated_with",
+    "object": "mutation in the factor VIII gene"
+  },
+  {
+    "subject": "Alport syndrome",
+    "relation": "associated_with",
+    "object": "mutation in the type IV collagen gene"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_cause",
+    "object": "excessive accumulation of neutral glycosphingolipids"
+  },
+  {
+    "subject": "Hemophilia A",
+    "relation": "has_cause",
+    "object": "mutation in the factor VIII gene"
+  },
+  {
+    "subject": "Hemophilia A",
+    "relation": "has_cause",
+    "object": "spontaneous mutation"
+  },
+  {
+    "subject": "Duchenne muscular dystrophy",
+    "relation": "has_cause",
+    "object": "mutation in the dystrophin gene"
+  },
+  {
+    "subject": "X-linked agammaglobulinemia",
+    "relation": "has_symptom",
+    "object": "inability to make plasma cells and antibodies"
+  },
+  {
+    "subject": "Charcot-Marie-Tooth disease",
+    "relation": "has_cause",
+    "object": "spontaneous mutations"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "X-linked inheritance"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "associated_with",
+    "object": "X-linked inheritance"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "associated_with",
+    "object": "X-linked inheritance"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "has_symptom",
+    "object": "hypotonia"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "has_symptom",
+    "object": "oculomotor apraxia"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "has_symptom",
+    "object": "breathing abnormalities"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "has_symptom",
+    "object": "strabismus"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "has_symptom",
+    "object": "intermittent dizziness"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "has_symptom",
+    "object": "breath-holding spells"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "has_cause",
+    "object": "mutations in ciliopathy-related genes"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "associated_with",
+    "object": "Lesch-Nyhan syndrome"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "associated_with",
+    "object": "vision impairment"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "associated_with",
+    "object": "hearing impairment"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "associated_with",
+    "object": "skin abnormalities"
+  },
+  {
+    "subject": "Joubert syndrome",
+    "relation": "treated_by",
+    "object": "rehabilitation treatment"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "has_symptom",
+    "object": "[Symptom]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "treated_by",
+    "object": "[Treatment]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "has_cause",
+    "object": "[Cause]"
+  },
+  {
+    "subject": "[Disease]",
+    "relation": "associated_with",
+    "object": "[Associated Condition]"
+  },
+  {
+    "subject": "Riga-Fede disease",
+    "relation": "has_symptom",
+    "object": "traumatic oral ulcers"
+  },
+  {
+    "subject": "Riga-Fede disease",
+    "relation": "treated_by",
+    "object": "teeth grinding"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "neurological manifestations"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "facial tissue loss"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "premature teeth loss"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "variant of uncertain significance in the Hypoxanthine Phosphoribosyltransferase 1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "psychiatric treatment"
+  },
+  {
+    "subject": "Riga-Fede disease",
+    "relation": "associated_with",
+    "object": "Lesch-Nyhan syndrome"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "cleft palate"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "ventricular septal defect"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "congenitally undescended testis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "ectopic left iliac kidney"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "congenital anomalies"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "neurological disturbances"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "missense variants in HPRT1"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "missense variants"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricaemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "reduction in cognitive abilities"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-aggressive behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "choreoathetosis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "retarded development"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "finger biting"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "lip biting"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "tongue biting"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "inherited disorder of purine metabolism"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "lack of hypoxanthine-guanine phos-phoribosyltransferase (HGPRT)"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "oral self-injury behavior"
+  },
+  {
+    "subject": "oral self-injury behavior",
+    "relation": "treated_by",
+    "object": "tooth extraction"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "dental extraction"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "has_symptom",
+    "object": "central obesity"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "has_symptom",
+    "object": "high blood pressure"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "has_symptom",
+    "object": "insulin resistance"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "has_symptom",
+    "object": "hyperglycemia"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "has_symptom",
+    "object": "hypertriglyceridemia"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "has_symptom",
+    "object": "low high-density lipoprotein cholesterol levels"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "associated_with",
+    "object": "hypertension"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "associated_with",
+    "object": "type 2 diabetes"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "associated_with",
+    "object": "cardiovascular diseases"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "associated_with",
+    "object": "neurodegenerative conditions"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "has_cause",
+    "object": "genetic factors"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "has_cause",
+    "object": "acquired factors"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "has_cause",
+    "object": "inactive lifestyles"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "has_cause",
+    "object": "high-calorie diets"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "treated_by",
+    "object": "drug therapies"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "treated_by",
+    "object": "surgical options"
+  },
+  {
+    "subject": "Metabolic Syndrome",
+    "relation": "treated_by",
+    "object": "experimental methods"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "movement disorders"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "fever"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "acute kidney injury"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "transaminitis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "altered mental status"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dysautonomia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "renal failure"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "genetic disorder of purine metabolism"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "G6PD deficiency"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "central diabetes insipidus"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "rhabdomyolysis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "neuroleptic malignant syndrome"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "abnormal neurotransmitter release"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "disruption of dopamine neurotransmission"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Abnormal purine levels"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Abnormal pyrimidine levels"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "Genetic mutation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Impaired renal function"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Chronic kidney disease"
+  },
+  {
+    "subject": "Inborn errors of metabolism",
+    "relation": "associated_with",
+    "object": "Chronic kidney disease"
+  },
+  {
+    "subject": "Chronic kidney disease",
+    "relation": "has_symptom",
+    "object": "Impaired renal function"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "progressive choreoathetosis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dystonic posturing"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "choreoathetoid movements"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "global developmental delay"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "recurrent seizures"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "opisthotonous posturing"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "hypercoagulability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "cerebral venous sinus thrombosis"
+  },
+  {
+    "subject": "Lesch-Nyhan Syndrome",
+    "relation": "diagnosed_by",
+    "object": "hypoxanthine-guanine phosphoribosyltransferase enzyme levels"
+  },
+  {
+    "subject": "Cerebral venous sinus thrombosis",
+    "relation": "diagnosed_by",
+    "object": "magnetic resonance imaging brain"
+  },
+  {
+    "subject": "Cerebral venous sinus thrombosis",
+    "relation": "diagnosed_by",
+    "object": "magnetic resonance venogram"
+  },
+  {
+    "subject": "Oedipism",
+    "relation": "has_symptom",
+    "object": "Severe bleeding from both eyes"
+  },
+  {
+    "subject": "Oedipism",
+    "relation": "has_symptom",
+    "object": "Avulsion of all extraocular muscles"
+  },
+  {
+    "subject": "Oedipism",
+    "relation": "has_symptom",
+    "object": "Large corneoscleral laceration"
+  },
+  {
+    "subject": "Oedipism",
+    "relation": "has_symptom",
+    "object": "Severe ocular mutilation"
+  },
+  {
+    "subject": "Oedipism",
+    "relation": "has_symptom",
+    "object": "Loss of sight"
+  },
+  {
+    "subject": "Oedipism",
+    "relation": "has_cause",
+    "object": "Self-inflicted injury"
+  },
+  {
+    "subject": "Oedipism",
+    "relation": "has_cause",
+    "object": "Mania"
+  },
+  {
+    "subject": "Oedipism",
+    "relation": "associated_with",
+    "object": "Schizophrenia"
+  },
+  {
+    "subject": "Oedipism",
+    "relation": "treated_by",
+    "object": "Strict observation"
+  },
+  {
+    "subject": "Oedipism",
+    "relation": "treated_by",
+    "object": "Multidisciplinary approach"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "notching"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "drilling"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "chipping"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "grinding"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "grooving"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "sharping"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "filling"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "staining"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "covering the crown by precious metals"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "tooth extraction"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_symptom",
+    "object": "reduction or permanent impairment of the oral system"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "associated_with",
+    "object": "Lesch-Nyhan syndrome"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_cause",
+    "object": "intentional trauma"
+  },
+  {
+    "subject": "Teeth mutilation",
+    "relation": "has_cause",
+    "object": "tooth modification"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "neurological manifestations"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "behavioral manifestations"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "acute renal failure"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "self-injurious behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "mutations in HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "deficiency of hypoxanthine-guanine phosphoribosyltransferase (HPRT)"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "associated_with",
+    "object": "splice-site mutation in intron 3 leading to exon 4 exclusion"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "has_cause",
+    "object": "Anatomical brain abnormalities"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "has_cause",
+    "object": "Developmental brain abnormalities"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "associated_with",
+    "object": "Stress"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "associated_with",
+    "object": "Fear"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "treated_by",
+    "object": "Conscious sedation"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "has_symptom",
+    "object": "Urolithiasis"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "has_symptom",
+    "object": "Nephrocalcinosis"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "has_cause",
+    "object": "Primary hyperoxaluria"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "has_cause",
+    "object": "Cystinuria"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "has_cause",
+    "object": "Lesch Nyhan syndrome"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "has_cause",
+    "object": "Renal tubular acidosis"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "has_cause",
+    "object": "Hereditary xanthinuria"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "has_cause",
+    "object": "Bartter syndrome"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "has_cause",
+    "object": "Adenine phosphoribosyltransferase deficiency"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "has_cause",
+    "object": "Hereditary hypophosphatemic rickets with hypercalciuria"
+  },
+  {
+    "subject": "Primary hyperoxaluria type 1",
+    "relation": "associated_with",
+    "object": "End-stage renal disease"
+  },
+  {
+    "subject": "Monogenic urinary lithiasis",
+    "relation": "treated_by",
+    "object": "Screening"
+  },
+  {
+    "subject": "Neuronal dysfunction",
+    "relation": "has_symptom",
+    "object": "Energetic impairment"
+  },
+  {
+    "subject": "Neuronal dysfunction",
+    "relation": "treated_by",
+    "object": "PNP activation"
+  },
+  {
+    "subject": "Energetic impairment",
+    "relation": "has_cause",
+    "object": "PNP inhibition"
+  },
+  {
+    "subject": "Neuronal dysfunction",
+    "relation": "associated_with",
+    "object": "Increased glycolytic activity"
+  },
+  {
+    "subject": "Neuronal dysfunction",
+    "relation": "associated_with",
+    "object": "Membrane depolarization"
+  },
+  {
+    "subject": "Gout",
+    "relation": "associated_with",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Type (II) diabetes",
+    "relation": "associated_with",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "associated_with",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Uremia",
+    "relation": "associated_with",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Kidney damage",
+    "relation": "associated_with",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Cardiovascular diseases",
+    "relation": "associated_with",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "associated_with",
+    "object": "presence of uricase"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_cause",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Type (II) diabetes",
+    "relation": "has_cause",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Leukemia",
+    "relation": "has_cause",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Uremia",
+    "relation": "has_cause",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Kidney damage",
+    "relation": "has_cause",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Cardiovascular diseases",
+    "relation": "has_cause",
+    "object": "abnormal levels of uric acid"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "genetic disorders"
+  },
+  {
+    "subject": "Abnormal levels of uric acid",
+    "relation": "detected_by",
+    "object": "LC-based sensor"
+  },
+  {
+    "subject": "Uricase",
+    "relation": "detected_by",
+    "object": "LC-based sensor"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "overproduction of uric acid"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "Alterations in function of hypoxanthine guanine phosphoribosyl transferase (HPRT)"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "HPRT1 deficiency"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "disruption of mitochondrial energy metabolism"
+  },
+  {
+    "subject": "HPRT1 deficiency",
+    "relation": "has_effect",
+    "object": "increased levels of mitochondrial NADH"
+  },
+  {
+    "subject": "HPRT1 deficiency",
+    "relation": "has_effect",
+    "object": "reduction of the mitochondrial membrane potential"
+  },
+  {
+    "subject": "HPRT1 deficiency",
+    "relation": "has_effect",
+    "object": "increased rate of reactive oxygen species (ROS) production"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "increased rate of reactive oxygen species (ROS) production"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilating behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-biting"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "botulinum toxin injections"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "genetic metabolic disorder"
+  },
+  {
+    "subject": "self-mutilating behavior",
+    "relation": "treated_by",
+    "object": "botulinum toxin injections"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "oromotor dysfunction"
+  },
+  {
+    "subject": "Congenital Insensitivity to Pain",
+    "relation": "has_symptom",
+    "object": "Bilateral Hip Flexion Contractures"
+  },
+  {
+    "subject": "Congenital Insensitivity to Pain",
+    "relation": "has_symptom",
+    "object": "Heterotopic Ossification"
+  },
+  {
+    "subject": "Bilateral Hip Flexion Contractures",
+    "relation": "treated_by",
+    "object": "Contracture Releases"
+  },
+  {
+    "subject": "Congenital Insensitivity to Pain",
+    "relation": "has_cause",
+    "object": "L369P mutation in the SCN11A gene"
+  },
+  {
+    "subject": "Congenital Insensitivity to Pain",
+    "relation": "associated_with",
+    "object": "Heterotrophic Ossification"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "gout"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "behavioral abnormality"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-harm"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "allopurinol"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "mutations in hypoxanthine-guanine phosphoribosyl transferase 1 (HPRT1)"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "X-linked recessive genetic disorder"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "CRISPR-mediated base editors (BEs)"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "prime editors (PEs)"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilating behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "poor muscle control"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "gout"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "kidney disease"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "renal failure"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "kidney stones"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "bladder stones"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "X-linked inborn error of metabolism"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "xanthine urolithiasis"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "allopurinol"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "treated_by",
+    "object": "allopurinol"
+  },
+  {
+    "subject": "Xanthine urolithiasis",
+    "relation": "caused_by",
+    "object": "excess allopurinol dosing"
+  },
+  {
+    "subject": "Stevens-Johnson syndrome",
+    "relation": "has_symptom",
+    "object": "skin reaction"
+  },
+  {
+    "subject": "Stevens-Johnson syndrome",
+    "relation": "has_cause",
+    "object": "medication use"
+  },
+  {
+    "subject": "Stevens-Johnson syndrome",
+    "relation": "has_cause",
+    "object": "allopurinol"
+  },
+  {
+    "subject": "Stevens-Johnson syndrome",
+    "relation": "has_cause",
+    "object": "ACE inhibitors"
+  },
+  {
+    "subject": "Stevens-Johnson syndrome",
+    "relation": "has_cause",
+    "object": "combination of allopurinol and ACE inhibitors"
+  },
+  {
+    "subject": "Stevens-Johnson syndrome",
+    "relation": "associated_with",
+    "object": "impaired renal function"
+  },
+  {
+    "subject": "Stevens-Johnson syndrome",
+    "relation": "treated_by",
+    "object": "avoiding coadministration of ACE inhibitors and allopurinol"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "has_symptom",
+    "object": "physical harm"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "associated_with",
+    "object": "intellectual disability"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "associated_with",
+    "object": "neurodevelopmental conditions"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "associated_with",
+    "object": "neuropsychiatric conditions"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "mechanical/physical restraints"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "behavioral therapy"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "pharmacotherapy"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "surgical management"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "tooth extraction"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "deep brain stimulation"
+  },
+  {
+    "subject": "Self-injurious behaviors",
+    "relation": "treated_by",
+    "object": "botulinum neurotoxin injections"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "has_symptom",
+    "object": "Movement disorders"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "has_cause",
+    "object": "X chromosome large duplication"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "has_symptom",
+    "object": "Generalized dystonia"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "has_symptom",
+    "object": "Focal dystonia"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "treated_by",
+    "object": "Chromosomal studies"
+  },
+  {
+    "subject": "Movement disorders",
+    "relation": "has_cause",
+    "object": "Chromosomal aberrations"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "associated_with",
+    "object": "Complex movement disorders"
+  },
+  {
+    "subject": "Dystonia",
+    "relation": "associated_with",
+    "object": "Chromosomal aberrations"
+  },
+  {
+    "subject": "Traumatic Brain Injury",
+    "relation": "has_symptom",
+    "object": "Self-inflicted wound"
+  },
+  {
+    "subject": "Traumatic Brain Injury",
+    "relation": "has_symptom",
+    "object": "Self-destructive behavior"
+  },
+  {
+    "subject": "Traumatic Brain Injury",
+    "relation": "has_symptom",
+    "object": "Scratching arms and legs"
+  },
+  {
+    "subject": "Traumatic Brain Injury",
+    "relation": "associated_with",
+    "object": "Psychosis"
+  },
+  {
+    "subject": "Traumatic Brain Injury",
+    "relation": "associated_with",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Traumatic Brain Injury",
+    "relation": "associated_with",
+    "object": "Substance use"
+  },
+  {
+    "subject": "Traumatic Brain Injury",
+    "relation": "associated_with",
+    "object": "Complex psychological disorders"
+  },
+  {
+    "subject": "Traumatic Brain Injury",
+    "relation": "treated_by",
+    "object": "Surgical wound debridement"
+  },
+  {
+    "subject": "Traumatic Brain Injury",
+    "relation": "treated_by",
+    "object": "Psychiatric evaluation"
+  },
+  {
+    "subject": "Self-destructive behavior",
+    "relation": "has_cause",
+    "object": "Traumatic Brain Injury"
+  },
+  {
+    "subject": "Autophagia",
+    "relation": "has_symptom",
+    "object": "Self-mutilation"
+  },
+  {
+    "subject": "Autophagia",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Autophagia",
+    "relation": "associated_with",
+    "object": "Psychiatric disorders"
+  },
+  {
+    "subject": "Autophagia",
+    "relation": "associated_with",
+    "object": "Acquired nervous system lesions"
+  },
+  {
+    "subject": "Autophagia",
+    "relation": "has_cause",
+    "object": "Thalamic hemorrhage"
+  },
+  {
+    "subject": "Autophagia",
+    "relation": "treated_by",
+    "object": "Antipsychotic drugs"
+  },
+  {
+    "subject": "Thalamic hemorrhage",
+    "relation": "has_symptom",
+    "object": "Agitation"
+  },
+  {
+    "subject": "Thalamic hemorrhage",
+    "relation": "has_symptom",
+    "object": "Self mutilating behavior"
+  },
+  {
+    "subject": "Thalamic hemorrhage",
+    "relation": "has_symptom",
+    "object": "Left side weakness"
+  },
+  {
+    "subject": "Frictional Keratosis",
+    "relation": "has_symptom",
+    "object": "White Lesion"
+  },
+  {
+    "subject": "Tobacco Pouch Keratosis",
+    "relation": "has_symptom",
+    "object": "White Lesion"
+  },
+  {
+    "subject": "Morsicatio Buccarum (MB)",
+    "relation": "has_symptom",
+    "object": "White Lesion"
+  },
+  {
+    "subject": "Frictional Keratosis",
+    "relation": "treated_by",
+    "object": "Simple Treatments"
+  },
+  {
+    "subject": "Tobacco Pouch Keratosis",
+    "relation": "treated_by",
+    "object": "Simple Treatments"
+  },
+  {
+    "subject": "Morsicatio Buccarum (MB)",
+    "relation": "treated_by",
+    "object": "Simple Treatments"
+  },
+  {
+    "subject": "Tobacco Pouch Keratosis",
+    "relation": "has_cause",
+    "object": "Tobacco Usage"
+  },
+  {
+    "subject": "Frictional Keratosis",
+    "relation": "has_cause",
+    "object": "Eruption of Third Molars"
+  },
+  {
+    "subject": "Frictional Keratosis",
+    "relation": "associated_with",
+    "object": "Third Molar Region"
+  },
+  {
+    "subject": "Tobacco Pouch Keratosis",
+    "relation": "associated_with",
+    "object": "Prolonged Habit Usage"
+  },
+  {
+    "subject": "Morsicatio Buccarum (MB)",
+    "relation": "associated_with",
+    "object": "Middle Age"
+  },
+  {
+    "subject": "Tobacco Pouch Keratosis",
+    "relation": "associated_with",
+    "object": "Middle to Old Age"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-mutilation behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "generalized dystonia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "dyskinesia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-harm behavior"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "deficiency of hypoxanthine-guanine phosphoribosyltransferase enzyme"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "bilateral deep brain stimulation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "refractory dystonia"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Chronic Constipation"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Chronic Diarrhoea"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Insomnia"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Mental Illness"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Thyroid Disorders"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Upper Gastrointestinal Disorders"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Chronic Kidney Disease"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Diabetes"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "has_symptom",
+    "object": "Chronic Arthritis"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "associated_with",
+    "object": "Deprivation"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "associated_with",
+    "object": "Cancer"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "associated_with",
+    "object": "Cardiac Arrhythmias"
+  },
+  {
+    "subject": "Intellectual Disability",
+    "relation": "associated_with",
+    "object": "Cerebral Palsy"
+  },
+  {
+    "subject": "Epilepsy",
+    "relation": "treated_by",
+    "object": "Hospital Admission"
+  },
+  {
+    "subject": "Diabetes",
+    "relation": "treated_by",
+    "object": "Hospital Admission"
+  },
+  {
+    "subject": "Mental Illness",
+    "relation": "treated_by",
+    "object": "Hospital Admission"
+  },
+  {
+    "subject": "Chronic Airway Disease",
+    "relation": "treated_by",
+    "object": "Hospital Admission"
+  },
+  {
+    "subject": "Cancer",
+    "relation": "treated_by",
+    "object": "Hospital Admission"
+  },
+  {
+    "subject": "Cardiac Arrhythmias",
+    "relation": "treated_by",
+    "object": "Hospital Admission"
+  },
+  {
+    "subject": "Cerebral Palsy",
+    "relation": "treated_by",
+    "object": "Hospital Admission"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Uric acid overproduction"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Neurocognitive disability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Behavioral disturbances"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Self-injurious behaviors"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Intellectual disability"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "Neurodevelopmental delay"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "Substitution of phenylalanine to leucine in HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "Propofol"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "Total intravenous anesthesia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Urological surgery complications"
+  },
+  {
+    "subject": "Hb H disease",
+    "relation": "has_cause",
+    "object": "Compound heterozygous α0-thalassemia- SEA deletion/α+-thalassemia- 3.7kb deletion"
+  },
+  {
+    "subject": "Hb H disease",
+    "relation": "treated_by",
+    "object": "Preimplantation genetics testing for monogenic disorders (PGT-M)"
+  },
+  {
+    "subject": "Hb H disease",
+    "relation": "associated_with",
+    "object": "α-thalassemia"
+  },
+  {
+    "subject": "Pancreatic Cancer",
+    "relation": "has_symptom",
+    "object": "Subtle abnormalities"
+  },
+  {
+    "subject": "Pancreatic Cancer",
+    "relation": "has_cause",
+    "object": "Advanced stage at diagnosis"
+  },
+  {
+    "subject": "Pancreatic Cancer",
+    "relation": "associated_with",
+    "object": "Dismal survival rates"
+  },
+  {
+    "subject": "Pancreatic Cancer",
+    "relation": "treated_by",
+    "object": "AI-driven methodologies"
+  },
+  {
+    "subject": "Pancreatic Cancer",
+    "relation": "treated_by",
+    "object": "Machine learning (ML) algorithms"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_cause",
+    "object": "oxidopamine"
+  },
+  {
+    "subject": "attention-deficit hyperactivity disorder",
+    "relation": "has_cause",
+    "object": "oxidopamine"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "oxidopamine"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "associated_with",
+    "object": "oxidative damage"
+  },
+  {
+    "subject": "oxidopamine toxicity",
+    "relation": "has_symptom",
+    "object": "programmed cell death"
+  },
+  {
+    "subject": "oxidopamine toxicity",
+    "relation": "has_symptom",
+    "object": "chromatin structure changes"
+  },
+  {
+    "subject": "oxidopamine toxicity",
+    "relation": "has_cause",
+    "object": "reactive oxygen species (ROS)"
+  },
+  {
+    "subject": "neurological diseases",
+    "relation": "treated_by",
+    "object": "antioxidant-based pharmacologically active compounds"
+  },
+  {
+    "subject": "non-neurological diseases",
+    "relation": "treated_by",
+    "object": "antioxidant-based pharmacologically active compounds"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_symptom",
+    "object": "Hyperuricemia"
+  },
+  {
+    "subject": "Gout with hyperuricemia",
+    "relation": "treated_by",
+    "object": "Febuxostat"
+  },
+  {
+    "subject": "Gout with hyperuricemia",
+    "relation": "treated_by",
+    "object": "Generic Febuxostat"
+  },
+  {
+    "subject": "Gout with hyperuricemia",
+    "relation": "has_symptom",
+    "object": "High Serum Uric Acid"
+  },
+  {
+    "subject": "Gout",
+    "relation": "associated_with",
+    "object": "Hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "mutations of HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "neurological disorder"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "treated_by",
+    "object": "treatment strategy"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "absence of HGPRT enzymatic activity"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "troubled homodimerization"
+  },
+  {
+    "subject": "Cells with functional HGPRT enzyme",
+    "relation": "has_symptom",
+    "object": "Death in presence of 8-AG"
+  },
+  {
+    "subject": "Cells deficient in HGPRTase",
+    "relation": "has_symptom",
+    "object": "Resistance to 8-AG"
+  },
+  {
+    "subject": "Cells with functional HGPRT enzyme",
+    "relation": "treated_by",
+    "object": "Drugs that block de novo synthesis of DNA"
+  },
+  {
+    "subject": "Cells with HGPRT mutation",
+    "relation": "has_cause",
+    "object": "Inability to produce purines for DNA biosynthesis"
+  },
+  {
+    "subject": "Myeloma cells",
+    "relation": "associated_with",
+    "object": "HGPRT mutation"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "has_symptom",
+    "object": "Urinary stones"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "has_cause",
+    "object": "Lesch-Nyhan Syndrome"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "has_cause",
+    "object": "Allopurinol"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "associated_with",
+    "object": "Lesch-Nyhan Syndrome"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "treated_by",
+    "object": "Computed Tomography (CT)"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "treated_by",
+    "object": "Ultrasound (US)"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "treated_by",
+    "object": "Magnetic Resonance Imaging (MRI)"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "has_symptom",
+    "object": "Echogenicity"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "has_symptom",
+    "object": "Acoustic shadowing"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "has_symptom",
+    "object": "Twinkle artifact"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "has_symptom",
+    "object": "Radiodensity on CT"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "variants in the HPRT1 gene"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_cause",
+    "object": "HGprt deficiency"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "associated_with",
+    "object": "abnormalities in WNT signaling"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "associated_with",
+    "object": "abnormalities in the mitochondrial F0F1 ATPase"
+  },
+  {
+    "subject": "Lesch-Nyhan disease",
+    "relation": "has_symptom",
+    "object": "abnormal neural development"
+  },
+  {
+    "subject": "Gout",
+    "relation": "treated_by",
+    "object": "Uricase"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_cause",
+    "object": "Urate accumulation"
+  },
+  {
+    "subject": "Gout",
+    "relation": "associated_with",
+    "object": "Urate accumulation"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "hyperuricemia"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_symptom",
+    "object": "self-injurious behavior"
+  },
+  {
+    "subject": "autism spectrum disorder",
+    "relation": "associated_with",
+    "object": "neurodevelopmental disease"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "dysregulated protein translation"
+  },
+  {
+    "subject": "autism spectrum disorder",
+    "relation": "associated_with",
+    "object": "dysregulated protein translation"
+  },
+  {
+    "subject": "dysregulated protein translation",
+    "relation": "has_cause",
+    "object": "loss of function variants in PUS7"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "dysregulated protein translation"
+  },
+  {
+    "subject": "autism spectrum disorder",
+    "relation": "has_cause",
+    "object": "dysregulated protein translation"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_cause",
+    "object": "Hyperuricemia"
+  },
+  {
+    "subject": "Gout",
+    "relation": "has_cause",
+    "object": "Elevated serum urate levels"
+  },
+  {
+    "subject": "Gout",
+    "relation": "associated_with",
+    "object": "Hereditary renal hypouricemia"
+  },
+  {
+    "subject": "Gout",
+    "relation": "treated_by",
+    "object": "URAT1 inhibitors"
+  },
+  {
+    "subject": "Hereditary renal hypouricemia",
+    "relation": "has_symptom",
+    "object": "Exercise-induced acute kidney injury"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "associated_with",
+    "object": "Chronic kidney disease"
+  },
+  {
+    "subject": "Hyperuricemia",
+    "relation": "associated_with",
+    "object": "Cardiovascular disease"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "severe intellectual disability"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "epilepsy"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "low levels of serum copper"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_symptom",
+    "object": "low levels of ceruloplasmin"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "mutations in the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "has_cause",
+    "object": "heterozygous deletion of exons 16 and 17 of the ATP7A gene"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "skewed X chromosome inactivation"
+  },
+  {
+    "subject": "Menkes disease",
+    "relation": "associated_with",
+    "object": "X-linked disorder of copper metabolism"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "missense variants in HPRT1"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "has_cause",
+    "object": "missense variants"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "has_symptom",
+    "object": "Urinary stones"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "has_cause",
+    "object": "Lesch-Nyhan syndrome"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "has_cause",
+    "object": "Allopurinol"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "associated_with",
+    "object": "Lesch-Nyhan syndrome"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "treated_by",
+    "object": "Computed Tomography (CT)"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "treated_by",
+    "object": "Ultrasound (US)"
+  },
+  {
+    "subject": "Xanthine urinary stones",
+    "relation": "treated_by",
+    "object": "Magnetic Resonance Imaging (MRI)"
+  },
+  {
+    "subject": "Lesch-Nyhan syndrome",
+    "relation": "associated_with",
+    "object": "Xanthine urinary stones"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "has_symptom",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "has_symptom",
+    "object": "Neonatal Seizures"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "has_symptom",
+    "object": "Infantile Spasms"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "has_symptom",
+    "object": "Myoclonic Seizures"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "has_symptom",
+    "object": "Characteristic EEG patterns"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "treated_by",
+    "object": "Treatment for underlying metabolic defect"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "associated_with",
+    "object": "Cofactor and mineral metabolism disorders"
+  },
+  {
+    "subject": "Inherited Metabolic Epilepsies",
+    "relation": "associated_with",
+    "object": "Intermediary nutrient metabolism disorders"
+  }
+]

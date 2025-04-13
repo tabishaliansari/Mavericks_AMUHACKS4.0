@@ -1,0 +1,3767 @@
+[
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "physical symptoms"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "social life challenges"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "medical care difficulties"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "support systems"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "spastic paraparesis"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "deficiency in galactocerebrosidase (GALC)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "psychosine (galactosylsphingosine) accumulation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "myelin damage"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "diagnosed_by",
+    "object": "Magnetic resonance imaging (MRI)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "diagnosed_by",
+    "object": "cerebrospinal fluid analysis"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "diagnosed_by",
+    "object": "molecular analysis"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "multi-disciplinary team (MDT) input"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "deficiency of the lysosomal enzyme GALC"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "immune imbalances"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Gentamicin"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Cetuximab"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Tivozanib"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Capmatinib"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "abnormal cytokine expression"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Spinal Muscular Atrophy",
+    "relation": "treated_by",
+    "object": "nusinersen"
+  },
+  {
+    "subject": "Duchenne Muscular Dystrophy",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Duchenne Muscular Dystrophy",
+    "relation": "has_cause",
+    "object": "dystrophin gene mutation"
+  },
+  {
+    "subject": "Duchenne Muscular Dystrophy",
+    "relation": "treated_by",
+    "object": "corticosteroids"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "has_cause",
+    "object": "deficiency of acid alpha-glucosidase"
+  },
+  {
+    "subject": "Pompe Disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "X-linked Adrenoleukodystrophy",
+    "relation": "has_symptom",
+    "object": "adrenal insufficiency"
+  },
+  {
+    "subject": "X-linked Adrenoleukodystrophy",
+    "relation": "has_symptom",
+    "object": "neurological problems"
+  },
+  {
+    "subject": "X-linked Adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Krabbe Disease",
+    "relation": "has_symptom",
+    "object": "neurological symptoms"
+  },
+  {
+    "subject": "Krabbe Disease",
+    "relation": "has_cause",
+    "object": "deficiency in galactocerebrosidase"
+  },
+  {
+    "subject": "Krabbe Disease",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Metachromatic Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "neurological deterioration"
+  },
+  {
+    "subject": "Metachromatic Leukodystrophy",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Myotonic Dystrophy 1",
+    "relation": "has_symptom",
+    "object": "muscle wasting"
+  },
+  {
+    "subject": "Myotonic Dystrophy 1",
+    "relation": "has_symptom",
+    "object": "myotonia"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "loss-of-function mutations in the GALC gene"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "toxic accumulation of psychosine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "brain demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "dysfunction and death of oligodendrocytes"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "symptom onset at varying ages"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "none mentioned"
+  },
+  {
+    "subject": "GALC activity",
+    "relation": "associated_with",
+    "object": "clinical disease severity"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "psychosine accumulation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "irritability"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "developmental delay"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "loss of milestones"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "feeding difficulties"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "reflux"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "abnormal nerve conduction studies"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "abnormal auditory brainstem responses"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "abnormal brain MRIs"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "deficiency of galactocerebrosidase"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "progressive neurodegeneration"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "Defective lysosomes"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "neuroinflammatory gene signature"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "lysosomal dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "STING-TFEB axis"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "has_symptom",
+    "object": "lysosomal area reduction"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "has_symptom",
+    "object": "accumulation of lipids"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "has_symptom",
+    "object": "accumulation of cholesterol"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "has_symptom",
+    "object": "accumulation of LBPA"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "treated_by",
+    "object": "acid ceramidase inhibition"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "treated_by",
+    "object": "small molecules"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage disorders"
+  },
+  {
+    "subject": "Niemann-Pick type C disease",
+    "relation": "associated_with",
+    "object": "primary sphingolipid storage disorders"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "primary or secondary storage of sphingolipids"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "acid ceramidase inhibition"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "gene therapies"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "small molecules"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "mutations in the galactosylceramidase gene"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "disease symptoms"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "n-3 polyunsaturated fatty acid supplementation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "lipid mediators from fatty acid oxidation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "severity of disease"
+  },
+  {
+    "subject": "n-3 polyunsaturated fatty acid supplementation",
+    "relation": "has_effect",
+    "object": "delayed manifestation of disease symptoms"
+  },
+  {
+    "subject": "n-3 polyunsaturated fatty acid supplementation",
+    "relation": "has_effect",
+    "object": "decreased 8-isoprostane amounts"
+  },
+  {
+    "subject": "n-3 polyunsaturated fatty acid supplementation",
+    "relation": "has_effect",
+    "object": "increased resolvin D1 levels"
+  },
+  {
+    "subject": "n-3 polyunsaturated fatty acid supplementation",
+    "relation": "has_effect",
+    "object": "increased quantity of total n-3 PUFAs"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "galactosylceramidase deficiency"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "neuroinflammation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "gliosis"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "accumulation of psychosine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Lcn2 deletion"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "galactosylceramidase deficiency"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "damaged oligodendrocytes"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "LUNAR-human galactosylceramidase mRNA"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "neurological disorders"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "oligodendrocyte damage"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "fatal cerebral demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "apoptotic oligodendrocyte death"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "deficiency in galactosylceramide β-galactosidase"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "myelin degeneration"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "abnormal accumulation of psychosine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "clemastine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Sob-AM2"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_cause",
+    "object": "Genetic Mutation"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "treated_by",
+    "object": "Early Intervention"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "diagnosed_by",
+    "object": "Newborn Genomic Screening"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "associated_with",
+    "object": "Severe Consequences"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Very Early Onset Inflammatory Bowel Disease",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Methoxyvaleric aciduria",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Rare non-malignant diseases",
+    "relation": "treated_by",
+    "object": "Allogeneic Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Rare non-malignant diseases",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Rare non-malignant diseases"
+  },
+  {
+    "subject": "Very Early Onset Inflammatory Bowel Disease",
+    "relation": "associated_with",
+    "object": "Rare non-malignant diseases"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "associated_with",
+    "object": "Rare non-malignant diseases"
+  },
+  {
+    "subject": "Methoxyvaleric aciduria",
+    "relation": "associated_with",
+    "object": "Rare non-malignant diseases"
+  },
+  {
+    "subject": "Rare non-malignant diseases",
+    "relation": "has_treatment_regimen",
+    "object": "Cyclophosphamide, Fludarabine, Anti-thymocyte Immunoglobulin, Busulfan, Thiotepa"
+  },
+  {
+    "subject": "Acute GVHD",
+    "relation": "associated_with",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Rare non-malignant diseases",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "mutations in the galactosylceramidase (GALC) gene"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "multiple sclerosis-like symptoms"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "neuroimaging changes"
+  },
+  {
+    "subject": "Adult-onset Krabbe disease",
+    "relation": "has_cause",
+    "object": "heterozygous mutations in GALC"
+  },
+  {
+    "subject": "Adult-onset Krabbe disease",
+    "relation": "has_cause",
+    "object": "missense mutation of c.1901T>C"
+  },
+  {
+    "subject": "Adult-onset Krabbe disease",
+    "relation": "has_cause",
+    "object": "splicing mutation of c.908+5G>A"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "white matter degeneration"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "mutations affecting glial cells"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "neurologic disorders"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "astroglial leukodystrophies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "oligodendroglial leukodystrophies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "microglial leukodystrophies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "targeted therapeutic strategies"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "mutation in the GALC gene"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "excessive toxic psychosine levels"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "autophagy impairment"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "α-synuclein"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cells"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "synapse dysfunction"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "cellular death"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "cellular dysfunction"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "deficiency of galactocerebrosidase"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "variants in the GALC gene"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "neurodegenerative disorder"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "sequencing of GALC"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "later-onset phenotype"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "two heterozygous pathogenic missense variants"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "Defective enzymes"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "Cellular dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "GSL imbalances"
+  },
+  {
+    "subject": "GSL-related diseases",
+    "relation": "associated_with",
+    "object": "Cancer"
+  },
+  {
+    "subject": "GSL-related diseases",
+    "relation": "associated_with",
+    "object": "Neurodegenerative disorders"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "motor dysfunction"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "deficiency of galactosylceramidase"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "accumulation of psychosine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "autophagy dysfunctions"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "astrogliosis"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Rapamycin"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Central nervous system symptoms"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Tracheostomy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Gastrostomy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Family planning due to genetic disorders"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Physical symptoms"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Physical symptoms"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "has_symptom",
+    "object": "Physical symptoms"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Rare Diseases",
+    "relation": "has_symptom",
+    "object": "Mental Health Challenges"
+  },
+  {
+    "subject": "Rare Diseases",
+    "relation": "associated_with",
+    "object": "Economic Burdens"
+  },
+  {
+    "subject": "Rare Diseases",
+    "relation": "associated_with",
+    "object": "Increased Medical Needs"
+  },
+  {
+    "subject": "Rare Diseases",
+    "relation": "associated_with",
+    "object": "Reliance on Caregivers"
+  },
+  {
+    "subject": "Rare Diseases",
+    "relation": "associated_with",
+    "object": "Work Disruptions"
+  },
+  {
+    "subject": "Mental Health Conditions",
+    "relation": "treated_by",
+    "object": "Mental Health Services"
+  },
+  {
+    "subject": "Mental Health Conditions",
+    "relation": "has_cause",
+    "object": "Misunderstood Nature of Rare Diseases"
+  },
+  {
+    "subject": "Mental Health Conditions",
+    "relation": "has_cause",
+    "object": "Potential Misdiagnosis"
+  },
+  {
+    "subject": "Mental Health Conditions",
+    "relation": "has_cause",
+    "object": "Limited Treatment Options"
+  },
+  {
+    "subject": "Rare Diseases",
+    "relation": "treated_by",
+    "object": "Rare Disease Treatment"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Very Early Onset Inflammatory Bowel Disease",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Methoxyvaleric aciduria",
+    "relation": "treated_by",
+    "object": "Umbilical Cord Blood Transplantation"
+  },
+  {
+    "subject": "Rare non-malignant disorders",
+    "relation": "treated_by",
+    "object": "Allogeneic Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Rare non-malignant disorders",
+    "relation": "has_symptom",
+    "object": "Pain"
+  },
+  {
+    "subject": "Rare non-malignant disorders",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Very Early Onset Inflammatory Bowel Disease",
+    "relation": "has_symptom",
+    "object": "Inflammatory bowel symptoms"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "Neurological symptoms"
+  },
+  {
+    "subject": "Shwachman-Diamond syndrome",
+    "relation": "has_symptom",
+    "object": "Pancreatic insufficiency"
+  },
+  {
+    "subject": "Rare non-malignant disorders",
+    "relation": "associated_with",
+    "object": "Toxicity caused by chemotherapy-based conditioning regimens"
+  },
+  {
+    "subject": "Umbilical Cord Blood Transplantation",
+    "relation": "associated_with",
+    "object": "Graft-Versus-Host Disease"
+  },
+  {
+    "subject": "Allogeneic Hematopoietic Stem Cell Transplantation",
+    "relation": "associated_with",
+    "object": "Graft-Versus-Host Disease"
+  },
+  {
+    "subject": "Rare non-malignant disorders",
+    "relation": "treated_by",
+    "object": "Conditioning regimen containing cyclophosphamide, fludarabine, anti-thymocyte immunoglobulin, busulfan and thiotepa"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Progressive visual impairment"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Optic atrophy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Visual neglect"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Strabismus"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Nystagmus"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "Genetic diseases"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Severe disabilities"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Premature death"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "Magnetic resonance imaging"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "Visual evoked potential"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "Optical coherence tomography"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "diagnosed_by",
+    "object": "Optical coherence tomography"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "diagnosed_by",
+    "object": "Optical coherence tomography"
+  },
+  {
+    "subject": "Amyotrophic lateral sclerosis",
+    "relation": "has_symptom",
+    "object": "progressive limb weakness"
+  },
+  {
+    "subject": "Amyotrophic lateral sclerosis",
+    "relation": "has_symptom",
+    "object": "muscle wasting"
+  },
+  {
+    "subject": "Amyotrophic lateral sclerosis",
+    "relation": "has_cause",
+    "object": "progressive degeneration of the upper and lower motor neurons"
+  },
+  {
+    "subject": "Amyotrophic lateral sclerosis",
+    "relation": "associated_with",
+    "object": "motor neuron disease"
+  },
+  {
+    "subject": "Amyotrophic lateral sclerosis",
+    "relation": "treated_by",
+    "object": "magnetic resonance imaging"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "has_symptom",
+    "object": "cognitive impairments"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "has_symptom",
+    "object": "motor impairments"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "treated_by",
+    "object": "Gene replacement therapy"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "treated_by",
+    "object": "AAV-mediated gene replacement therapy"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "has_cause",
+    "object": "genetic defects"
+  },
+  {
+    "subject": "Pediatric monogenetic diseases",
+    "relation": "associated_with",
+    "object": "pediatric encephalopathies"
+  },
+  {
+    "subject": "Pediatric encephalopathies",
+    "relation": "treated_by",
+    "object": "AAV-delivered gene replacement therapy"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_symptom",
+    "object": "not specified"
+  },
+  {
+    "subject": "Gaucher",
+    "relation": "has_symptom",
+    "object": "not specified"
+  },
+  {
+    "subject": "Acid Sphingomyelinase Deficiency",
+    "relation": "has_symptom",
+    "object": "not specified"
+  },
+  {
+    "subject": "Krabbe",
+    "relation": "has_symptom",
+    "object": "not specified"
+  },
+  {
+    "subject": "Mucopolysaccharidosis type I",
+    "relation": "has_symptom",
+    "object": "not specified"
+  },
+  {
+    "subject": "Fabry",
+    "relation": "has_symptom",
+    "object": "not specified"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_symptom",
+    "object": "not specified"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "treated_by",
+    "object": "not specified"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "has_cause",
+    "object": "genetic"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "associated_with",
+    "object": "subclinical forms"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "diagnosed_by",
+    "object": "tandem mass spectrometry"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "diagnosed_by",
+    "object": "molecular genetic analysis"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "diagnosed_by",
+    "object": "biochemical analysis"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "managed_by",
+    "object": "parental counseling"
+  },
+  {
+    "subject": "Lysosomal Storage Disorders",
+    "relation": "managed_by",
+    "object": "management decisions"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "Genetic mutation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Neurodevelopmental disorders"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Neurodegenerative disorders"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Small molecule delivery"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_symptom",
+    "object": "Phenotypic heterogeneity"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "treated_by",
+    "object": "Newborn screening"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_cause",
+    "object": "SMPD1 gene variants"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorder"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_symptom",
+    "object": "Reduced sphingomyelinase activity"
+  },
+  {
+    "subject": "Acid sphingomyelinase deficiency",
+    "relation": "has_symptom",
+    "object": "Elevated LysoSM levels"
+  },
+  {
+    "subject": "Tangier disease",
+    "relation": "has_symptom",
+    "object": "muscle weakness"
+  },
+  {
+    "subject": "Tangier disease",
+    "relation": "has_symptom",
+    "object": "decreased nerve conduction velocity"
+  },
+  {
+    "subject": "Tangier disease",
+    "relation": "has_symptom",
+    "object": "splenomegaly"
+  },
+  {
+    "subject": "Tangier disease",
+    "relation": "has_symptom",
+    "object": "gait disturbance"
+  },
+  {
+    "subject": "Tangier disease",
+    "relation": "has_symptom",
+    "object": "peripheral neuropathy"
+  },
+  {
+    "subject": "Tangier disease",
+    "relation": "has_symptom",
+    "object": "corneal opacity"
+  },
+  {
+    "subject": "Tangier disease",
+    "relation": "has_symptom",
+    "object": "hypo-HDL cholesterolemia"
+  },
+  {
+    "subject": "Tangier disease",
+    "relation": "has_cause",
+    "object": "mutations in ATP-binding cassette transporter A1 (ABCA1) gene"
+  },
+  {
+    "subject": "Tangier disease",
+    "relation": "associated_with",
+    "object": "Krabbe disease"
+  },
+  {
+    "subject": "Tangier disease",
+    "relation": "associated_with",
+    "object": "galactocerebrosidase dysfunction"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "GALC gene mutation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "accumulation of galactolipids"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "globoid cell leukodystrophy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "white matter degeneration"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "multinucleated globoid cells"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "mutations in the gene encoding the enzyme galactosylceramidase/galctocerebrosidase (GALC)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "deposition of the toxic lipid D-galactosyl-beta1-1' sphingosine (GalSph or psychosine)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "autophagy activators"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "intravenous immunoglobulin"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "inhibitors of the Pyroptosis process"
+  },
+  {
+    "subject": "Dual rare genetic diseases",
+    "relation": "has_symptom",
+    "object": "Psychomotor retardation"
+  },
+  {
+    "subject": "Dual rare genetic diseases",
+    "relation": "has_symptom",
+    "object": "Increased muscular tension"
+  },
+  {
+    "subject": "Dual rare genetic diseases",
+    "relation": "has_symptom",
+    "object": "Liver dysfunction"
+  },
+  {
+    "subject": "Dual rare genetic diseases",
+    "relation": "has_symptom",
+    "object": "Abnormal appearance"
+  },
+  {
+    "subject": "Dual rare genetic diseases",
+    "relation": "has_symptom",
+    "object": "Precocious puberty"
+  },
+  {
+    "subject": "Dual rare genetic diseases",
+    "relation": "has_symptom",
+    "object": "Dorsiflexion restriction"
+  },
+  {
+    "subject": "Dual rare genetic diseases",
+    "relation": "has_symptom",
+    "object": "Varus of both feet"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "associated_with",
+    "object": "Krabbe disease"
+  },
+  {
+    "subject": "Citrin deficiency",
+    "relation": "associated_with",
+    "object": "Kabuki syndrome"
+  },
+  {
+    "subject": "Homocysteinemia type 2",
+    "relation": "associated_with",
+    "object": "Copy number variant"
+  },
+  {
+    "subject": "Isolated methylmalonic acidemia",
+    "relation": "associated_with",
+    "object": "Niemann-Pick disease type B"
+  },
+  {
+    "subject": "Isolated methylmalonic acidemia",
+    "relation": "associated_with",
+    "object": "21-hydroxylase deficiency"
+  },
+  {
+    "subject": "Dual rare genetic diseases",
+    "relation": "treated_by",
+    "object": "Whole-exome sequencing"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Citrin deficiency",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Homocysteinemia type 2",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Isolated methylmalonic acidemia",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Niemann-Pick disease type B",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "21-hydroxylase deficiency",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Kabuki syndrome",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Angelman syndrome",
+    "relation": "has_cause",
+    "object": "Gene mutation"
+  },
+  {
+    "subject": "Cerebral Adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Metachromatic Leukodystrophy",
+    "relation": "treated_by",
+    "object": "Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Krabbe Disease",
+    "relation": "treated_by",
+    "object": "Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Adult-onset Leukoencephalopathy with Axonal Spheroids and Pigmented Glia",
+    "relation": "treated_by",
+    "object": "Hematopoietic Stem Cell Transplantation"
+  },
+  {
+    "subject": "Cerebral Adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "Ex vivo Gene Therapy"
+  },
+  {
+    "subject": "Metachromatic Leukodystrophy",
+    "relation": "treated_by",
+    "object": "Ex vivo Gene Therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "CNS-related deficits"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "Inherited disorders"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Neuroinflammation"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Myelin development and/or maintenance disorders"
+  },
+  {
+    "subject": "Aicardi-Goutières syndrome",
+    "relation": "has_cause",
+    "object": "mutations in any of the nine genes"
+  },
+  {
+    "subject": "Aicardi-Goutières syndrome",
+    "relation": "has_symptom",
+    "object": "characteristic clinical features"
+  },
+  {
+    "subject": "Aicardi-Goutières syndrome",
+    "relation": "has_symptom",
+    "object": "neuroimaging features"
+  },
+  {
+    "subject": "Aicardi-Goutières syndrome",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Leukoencephalopathy with calcifications and cysts",
+    "relation": "has_cause",
+    "object": "mutations in the SNORD118 gene"
+  },
+  {
+    "subject": "Leukoencephalopathy with calcifications and cysts",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Coats plus",
+    "relation": "has_cause",
+    "object": "mutations in the CTC1, POT1, or STN genes"
+  },
+  {
+    "subject": "Coats plus",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Cockayne syndrome",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Alexander disease",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "X-ALD",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Occulodentodigital dysplasia",
+    "relation": "associated_with",
+    "object": "Intracranial calcification"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "developmental delays"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "motor impairments"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "cognitive impairments"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "speech impairments"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "visual failure"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "ataxia"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "extrapyramidal signs"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "neuropsychiatric symptoms"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "behavioral symptoms"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_cause",
+    "object": "dysfunction of the lysosomal system"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "neurologic damage"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "white matter involvement"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "leukodystrophies"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "associated_with",
+    "object": "leukoencephalopathies"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Abnormal white matter in the central nervous system"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Morbidity"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Mortality"
+  },
+  {
+    "subject": "Leukodystrophy with vanishing white matter disease",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "X-linked adrenoleukodystrophy",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "Zellweger spectrum disorders",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "Peroxisomal disorders",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "PSAP deficiency",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "Hypomyelinating leukodystrophy-8/4H leukodystrophy",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "Aicardi-Goutières syndrome",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "RNASET2-deficient cystic leukoencephalopathy",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "Hereditary diffuse leukoencephalopathy with spheroids-1",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "Ultra-rare leukodystrophies",
+    "relation": "associated_with",
+    "object": "Zebrafish models"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_cause",
+    "object": "Genetic disorders"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "treated_by",
+    "object": "Therapies"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "treated_by",
+    "object": "Lead compound identification"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "progressive gait disorder"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "GALC malfunction"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "biallelic likely pathogenic variants in GALC gene"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "reduced ceramide levels"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "decreased activities of GCase, CTSB, and CTSD"
+  },
+  {
+    "subject": "Late-onset Krabbe disease",
+    "relation": "has_symptom",
+    "object": "milder symptoms"
+  },
+  {
+    "subject": "Late-onset Krabbe disease",
+    "relation": "has_symptom",
+    "object": "progressive gait disorder starting at age 44"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "has_impact_on",
+    "object": "public health"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "key clinical signs"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "has_cause",
+    "object": "variant in GBA1 gene"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "variant p.Leu483Pro"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "variant p.Ala487Thr"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "enzyme study"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "diagnosed_by",
+    "object": "biochemical diagnosis"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "diagnosed_by",
+    "object": "genetic study"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "diagnosed_by",
+    "object": "screening test"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "has_treatment_outcome",
+    "object": "treatment outcomes"
+  },
+  {
+    "subject": "Pompe disease",
+    "relation": "has_treatment_outcome",
+    "object": "treatment outcomes"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "genetic deficiency of the acid hydrolase β-galactosylceramidase (GALC)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "accumulation of the neurotoxic GALC substrate β-galactosylsphingosine (psychosine)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "sphingolipidosis"
+  },
+  {
+    "subject": "Late-onset Krabbe disease",
+    "relation": "has_symptom",
+    "object": "Spastic paresis"
+  },
+  {
+    "subject": "Late-onset Krabbe disease",
+    "relation": "has_symptom",
+    "object": "Spastic paraparesis"
+  },
+  {
+    "subject": "Late-onset Krabbe disease",
+    "relation": "has_symptom",
+    "object": "Gait spasticity"
+  },
+  {
+    "subject": "Late-onset Krabbe disease",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation (HSCT)"
+  },
+  {
+    "subject": "Late-onset Krabbe disease",
+    "relation": "has_cause",
+    "object": "Deficiency in galactocerebrosidase (GALC) activity"
+  },
+  {
+    "subject": "Late-onset Krabbe disease",
+    "relation": "associated_with",
+    "object": "Autosomal recessive inheritance"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "has_symptom",
+    "object": "Neurological symptoms"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "treated_by",
+    "object": "Diet"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "treated_by",
+    "object": "Nutrient intake"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "associated_with",
+    "object": "Reduced life expectancy"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "associated_with",
+    "object": "Relevant mortality rate in childhood"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "associated_with",
+    "object": "Rare brain tumors"
+  },
+  {
+    "subject": "Rare neurological diseases",
+    "relation": "associated_with",
+    "object": "Pathophysiological manifestation"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Cognitive decline"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Neurological decline"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "has_symptom",
+    "object": "Cognitive decline"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "has_symptom",
+    "object": "Neurological decline"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "Cognitive decline"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "Neurological decline"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "Hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "has_cause",
+    "object": "Demyelination"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "has_cause",
+    "object": "Demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "Demyelination"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "associated_with",
+    "object": "Leukodystrophy"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "associated_with",
+    "object": "Leukodystrophy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Leukodystrophy"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "classified_as",
+    "object": "Lysosomal storage disorder"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy",
+    "relation": "classified_as",
+    "object": "Peroxisomal disorder"
+  },
+  {
+    "subject": "Adrenoleukodystrophy",
+    "relation": "classified_as",
+    "object": "Peroxisomal disorder"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "classified_as",
+    "object": "Lysosomal storage disorder"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "deficiency of galactocerebrosidase (GALC)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "rAAV2-mediated gene therapy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "progressive accumulation of galactolipid substrates in myelin-forming cells"
+  },
+  {
+    "subject": "Fetal anomalies",
+    "relation": "has_symptom",
+    "object": "Structural or functional abnormalities"
+  },
+  {
+    "subject": "Fetal anomalies",
+    "relation": "has_symptom",
+    "object": "Ultrasound anomalies"
+  },
+  {
+    "subject": "Fetal anomalies",
+    "relation": "diagnosed_by",
+    "object": "Clinical exome sequencing (CES) analysis"
+  },
+  {
+    "subject": "Fetal anomalies",
+    "relation": "diagnosed_by",
+    "object": "Chromosomal microarray (CMA) analysis"
+  },
+  {
+    "subject": "Fetal anomalies",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Fetal anomalies",
+    "relation": "associated_with",
+    "object": "Spontaneous miscarriages"
+  },
+  {
+    "subject": "Ultrasound anomalies",
+    "relation": "treated_by",
+    "object": "Prenatal trio clinical exome sequencing"
+  },
+  {
+    "subject": "Neurological diseases",
+    "relation": "treated_by",
+    "object": "rAAV treatment"
+  },
+  {
+    "subject": "Neurological diseases",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Neurological diseases",
+    "relation": "associated_with",
+    "object": "Central nervous system (CNS)"
+  },
+  {
+    "subject": "Neurological diseases",
+    "relation": "has_cause",
+    "object": "Restriction of traditional drug delivery methods"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "neuron-autonomous defects"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "degeneration"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "axonal loss"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "mutations in β-galactosylceramidase (GALC)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "accumulation of galactocerebroside and psychosine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "ACY-738"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "decreased levels of acetylated tubulin"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "decreased microtubule stability"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "impaired axonal transport"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Psychomotor regression"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Progressive myoclonic epilepsy syndrome"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_symptom",
+    "object": "Spastic ataxia"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Psychomotor regression"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Progressive myoclonic epilepsy syndrome"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_symptom",
+    "object": "Spastic ataxia"
+  },
+  {
+    "subject": "Genetic White Matter Disorders",
+    "relation": "treated_by",
+    "object": "Clinical Exome Sequencing"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "associated_with",
+    "object": "Genetic Leukoencephalopathy"
+  },
+  {
+    "subject": "Genetic White Matter Disorders",
+    "relation": "has_cause",
+    "object": "Genetic variants"
+  },
+  {
+    "subject": "Leukodystrophy",
+    "relation": "has_cause",
+    "object": "Mutations in ARSA, CLN5, ABCD1, CLN6, TPP1, HEXA, L2HGDH genes"
+  },
+  {
+    "subject": "Genetic Leukoencephalopathy",
+    "relation": "has_cause",
+    "object": "Mutations in ARSA, CLN5, ABCD1, CLN6, TPP1, HEXA, L2HGDH genes"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "mutation in the GALC gene"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "accumulation of psychosine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "degeneration of oligodendrocytes"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "degeneration of Schwann cells"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Central nervous system white matter damage"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "MRI"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "Whole-exome sequencing"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "Metabolic testing"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "diagnosed_by",
+    "object": "Clinical evaluation"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Symptomatic treatment"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "Genetic disorders"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Rare genetic disorders"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "has_cause",
+    "object": "GLB1 deficiency"
+  },
+  {
+    "subject": "Morquio B syndrome",
+    "relation": "has_cause",
+    "object": "GLB1 deficiency"
+  },
+  {
+    "subject": "Galactosialidosis",
+    "relation": "has_cause",
+    "object": "GLB1 deficiency"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "GALC deficiency"
+  },
+  {
+    "subject": "GM1 gangliosidosis",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Morquio B syndrome",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Galactosialidosis",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disorders"
+  },
+  {
+    "subject": "Infantile Krabbe disease",
+    "relation": "has_symptom",
+    "object": "loss of motor skills"
+  },
+  {
+    "subject": "Infantile Krabbe disease",
+    "relation": "has_symptom",
+    "object": "uncontrolled seizures"
+  },
+  {
+    "subject": "Infantile Krabbe disease",
+    "relation": "has_cause",
+    "object": "inherited deficiency of β-galactocerebrosidase"
+  },
+  {
+    "subject": "Infantile Krabbe disease",
+    "relation": "associated_with",
+    "object": "overexpression of psychosine"
+  },
+  {
+    "subject": "Infantile Krabbe disease",
+    "relation": "associated_with",
+    "object": "demyelination"
+  },
+  {
+    "subject": "Infantile Krabbe disease",
+    "relation": "associated_with",
+    "object": "gliosis"
+  },
+  {
+    "subject": "Infantile Krabbe disease",
+    "relation": "associated_with",
+    "object": "inflammatory response"
+  },
+  {
+    "subject": "Infantile Krabbe disease",
+    "relation": "associated_with",
+    "object": "Sandhoff disease"
+  },
+  {
+    "subject": "Infantile Krabbe disease",
+    "relation": "associated_with",
+    "object": "Niemann-Pick Type-C1 disease"
+  },
+  {
+    "subject": "Infantile Krabbe disease",
+    "relation": "treated_by",
+    "object": "therapeutic exploration targeting inflammasomes"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Fever"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Diarrhea"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Paucity of movements of both upper and lower limbs"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Decreased tone"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Diminished reflexes"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_symptom",
+    "object": "Sudden motor abnormalities"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_cause",
+    "object": "Traumatic brain injury"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "has_cause",
+    "object": "Febrile episode"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "associated_with",
+    "object": "Leukodystrophy"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "treated_by",
+    "object": "Antibiotics"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "treated_by",
+    "object": "Antipyretics"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "treated_by",
+    "object": "Symptomatic and supportive care"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "associated_with",
+    "object": "Poor quality of life"
+  },
+  {
+    "subject": "Vanishing white matter disease",
+    "relation": "associated_with",
+    "object": "Death"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "psychomotor deterioration"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "visual loss"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "seizures"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "spasticity"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "demyelinating sensorimotor polyneuropathy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "mutations in the GALC gene"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "central nervous system demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "progressive neuromuscular disorders"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "whole exome sequencing (WES)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "neuron-autonomous defects"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "degeneration"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "axonal loss"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "neuronal defects"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "mutations in β-galactosylceramidase (GALC)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "accumulation of galactocerebroside"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "accumulation of psychosine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "ACY-738"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "decreased levels of acetylated tubulin"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "decreased microtubule stability"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "impaired axonal transport"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "deficiency of the galactocerebrosidase (GALC) enzyme"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "increased signal in the white matter along the pyramidal tract"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "demyelination of the central and peripheral nervous systems"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "pale Klüver-Barrera staining in the white matter"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "GALC D528N and L634S mutations"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "T2-weighted magnetic resonance imaging (diagnosis)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "GALC mutations"
+  },
+  {
+    "subject": "Kidney/Urinary Stones",
+    "relation": "has_symptom",
+    "object": "None explicitly mentioned"
+  },
+  {
+    "subject": "Kidney/Urinary Stones",
+    "relation": "treated_by",
+    "object": "None explicitly mentioned"
+  },
+  {
+    "subject": "Kidney/Urinary Stones",
+    "relation": "has_cause",
+    "object": "None explicitly mentioned"
+  },
+  {
+    "subject": "Kidney/Urinary Stones",
+    "relation": "associated_with",
+    "object": "Severe Motor and Intellectual Disabilities"
+  },
+  {
+    "subject": "Kidney/Urinary Stones",
+    "relation": "associated_with",
+    "object": "Recurrent Urinary Tract Infections"
+  },
+  {
+    "subject": "Kidney/Urinary Stones",
+    "relation": "associated_with",
+    "object": "Hydronephrosis"
+  },
+  {
+    "subject": "Kidney/Urinary Stones",
+    "relation": "associated_with",
+    "object": "Renal Dysfunction"
+  },
+  {
+    "subject": "Kidney/Urinary Stones",
+    "relation": "associated_with",
+    "object": "Death"
+  },
+  {
+    "subject": "Severe Motor and Intellectual Disabilities",
+    "relation": "has_symptom",
+    "object": "Difficulty conveying symptoms"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "white matter imaging abnormalities"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "delayed developmental milestones"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "cognitive or motor developmental delay"
+  },
+  {
+    "subject": "Krabbe Disease",
+    "relation": "treated_by",
+    "object": "gene therapies"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy (MLD)",
+    "relation": "treated_by",
+    "object": "gene therapies"
+  },
+  {
+    "subject": "X-Linked Adrenoleukodystrophy (X-ALD)",
+    "relation": "treated_by",
+    "object": "gene therapies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "repurposing of existing small molecules"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "differences in normal myelin development and maintenance"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "rare disorders"
+  },
+  {
+    "subject": "Aicardi Goutières Syndrome (AGS)",
+    "relation": "associated_with",
+    "object": "leukodystrophies"
+  },
+  {
+    "subject": "Alexander Disease (AxD)",
+    "relation": "associated_with",
+    "object": "leukodystrophies"
+  },
+  {
+    "subject": "Pelizaeus-Merzbacher Disease (PMD)",
+    "relation": "associated_with",
+    "object": "leukodystrophies"
+  },
+  {
+    "subject": "Sphingolipidoses",
+    "relation": "has_cause",
+    "object": "mutations in the genes encoding lysosomal enzymes"
+  },
+  {
+    "subject": "Sphingolipidoses",
+    "relation": "has_symptom",
+    "object": "accumulation of sphingolipids in various cell types"
+  },
+  {
+    "subject": "Sphingolipidoses",
+    "relation": "has_symptom",
+    "object": "nervous system affected"
+  },
+  {
+    "subject": "Sphingolipidoses",
+    "relation": "associated_with",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "Sphingolipidoses",
+    "relation": "treated_by",
+    "object": "gene therapy"
+  },
+  {
+    "subject": "Sphingolipidoses",
+    "relation": "treated_by",
+    "object": "adeno-associated viral vector-based approaches"
+  },
+  {
+    "subject": "Sphingolipidoses",
+    "relation": "treated_by",
+    "object": "transplantation of hematopoietic stem cells genetically modified with lentiviral vectors"
+  },
+  {
+    "subject": "GM1-gangliosidosis",
+    "relation": "associated_with",
+    "object": "Sphingolipidoses"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "Sphingolipidoses"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "Sphingolipidoses"
+  },
+  {
+    "subject": "AB variant of GM2-gangliosidosis",
+    "relation": "associated_with",
+    "object": "Sphingolipidoses"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "Sphingolipidoses"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "Sphingolipidoses"
+  },
+  {
+    "subject": "metachromatic leukodystrophy",
+    "relation": "associated_with",
+    "object": "Sphingolipidoses"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Sphingolipidoses"
+  },
+  {
+    "subject": "Niemann-Pick disease",
+    "relation": "associated_with",
+    "object": "Sphingolipidoses"
+  },
+  {
+    "subject": "Farber disease",
+    "relation": "associated_with",
+    "object": "Sphingolipidoses"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Progressive intellectual disability"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Learning difficulties"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Loss of previously acquired skills"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Ataxia"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Spasticity"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Hypotonia"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Epilepsy"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Growth retardation"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Coarse facial features"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Hepatosplenomegaly"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Telangiectasis"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Angiokeratomas"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Inguinal hernia"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_symptom",
+    "object": "Dysostosis multiplex"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_cause",
+    "object": "α-L-fucosidase deficiency"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "has_cause",
+    "object": "Mutation in FUCA1 gene"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "associated_with",
+    "object": "Neuroinflammation"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "associated_with",
+    "object": "Lysosomal dysfunction"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "treated_by",
+    "object": "Hematopoietic cell transplantation"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Fucosidosis",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "biallelic, loss-of-function mutations in the galactosylceramidase (GALC) gene"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "toxic accumulation of psychosine in the white matter of the central nervous system (CNS)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "AAV1-GALC treatment"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "slow body weight gain"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "short lifespan"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "neuropathology in the CNS"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "elevated levels of psychosine"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "neuroinflammation"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "defects in specific genes"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "accumulation of toxic substances in the lysosome"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "activation of immune and neurological cells"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "pro-inflammatory environment"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "generation of pro-inflammatory cytokines"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "generation of chemokines"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "generation of growth factors"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "activation of complement cascades"
+  },
+  {
+    "subject": "Gaucher disease",
+    "relation": "associated_with",
+    "object": "accumulation of glucosylceramide"
+  },
+  {
+    "subject": "Fabry disease",
+    "relation": "associated_with",
+    "object": "accumulation of globotriaosylceramide"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "accumulation of ganglioside GM2"
+  },
+  {
+    "subject": "Sandhoff disease",
+    "relation": "associated_with",
+    "object": "accumulation of ganglioside GM2"
+  },
+  {
+    "subject": "Wolman disease",
+    "relation": "associated_with",
+    "object": "accumulation of triglycerides"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "potential biomarkers and therapeutic targets"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Cognitive impairment"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Motor dysfunction"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Seizures"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_symptom",
+    "object": "Sensory deficits"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "has_cause",
+    "object": "Accumulation of undegraded substrates within lysosomes"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Substrate reduction therapy"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "treated_by",
+    "object": "Gene therapies"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "Neurological involvement"
+  },
+  {
+    "subject": "Lysosomal storage diseases",
+    "relation": "associated_with",
+    "object": "Central nervous system involvement"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "associated_with",
+    "object": "Pregnancy"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "screened_by",
+    "object": "Expanded Carrier Screening (ECS)"
+  },
+  {
+    "subject": "Genetic disorders",
+    "relation": "managed_by",
+    "object": "Reproductive guidance"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Encephalopathies"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Allogeneic hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "has_cause",
+    "object": "Inherited"
+  },
+  {
+    "subject": "X-linked adrenoleukodystrophy (X-ALD)",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Metachromatic leukodystrophy (MLD)",
+    "relation": "treated_by",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Leukodystrophies",
+    "relation": "associated_with",
+    "object": "Degenerative encephalopathies"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "has_treatment",
+    "object": "Gene therapy"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "has_treatment",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "has_treatment",
+    "object": "Nanoparticles"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_treatment",
+    "object": "Enzyme replacement therapy"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_treatment",
+    "object": "Nanoparticles"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "associated_with",
+    "object": "Neurodegenerative diseases"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "associated_with",
+    "object": "Psychiatric conditions"
+  },
+  {
+    "subject": "Neurological disorders",
+    "relation": "has_cause",
+    "object": "Blood-brain barrier restriction"
+  },
+  {
+    "subject": "False-positive results following newborn bloodspot screening",
+    "relation": "has_symptom",
+    "object": "increased stress"
+  },
+  {
+    "subject": "False-positive results following newborn bloodspot screening",
+    "relation": "has_symptom",
+    "object": "changes in parental perceptions of their child"
+  },
+  {
+    "subject": "Cystic fibrosis",
+    "relation": "associated_with",
+    "object": "newborn bloodspot screening"
+  },
+  {
+    "subject": "False-positive results following newborn bloodspot screening",
+    "relation": "treated_by",
+    "object": "strategies to overcome potential negative sequelae"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Non-specific white matter changes"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "has_symptom",
+    "object": "Clinico-radiological spectrum"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "associated_with",
+    "object": "Infectious etiologies"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "associated_with",
+    "object": "Immune etiologies"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "associated_with",
+    "object": "Inflammatory etiologies"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "associated_with",
+    "object": "Vascular etiologies"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "associated_with",
+    "object": "Metabolic etiologies"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "associated_with",
+    "object": "Toxic etiologies"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "treated_by",
+    "object": "Comprehensive evaluation"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "treated_by",
+    "object": "Molecular confirmation"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "treated_by",
+    "object": "Early initiation of treatment"
+  },
+  {
+    "subject": "Adult-onset leukodystrophies",
+    "relation": "treated_by",
+    "object": "Genetic evaluation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "neurons"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "myelinating glia"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "neuronal autonomous component"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "dysmyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "genetic loss of function of galactocerebrosidase (GALC)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "autophagic impairment"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "lysosomal storage diseases"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative diseases"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "autophagy stimulation therapy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "accumulation of galactosylceramide"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "accumulation of psychosine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "accumulation of lactosylceramide"
+  },
+  {
+    "subject": "Alpha-mannosidosis",
+    "relation": "has_symptom",
+    "object": "Cerebellar ataxia"
+  },
+  {
+    "subject": "Alpha-mannosidosis",
+    "relation": "has_symptom",
+    "object": "Neurocognitive disability"
+  },
+  {
+    "subject": "Alpha-mannosidosis",
+    "relation": "has_symptom",
+    "object": "Facial abnormalities"
+  },
+  {
+    "subject": "Alpha-mannosidosis",
+    "relation": "has_symptom",
+    "object": "Skeletal abnormalities"
+  },
+  {
+    "subject": "Alpha-mannosidosis",
+    "relation": "has_symptom",
+    "object": "Hearing impairment"
+  },
+  {
+    "subject": "Alpha-mannosidosis",
+    "relation": "has_symptom",
+    "object": "Mild immune deficiency"
+  },
+  {
+    "subject": "Alpha-mannosidosis",
+    "relation": "treated_by",
+    "object": "rAAV6-LAMAN gene therapy"
+  },
+  {
+    "subject": "Alpha-mannosidosis",
+    "relation": "has_cause",
+    "object": "Deficiency of lysosomal alpha-mannosidase"
+  },
+  {
+    "subject": "Lysosomal storage disease",
+    "relation": "associated_with",
+    "object": "Neurometabolic illness"
+  },
+  {
+    "subject": "Alpha-mannosidosis",
+    "relation": "associated_with",
+    "object": "Lysosomal storage disease"
+  },
+  {
+    "subject": "Hemochromatosis",
+    "relation": "has_symptom",
+    "object": null
+  },
+  {
+    "subject": "Deafness autosomal recessive 1A",
+    "relation": "has_symptom",
+    "object": "Deafness"
+  },
+  {
+    "subject": "Cystic fibrosis",
+    "relation": "has_symptom",
+    "object": "Respiratory symptoms"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "has_symptom",
+    "object": "Developmental delay"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "Neurological symptoms"
+  },
+  {
+    "subject": "Gilbert syndrome",
+    "relation": "has_symptom",
+    "object": "Jaundice"
+  },
+  {
+    "subject": "Autosomal recessive diseases",
+    "relation": "treated_by",
+    "object": "Reproductive medicine treatment"
+  },
+  {
+    "subject": "Autosomal recessive diseases",
+    "relation": "treated_by",
+    "object": "Genetic counseling"
+  },
+  {
+    "subject": "Autosomal recessive diseases",
+    "relation": "has_cause",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Autosomal recessive diseases",
+    "relation": "associated_with",
+    "object": "Carrier status"
+  },
+  {
+    "subject": "Hemochromatosis",
+    "relation": "associated_with",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Deafness autosomal recessive 1A",
+    "relation": "associated_with",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Cystic fibrosis",
+    "relation": "associated_with",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Phenylketonuria",
+    "relation": "associated_with",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Gilbert syndrome",
+    "relation": "associated_with",
+    "object": "Genetic mutations"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "pathogenic variants in the GALC gene"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "accumulation of the toxic sphingolipid psychosine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "Lewy body diseases"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "accumulations of α-synuclein"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "neurodegenerative disorder"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_treatment",
+    "object": "miR-219 gene therapy"
+  },
+  {
+    "subject": "Multiple Sclerosis",
+    "relation": "has_symptom",
+    "object": "Demyelination"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "has_treatment",
+    "object": "miR-219 gene therapy"
+  },
+  {
+    "subject": "Spinal Cord Injury",
+    "relation": "has_symptom",
+    "object": "Demyelination"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "associated_with",
+    "object": "tau toxicity"
+  },
+  {
+    "subject": "Alzheimer's disease",
+    "relation": "has_treatment",
+    "object": "miR-219 gene therapy"
+  },
+  {
+    "subject": "Schizophrenia",
+    "relation": "associated_with",
+    "object": "tau toxicity"
+  },
+  {
+    "subject": "Bipolar Disorder",
+    "relation": "has_symptom",
+    "object": "phase fluctuations"
+  },
+  {
+    "subject": "Bipolar Disorder",
+    "relation": "associated_with",
+    "object": "miR-219 dysregulation"
+  },
+  {
+    "subject": "Parkinson's disease",
+    "relation": "has_treatment",
+    "object": "miR-219 gene therapy"
+  },
+  {
+    "subject": "Seizures",
+    "relation": "has_treatment",
+    "object": "miR-219 gene therapy"
+  },
+  {
+    "subject": "Neurodevelopmental disorders",
+    "relation": "associated_with",
+    "object": "miR-219 dysregulation"
+  },
+  {
+    "subject": "Chronic inflammation pain",
+    "relation": "has_treatment",
+    "object": "miR-219 gene therapy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "psychosine accumulation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "mobility issues"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "antipsychotics"
+  },
+  {
+    "subject": "demyelination",
+    "relation": "has_cause",
+    "object": "psychosine accumulation"
+  },
+  {
+    "subject": "psychosine accumulation",
+    "relation": "has_effect",
+    "object": "demyelination"
+  },
+  {
+    "subject": "psychosine-induced demyelination",
+    "relation": "treated_by",
+    "object": "haloperidol"
+  },
+  {
+    "subject": "psychosine-induced demyelination",
+    "relation": "treated_by",
+    "object": "clozapine"
+  },
+  {
+    "subject": "demyelination",
+    "relation": "has_symptom",
+    "object": "mobility issues"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "deficits in gross motor skills"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "peripheral neuropathy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "deficiency in galactocerebrosidase enzyme activity"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "umbilical cord blood transplantation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "hematopoietic stem cell transplantation"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "leukodystrophy"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "myelin and axon loss"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "edema in peripheral nerves"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "has_cause",
+    "object": "impaired function of enzymes responsible for lipid digestion"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "has_cause",
+    "object": "impaired function of enzymes responsible for lipid digestion"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "associated_with",
+    "object": "neurodegenerative diseases"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "associated_with",
+    "object": "neurodegenerative diseases"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "has_symptom",
+    "object": "neurologic diseases"
+  },
+  {
+    "subject": "Tay-Sachs disease",
+    "relation": "treated_by",
+    "object": "targeted gene therapy"
+  },
+  {
+    "subject": "Niemann-Pick type C",
+    "relation": "treated_by",
+    "object": "targeted gene therapy"
+  },
+  {
+    "subject": "Lysosomal storage disorders",
+    "relation": "treated_by",
+    "object": "targeted gene therapy"
+  },
+  {
+    "subject": "Demyelinating Sphingolipidoses",
+    "relation": "has_cause",
+    "object": "Altered lipid metabolism"
+  },
+  {
+    "subject": "Demyelinating Sphingolipidoses",
+    "relation": "associated_with",
+    "object": "Neurological diseases"
+  },
+  {
+    "subject": "Galactosphingolipidoses",
+    "relation": "has_cause",
+    "object": "Altered lipid metabolism"
+  },
+  {
+    "subject": "Galactosphingolipidoses",
+    "relation": "associated_with",
+    "object": "Neurological diseases"
+  },
+  {
+    "subject": "Demyelinating Sphingolipidoses",
+    "relation": "has_symptom",
+    "object": "Demyelinating diseases"
+  },
+  {
+    "subject": "Galactosphingolipidoses",
+    "relation": "has_symptom",
+    "object": "Demyelinating diseases"
+  },
+  {
+    "subject": "Genetic leukoencephalopathies",
+    "relation": "has_symptom",
+    "object": "White matter disease"
+  },
+  {
+    "subject": "Leukovasculopathies",
+    "relation": "has_cause",
+    "object": "NOTCH3 mutations"
+  },
+  {
+    "subject": "Leukovasculopathies",
+    "relation": "has_cause",
+    "object": "HTRA1 mutations"
+  },
+  {
+    "subject": "Leukovasculopathies",
+    "relation": "has_cause",
+    "object": "COL4A1/2 mutations"
+  },
+  {
+    "subject": "Leuko-axonopathies",
+    "relation": "associated_with",
+    "object": "NOTCH2NLC mutations"
+  },
+  {
+    "subject": "Myelin disorders",
+    "relation": "associated_with",
+    "object": "Adrenoleukodystrophy"
+  },
+  {
+    "subject": "Myelin disorders",
+    "relation": "associated_with",
+    "object": "Krabbe disease"
+  },
+  {
+    "subject": "Microgliopathies",
+    "relation": "has_cause",
+    "object": "CSF1R mutations"
+  },
+  {
+    "subject": "Astrocytopathies",
+    "relation": "has_cause",
+    "object": "EIF2B2-5 mutations"
+  },
+  {
+    "subject": "Genetic leukoencephalopathies",
+    "relation": "treated_by",
+    "object": "Whole-exome sequencing"
+  },
+  {
+    "subject": "Genetic leukoencephalopathies",
+    "relation": "treated_by",
+    "object": "Mitochondrial DNA sequencing"
+  },
+  {
+    "subject": "Genetic leukoencephalopathies",
+    "relation": "treated_by",
+    "object": "Repeat analysis of NOTCH2NLC, FMR1, DMPK and ZNF9"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_cause",
+    "object": "dysfunctional activity of galactosylceramidase (GALC)"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "accumulation of glycosphingolipids"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "accumulation of psychosine"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "elevated expression of IL-6"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "demyelination"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "associated_with",
+    "object": "neurodegeneration"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "treated_by",
+    "object": "substrate reduction approaches"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "higher levels of glucosylceramide and ceramide"
+  },
+  {
+    "subject": "Krabbe disease",
+    "relation": "has_symptom",
+    "object": "detrimental impact on neuron survival"
+  }
+]
