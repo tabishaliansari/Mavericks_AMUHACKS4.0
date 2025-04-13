@@ -129,4 +129,3 @@ This project is open-source under the [MIT License](LICENSE).
 ---
 
 > **NeuroMedGraph** – Bridging Neural Models with Medical Knowledge.
-```
