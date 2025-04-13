@@ -1,0 +1,902 @@
+[
+  {
+    "id": "PPR989250",
+    "pmid": "",
+    "doi": "10.1101/2025.03.11.25323762",
+    "title": "Deep Learning Study of Alkaptonuria Spinal Disease Assesses Global and Regional Severity and Detects Occult Treatment Status",
+    "abstract": "Deep learning (DL) is increasingly used to analyze medical imaging, but is less refined for rare conditions, which require novel pre-processing and analytical approaches. To assess DL in the context of rare diseases, we focused on alkaptonuria (AKU), a rare disorder that affects the spine and involves other sequelae; treatments include the medication nitisinone. Since assessing X-rays to determine disease severity can be a slow, manual process requiring considerable expertise, we aimed to determine whether our DL methods could accurately identify overall spine severity, severity at specific regions of the spine, and whether DL could detect whether patients were receiving nitisinone. We evaluated DL performance versus clinical experts using cervical and lumbar spine radiographs. DL models predicted global severity scores (30-point scale) within 1.72 ± 1.96 points of expert clinician scores for cervical and 2.51 ± 1.96 points for lumbar radiographs. For region-specific metrics, we assessed the degree of narrowing, calcium, and vacuum phenomena at each intervertebral space (IVS). Our model’s narrowing scores were within 0.191-0.557 points from clinician scores (6-point scale), calcium was predicted with 78–90% accuracy (present, absent, or disc fusion), while vacuum disc phenomenon predictions were less consistent (41–90%). Intriguingly, DL models predicted nitisinone treatment status with 68–77% accuracy, while expert clinicians appeared unable to discern nitisinone status (51% accuracy) (p = 2.0 × 10 -9 ). This highlights the potential for DL to augment certain types of clinical assessments in rare disease, as well as identifying occult features like treatment status.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "40157162",
+    "pmid": "40157162",
+    "doi": "10.1016/j.ymgme.2025.109099",
+    "title": "Efficacy and safety of Nitisinone for patients with alkaptonuria: A systematic review with metanalysis.",
+    "abstract": "<h4>Aim</h4>We conducted a systematic review to assess the efficacy and safety of nitisinone for the treatment of patients with alkaptonuria (AKU).<h4>Methods</h4>Randomized clinical trials that assessed the impact of nitisinone on urinary and serum homogentisic acid (HGA), quality of life, joint range of motion, and adverse events in AKU patients were retrieved from Pubmed and EMBASE up to May 2024. Risk of bias assessment was performed with RoB 2.0, and the GRADE approach assessed the certainty of evidence (CoE) of each main outcome.<h4>Results</h4>Four publications from three studies summarizing data of 218 patients with AKU were included in the review process. Nitisinone administration decreased the urinary HGA levels (mean difference [MD]: -38.98; 95 % confidence interval [95 %-CI]: -53.18 to -24.78; CoE: moderate) without changes in the range of motion of the worst hip joint (MD: -6.23; 95 %-CI: -13.91 to 1.44; CoE: High). On the other hand, large increases in tyrosine were observed associated with nitisinone treatment (MD: 708.77; 95 %-CI: 649.32 to 768.22; CoE: High). AKU patients treated with nitisinone presented increased general health perception (MD: 2.77; 95 %-CI: 0.62 to 4.91), mental health (MD: 1.03; 95 %-CI: 0.90 to 1.19) and mental role functioning (MD: 5.57; 95 %-CI: 0.47 to 10.66). No statistical increases in overall adverse events (Relative Risk [RR]: 1.03; 95 %-CI: 0.90 to 1.19; CoE: High) or serious adverse events (RR: 2.47; 95 %-CI: 0.24 to 25.91; CoE: low) were observed.<h4>Conclusion</h4>This systematic review identified significant potential for nitisinone to modify the natural history of AKU, considering the relevance of clinical changes induced by the treatment.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "40092270",
+    "pmid": "40092270",
+    "doi": "10.13107/jocr.2025.v15.i03.5356",
+    "title": "First Documented Hip Replacement in a Palestinian Patient with Ochronotic Alkaptonuria Arthropathy: A Case Report.",
+    "abstract": "<h4>Introduction</h4>Alkaptonuria (AKU) is a genetic disease caused by a deficiency in the homogentisate 1,2-dioxygenase enzyme. This deficiency leads to elevated levels of homogentisic acid and its oxidized form, benzoquinone acetic acid. Together, these substances lead to the bluish-black coloring of the bone and cartilage, along with calcification, inflammation, degeneration, and ultimately osteoporosis. The accumulation of pigments in the spine and major joints can result in ochronotic degenerative arthropathy.<h4>Case report</h4>In this study, we present the case of a 65-year-old Palestinian man who exhibited musculoskeletal manifestations of AKU for 15 years. He was successfully treated with hip replacement, and we conducted a literature analysis to provide a comprehensive summary of the etiology, clinical characteristics, and potential treatments.<h4>Conclusion</h4>AKU affects the spine and large joints. At present, there is no cure for this condition. A diet low in Vitamin C, antioxidants, tyrosine, and phenylalanine may delay the progression of AKU, but the long-term consequences are still unknown. Joint replacement may be recommended to relieve joint pain and improve mobility.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39730168",
+    "pmid": "39730168",
+    "doi": "10.1136/bcr-2024-262395",
+    "title": "Alkaptonuria: a rare disease with multiorgan manifestation and a long-awaited diagnosis.",
+    "abstract": "Alkaptonuria is a rare inherited disease resulting from a genetic variant leading to homogentisic acid accumulation in body tissues, causing a broad spectrum of symptoms. Our case involves a Caucasian male diagnosed in his 70s, who shares a constellation of symptoms and the diagnosis with his monozygotic twin brother. The symptoms include early-onset arthropathy, tendinopathy, osteopenia, discolouration of the auricular regions and fingers, scleral discolouration, secondary glaucoma, proteinuria, calcification of the mitral valve and black urethral and prostate stones. Additionally, the patient suffers from chronic cough, polyneuropathy and corpus cysts in the thoracic spine have been found. This case highlights the importance of holistic assessments, recognition of familial symptom patterns and early identification of key clinical indicators for rare disease diagnosis. It also underscores the challenge of differentiating rare symptomatic manifestations from those unrelated to alkaptonuria.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39836193",
+    "pmid": "39836193",
+    "doi": "10.1007/s00467-024-06653-6",
+    "title": "Diagnosing alkaptonuria-related nephropathy with urine albumin analysis.",
+    "abstract": "Homogentisic acid (HGA) accumulation in alkaptonuria (AKU) causes injuries in various organs including the kidney. We present a case of a 9-year-old girl initially diagnosed with AKU-related nephropathy due to proteinuria found in her urine analyses. Despite 1 month of ramipril treatment, the patient's proteinuria progressed, and as a result, kidney biopsy and nitisinone treatment were planned. In addition, we controlled her proteinuria with urine albumin measurement. After finding a normal urine albumin level in the 24-h urine sample, we realized that the patient was misdiagnosed with proteinuria because of HGA interference with urine protein level measurement using benzethonium. The patient's treatment for kidney injury was canceled. Urine albumin level was measured as normal 2 months later, confirming proteinuria was a false-positive test result. AKU-related nephropathy should be evaluated with urine albumin measurement instead of protein. In this way, the complication risk of unnecessary interventions and pharmacotherapies can be avoided.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39842076",
+    "pmid": "39842076",
+    "doi": "10.1016/j.jpba.2025.116684",
+    "title": "Targeted and untargeted urinary metabolomics of alkaptonuria patients using ultra high-performance liquid chromatography-tandem mass spectrometry.",
+    "abstract": "Alkaptonuria (AKU) is a rare autosomal-recessive disease which is characterized through black urine and ochronosis. It is caused by deficiency of the enzyme Homogentisate 1,2-dioxygenase in the Phenylalanine/Tyrosine degradation pathway which leads to the accumulation of Homogentisic acid (HGA). Urine was provided by AKU patients and healthy controls. Several different methods were developed in this study each with a specific goal. Firstly, a simple and inexpensive RP-UHPLC-UV method for routine monitoring of HGA as a key metabolite employing a Phenylhexyl stationary phase chemistry. Validation was performed in accordance to FDA guidelines and method selectivity was further evaluated via on-line high-resolution sampling 2D-LC-QToF-MS, coupling the Phenylhexyl phase in the first dimension with a C18 phase in the second dimension. Secondly, a targeted and accurate RP-UHPLC-MRM-QTRAP assay, providing quantitative analysis of the relevant pathway metabolites based on a Phenylhexyl stationary phase, and lastly an untargeted HILIC-UHPLC-QToF-MS/MS method with SWATH (sequential window acquisition of all theoretical mass spectra) acquisition employing a sulfobetaine-type HILIC-Z superficially porous particle column, with the aim of uncovering more details about the metabolic profile of this genetic disorder. By untargeted analysis 204 metabolites could be detected and annotated in positive and negative ESI mode in total. Two separate LC methods were employed, differing in their conditions depending on the ionization mode (20 mM ammonium formate as buffer additive adjusted to a pH = 3.5 with formic acid in ESI<sup>+</sup> mode and 20 mM ammonium acetate adjusted to a pH = 7.5 with acetic acid in ESI<sup>-</sup> mode). By effectively combining the aforementioned methods, a comprehensive workflow was developed, allowing the effective analysis of both patient and control urine samples.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "40071956",
+    "pmid": "40071956",
+    "doi": "10.1530/eor-2023-0112",
+    "title": "Ochronotic arthropathy: skeletal manifestations and orthopaedic treatment.",
+    "abstract": "Alkaptonuria is an extremely rare disorder of tyrosine metabolism caused by an autosomal recessive enzymatic deficiency of homogentisic acid (HGA) oxidase, causing its accumulation in collagenous structures, especially in hyaline cartilage. It is characterized by a triad of homogentisic aciduria, bluish-black discoloration of connective tissues (ochronosis) and arthropathy of the spine and large weight-bearing joints. Several clinical manifestations were described including coronary and valvular calcification, aortic stenosis, limited chest expansion, and renal, urethral and prostate calculi as well as ocular and cutaneous pigmentation. Skeletal affection usually presents as spondylotic changes of the spine. The knee is the most common peripheral joint to be involved. Enthesopathy or tendon ruptures may occur, and reduced bone density is not unusual. A low-protein diet and ascorbic acid may reduce HGA levels. Nitisinone can safely and effectively reduce HGA production and urinary excretion. In severe ochronotic arthropathy, joint arthroplasty can offer reliable pain relief and excellent functional outcomes. Cementless fixation is successful in young patients.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "40138457",
+    "pmid": "40138457",
+    "doi": "10.1126/scitranslmed.adr4827",
+    "title": "&lt;i&gt;Anopheles&lt;/i&gt; mosquito survival and pharmacokinetic modeling show the mosquitocidal activity of nitisinone.",
+    "abstract": "One approach to interrupting the transmission of insect-borne diseases that is successfully used in veterinary medicine is exploiting the ability of antiparasitic drugs to make vertebrate blood toxic for blood-feeding insects. Recent studies have identified 4-hydroxyphenylpyruvate dioxygenase (HPPD), an enzyme of the tyrosine detoxification pathway, as essential for hematophagous arthropods to digest their blood meals. Such blood-feeding insects include anopheline mosquitoes, which transmit malaria-causing <i>Plasmodium</i> parasites. A US Food and Drug Administration-approved HPPD enzyme inhibitor called nitisinone is a drug used to treat rare human-inherited disorders of the tyrosine pathway. Here, we demonstrate that feeding human blood containing nitisinone to insectary-reared female <i>Anopheles gambiae</i> mosquitoes was mosquitocidal to both young and old mosquitoes as well as insecticide-resistant <i>Anopheles</i> strains. Pharmacokinetic-pharmacodynamic (PK/PD) modeling of nitisinone's dose-response relationship (when administered at the highest recommended doses for adults and children) demonstrated improved efficacy against mosquitoes compared with the gold standard endectocidal drug, ivermectin. Furthermore, blood samples from individuals with alkaptonuria (a rare genetic metabolic disorder in the tyrosine degradation pathway), who were taking a daily low dose of 2 milligrams of nitisinone, were shown to be lethal to mosquitoes. Thus, inhibiting the <i>Anopheles</i> HPPD enzyme with nitisinone warrants further investigation as a complementary intervention for vector control and the prevention of malaria transmission.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39957927",
+    "pmid": "39957927",
+    "doi": "10.13107/jocr.2025.v15.i02.5236",
+    "title": "Total Hip Arthroplasty in Ochronotic Arthropathy with quadriceps tear. A Case Report with a Review of the Literature.",
+    "abstract": "<h4>Introduction</h4>Alkaptonuria is a rare genetic disorder characterized by the absence of the enzyme homogentisate 1,2 dioxygenase, which leads to the accumulation of homogentisic acid in connective tissues and blood, resulting in Ochronosis and osteoarthropathy.<h4>Case report</h4>We present a case report of a 56-year-old male with ochronotic arthropathy and quadriceps tendon rupture who underwent a total hip replacement. The patient exhibited right hip pain, difficulty walking, and restricted movement at the hip and spine. Radiographic and magnetic resonance imaging findings confirmed significant arthritic changes in the right hip joint and a mid-substance tear in the quadriceps tendon. Intraoperatively, dark pigmentation was observed in the affected tissues, consistent with the diagnosis of Ochronosis. The literature review indicates that joint replacement surgery is the treatment of choice for ochronotic arthropathy, with patients experiencing good functional recovery. The prosthesis's long-term survival rate is comparable to primary arthroplasty, and the optimal surgical approach regarding capsule preservation remains a topic of debate.<h4>Conclusion</h4>Joint replacement is a feasible treatment option for patients with ochronotic arthropathy. Understanding the spine-pelvic relations and other potential complications can help surgeons plan for better recovery and functional outcomes.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39801864",
+    "pmid": "39801864",
+    "doi": "10.13107/jocr.2025.v15.i01.5136",
+    "title": "Ochronotic Arthropathy of the Shoulder - A Rare Case Report.",
+    "abstract": "<h4>Introduction</h4>Alkaptonuria is a metabolic disorder due to accumulation of homogentisic acid, leading to destruction of major joints. Very few cases of ochronosis with shoulder involvement have been reported in literature.<h4>Case report</h4>We report a 31-year-old male who presented with shoulder pain for 4 months. Clinical examination and magnetic resonance imaging showed tear of the long head of biceps tendon and labral tear. On arthroscopy, we discovered that there was blackish discoloration of the glenoid rim. On investigating further, homogentisic aciduria was found (865; normal value <0.99), suggesting a diagnosis of alkaptonuria. Our patient had relief of symptoms following debridement and biceps tenodesis at 12 weeks.<h4>Conclusion</h4>Arthroscopy helps in the diagnosis and treatment of ochronosis with shoulder involvement.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "40078011",
+    "pmid": "40078011",
+    "doi": "10.1111/petr.70067",
+    "title": "Short and Long-Term Outcomes of Liver Transplantation in Pediatric Patients With Inborn Errors of Metabolism: A Single-Center Study.",
+    "abstract": "<h4>Background</h4>Inborn errors of metabolism (IEMs) are inherited diseases causing significant morbidity and mortality, particularly in childhood. Liver transplantation (LT) can be curative or partially effective for these diseases. LT for IEMs has increased, making IEMs the second most common reason for pediatric LT after biliary atresia.<h4>Patients and methods</h4>Between 2001 and 2023, 50 pediatric patients with IEMs underwent LT at Başkent University, Ankara Hospital. Data collected retrospectively included diagnosis, gender, age of diagnosis, age of LT, LT indication, donor data, graft type, rejection episodes, post-transplant complications, and clinical findings of the IEMs before and after LT. Treatment methods, follow-up duration, and survival time were also recorded.<h4>Results</h4>Of the 332 pediatric LT patients, 50 (15.1%) had IEMs, with three requiring re-transplantations. Diagnoses included glycogen storage diseases (n = 11), tyrosinemia type 1 (n = 10), primary hyperoxaluria (n = 6), urea cycle disorders (n = 6), homozygous familial hypercholesterolemia (n = 4), propionic acidemia (n = 4), deoxyguanosine kinase deficiency (n = 3), maple syrup urine disease (n = 2), methylmalonic acidemia (n = 1), Niemann-Pick disease type B (n = 1), alkaptonuria with unknown neonatal cholestasis (n = 1), and bile acid synthesis disorder (n = 1). The parental consanguinity rate was 74%. Living-related donors provided organs for 48 (90.5%) patients. The mean age at LT was 75.3 ± 8.2 months (range: 5-218), with a follow-up period of 82.1 ± 10.2 months (range:1 day-229 months). Survival rates at 1, 5, 10, and 15 years were 83.7%, 81%, 81%, and 70.9%, respectively.<h4>Conclusion</h4>LT is an effective solution for children with IEM causing chronic organ failure and difficult to manage with medical treatment, showing a good long-term prognosis.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39772935",
+    "pmid": "39772935",
+    "doi": "10.1080/09638288.2024.2447363",
+    "title": "The effects of age and sex on active and passive hip range of motion in individuals with alkaptonuria.",
+    "abstract": "<h4>Purpose</h4>To report active and passive hip range of motion (ROM) data for individuals with alkaptonuria (AKU), with consideration for age, sex, and non-AKU comparative data.<h4>Materials and methods</h4>Using a cross-sectional study design, 123 patients who had baseline ROM assessed in a previous international, multi-centre clinical trial were included. Data was compared between age groups, sexes, and with existing data from individuals without AKU. Data was analysed using a one-way ANOVA, paired t-test, and one-sample <i>t</i>-test, with results interpreted using partial eta squared and standardised mean differences (SMD).<h4>Results</h4>Differences were observed across the age groups for active and passive flexion (<i>F</i> = 3.815, <i>p</i> = 0.006, η<sub>p</sub><sup>2</sup> = 0.115) and active hip abduction (<i>F</i> = 1.941, <i>p</i> = 0.108, η<sub>p</sub><sup>2</sup> = 0.062). Differences between sexes ranged from trivial-to-large (SMD = 0.03 to 1.90), with variability  evident across the age groups. Individuals with AKU were within the lower range of scores observed for healthy adults in flexion (<i>t</i> = -8.545 to -3.166, <i>p</i> = 0.010 to <0.001) and abduction (<i>t</i> = -20.830 to -0.737, <i>p</i> = 0.478 to <0.001).<h4>Conclusions</h4>Our results provide insight into the clinical value of ROM with consideration for age, sex and normative data as a determinant of disease progression and functional ability within individuals with AKU.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39707148",
+    "pmid": "39707148",
+    "doi": "10.1111/joa.14190",
+    "title": "An anatomical investigation of alkaptonuria: Novel insights into ochronosis of cartilage and bone.",
+    "abstract": "Ochronotic pigmentation of connective tissue is the central pathological process in the rare metabolic disease alkaptonuria (AKU). Tissue pigmentation in AKU occurs due to unmetabolised homogentisic acid (HGA) in the circulation, caused by an enzyme deficiency in the liver. Ochronotic pigmentation, derived from HGA, has previously been reported and described in large joints obtained from arthroplasty surgeries, which typically have advanced disease. Many tissues that are affected by ochronosis are not accessible for study during life, including tissues subjected to early and mid-stage disease. Here, the opportunity arose to anatomically examine a 60-year-old AKU female body donor, allowing the investigation of previously understudied tissue, including those undergoing early-stage pathological changes. Dissection of fresh-frozen tissue was carried out and harvested tissues were fixed and examined histologically using H&E and Schmorl's stains to aid identification of ochronotic pigment. This work focusses on osteochondral tissues including extra-skeletal cartilage, viscera and eyes. Gross and histological images demonstrating pigmentation in the cartilage and perichondrium of the ear ossicles, tympanic membrane and the pubic symphysis fibrocartilaginous disc are described for the first time here. We also show the first examination of the temporomandibular joint, which macroscopically appeared unpigmented, with histological analysis of the fibrocartilaginous disc showing no pigmentation. Pigmentation of non-articular hyaline cartilage was observed in the respiratory tract, in both the hyaline cartilage and perichondrium, confirming previous findings. Within smaller joints, pigmentation of chondrons and the surrounding territorial matrix was observed, but was confined to calcified articular cartilage, and was not generally found in the hyaline articular cartilage. Dark pigmentation of the perichondrium adjacent to the articular surface was observed in numerous small joints. The calcified bone matrix was not pigmented but ochronosis was identified in a small fraction of trabecular osteocytes in the capitate and radius, with substantially more pigmented osteocytes observed in bone of the ear ossicles. Viscera examined were unpigmented. This anatomical examination of tissues from an AKU individual highlights that most osteochondral tissues are susceptible to HGA-derived pigmentation, including the ear ossicles which are the smallest bones in the body. Within joints, calcified cartilage and perichondrium appear to be the earliest affected tissues, but why this is the case is not understood. Furthermore, why the TMJ disc was unaffected by pigmentation is intriguing. The heterogenous appearance of pigmentation both within and between different tissues indicates that factors other than tissue type (i.e. cartilage, perichondrium) and matrix composition (i.e. collagen-rich, calcified) may affect the process of ochronosis, such as oxygen tension, loading patterns and tissue turnover. The effect of nitisinone treatment on the ochronotic disease state is considered, in this case 7 years of treatment, however comparisons could not be made to other cases due to inter-individual variability.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39833049",
+    "pmid": "39833049",
+    "doi": "10.1097/md.0000000000041283",
+    "title": "Alkaptonuria presenting as lumbar degenerative disease: A case report and literature review.",
+    "abstract": "<h4>Rationale</h4>Alkaptonuria (AKU) is a rare, inherited metabolic disease caused by deficient activity of homogentisic acid oxidase, leading to the accumulation of homogentisic acid and its oxidized product, benzoquinone acetic acid. These compounds cause black discoloration of cartilage, degeneration, inflammation, and calcification of intervertebral disks and large joints, resulting in pain and impaired quality of life. Despite its debilitating effects, there are no curative treatments for AKU, and management remains supportive. This study aims to contribute to the limited literature on AKU-related spinal manifestations by reporting a case of lumbar degenerative disease in an AKU patient and highlighting surgical intervention as an effective treatment approach.<h4>Patient concerns</h4>A 49-year-old woman presented with chronic lower back pain and the posterior side of right lower limb radiating pain for 1 year, worsening over the past week. Magnetic resonance imaging revealed lumbar spondylolisthesis at the L4/5 level and migrated lumbar disk herniation at the L5/S1 level.<h4>Interventions</h4>The patient underwent transforaminal lumbar interbody fusion surgery at L4/5 and L5/S1. Intraoperatively, the resected disk material was black, with darkened intervertebral disks and cartilage endplates, distinct from the typical white appearance of degenerative disks. Surgical intervention included disk and cartilage endplate removal, insertion of cages with harvested autografts, and implantation of bilateral pedicle screws and rods.<h4>Diagnosis</h4>AKU with lumbar degenerative disease.<h4>Outcome</h4>The patient experienced resolution of pain postoperatively.<h4>Lessons</h4>This case underscores the importance of recognizing AKU as a potential cause of lumbar degenerative disease and highlights transforaminal lumbar interbody fusion surgery as a viable treatment option for pain relief and improved functionality in affected individuals.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39464211",
+    "pmid": "39464211",
+    "doi": "10.1177/2050313x241283597",
+    "title": "Black tendon-identifying a rare autosomal recessive disorder: Intraoperative diagnosis of alkaptonuria: A case report.",
+    "abstract": "Tendon injuries in the lower extremities are common in physically active individuals, although spontaneous Achilles tendon ruptures are linked to oral corticosteroid or fluoroquinolone use. Such ruptures are typically due to degenerative changes within the tendon and frequently occur during sudden dorsiflexion of a plantar-flexed foot. Bilateral spontaneous ruptures are especially prevalent in patients undergoing long-term corticosteroid therapy. Here, we present a rare case of bilateral spontaneous calcaneal avulsion in an otherwise healthy woman, ultimately diagnosed with alkaptonuria. This case underscores the importance of considering metabolic disorders in atraumatic tendon ruptures and highlights the diagnostic value of intraoperative findings.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39399636",
+    "pmid": "39399636",
+    "doi": "10.1093/jscr/rjae644",
+    "title": "A heart so black: a case of alkaptonuric ochronosis of the aortic and mitral valves in a female patient with severe aortic valve stenosis and coronary artery disease.",
+    "abstract": "Alkaptonuric ochronosis, characterized by the deposition of homogentisic acid in connective tissues, is commonly linked with alkaptonuria, a rare genetic disorder resulting from homogentisate 1,2-dioxygenase deficiency. Despite its association with alkaptonuria, ochronosis can occur in individuals without a prior diagnosis. This case report discusses a 64-year-old female with severe aortic valve stenosis and coronary artery disease who was found to have ochronotic pigmentation in the aortic and mitral valves, as well as in the aortic root intima and papillary muscles. This case emphasizes the need to consider ochronosis in the differential diagnosis of valvular disease when alkaptonuria is suspected.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39717259",
+    "pmid": "39717259",
+    "doi": "10.4103/abr.abr_199_23",
+    "title": "Non-cemented Total Hip Arthroplasty in a Rare Case with Black Hip, A Case Report.",
+    "abstract": "Alkaptonuria is a metabolic disorder characterized by homogentisic acid accumulation in connective tissue. Ochronotic arthropathy, a rare condition reported in alkaptonuria, mostly affects the knee joint. In this study we reported a 57-year-old male patient presented with bilateral hip pain. During the operation, black bone tissue and tendons were observed. We examined the patient for alkaptonuria after the operation and the diagnosis was confirmed. In fact, alkaptonuria was not detected until the operation. Therefore, our study suggests that orthopedic surgeons be suspicious of atypical arthropathy in order to avoid being overwhelmed by the appearance of black cartilage during surgery.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "40001497",
+    "pmid": "40001497",
+    "doi": "10.3390/biom15020194",
+    "title": "Integrated Clinomics and Molecular Dynamics Simulation Approaches Reveal the SAA1.1 Allele as a Biomarker in Alkaptonuria Disease Severity.",
+    "abstract": "Alkaptonuria (AKU) is a rare metabolic disorder characterized by the accumulation of homogentisic acid (HGA), leading to progressive ochronosis and joint degeneration. While much is known about HGA's role in tissue damage, the molecular mechanisms underlying acute inflammation in AKU remain poorly understood. Serum amyloid A (SAA) proteins are key mediators of the inflammatory response, yet their potential as biomarkers for inflammation in AKU has not been explored. This study investigated the role of the SAA1.1 allele as a biomarker for the severity of acute inflammation in AKU. Data from the ApreciseKUre Precision Medicine Ecosystem were analyzed to assess the relationship between SAA1 allelic variants and inflammatory markers. Molecular dynamics simulations compared the structural dynamics of SAA1.1 and SAA1.2 isoforms, with standard modeling and analysis pipelines employed. Using a clinomics approach, we showed that AKU patients expressing the SAA1.1 allele have significantly higher acute inflammation-related markers. Extensive molecular dynamics simulations revealed that the SAA1.1 isoform lent high structural instability of the C-terminal domain, accelerating the formation of amyloid fibrils and exacerbating the inflammatory condition. These findings would identify the SAA1.1 allele as a novel genetic biomarker for the progression of secondary amyloidosis in AKU and its severity. Furthermore, new molecular insights into the inflammatory mechanisms of AKU were provided, suggesting potential therapeutic approaches aimed at stabilizing SAA1.1 protein and preventing amyloid fibril formation, with significant implications in AKU and precision medicine strategies for SAA-related diseases.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39290064",
+    "pmid": "39290064",
+    "doi": "10.1111/jhn.13360",
+    "title": "Evaluation of a casein glycomacropeptide-based protein substitute, in the dietary management of NTBC-induced tyrosinaemia in patients with alkaptonuria: A prospective open-label study.",
+    "abstract": "<h4>Background</h4>2-(2-Nitro-4-trifluoromethylbenzoyl)-1,3-cyclohexanedione (NTBC) treatment of alkaptonuria (AKU) leads to increased blood tyrosine levels, causing skin issues and potentially sight-threatening corneal keratopathy. Adherence to dietary management of NTBC-induced tyrosinemia, a low-protein diet with or without protein substitutes, can be difficult for patients. This 28-day interventional study evaluated a low tyrosine casein glycomacropeptide (cGMP) protein substitute (TYR sphere)®, a 20 g protein equivalent, cGMP-based protein substitute, in terms of adherence, palatability, usability, comparison to amino acid (AA)-based protein substitutes, gastrointestinal tolerance and metabolic control in adults with NTBC-induced tyrosinaemia.<h4>Methods</h4>Four adults (mean 61.1 years, range 53.3-69.3 years) with AKU and NTBC-induced tyrosinaemia were recruited from the United Kingdom National Alkaptonuria Centre (NAC). The cGMP protein substitute was prescribed based on individual nutritional requirements, replacing ≥1 AA-based protein substitute. Participants recorded product-related data in study diaries, using five-point Likert scales and daily and weekly logs. To determine metabolic control, prestudy blood tyrosine levels were compared to weekly blood spot tests during the study.<h4>Results</h4>Median cGMP protein substitute adherence was 98%. Most participants rated palatability and usability positively, and preferred cGMP protein substitute to AA-based products. There were no notable gastrointestinal changes, and metabolic control was maintained.<h4>Conclusions</h4>cGMP protein substitute is a palatable and well-tolerated option in the dietary management of AKU patients with NTBC-induced tyrosinaemia.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39669016",
+    "pmid": "39669016",
+    "doi": "10.13107/jocr.2024.v14.i12.5056",
+    "title": "Blackish Discoloration of Articular Cartilage during Total Knee Replacement; a Case Report.",
+    "abstract": "<h4>Introduction</h4>Alkaptonuria is a rare metabolic disorder that follows an autosomal recessive genetic inheritance pattern. It is distinguished by the buildup of homogentisic acid in tissues due to deficient homogentisic acid oxidase enzyme activity. The excess homogentisic acid is expelled through urine, darkening it on oxidation. Moreover, it deposits in connective tissues, imparting a characteristic blue-black pigmentation. This condition is known as Ochronosis or black bone disease. This accumulation over time renders cartilage brittle, potentially leading to ochronotic arthropathy.<h4>Case report</h4>A 46-year-old lady presented with long-standing bilateral knee pain for 8 years with a predominant focus on the right side. Recurrent swelling and pain episodes in the right knee were noted, occurring without significant traumatic events. Despite various conservative treatments attempted to alleviate her knee pain, the patient experienced minimal relief. On examination, the patient demonstrated difficulty in ambulating, with severe tenderness along the joint line and a restricted range of motion. Standing knee X-rays revealed severe tricompartmental osteoarthritis and a correctable valgus deformity of 5. She underwent total knee replacement. A provisional diagnosis of ochronosis was made intraoperatively, later confirmed on histopathological examination of the tissue, and the patient was evaluated retrospectively.<h4>Conclusion</h4>Ochronotic arthropathies are rare conditions- characterized by articular cartilage damage. They are typically diagnosed post-surgery, often when surgeons observe the dark coloration of cartilage. However, joint replacement surgery can safely and effectively manage these conditions, leading to favorable outcomes, including improved functionality, pain alleviation, and heightened patient satisfaction.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39435171",
+    "pmid": "39435171",
+    "doi": "10.11613/bm.2024.031002",
+    "title": "A case of alkaptonuria presenting with unexplained dark-stained diapers and spurious hyperoxaluria and proteinuria due to homogentisic acid interference.",
+    "abstract": "Alkaptonuria is characterized by the accumulation of homogentisic acid which causes dark coloration of urine upon standing, ochronosis, and arthritis. A 4-year old child was referred to our pediatric nephrologist with hyperoxaluria and a history of unexplained pink-to-brown discolouration of his diapers associated with a brown-staining of clothes and skin since he was six months old. He had no other symptoms and his past medical history only included minor child illnesses. His 11-month-old brother had the same dark discoloration of his diapers. Laboratory testing on a spot urine sample showed hyperoxaluria and nephrotic range proteinuria with low creatinine and normal albumin concentrations. Considered causes were hyperoxaluria, alkaptonuria, interfering substance, adulteration. The further diagnostic work-up revealed increased homogentisic acid in urine, compatible with alkaptonuria. Urinary creatinine and total protein measurements on Roche Cobas were, respectively, falsely decreased and increased in the presence of homogentisic acid. The false-low creatinine resulted in an elevated oxalate/creatinine ratio. Alkaptonuria can cause a false increase of results expressed <i>per</i> creatinine and should be excluded in case of an unexplained marked increase of urine total protein without a concomitant increase of albumin.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39802409",
+    "pmid": "39802409",
+    "doi": "10.1016/j.artd.2024.101579",
+    "title": "Erratum to 'Long-Term Outcomes of the Knee and Hip Arthroplasties in Patients with Alkaptonuria' [Arthroplasty Today. Volume 6, Issue 4, December 2020, Pages 689-693].",
+    "abstract": "[This corrects the article DOI: 10.1016/j.artd.2020.07.037.].",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39277570",
+    "pmid": "39277570",
+    "doi": "10.1186/s43044-024-00553-8",
+    "title": "A rare differential diagnosis of aortic stenosis with a black aortic valve: A case report.",
+    "abstract": "<h4>Background</h4>Cardiac ochronosis, presenting as a rare manifestation of alkaptonuria, an autosomal recessive disorder, is characterised by black pigmentation of calcified cardiac valves and atherosclerotic plaques. We report an intraoperative dilemma on the discovery on the black aortic valve in a case of an old lady with degenerative calcific aortic stenosis.<h4>Case presentation</h4>A 60-year-old lady was electively admitted for valve replacement with a bioprosthetic valve for severe aortic stenosis. She was symptomatic with complaints of headache and giddiness and had a pressure gradient of 113/17mmhg across the aortic valve. Intraoperatively, she was found to have cardiac ochronosis on the discovery of pigmented aortic intima extending to the valve leaflets and underwent valve replacement with a mechanical prosthetic valve. She was post-operatively evaluated for the same and diagnosed with alkaptonuria. Though the surgery went uneventful and the patient was discharged without any complication, she was advised to be on regular follow-up to assess valve gradients, paravalvular leaks and to monitor the disease progression.<h4>Conclusion</h4>The presented case sheds light on the rare cardiac manifestation of alkaptonuria. In the absence of definitive pre-operative diagnosis, intraoperative findings played a pivotal role in guiding the surgical approach and choice of prosthetic valve. The decision to use a mechanical valve was influenced by the potential risks associated with bioprosthetic valves in the setting of ochronosis. Ongoing follow-up and monitoring are essential to assess the durability of the chosen prosthetic valve and to manage any long-term consequences of the underlying metabolic condition.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39737503",
+    "pmid": "39737503",
+    "doi": "10.25259/ijmr_1900_23",
+    "title": "Gene expression & biochemical analysis in alkaptonuria caused by a founder pathogenic variant across different age groups from India.",
+    "abstract": "Background & objectives Alkaptonuria (AKU) is an autosomal recessive disease wherein biallelic pathogenic variants in the homogentisate 1,2- dioxygenase (HGD) gene encoding the enzyme homogentisate 1,2 dioxygenase cause high levels of homogentisic acid (HGA) to circulate within the body leading to its deposition in connective tissues and excretion in urine. A homozygous splice donor variant (c.87+1G>A) has been identified to be the founder variant causing alkaptonuria among Narikuravars, a group of gypsies settled in Tamil Nadu. Methods Blood and urine samples of 30 homozygous splice site donor variant individuals (2 groups aged 7-20 and 21-83 yr, with 9 and 21 individuals, respectively), carriers and 30 wild-type individuals from the Narikuravars were collected during field visits after obtaining informed consent. Clinical evaluation and genetic counselling were done. The plasma and urine HGA levels were estimated by high-performance liquid chromatography. RNA was extracted from the peripheral blood and reverse transcribed. Sanger sequencing was done to check the consequence of the splice donor variant. Relative quantification of the cDNA in the three groups was done by real-time qPCR (RT-qPCR) studies using reference genes followed by Pearson's correlation analysis. Results In our cohort, among the affected alkaptonuria individuals, the minimum age for eye pigmentation detected was 23 yr. Similarly, the minimum age for back pain and any joint pain was 30 yr and 38 yr, respectively. Sequencing of the cDNA confirmed exon 2 skipping in affected individuals. In comparison to the normal individuals, the affected individuals showed reduced HGD expression. HGD relative expression showed a significant correlation (P<0.05) with mean plasma HGA levels in the younger (≤22 yr) age group but not in the older one. There was also a significant correlation (P<0.05) of reduced HGD expression with back pain in the 21-37 yr age group. Increasing age showed a positive correlation with circulating mean plasma HGA levels and a negative correlation with excreted HGA. Interpretation & conclusions As per the authors' knowledge, this is the first study to confirm the functional effect by RT-PCR of this highly prevalent founder HGD variant causing alkaptonuria in the Narikuravar community. Both plasma and urinary HGA levels correlated well with the gene expression of this variant and could serve as potential markers of AKU severity for those with this variant.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39925519",
+    "pmid": "39925519",
+    "doi": "10.7759/cureus.77235",
+    "title": "A Curious Case of Purple Chromaturia.",
+    "abstract": "Hydroxocobalamin, an antidote for cyanide toxicity, is known for its safety and efficacy. A notable side effect is dark red to purple chromaturia, sometimes mimicking hematuria. We report the case of a middle-aged female exposed to smoke inhalation following a house fire, who was treated on-site by emergency medical services with oxygenation and intravenous hydroxocobalamin and developed purple urine shortly after admission. Hematuria, hemolysis, rhabdomyolysis, and renal impairment were excluded with appropriate workup. The discoloration resolved spontaneously over five weeks without intervention, consistent with hydroxocobalamin-induced chromaturia. While benign and self-limiting, this phenomenon may cause diagnostic confusion and patient concern. Awareness of this side effect can prevent unnecessary investigations and reassure patients about its transient nature.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39121793",
+    "pmid": "39121793",
+    "doi": "10.1016/j.ymgme.2024.108562",
+    "title": "Patient-reported outcomes and functional assessments of patients with Alkaptonuria in a 3-year Nitisinone treatment trial.",
+    "abstract": "Alkaptonuria is a rare disorder of tyrosine catabolism caused by deficiency of homogentisate 1,2-dioxygenase that leads to accumulation of homogentisic acid (HGA). Deposition of HGA-derived polymers in connective tissue causes progressive arthropathy of the spine and large joints, cardiac valvular disease, and genitourinary stones beginning in the fourth decade of life. Nitisinone, a potent inhibitor of the upstream enzyme, 4-hydroxyphenylpyruvate dioxygenase, dramatically reduces HGA production. As such, nitisinone is a proposed treatment for alkaptonuria. A randomized clinical trial of nitisinone in alkaptonuria confirmed the biochemical efficacy and tolerability of nitisinone for patients with alkaptonuria but the selected primary outcome did not demonstrate significant clinical benefit. Given that alkaptonuria is a rare disease with slow progression and variable presentation, identifying outcome parameters that can detect significant change during a time-limited clinical trial is challenging. To gain insight into patient-perceived improvements in quality of life and corresponding changes in physical function associated with nitisinone use, we conducted a post-hoc per protocol analysis of patient-reported outcomes and a functional assessment. Analysis revealed that nitisinone-treated patients showed significant improvements in complementary domains of the 36-Item Short-Form Survey (SF-36) and 6-min walk test (6MWT). Together, these findings suggest that nitisinone improves both quality of life and function of patients with alkaptonuria. The observed trends support nitisinone as a therapy for alkaptonuria.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39925566",
+    "pmid": "39925566",
+    "doi": "10.7759/cureus.77174",
+    "title": "Alkaptonuria: Clinical Spectrum of a Diagnosed Case in Bahrain With a Literature Review.",
+    "abstract": "Alkaptonuria (AKU) is a rare metabolic condition caused by mutations within a gene coding for homogentisate 1,2 dioxygenase enzyme involved in the tyrosine catabolism pathway. This mutation will result in the accumulation of homogentisic acid (HGA) in the body. AKU is a multi-systemic slowly progressing disease. The onset of its clinical presentation may vary based on the extensive disposition of the HGA. Initially, it might be asymptomatic, and symptoms usually appear in the second or third decades due to the formation of HGA, melanin compounds that accumulate in the cartilage leading to ochronosis. Furthermore, by the fourth or fifth decade, ochronotic arthropathy occurs, along with other extra-articular complications such as cardiovascular manifestations (e.g., valvular heart disease), renal and prostatic stones, and hypothyroidism. Management of this condition is mainly symptomatic, focusing on the treatment of its complications. Recently, the use of nitisinone (NTBC) has shown stabilization of disease manifestations. In this report, we present in detail the first AKU-diagnosed patient, including the clinical presentations, radiological findings, genetic results, and clinical outcomes, from the main tertiary hospital in Bahrain. Moreover, we conducted a thorough literature review on this rare condition.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39312502",
+    "pmid": "39312502",
+    "doi": "10.1002/cbic.202400109",
+    "title": "Amyloid-like Aggregation Propensities of Metabolites- Homogentisic Acid, N-Acetyl Aspartic Acid and Isovaleric Acid.",
+    "abstract": "The transformation of metabolites into amyloidogenic aggregates represent an intriguing dimension in the pathophysiology of metabolic disorders, including alkaptonuria, canavan disease, and isovaleric acidemia. Central to this phenomenon are the metabolites homogentisic acid (HA), N-acetyl aspartic acid (NAA), and isovaleric acid (IVA), which we found, weave an intricate network of self-assembled structures. Leveraging an array of microscopy techniques, we traced the morphological behavior of these assemblies that exhibit concentration and time-dependent morphological transitions from isolated globules to clustered aggregates. MD simulation studies suggest significant role of hydrogen bonding interactions in the aggregation process. While displaying strong amyloidogenic propensity in solution, these aged aggregates were significantly cytotoxic to mouse neural N2a cell lines. In vivo effect in Caenorhabditis elegans (C. elegans) nematode further validated cytotoxicity of aggregates. Our findings provide fresh insights to amyloidogenic nature of HA, NAA, and IVA aggregates and their possible role in associated metabolic disorders such as alkaptonuria, canavan disease and isovaleric acidemia.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "40123942",
+    "pmid": "40123942",
+    "doi": "10.14797/mdcvj.1564",
+    "title": "From Chronic Use of Minocycline to Pigmented Unicuspid Aortic Valve: A Unique Single Case.",
+    "abstract": "We discuss the case of a 47-year-old female who presented to our institution with progressive exertional shortness of breath. Her history was notable for severe acne medicated with 100 mg oral daily minocycline for 2 years and a presumptive diagnosis of a bicuspid aortic valve. Investigations revealed severe aortic stenosis, prompting a decision for elective aortic valve repair. Intraoperatively, significant calcification of a unicuspid aortic valve, atypically blackened valve, and endocardium of the left ventricle and aorta were visualized.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "PPR912568",
+    "pmid": "",
+    "doi": "10.1101/2024.09.11.612405",
+    "title": "An anatomical investigation of alkaptonuria: Novel insights into ochronosis of cartilage and bone",
+    "abstract": "1 Ochronotic pigmentation of connective tissue is the central pathological process in the rare metabolic disease alkaptonuria (AKU). Tissue pigmentation in AKU occurs due to unmetabolized homogentisic acid (HGA) in the circulation, caused by an enzyme deficiency in the liver. Ochronotic pigmentation, derived from HGA, has previously been reported and described in large joints obtained from arthroplasty surgeries, which typically have advanced disease. Many tissues that are affected by ochronosis are not accessible for study during life, including tissues subjected to early and mid-stage disease. Here, the opportunity arose to anatomically examine a 60-year-old AKU female body donor, allowing the investigation of previously understudied tissue, including those undergoing early-stage pathological changes. Dissection of fresh-frozen tissue was carried out and harvested tissues were fixed and examined histologically using H&E and Schmorl’s stains to aid identification of ochronotic pigment. This work focusses on osteochondral tissues including extra-skeletal cartilage, viscera and eyes. Gross and histological images demonstrating pigmentation in the cartilage and perichondrium of the ear ossicles, tympanic membrane, and the pubic symphysis fibrocartilaginous disc are described for the first time here. We also show the first examination of the temporomandibular joint, which macroscopically appeared unpigmented, with histological analysis of the fibrocartilaginous disc showing no pigmentation. Pigmentation of non-articular hyaline cartilage was observed in the respiratory tract, in both the hyaline cartilage and perichondrium, confirming previous findings. Within smaller joints, pigmentation of chondrons and the surrounding territorial matrix was observed, but was confined to calcified articular cartilage, and was not generally found in the hyaline articular cartilage. Dark pigmentation of the perichondrium adjacent to the articular surface was observed in numerous small joints, which has not been described before. The calcified bone matrix was not pigmented but ochronosis was identified in a small fraction of trabecular osteocytes in the capitate and radius, with substantially more pigmented osteocytes observed in bone of the ear ossicles. Viscera examined were unpigmented. This anatomical examination of tissues from an AKU individual highlights that most osteochondral tissues are susceptible to HGA-derived pigmentation, including the ear ossicles which are the smallest bones in the body. Within joints, calcified cartilage and perichondrium appear to be the earliest affected tissues, however why this is the case is not understood. Furthermore, why the TMJ disc was unaffected by pigmentation is intriguing. The heterogenous appearance of pigmentation both within and between different tissues indicates that factors other than tissue type (i.e. cartilage, perichondrium) and matrix composition (i.e. collagen-rich, calcified) may affect the process of ochronosis, such as oxygen tension, loading patterns and tissue turnover. The effect of nitisinone treatment on the ochronotic disease state is considered, in this case 7 years of treatment, however comparisons could not be made to other cases due to inter-individual variability.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38918861",
+    "pmid": "38918861",
+    "doi": "10.1186/s13019-024-02834-4",
+    "title": "Ease of sutureless aortic valve replacement in a patient with unexpected ochronosis: a case report.",
+    "abstract": "<h4>Background</h4>Alkaptonuria is a rare congenital metabolic disorder characterized by homogentisic acid accumulation in body cartilage and connective tissues due to a deficient homogentisic acid dioxygenase enzyme. This disorder manifests in various clinical symptoms, including spondyloarthropathy, ocular and dermal pigmentation, genitourinary tract obstruction by ochronosis stones, and cardiovascular system involvement. Cardiac ochronosis is a rare manifestation of alkaptonuria that may present as aortic stenosis, sometimes accompanied by other cardiovascular complications.<h4>Case presentation</h4>We report an unexpected case of ochronosis diagnosed during cardiac surgery. Due to the fragile, thin, and atheromatous nature of the ascending aorta in patients with ochronosis, we opted for a sutureless aortic valve replacement procedure. This approach appears to be more suitable for patients with ochronosis.<h4>Conclusions</h4>Although cardiac ochronosis is rare, surgeons should remain vigilant and consider the possibility of this condition when examining patients with aortic valve stenosis, paying close attention to the clinical manifestations of alkaptonuria.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38910974",
+    "pmid": "38910974",
+    "doi": "10.13107/jocr.2024.v14.i06.4508",
+    "title": "Alkaptonuria with Fracture Neck of Femur - A Case Report.",
+    "abstract": "<h4>Introduction</h4>Alkaptonuria is a rare autosomal recessive genetic disorder found in 2-5/million live births. It results in dark brown pigmentation of connective tissues including cartilage and joint capsule that can often lead to arthropathy of large joints. However, bone fractures are unusual. This article describes a fracture neck of the femur in a patient with undiagnosed alkaptonuria managed at a rural center.<h4>Case report</h4>A 60-year-old daily wage laborer with previously pain-free hips presented with sudden onset pain in the left hip while walking with no prior history of trauma. Radiographs showed a displaced fracture of the neck of the left femur. She underwent Left hip hemiarthroplasty. Intraoperatively, her soft-tissue including the joint capsule and the femoral head had dark brown pigmentation. Postoperatively, her urine was tested and the same turned black supporting the clinical diagnosis of alkaptonuria. At her 1-year follow-up, she had a painless, stable, and mobile hip.<h4>Conclusion</h4>We report a rare and unique case of neck of femur fracture in a patient with alkaptonuria treated with hemiarthroplasty in a resource-limited hospital in rural India. It is essential to consider the possibility of this condition when we come across a patient with an atypical fracture presentation. This article also presents an overview of alkaptonuria with a discussion on etiopathogenesis, clinical presentation, diagnosis, and management.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39133167",
+    "pmid": "39133167",
+    "doi": "10.1177/17504589241268633",
+    "title": "Perioperative anaesthetic management of an elderly high-risk male with cardiac ochronosis undergoing aortic valve replacement with coronary artery bypass graft: A case report.",
+    "abstract": "Alkaptonuria is a rare autosomal recessive congenital disorder of metabolism that affects 1 in 250,000 live births. It manifests as ochronosis and degenerative arthritis due to the accumulation of homogentistic acid in cartilage and heart valves along with precipitation of renal, salivary, pancreatic and gall bladder calculi. It is noted to cause cardiac valve stenosis and regurgitation secondary to calcification leading to cardiac failure in 10% of patients. Through this report, we present a successful perioperative anaesthetic management of a 74-year-old man with cardiac ochronosis, who underwent an aortic valve replacement with coronary artery bypass graft surgery at our centre.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38996180",
+    "pmid": "38996180",
+    "doi": "10.1515/znc-2024-0075",
+    "title": "Redefining a new frontier in alkaptonuria therapy with AI-driven drug candidate design via <i>in-</i> <i>silico</i> innovation.",
+    "abstract": "A rare metabolic condition called alkaptonuria (AKU) is caused by a decrease in homogentisate 1,2 dioxygenase (HGO) activity due to a mutation in homogentisate dioxygenase (HGD) gene. Homogentisic acid is a byproduct of the catabolism of tyrosine and phenylalanine that darkens the urine and accumulates in connective tissues which causes an agonizing arthritis. Employing the use of deep learning artificial intelligence (AI) drug design, this study aims to alleviate the current toxicity of the AKU drugs currently in use, particularly nitisinone, by utilizing the natural flavanol kaempferol molecule as a 4-hydroxyphenylpyruvate dioxygenase inhibitor. Kaempferol was employed to generate three effective <i>de novo</i> drug candidates targeting the enzyme 4-hydroxyphenylpyruvate dioxygenase using an AI drug design tool. We present novel AIK formulations in the present study. The AIK's (Artificial Intelligence Kaempferol) examination of drug-likeliness among the three led to its choice as a possible target. The toxicity assessment research of AIK demonstrates that it is not only safer to use than other treatments, but also more efficient. The docking of the AIGT with 4-hydroxyphenylpyruvate dioxygenase, which revealed a binding affinity of around -9.099 kcal/mol, highlights the AIK's potential as a therapeutic candidate. An innovative approach to deal with challenging circumstances is thus presented in this study by new formulations kaempferol that have been meticulously designed by AI. The results of the <i>in vitro</i> tests must be confirmed <i>in vivo</i>, even though AI-designed AIK is effective and sufficiently safe as computed.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "39027761",
+    "pmid": "39027761",
+    "doi": "10.7759/cureus.62631",
+    "title": "Avulsive Achilles Tendon Rupture in a Patient With Alkaptonuria: A Case Report.",
+    "abstract": "Alkaptonuria is a rare autosomal recessive disease caused by a mutation in the homogentisate 1,2-dioxygenase (HGO) gene, leading to the accumulation of homogentisic acid (HGA). HGA polymerizes to form a black pigment that accumulates in connective tissue and joints (ochronosis), causing their destruction. In this work, we report a case of Achilles tendon rupture in a patient with a prior diagnosis of alkaptonuria. A 71-year-old man presented to the emergency department reporting pain in his posterior right ankle and dysfunction, evolving over three weeks after falling down a short flight of stairs. He had previously been diagnosed with alkaptonuria and had undergone five joint prostheses and an aortic valve replacement. A physical examination revealed right ankle edema, pain upon palpation, a palpable gap at the insertion of the tendon, and a positive Thompson test. An MRI confirmed an avulsive rupture at the insertion of the Achilles tendon. During surgical exploration, black pigmentation was observed in the tendon, which was reinserted using a double-row system reinforced with a percutaneous Bunnel stitch. The patient was discharged the following day with a cast splint, maintaining the foot in physiological plantar flexion for two weeks. In the subsequent two weeks, he used a non-weight-bearing walker boot, and finally, in the following two weeks, he began weight-bearing. Two months post-operation, he was walking without support. Twelve months after the intervention, the patient regained their previous functional status, being able to walk on tiptoes without difficulty. Spontaneous Achilles tendon rupture without associated trauma in patients with ochronosis is rare, with limited literature demonstrating successful outcomes post-surgery. Since the tendon becomes more fragile due to pigment accumulation, it was reinserted using a double-row system, increasing the contact area and more effectively distributing the load. There is no standard technique for treating these patients, but the patient's previous functional capacity was restored, with no new ruptures to date. The significant morbidity of alkaptonuria and potential complications, such as tendon ruptures, warrant future studies to discover and develop new prophylactic and therapeutic treatments.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39851030",
+    "pmid": "39851030",
+    "doi": "10.52628/90.3.12751",
+    "title": "Tribute to Professor André Vincent (1931-2023).",
+    "abstract": "Alkaptonuria (AKU) is an extremely rare autosomal recessive metabolic disorder caused by deficiency of homogentisic acid oxidase and resulting in accumulation of homogentisic acid in collagenous structures. It is characterized by a triad of homogentisic aciduria, bluish-black discoloration of connective tissues (ochronosis) and arthropathy of large weight bearing joints. We report on a middle-aged female patient with bilateral severe ochronotic arthritis of both hips and shoulder joints requiring total joint replacements as staged procedures which were done without complications offering a complete pain relief and a satisfactory clinical and functional outcome. Ochronosis can cause severe arthropathy of peripheral joints. Multiple joint affection is common. Total joint replacement can yield persistent pain relief with complete functional recovery in patients with severe ochronotic arthropathy.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38900710",
+    "pmid": "38900710",
+    "doi": "10.1097/ico.0000000000003587",
+    "title": "Pseudofilariasis, a Presenting Sign of Alkaptonuria.",
+    "abstract": "<h4>Purpose</h4>To report the association of Pseudofilariasis as a presenting sign of Alkaptonuria.<h4>Method</h4>Case Report.<h4>Results</h4>A 49-year-old Indian man was referred because of wormlike objects in his left conjunctiva. Ocular and family history was non-contributory. He had not been to India in 15 years. Past medical history revealed hypertension, hypercholesterolemia, arthritis, and a myocardial infarct. He had undergone two stents, bilateral Achilles tendon repairs and bilateral knee replacements. ROS showed longstanding back stiffness and pain. On ocular examination the vision was 20/25 in each eye and positive findings were in the left eye bulbar conjunctival which showed stationary black vermiform (filarial in appearance) foreign bodies along with 2 small corneal limbal pigmented deposits. Conjunctival biopsy showed dilated lymph channels with interstitial proteinaceous material of a light brown color consistent with Ochronotic pigment; hence diagnostic of Alkaptonuria.<h4>Conclusions</h4>Pseudofilariasis may be a presenting sign of Alkaptonuria and occur years before a clinical diagnosis is made. Filariasis is always involves white worms and never black. Knowing the ophthalmic signs of this rare disease may lead to an accurate diagnosis earlier thusly avoiding unnecessary tests and examinations.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38820945",
+    "pmid": "38820945",
+    "doi": "10.1016/j.clineuro.2024.108349",
+    "title": "Disc-coloration of an ochronotic cervical intervertebral disc in a patient with alkaptonuria: Case report and review of the literature.",
+    "abstract": "<h4>Objectives</h4>Alkaptonuria is a rare inborn disorder of phenylalanine and tyrosine metabolism. It is characterized by an accumulation of homogentisic acid and its oxidation products, possibly resulting into connective tissue damaging. \"Ochronosis\" is a main feature, which is characterized by tissue discoloration and even alkaptonuric arthropathy. Cervical spine involvement is exceptional and there is a paucity of reports on surgical interventions in these patients. We explored the literature concerning cervical spine involvement in patients with alkaptonuria.<h4>Patients and methods</h4>We performed a review of the literature, in which patients with alkaptonuric degenerative changes of the cervical spine were examined. Articles were obtained from MEDLINE. Search terms included: \"cervical\", \"alkaptonuria\", \"alkaptonuric changes\" and \"black disc\". Additional studies were identified by checking reference lists. Furthermore, we present the case of a 46 year old patient with critical cervical spinal canal stenosis who underwent C6-C7 anterior cervical microdiscectomy and interbody fusion, in order to prevent myelopathic changes. CARE statement guidelines were followed.<h4>Results</h4>Peroperatively, we did not encounter any macroscopic abnormalities of the skin, muscles or ligaments. A black discoloration of the nucleus pulposus was observed. Peroperative and postoperative course was uneventful.<h4>Conclusion</h4>Alkaptonuric degenerative abnormalities most commonly involve the lumbar spine, although the cervical spine can be affected in rare cases. Most frequently, the diagnosis of alkaptonuria can be made based on the clinical phenotype many years before symptoms secondary to ochronotic arthropathy develop. A retrospective diagnosis based on peroperative black discoloration of spinal structures has been described. A black discoloration of the intervertebral disc should encourage the neurosurgeon to further explore the possibility of alkaptonuria, even in the absence of a clear phenotype. Surgical results are mostly satisfactory. Further studies are required in order to better understand this pathology and its postoperative course.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38978889",
+    "pmid": "38978889",
+    "doi": "10.7759/cureus.61882",
+    "title": "Anaesthesia Considerations in a Case of Alkaptonuria Posted for Total Knee Arthroplasty.",
+    "abstract": "Alkaptonuria is a rare hereditary condition in which homogentisic acid is deposited in collagenous tissues, leading to blackish discoloration, degenerative changes, restricted mobility, and pain in the affected part. The skeletal system is commonly affected, resulting in the stiffening of the vertebral spine, shoulders, knees, hip joints, and thoracic cage. Additionally, the degenerative process involves heart valves, endocardium, and kidneys, with associated pathophysiological changes. These patients present significant challenges in neuraxial anesthesia, airway management, and postoperative pain relief. In this report, we present the anesthetic management of a case of alkaptonuria undergoing total knee arthroplasty and discuss the encountered difficulties. We conclude that the perioperative anesthesia management of alkaptonuria patients requires thorough planning to effectively address the various challenges associated with the administration of anesthesia.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39231619",
+    "pmid": "39231619",
+    "doi": "10.3121/cmr.2024.1867",
+    "title": "Managing Alkaptonuria in Absence of Appropriate Medication: A Case Report and Review of Literature.",
+    "abstract": "Alkaptonuria is an inborn error of metabolism inherited as an autosomal recessive disorder due to a mutation in the homogentisic acid dioxygenase gene. It occurs rarely (global prevalence of alkaptonuria is 1 in 100,000 to 250,000), and mainly affects the joints and connective tissue of the body due to deposition of homogentisic acid giving affected areas a blue-black discoloration (ochronosis).In this case report, we present a male patient, aged 47 years, with joint and scleral involvement. He had been diagnosed many years ago with the disease by gas chromatography. His symptoms kept progressively worsening since he was recently prescribed physiotherapy and vitamin C for his disease, which has not been shown to be an effective treatment. A main reason for his disease deterioration was also the lack of nitisinone availability in his home country, as well as in the subcontinent region generally. We also presen a summary of some previously reported cases and treatment regimens to compare our case and present the comparison as a learning source for future physicians.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38846518",
+    "pmid": "38846518",
+    "doi": "10.1016/j.ymgmr.2024.101097",
+    "title": "Joint replacement risk is markedly increased in alkaptonuria (AKU) in those with prior arthroplasty.",
+    "abstract": "<h4>Background</h4>Increased homogentisic acid (HGA) in alkaptonuria (AKU) causes severe arthritis. Nitisinone reduces the production of HGA, but whether it also decreases arthroplasty was examined in 237 AKU patients.<h4>Patients and methods</h4>Patients attending the United Kingdom National Alkaptonuria Centre (NAC) and the Suitability of Nitisinone in Alkaptonuria 2 (SONIA 2) study were studied. Assessments included questionnaires eliciting details of arthroplasty. Nitisinone was administered from baseline, 2 mg in the NAC and 10 mg in SONIA 2. In SONIA 2, subgroups consisted of those with baseline arthroplasty on and not on nitisinone (BR + N+, BR + N-), as well as those without baseline arthroplasty on and not on nitisinone (BR-N+, BR-N-).<h4>Results</h4>In the SONIA2 subgroups, new joint replacement (JR) probabilities after baseline were significantly different (BR + N+, BR + N-, BR-N+, BR-N-) (χ<sup>2</sup> = 23.3, <i>p</i> < 0.001); mean (SD) was 3.8 (0.1) years in BR-N-, 3.7 (0.1) years in BR-N+, 3.4 (0.3) years in BR + N-, and 3.0 (0.3) years in BR + N+. Further, the BR + N- showed more JR than the BR-N- subgroup (<i>p</i> < 0.01), while BR + N+ similarly showed more JR than the BR-N+ subgroup (<i>p</i> < 0.001).In the NAC, the BR- group had a mean age of 51.6 <b>(</b>7.0) years at baseline but 57.7 (8.7) years at final follow up during nitisinone therapy and showed only 7 incident JR. The BR+ group had an age at baseline of 57.4 (8.5) years and had undergone 94 JRs at baseline.<h4>Conclusion</h4>The incidence of arthroplasty was earlier and more frequent after the first JR and was not affected by nitisinone.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39448996",
+    "pmid": "39448996",
+    "doi": "10.1186/s12891-024-07973-2",
+    "title": "Direct repair of the chronic ochronotic Achilles tendon rupture: a case report.",
+    "abstract": "<h4>Background</h4>Alkaptonuria (AKU) is a rare hereditary disease. Ochronotic arthropathy, tendinopathy, and osteopenia/osteoporosis are generally musculoskeletal manifestations in patients with AKU. Because of the ochronotic tendinopathy and osteopenia, the surgical strategy for chronic ochronotic Achilles tendon rupture may be challenging. No studies have reported the surgical treatment of chronic Achilles tendon rupture in patients with AKU.<h4>Case presentation</h4>We report a case of AKU that required surgical treatment for chronic Achilles tendon rupture. A 60-year-old woman was referred to our department for the assessment of left hindfoot pain that persisted for more than nine months after an ankle sprain. Three years prior to the first presentation to our hospital, she was diagnosed with AKU due to pigmented hip cartilage at the time of total hip arthroplasty. The patient was diagnosed as chronic Achilles tendon rupture based on the results of physical examination and magnetic resonance imaging (MRI). The MRI showed enlarged scar tissue of the Achilles tendon with an intrasubstance high signal intensity. We performed resection of the central part of the scar tissue (total length, 24 mm) followed by direct repair using the proximal and distal stumps of the scar tissue. The MRI at 12months after surgery showed continuity of the repaired Achilles tendon. At 18 months after surgery, the Achilles Tendon Total Rupture Score improved from 22 points preoperatively to 84 points postoperatively. The foot and ankle outcome score also improved.<h4>Conclusions</h4>We reported a case of AKU with chronic Achilles tendon rupture in which direct repair using scar tissue between the tendon stumps was effective. Careful selection of the surgical procedure for the treatment of chronic ochronotic Achilles tendon rupture is recommended because of concomitant ochronotic tendinopathy and osteopenia/osteoporosis.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39440511",
+    "pmid": "39440511",
+    "doi": "10.52628/90.2.12403",
+    "title": "Alkaptonuric Ochronosis: A case-based review.",
+    "abstract": "Alkaptonuria (AKU) is an extremely rare autosomal recessive metabolic disorder caused by deficiency of homogentisic acid oxidase and resulting in accumulation of homogentisic acid in collagenous structures. It is characterized by a triad of homogentisic aciduria, bluish-black discoloration of connective tissues (ochronosis) and arthropathy of large weight bearing joints. We report on a middle-aged female patient with bilateral severe ochronotic arthritis of both hips and shoulder joints requiring total joint replacements as staged procedures which were done without complications offering a complete pain relief and a satisfactory clinical and functional outcome. Ochronosis can cause severe arthropathy of peripheral joints. Multiple joint affection is common. Total joint replacement can yield persistent pain relief with complete functional recovery in patients with severe ochronotic arthropathy.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38405194",
+    "pmid": "38405194",
+    "doi": "10.1093/ehjcr/ytae076",
+    "title": "Surgical management of calcific valvular and coronary disease in a patient with alkaptonuria: a case report.",
+    "abstract": "<h4>Background</h4>Alkaptonuria is a rare metabolic disease that causes an increase in homogentisic acid (HGA) due to a lack of enzymatic activity. Commonly, accumulation of HGA presents with dark discoloration of skin and other tissues, also known as ochronosis. Additionally, alkaptonuria can result in other clinical manifestations, including arthritis and cardiac disease. This case highlights alkaptonuria-related cardiac disease and challenges that cardiac surgery teams may face when treating this patient population.<h4>Case summary</h4>A 62-year-old male with a history of alkaptonuria, Hodgkin's lymphoma treated with chemoradiation, hypertension, and hyperlipidaemia originally presented with shortness of breath in the setting of known cardiac disease. Cardiac work-up demonstrated aortic stenosis, mitral stenosis, and multivessel coronary artery disease requiring aortic valve replacement, mitral valve replacement, and coronary artery bypass grafting. During the operation, significant discoloration of tissue was observed. This correlated with areas of severe calcification, which was noted throughout both valves. Extensive debridement was required prior to proceeding to valve replacements. Additionally, near-infrared spectroscopy failed to provide accurate measurements of cerebral oxygenation.<h4>Discussion</h4>Alkaptonuria is correlated with cardiovascular disease, particularly valvular disease. Intraoperatively, these patients may exhibit noticeable discoloration and severe calcification of various tissues. Additionally, traditional infrared-based methods of cerebral oxygenation monitoring may not be reliable; however, other options of cerebral monitoring may be feasible. With proper pre-operative planning, however, patients with alkaptonuria may safely undergo cardiac surgery.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39203858",
+    "pmid": "39203858",
+    "doi": "10.3390/nu16162722",
+    "title": "Anthropometric, Body Composition, and Nutritional Indicators with and without Nutritional Intervention during Nitisinone Therapy in Alkaptonuria.",
+    "abstract": "<h4>Introduction</h4>Protein nutrition disorder in alkaptonuria (AKU), resulting in increased homogentisic acid (HGA) before nitisinone therapy and increased tyrosine (TYR) during nitisinone therapy, may benefit from dietetic intervention. The aim of this study was to characterise the diet and their effects prospectively in those who received formal dietetic intervention in the nitisinone-receiving National Alkaptonuria Centre (NAC) patients with those who did not in no-nitisinone Suitability of Nitisinone in Alkaptonuria 2 (SN2 N-) and nitisinone-treated SN2 (SN2 N+) randomised study groups.<h4>Patients and methods</h4>A total of 63, 69, and 69 AKU patients from the NAC, SN2 N-, and SN2 N+ were studied for anthropometric (weight, BMI), body composition (including muscle mass, %body fat, hand grip strength), chemical characteristics (serum TYR, serum phenylalanine, urine urea or uUREA, and urine creatinine or uCREAT), and corneal keratopathy. Nitisinone 2 mg and 10 mg were employed in the NAC and SN2 N+ groups, respectively. Dieticians managed protein intake in the NAC, while the SN2 N- and SN2 N+ groups only received advice on self-directed protein restriction during four years of study duration.<h4>Results</h4>uUREA decreased in the NAC, SN2 N-, and SN2 N+ groups, showing that protein restriction was achieved in these groups. Body weight and BMI increased in the NAC and SN2 N+ groups. uCREAT decreased significantly in SN2 N- and SN2 N+ compared with the NAC over four years of study. Corneal keratopathy was less frequent in the NAC than in the SN2 N+ group. Active dietetic intervention in NAC stabilised lean body mass (muscle mass, hand grip strength) despite a decrease in uUREA and uCREAT, as well as sTYR.<h4>Conclusion</h4>Ongoing dietetic intervention prevented loss of lean body mass despite protein restriction and moderated serum tyrosine increase, leading to less prevalent corneal keratopathy. Protein restriction risks fat mass gain.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38453957",
+    "pmid": "38453957",
+    "doi": "10.1038/s41572-024-00498-x",
+    "title": "Alkaptonuria.",
+    "abstract": "Alkaptonuria is a rare inborn error of metabolism caused by the deficiency of homogentisate 1,2-dioxygenase activity. The consequent homogentisic acid (HGA) accumulation in body fluids and tissues leads to a multisystemic and highly debilitating disease whose main features are dark urine, ochronosis (HGA-derived pigment in collagen-rich connective tissues), and a painful and severe form of osteoarthropathy. Other clinical manifestations are extremely variable and include kidney and prostate stones, aortic stenosis, bone fractures, and tendon, ligament and/or muscle ruptures. As an autosomal recessive disorder, alkaptonuria affects men and women equally. Debilitating symptoms appear around the third decade of life, but a proper and timely diagnosis is often delayed due to their non-specific nature and a lack of knowledge among physicians. In later stages, patients' quality of life might be seriously compromised and further complicated by comorbidities. Thus, appropriate management of alkaptonuria requires a multidisciplinary approach, and periodic clinical evaluation is advised to monitor disease progression, complications and/or comorbidities, and to enable prompt intervention. Treatment options are patient-tailored and include a combination of medications, physical therapy and surgery. Current basic and clinical research focuses on improving patient management and developing innovative therapies and implementing precision medicine strategies.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38921482",
+    "pmid": "38921482",
+    "doi": "10.3390/metabo14060339",
+    "title": "Correction: Zatkova et al. Analysis of the Phenotype Differences in Siblings with Alkaptonuria. <i>Metabolites</i> 2022, <i>12</i>, 990.",
+    "abstract": "In the original publication [...].",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39351877",
+    "pmid": "39351877",
+    "doi": "10.1002/jcp.31449",
+    "title": "An in vitro cell model for exploring inflammatory and amyloidogenic events in alkaptonuria.",
+    "abstract": "Alkaptonuria (AKU) is a progressive systemic inherited metabolic disorder primarily affecting the osteoarticular system, characterized by the degeneration of cartilage induced by ochronosis, ultimately leading to early osteoarthritis (OA). However, investigating AKU pathology in human chondrocytes, which is crucial for understanding the disease, encounters challenges due to limited availability and donor variability. To overcome this obstacle, an in vitro model has been established using homogentisic acid (HGA) to simulate AKU conditions. This model employed immortalized C20/A4 human chondrocytes and serves as a dependable platform for studying AKU pathogenesis. Significantly, the model demonstrates the accumulation of ochronotic pigment in HGA-treated cells, consistent with findings from previous studies. Furthermore, investigations into inflammatory processes during HGA exposure revealed notable oxidative stress, as indicated by elevated levels of reactive oxygen species and lipid peroxidation. Additionally, the model demonstrated HGA-induced inflammatory responses, evidenced by increased production of nitric oxide, overexpression of inducible nitric oxide synthase, and cyclooxygenase-2. These findings underscore the model's utility in studying inflammation associated with AKU. Moreover, analysis of serum amyloid A and serum amyloid P proteins revealed a potential interaction, corroborating evidence of amyloid fibril formation. This hypothesis was further supported by Congo red staining, which showed fibril formation exclusively in HGA-treated cells. Overall, the C20/A4 cell model provided valuable insights into AKU pathogenesis, emphasizing its potential for facilitating drug development and therapeutic interventions.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39735452",
+    "pmid": "39735452",
+    "doi": "10.1055/s-0044-1779309",
+    "title": "Ochronotic Arthropathy and Alkaptonuria (Ochronosis): Case Report.",
+    "abstract": "Alkaptonuria (AKU) is a rare genetic condition resulting from a deficiency in the homogentisic acid oxidase enzyme, which is produced by the liver and kidneys, that interferes with the metabolism of the amino acids phenylalanine and tyrosine. Although it may not cause symptoms, AKU can lead to ochronosis, the abnormal accumulation in body tissues of a pigment called alkapton. Over time, this pigment accumulation in the joints may result in secondary osteoarthritis known as ochronotic arthropathy, the most debilitating form of the disease. Since this is a rare condition, not widely discussed, we herein report a case to describe a diagnosis of ochronotic arthropathy of the knee only identified during surgery. Given the rarity of this condition, especially in Brazil, case descriptions will help understand the national epidemiology and disseminate more information about alkaptonuria and its clinical manifestations, particularly those of osteoarticular nature.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38487984",
+    "pmid": "38487984",
+    "doi": "10.1002/jimd.12728",
+    "title": "Hepatobiliary circulation and dominant urinary excretion of homogentisic acid in a mouse model of alkaptonuria.",
+    "abstract": "Altered activity of specific enzymes in phenylalanine-tyrosine (phe-tyr) metabolism results in incomplete breakdown of various metabolite substrates in this pathway. Increased biofluid concentration and tissue accumulation of the phe-tyr pathway metabolite homogentisic acid (HGA) is central to pathophysiology in the inherited disorder alkaptonuria (AKU). Accumulation of metabolites upstream of HGA, including tyrosine, occurs in patients on nitisinone, a licenced drug for AKU and hereditary tyrosinaemia type 1, which inhibits the enzyme responsible for HGA production. The aim of this study was to investigate the phe-tyr metabolite content of key biofluids and tissues in AKU mice on and off nitisinone to gain new insights into the biodistribution of metabolites in these altered metabolic states. The data show for the first time that HGA is present in bile in AKU (mean [±SD] = 1003[±410] μmol/L; nitisinone-treated AKU mean [±SD] = 45[±23] μmol/L). Biliary tyrosine, 3(4-hydroxyphenyl)pyruvic acid (HPPA) and 3(4-hydroxyphenyl)lactic acid (HPLA) are also increased on nitisinone. Urine was confirmed as the dominant elimination route of HGA in untreated AKU, but with indication of biliary excretion. These data provide new insights into pathways of phe-tyr metabolite biodistribution and metabolism, showing for the first time that hepatobiliary excretion contributes to the total pool of metabolites in this pathway. Our data suggest that biliary elimination of organic acids and other metabolites may play an underappreciated role in disorders of metabolism. We propose that our finding of approximately 3.8 times greater urinary HGA excretion in AKU mice compared with patients is one reason for the lack of extensive tissue ochronosis in the AKU mouse model.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "PPR797747",
+    "pmid": "",
+    "doi": "10.22541/au.170669626.67538855/v1",
+    "title": "Severe aortic stenosis with alkaptonuria: a case report",
+    "abstract": "Alkaptonuria, a rare metabolic disease, is caused by a genetic deficiency of the homogentisic acid oxidase enzyme involved in phenylalanine and tyrosine metabolism. Ochronotic arthropathy and cardiovascular involvement, which manifests itself in 4-6 decades as a result of homogentisic acid accumulation in cartilage and connective tissue, are the most important causes of mortality and morbidity. We present a 75-year-old case with a diagnosis of severe aortic stenosis who was diagnosed with alkaptonuria after the operation. Severe calcification and pigmentation were observed in the patient’s aortic valve leaflets and at the ascending aortic wall",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38694340",
+    "pmid": "38694340",
+    "doi": "10.1097/ms9.0000000000001775",
+    "title": "A shocking intraoperatively diagnosis of ochronotic knee arthropathy: a case report.",
+    "abstract": "<h4>Introduction</h4>Alkaptonuria is an autosomal extremely rare recessive metabolic disorder with incidence reported to occur as 1:100 000-1:250 000 live births worldwide. This rare metabolic disorder is characterized by the accumulation of homogentisic acid due to a deficiency in homogentisic acid 1,2 dioxygenase. Homogentisic acid subsequently oxidizes and accumulates in the connective tissue. The knee is the most significant peripheral joint to be affected by the disorder. The authors present the first case of ochronotic arthropathy in Syria.<h4>Case presentation</h4>A 46-year-old male presented with bilateral pain in the knees. the pain was affecting his day-to-day activities, and not responding to conservative management. Anteroposterior standing radiographs demonstrated extensive degenerative disease. Intraoperatively, the diagnosis was done after noticing that the quadriceps tendon and the articular cartilage of the femur, tibia, and patella were blackened during cemented total knee replacement of the knee.<h4>Conclusion</h4>Ochronotic arthropathy should be kept in mind in middle age patients with severe osteoarthritis to not be surprised by the rare alkaptonuria diagnosis if arthroplasty was indicated.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39762044",
+    "pmid": "39762044",
+    "doi": "",
+    "title": "[Total hip arthroplasty secondary to ocronotic arthropathy. A case report].",
+    "abstract": "<h4>Introduction</h4>alkaptonuria is a rare hereditary metabolic disorder which is characterized by deficiency of the enzyme homogentisate 1,2 dioxygenase, which is responsible for the oxidation and renal elimination of homogentisic acid (HGA), which causes its accumulation. The excessive accumulation of HGA results in ochronosis and ochronotic arthropathy, which mainly affects the thoracolumbar spine and the large joints, leading to the need for joint replacement seeking to improve function and quality of life.<h4>Clinical case</h4>hereby is presented a 67-years-old female patient with history of alkaptonuria with diffuse painful right hip of 4 years of evolution. On physical examination, clinical manifestations were found consistent with ochronosis and ochronotic arthropathy. Imaging studies revealed loss of right hip joint space, osteophytes, and acetabular sclerosis.<h4>Conclusions</h4>joint hip replacement is an effective therapy in improving the quality of life with hip arthropathy secondary to alkaptonuria, despite this, the literature on long-term follow-up about this treatment needs to be enriched.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "PPR781237",
+    "pmid": "",
+    "doi": "10.21203/rs.3.rs-3783338/v1",
+    "title": "Ease of Sutureless aortic valve replacement in a patient with unexpected Ochronosis -A Case Report",
+    "abstract": "<h4>Background: </h4> Alkaptonuria is a rare congenital metabolic disorder that results in homogenetic acid accumulation in body cartilage and connective tissues due lack of homogenetic acid dioxygenase enzyme. It has different clinical manifestations, including: spondyloarthropathy, eye and skin pigmentation, obstruction of the genitourinary tract by ochronosis stones, and involvement of the cardiovascular system. Cardiac ochronosis is a rare presentation of alkaptonuria that the patient has aortic stenosis with or without other cardiovascular involvement.  Case presentation: We present an unexpected case of ochronosis that diagnosed during cardiac surgery.Sutureless aortic valve replacement was done for her. Because of fragile, thin and atheromatous ascending aorta in patients with ochronosis, it seems that this sutureless valve replacement method is more suitable in these sorts of patients.  <h4>Conclusions: </h4>: Although cardiac ochronosis is very rare, but the surgeons should keep it in mind and pay attention to the clinical manifestations of alkaptonuria when examining a patient with aortic valve stenosis.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "PPR775668",
+    "pmid": "",
+    "doi": "10.1101/2023.12.18.572165",
+    "title": "Bile is a route of excretion for homogentisic acid in alkaptonuria",
+    "abstract": "Altered activity of specific enzymes in phenylalanine-tyrosine (phe-tyr) metabolism results in incomplete breakdown of various metabolite substrates in this pathway. Increased biofluid concentration and tissue accumulation of the phe-tyr pathway metabolite homogentisic acid (HGA) is central to pathophysiology in the inherited disorder alkaptonuria (AKU). Accumulation of the metabolites upstream of HGA, including tyrosine, occurs in patients on nitisinone, a licenced drug for AKU and hereditary tyrosinaemia type-1, which inhibits the enzyme responsible for HGA production. The aim of this study was to investigate the phe-tyr metabolite content of key biofluids and tissues in AKU mice on and off nitisinone to gain new insights into the biodistribution of metabolites in these altered metabolic states. The data show for the first time that HGA is present in the bile in AKU (mean [±SD] = 1003[±410] μmol/L; nitisinone-treated AKU mean [±SD] = 45[±23] μmol/L). Biliary tyrosine, HPPA and HPLA are also increased on nitisinone. Urine was confirmed as the dominant elimination route of HGA in untreated AKU, but with indication of biliary excretion and possible metabolism of HGA by the gut microbiome. These data provide new insights into the pathways of phe-tyr metabolite biodistribution and metabolism, showing for the first time that hepatobiliary excretion contributes to the total pool of metabolites in this pathway. Our data suggest that biliary elimination of organic acids and other metabolites may play an underappreciated role in disorders of metabolism. <h4>Take-home message</h4> This paper presents the first observation of elevated hepatobiliary circulation of metabolites associated with disease in alkaptonuria, including homogentisic acid in addition to tyrosine and the tyrosine metabolites 4-hydroxyphenylpyruvic acid and 4-hydroxyphenyllactic acid on nitisinone treatment.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "38420236",
+    "pmid": "38420236",
+    "doi": "10.13107/jocr.2024.v14.i02.4224",
+    "title": "Arthroplasty in Ochronotic Arthropathy: 3 Replacements in a Single Patient with a Long-term Follow-up of 11 Years.",
+    "abstract": "<h4>Introduction</h4>Alkaptonuria is a rare autosomal recessive disorder caused by the defective metabolism of homogentisic acid, with a rare course and remained undetected even until adulthood. Ochronotic arthropathy is one of the manifestations of alkaptonuria, predominantly affecting weight bearing joints such as spine, hip, and knee. Total joint arthroplasty is treatment of choice in end-stage arthritis of hip and knee. Owing to the rarity of the disease, limited data is available in literature regarding surgical challenges and long-term functional outcomes.<h4>Case report</h4>Herein, we present a case of 43-year-old male with ochronotic arthropathy of bilateral hip, right knee, and bilateral elbow joints with involvement of spine, who was incidentally diagnosed with ochronotic arthropathy intraoperatively and underwent sequential arthroplasty for right hip followed by right knee and left hip over a period of 10 years. At 11 years' follow-up, the patient has full mobility with no loosening of implants.<h4>Conclusion</h4>The long-term results of total joint arthroplasty in ochronotic arthropathy are good. Surgeon should be aware of the difficulty in soft tissue balancing and possible complications in the ochronotic arthropathy and require a conscientious approach to avoid complications.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "37937039",
+    "pmid": "37937039",
+    "doi": "10.7759/cureus.46644",
+    "title": "Alkaptonuria Diagnosis Following a Discectomy: A Case Report.",
+    "abstract": "Alkaptonuria is a rare genetic disorder characterized by the excessive production of homogentisic acid, leading to the formation and deposition of pigment polymers throughout the body. It is extremely rare, affecting only around one in 100,000 individuals. Despite the normal life expectancy, it can cause severe morbidities. Alkaptonuria is typically managed supportively with pain medication, dietary modifications, and surgical interventions, which are considered to be the gold standard of therapy. Here we present a case of a 33-year-old male with no previous medical or surgical history who presented with severe acute back pain radiating to the left leg. Genetic testing confirmed a homozygous pathogenic variant for alkaptonuria. This case highlights the challenges in diagnosing alkaptonuria, emphasizing the significance of early detection, and clinical evaluation for improved outcomes. Furthermore, it underscores the need to consider alkaptonuria as a multidimensional disease, necessitating further research to enhance our understanding and develop effective management. Therefore, this study serves as an opportunity for future trials and studies aimed at digging deeper into the intricacies of alkaptonuria to increase our understanding and establish comprehensive management plans for affected individuals.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "39273071",
+    "pmid": "39273071",
+    "doi": "10.3390/cells13171501",
+    "title": "HGA Triggers SAA Aggregation and Accelerates Fibril Formation in the C20/A4 Alkaptonuria Cell Model.",
+    "abstract": "Alkaptonuria (AKU) is a rare autosomal recessive metabolic disorder caused by mutations in the homogentisate 1,2-dioxygenase (HGD) gene, leading to the accumulation of homogentisic acid (HGA), causing severe inflammatory conditions. Recently, the presence of serum amyloid A (SAA) has been reported in AKU tissues, classifying AKU as novel secondary amyloidosis; AA amyloidosis is characterized by the extracellular tissue deposition of fibrils composed of fragments of SAA. AA amyloidosis may complicate several chronic inflammatory conditions, like rheumatoid arthritis, ankylosing spondylitis, inflammatory bowel disease, chronic infections, neoplasms, etc. Treatments of AA amyloidosis relieve inflammatory disorders by reducing SAA concentrations; however, no definitive therapy is currently available. SAA regulation is a crucial step to improve AA secondary amyloidosis treatments. Here, applying a comprehensive in vitro and in silico approach, we provided evidence that HGA is a disruptor modulator of SAA, able to enhance its polymerization, fibril formation, and aggregation upon SAA/SAP colocalization. In silico studies deeply dissected the SAA misfolding molecular pathway and SAA/HGA binding, suggesting novel molecular insights about it. Our results could represent an important starting point for identifying novel therapeutic strategies in AKU and AA secondary amyloidosis-related diseases.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "37786570",
+    "pmid": "37786570",
+    "doi": "10.7759/cureus.44395",
+    "title": "Alkaptonuria Presenting With Lumbar Disc Herniation: A Case Report.",
+    "abstract": "Alkaptonuria is a rare autosomal recessive trait. Symptomatic lumbar disc herniation warranting surgical intervention is a rare scenario in alkaptonuria and only a few cases have been described in the literature. We present one such rare case of alkaptonuria in a 31-year-old female presenting with low back pain and left leg radiculopathy not relieved with conservative management. Roentgenograms of the lumbar spine revealed wafer-like disc calcifications and MRI showed a herniated disc at the L4-L5 level with deeply hypointense disc spaces in T2 suggestive of disc calcification and associated modic type 2 changes. During the surgery, the disc material removed was black in color, which raised a clinical suspicion of alkaptonuria. Postoperatively, the patient was re-examined and urine homogentisic acid was found to be raised. This, along with a histopathological examination, was diagnostic of alkaptonuria. The patient had excellent relief of symptoms postoperatively. In conclusion, if a 'black disc' is found during surgery, retrospective analysis and re-examination of patient clinical features and urine examination have to be done to diagnose alkaptonuria. While making a differential diagnosis of degenerative disc disease in patients with a calcified disc seen on radiography, a high index of suspicion for alkaptonuria has to be maintained.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "37880174",
+    "pmid": "37880174",
+    "doi": "10.1136/bcr-2022-254300",
+    "title": "Arthroscopic ankle arthrodesis in two alkaptonuria patients.",
+    "abstract": "Alkaptonuria is a very rare disorder in which homogentisic acid accumulates due to a deficiency in the activity of homogentisic acid 1,2 dioxygenase. This deficiency results in deposition of a yellowish-brown pigment in connective tissue. Such deposition is termed 'ochronosis' and leads to deterioration in the formation and structure of proteoglycans in hyaline cartilage. These actions lead to fragmentation and rapid destructive arthritis. Often, ochronotic arthritis appears at 40-60 years of age, and many patients are treated symptomatically. Here, we report two patients (three ankles) with ochronotic arthritis who were treated with ankle arthrodesis. In all cases, the postoperative clinical score improved, but the time needed for fusion was prolonged and symptomatic subtalar arthropathy developed in the early postoperative period.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "39683548",
+    "pmid": "39683548",
+    "doi": "10.3390/nu16234154",
+    "title": "Nutritional Management of Patients with Inborn Errors of Metabolism.",
+    "abstract": "Inborn errors of metabolism (IEM) are a large group of single-gene disorders resulting from enzyme defects in biochemical and metabolic pathways [...].",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "PPR851273",
+    "pmid": "",
+    "doi": "10.1101/2024.05.10.593489",
+    "title": "Identification of novel bone-resorption markers by osteoclasts<i>in vitro</i>and<i>in vivo</i>",
+    "abstract": "Bone resorption involves dissolution of mineral and enzymatic degradation of bone matrix. The primary enzyme is cathepsin K but other proteases including matrix metalloproteinases are involved. Some cleavage products of cathepsin K have been partially identified, including crossed-linked telopeptides of type I collagen. However, the pathway of type I bone collagen degradation has not been fully elucidated. The aim of this study was to comprehensively characterise the entire complement of bone breakdown products resulting from osteoclast action under controlled conditions in vitro . Complete characterisation of these breakdown products will advance understanding of osteoclast biology and has the potential to reveal new biomarkers of bone resorption. We analysed extracellular media from osteoclasts cultured on dentine substrates, using untargeted liquid chromatography mass spectrometry. We discovered 22 breakdown products resulting from osteoclastic action. These products were peptide fragment sequences that mapped to various collagen proteins present in bone and dentine matrix. Nine peptide fragments mapped exclusively to collagen I alpha-1 chain (COL1A1), the most abundant protein in bone. Analysis of the reported cleavage sites in the COL1A1 protein sequence indicated 7/9 COL1A1-specific fragments not explained by known proteolytic events. We subsequently showed that 14 of the fragment products were present in human serum and/or urine from metabolomic datasets obtained from patients with the inherited metabolic disease alkaptonuria (serum) and lung cancer (urine). Two products were at higher concentration (P <0.05, fold change >2) in urine from patients with bone metastasis (29/112) from the lung cancer cohort. The range of collagen peptide fragments we discovered as a direct result of osteoclast activity indicates a complexity of bone resorption pathways not previously known. Monitoring the concentrations of these novel bone markers in biofluids has the potential to capture multiple pathways of bone resorption activity beyond the existing assays based on Cathepsin K. <h4>Lay summary</h4> Breakdown of bone tissue is performed by specialised bone cells called osteoclasts in a process known as bone resorption. Knowledge of specific molecules produced from osteoclasts acting on bone is important for a) understanding bone resorption in health and disease, and b) clinical tests of bone resorption from measurement of these breakdown products. Here we aimed to characterise the entire complement of bone breakdown products resulting from osteoclast action under controlled conditions in the laboratory. We found a total of 22 breakdown products produced from osteoclasts cultured on wafers of dentine, a tissue with almost identical composition to bone. Analysis of the structures of these products revealed fragments of varying size produced from digestion of specific proteins present in bone. We then showed that 14/22 bone protein fragments observed in our cell culture experiments were also present in human blood and/or urine. In our analysis of urine from patients with lung cancer, we found that two of the protein fragments we identified were higher in a subset (29/112) of patients with bone metastasis. Our findings provide new insights into the mechanisms of bone resorption and show the potential for monitoring the range of urine bone protein fragments in bone disorders.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "37718906",
+    "pmid": "37718906",
+    "doi": "10.11005/jbm.2023.30.3.283",
+    "title": "Black Bone Disease: Ochronotic Arthritis Detected during Knee Arthroplasty.",
+    "abstract": "Alkaptonuria is an extremely rare autosomal recessive metabolic disorder characterized by dark urine, ochronosis, and arthritis of the spine and major joints. We report a case of ochronotic arthritis observed during total knee replacement surgery in a 65-year-old male patient with no relevant medical history. Based on a literature review, this is the first case of ochronotic arthritis reported in Korea.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "37877521",
+    "pmid": "37877521",
+    "doi": "10.1002/jcla.24976",
+    "title": "Detection of homogentisic acid by electrospray ionization mass spectrometry.",
+    "abstract": "<h4>Objective</h4>Homogentisic acid (HGA) is excreted in excessive amounts in the urine of patients with alkaptonuria, which is a hereditary metabolic disorder of phenylalanine and tyrosine. Therefore, the detection of HGA in urine is useful for the diagnosis of alkaptonuria. To evaluate the detection of HGA, we confirmed the color shift of HGA solutions and analyzed them by electrospray ionization mass spectrometry (ESI-MS).<h4>Methods</h4>We observed the color change of the HGA solutions under different pH conditions (pH 6.0, 7.0, and 8.0) and examined the influences of adding potassium hydroxide (KOH) and ascorbic acid (AA) to the HGA solutions. Then, we analyzed the chemical reaction in HGA solutions using ESI-MS.<h4>Results</h4>The HGA solution at pH 8.0 became brown after incubation at room temperature for 24 h and became darker brown with the addition of KOH; however, HGA solutions at pH 6.0 and 7.0 showed no color changes. The brown color change of the HGA solution at pH 8.0 was also inhibited by AA. Moreover, all HGA sample solutions showed the deprotonated molecular ion peak at m/z 167.035 in the negative ion mode after incubation at room temperature for 24 h and with the addition of KOH and AA.<h4>Conclusion</h4>We identified the molecular ion of HGA in all sample solutions by ESI-MS, regardless of different pH conditions, color changes, or the presence of AA. These results suggest that spectral analysis by ESI-MS is suitable for the detection of HGA and the diagnosis of alkaptonuria.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "32809406",
+    "pmid": "32809406",
+    "doi": "",
+    "title": "Alkaptonuria",
+    "abstract": "Alkaptonuria is one of a rare autosomal recessive genetic disorder, which results from the deficiency of homogentisate 1,2 dioxygenase (HGD). HGD gene is expressed in the liver, kidney, prostate, small intestine, and colon. This enzyme plays a role in the metabolism of tyrosine that converts homogentisic acid (HGA) into malate and acetoacetate. In the absence of HGD, homogentisic acid produced in excess by the liver oxidizes into ochronotic pigment polymer. Accumulation of this pigment in various tissues leads to systemic disease. This process is called ochronosis. Alkaptonuria was amongst the first genetic disorders in humans that found to follow the principles of Mendelian recessive inheritance. Historically, in 1908 it was used by Archibald Garrod in his Croonian lectures to illustrate the principles behind \"inborn errors of metabolism.\" However, the Egyptian mummy Harwa believed to be the first clinical case of Alkaptonuria dating back as far as 1500 BC. The term alkaptonuria originated from the Arabic word \"alkali.\" Also, Boedeker created the name in 1859 after he noticed unusual decreasing properties in patient urine. In 1866 ochronosis was discovered by Virchow, who noticed under microscopy when HGA pigment appeared to be a pale brownish yellow color (ochre-like).",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "38162369",
+    "pmid": "38162369",
+    "doi": "10.13107/jocr.2023.v13.i12.4088",
+    "title": "Alkaptonuria in an Elderly Presenting with Asynchronous Rupture of both Quadriceps Tendons and Chronic Kidney Failure: Case Report and Literature Review.",
+    "abstract": "<h4>Introduction</h4>Alkaptonuria (AKU) is a rare autosomal-recessive multisystemic disease. It is caused by a mutant homogentisate dioxygenase coding gene, leading to the accumulation of homogentisic acid (HGA), hence systemic manifestations. Renal manifestations and tendon rupture are rarely reported.<h4>Case report</h4>We report a 60-year-old male with chronic kidney disease for over a decade who was initially misdiagnosed with ankylosing spondylitis and rheumatoid arthritis. Later on, the patient presented to our institute with a non-synchronized (8 years) acute quadriceps tendon rupture.<h4>Conclusion</h4>Physicians should be aware of the importance of prophylactic measures in the management of AKU, which is mainly medical management, to reduce the accumulation of HGA in the body. We further emphasize this point to reduce the incidence of subsequent tendon ruptures, as it significantly affects the quality of life.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "35015405",
+    "pmid": "35015405",
+    "doi": "",
+    "title": "Ocular Manifestations of Alkaptonuria",
+    "abstract": "Alkaptonuria is a rare autosomal recessive disorder that arises from a mutation of the homogentisate 1,2-dioxygenase (HGD) gene, resulting in a deficiency of the enzyme HGD. This enzyme plays a role in the phenylalanine and tyrosine degradation pathways by catabolizing the tyrosine intermediate metabolite homogentisic acid (HGA) into maleylacetoacetic acid (Figure 1). Deficiency of the HGD enzyme results in the abnormal accumulation of upstream precursors HGA, tyrosine, and phenylalanine. In particular, the buildup and deposition of HGA is the major contributor to the classic manifestations and consequences of the disease, including homogentisic aciduria, ochronosis, and ochronotic osteoarthropathy. Alkaptonuria leads to dysfunctions in various tissues throughout the body; this article will broadly cover the prominent presentations and focus on ocular manifestations of the disorder in particular. Early identification and diagnosis of the disorder are imperative for management and treatment as complications can be sight-threatening, including astigmatism, central vein occlusion, glaucoma, and blindness. The first case of alkaptonuria is believed to have presented in 1500 BC as found in the Egyptian mummy Harwa. Biopsy of the body’s hip cartilage and intervertebral discs in 1979 demonstrated extensive calcification and HGA pigmentation consistent with the process of ochronosis.  Cases of the disease reported in the 16 century centered around the observation of dark urine, which continued to be the identifying feature and namesake of the “black urine disease” through the 19 century. In 1859, Dr. Carl Boedeker found that adding alkali to these patients’ urine produced the appearance of dark discoloration (later discovered to be due to HGA’s reducing power). He subsequently named the disease “alkaptonuria” in reference to “alkali” in Arabic, meaning “alkali,” “alkali” in Greek, meaning “to suck up oxygen greedily in alkali,” and “alkapton” in German, meaning “a reducing compound.” Alkaptonuria is a disease that occupies a noteworthy place in the histories of biochemistry, genetics, and medicine. In 1902, it was the first medical disorder reported to adhere to the Mendelian principles of autosomal recessive inheritance by Sir Archibald Garrod. Garrod deduced that all cases of alkaptonuria reported at the time required certain genetic contributions from both parents. In other words, the spectrum of outward manifestations could all be traced back to a specific underlying genetic trait, emphasizing the impact of science and genetics on the human constitution. At the time, many debilitating diseases were already noted to be more prevalent in consanguineous marriages, but few reports addressed consanguinity from a strictly scientific perspective. By connecting alkaptonuria to a genetic basis and referring to the similar gametes passed on by consanguineous parents, Garrod provided scientific evidence for some deleterious effects of consanguineous unions.  In his 1908 Croonian Lecture to the Royal College of Physicians, Garrod also later used alkaptonuria as an example to demonstrate his concept of “the inborn error of metabolism,” now a widely used term applied to genetic disorders of innate metabolic pathways such as alkaptonuria.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "38920699",
+    "pmid": "38920699",
+    "doi": "10.3390/cells13121072",
+    "title": "Alkaptonuria: From Molecular Insights to a Dedicated Digital Platform.",
+    "abstract": "Alkaptonuria (AKU) is a genetic disorder that affects connective tissues of several body compartments causing cartilage degeneration, tendon calcification, heart problems, and an invalidating, early-onset form of osteoarthritis. The molecular mechanisms underlying AKU involve homogentisic acid (HGA) accumulation in cells and tissues. HGA is highly reactive, able to modify several macromolecules, and activates different pathways, mostly involved in the onset and propagation of oxidative stress and inflammation, with consequences spreading from the microscopic to the macroscopic level leading to irreversible damage. Gaining a deeper understanding of AKU molecular mechanisms may provide novel possible therapeutical approaches to counteract disease progression. In this review, we first describe inflammation and oxidative stress in AKU and discuss similarities with other more common disorders. Then, we focus on HGA reactivity and AKU molecular mechanisms. We finally describe a multi-purpose digital platform, named ApreciseKUre, created to facilitate data collection, integration, and analysis of AKU-related data.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "39708391",
+    "pmid": "39708391",
+    "doi": "10.1016/j.ymgme.2024.109001",
+    "title": "Clinical and biochemical footprints of inherited metabolic diseases: XVII. Dysmorphisms.",
+    "abstract": "Dysmorphisms, or physical abnormalities in appearance, can vary in frequency and severity among individuals with inherited metabolic disorders (IMD). The prevalence of dysmorphisms in these disorders can range from rare occurrences to more common features, depending on the specific disorder and its genetic characteristics. It is important to note that not all individuals with IMDs will exhibit dysmorphic features, and the presence of such features may vary widely among different types of metabolic disorders. The data presented in this study, which includes a detailed list of 374 IMDs with dysmorphic characteristics categorized by affected organs (such as head and face, nose, mouth and tongue, eye, ear, hands and feet, and others), as well as an overview of important clinical features and recommended diagnostic strategies, could be valuable for professionals in the field of healthcare. This information may be particularly useful for healthcare providers who treat individuals with metabolic disorders or those who care for individuals exhibiting dysmorphic features that could indicate the presence of an inherited metabolic disorder.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "37354891",
+    "pmid": "37354891",
+    "doi": "10.1016/j.ymgme.2023.107628",
+    "title": "Biochemical and molecular confirmation of alkaptonuria in a Sumatran orangutan (Pongo abelii).",
+    "abstract": "A 6-yr-old female orangutan presented with a history of dark urine that turned brown upon standing since birth. Repeated routine urinalysis and urine culture were unremarkable. Urine organic acid analysis showed elevation in homogentisic acid consistent with alkaptonuria. Sequence analysis identified a homozygous missense variant, c.1081G>A (p.Gly361Arg), of the homogentisate 1,2-dioxygenase (HGD) gene. Familial studies, molecular modeling, and comparison to human variant databases support this variant as the underlying cause of alkaptonuria in this orangutan. This is the first report of molecular confirmation of alkaptonuria in a nonhuman primate.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "36999718",
+    "pmid": "36999718",
+    "doi": "10.2174/1574886318666230331112800",
+    "title": "Current Landscape on Development of Phenylalanine and Toxicity of its Metabolites - A Review.",
+    "abstract": "Phenylalanine, an essential amino acid, is the \"building block\" of protein. It has a tremendous role in different aspects of metabolic events. The tyrosine pathway is the prime one and is typically used to degrade dietary phenylalanine. Phenylalanine exceeds its limit in bodily fluids and the brain when the enzyme, phenylalanine decarboxylase, phenylalanine transaminase, phenylalanine hydroxylase (PAH) or its cofactor tetrahydrobiopterin (BH4) is deficient causes phenylketonuria, schizophrenia, attentiondeficit/ hyperactivity disorder and another neuronal effect. Tyrosine, an amino acid necessary for synthesizing the pigments in melanin, is produced by its primary metabolic pathway. Deficiency/abnormality in metabolic enzymes responsible for the catabolism pathway of Phenylalanine causes an accumulation of the active intermediate metabolite, resulting in several abnormalities, such as developmental delay, tyrosinemias, alkaptonuria, albinism, hypotension and several other undesirable conditions. Dietary restriction of the amino acid(s) can be a therapeutic approach to avoid such undesirable conditions when the level of metabolic enzyme is unpredictable. After properly identifying the enzymatic level, specific pathophysiological conditions can be managed more efficiently.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "37521546",
+    "pmid": "37521546",
+    "doi": "10.1016/j.jhsg.2022.10.018",
+    "title": "Acute-Onset Multifocal Hand Dysfunction Due to Alkaptonuria.",
+    "abstract": "Alkaptonuria is a rare metabolic disorder characterized by the accumulation of homogentisic acid. Its effects on the central nervous system are well-recognized; however, cases of pathologic homogentisic acid deposition in the peripheral nervous system are less well-described. We report the case of a 72-year-old man with a prior history of alkaptonuria presenting with bilateral carpal tunnel and left-sided cubital tunnel symptoms. This case is of note because the patient demonstrated a rapid onset of symptoms due to pathology at multiple foci.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "32809369",
+    "pmid": "32809369",
+    "doi": "",
+    "title": "Ochronosis",
+    "abstract": "Ochronosis is named for the reddish-brown hue of tissue termed \"ochre-like\" that was first described by a young physician named Archibald Garrod in the early-19th century. In what he called an \"inborn error of metabolism,\" Archibald Garrod changed history when he coined that term for the obscure \"black urine\" disease, alkaptonuria. He proposed that ochronosis was due to deposition of a phenolic compound – \"alkaptons\" polymerizing into connective tissue - because the enzyme that could cleave it was absent and was inherited as a \"chemical individuality.\" This was insightful work given that this preceded the conceptualization of genes. The work of Dr. Garrod would build core foundations on how we understand biochemistry, genetics, and medicine today. Alkaptonuria is iconic for being the initial description of the prototypical autosomal recessive disease. Today we know that expression of the homogentisate 1,2 dioxygenase becomes stunted because of mutations arising in the HGD gene, described as Dr. Garrod's \"chemical individuality.\" Serum levels of homogentisic acid (Alkaptons) concomitantly rise and polymerize into tissue over time. The sequestration effect is also termed as endogenous ochronosis. This article reviews this and the exogenous form of ochronosis, commonly seen as a side-effect of medications that competitively inhibit the same enzyme mentioned above. In contrast to endogenous ochronosis, the deposition is often limited to the skin.",
+    "journal": "",
+    "year": "2025"
+  },
+  {
+    "id": "37658095",
+    "pmid": "37658095",
+    "doi": "10.1038/s41598-023-41200-7",
+    "title": "Homogentisate 1,2-dioxygenase (HGD) gene variants in young Egyptian patients with alkaptonuria.",
+    "abstract": "Alkaptonuria (AKU) is a rare autosomal recessive metabolic disorder caused by pathogenic variants in the homogentisate 1,2-dioxygenase (HGD) gene. This leads to a deficient HGD enzyme with the consequent accumulation of homogentisic acid (HGA) in different tissues causing complications in various organs, particularly in joints, heart valves and kidneys. The genetic basis of AKU in Egypt is completely unknown. We evaluated the clinical and genetic spectrum of six pediatric and adolescents AKU patients from four unrelated Egyptian families. All probands had a high level of HGA in urine by qualitative GC/MS before genetic confirmation by Sanger sequencing. Recruited AKU patients were four females and two males (median age 13 years). We identified four different pathogenic missense variants within HGD gene. Detected variants included a novel variant c.1079G > T;p.(Gly360Val) and three recurrent variants; c.1078G > C;p.(Gly360Arg), c.808G > A;p.(Gly270Arg) and c.473C > T;p.(Pro158Leu). All identified variants were properly segregating in the four families consistent with autosomal recessive inheritance. In this study, we reported the phenotypic and genotypic spectrum of alkaptonuria for the first time in Egypt. We further enriched the HGD-variant database with another novel pathogenic variant. The recent availability of nitisinone may promote the need for genetic confirmation at younger ages to start therapy earlier and prevent serious complications.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "37395296",
+    "pmid": "37395296",
+    "doi": "10.1002/jimd.12647",
+    "title": "Clinical presentation of 13 children with alkaptonuria.",
+    "abstract": "Until now, only a few studies have focused on the early onset of symptoms of alkaptonuria (AKU) in the pediatric population. This prospective, longitudinal study is a comprehensive approach to the assessment of children with recognized AKU during childhood. The study includes data from 32 visits of 13 patients (five males, eight females; age 4-17 years) with AKU. A clinical evaluation was performed with particular attention to eye, ear, and skin pigmentation, musculoskeletal complaints, magnetic resonance imaging (MRI), and ultrasound (US) imaging abnormalities. The cognitive functioning and adaptive abilities were examined. Molecular genetic analyses were performed. The most common symptoms observed were dark urine (13/13), followed by joint pain (6/13), and dark ear wax (6/13). In 4 of 13 patients the values obtained in the KOOS-child questionnaire were below the reference values. MRI and US did not show degenerative changes in knee cartilages. One child had nephrolithiasis. Almost half of the children with AKU (5/13) presented deficits in cognitive functioning and/or adaptive abilities. The most frequent HGD variants observed in the patients were c.481G>A (p.Gly161Arg) mutation and the c.240A>T (p.His80Gln) polymorphism. The newly described allele of the HGD gene (c.948G>T, p.Val316Phe) which is potentially pathogenic was identified.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "38362096",
+    "pmid": "38362096",
+    "doi": "10.4103/sjmms.sjmms_437_23",
+    "title": "Spectrum of Organic Aciduria Diseases in Tunisia: A 35-year Retrospective Study.",
+    "abstract": "<h4>Background</h4>Organic aciduria diseases (OADs) occur worldwide, with differences in prevalence and patterns between populations.<h4>Objectives</h4>To describe the spectrum of OADs identified in Tunisia over a 35-years period.<h4>Materials and methods</h4>This retrospective study included patients who were diagnosed with OADs between 1987 and 2022 in the Laboratory of Biochemistry, Rabta Hospital, Tunisia. Organic acids were analyzed using gas chromatography-mass spectrometry.<h4>Results</h4>A total of 30,670 urine samples were analyzed for OADs, of which 471 were positive for OADs. The estimated incidence of OADs in Tunisia was 6.78 per 100,000 live births. Methylmalonic (<i>n</i> = 146) and propionic (<i>n</i> = 90) acidurias were the most common OADs (estimated incidence: 2.10 and 1.30 per 100,000 live births, respectively). There were 54 cases of L-2-hydroxyglutatric acidurias and 30 cases of pyroglutamic acidurias, which makes it one of the highest in the world. The main clinical features were hypotonia (65%) and feeding difficulties (41%). Age at diagnosis was highly variable, ranging from 1 day to 49 years. Only 27% of the patients were diagnosed within the first month of life. The prevalence of OADs was highest in the Center-East and Southeast regions.<h4>Conclusions</h4>In Tunisia, OADs are relatively frequent, but there are shortcomings regarding the diagnosis of these disorders. The frequency and health/social impact of these disorders warrant the need for implementing newborn screening programs and suitable patient management.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "38799778",
+    "pmid": "38799778",
+    "doi": "10.5114/reum/186977",
+    "title": "Bilateral rapidly destructive coxopathy in rheumatoid arthritis.",
+    "abstract": "Rapidly destructive coxopathy (RDC) is a rare type of coxarthritis marked by swift deterioration of the hip joint. Although its cause remains unclear, several pathophysiological mechanisms are proposed. To comprehensively analyze this poorly understood condition, a literature search was conducted focusing on associations of bilateral RDC and rheumatoid arthritis (RA). The problem of long-standing RA, bilateral RDC with a febrile episode that preceded a rapid decline in mobility and severe hip pain, with radiological assessment confirmed bilateral hip destruction, was presented. Rapidly destructive coxopathy, especially when linked to RA, poses diagnostic and therapeutic challenges. Our review confirmed by the clinical picture emphasizes the need for vigilance in RA patients with hip involvement and calls for further research to understand RDC's mechanisms and enhance clinical care.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "37091223",
+    "pmid": "37091223",
+    "doi": "10.2147/orr.s402214",
+    "title": "Reverse Total Shoulder Arthroplasty in Alkaptonuric Shoulder: Case Presentation, Review of Literature, and Technical Considerations.",
+    "abstract": "<h4>Importance</h4>Alkaptonuric shoulder arthropathy is a challenging clinical entity in arthroplasty. In this report, we describe an atypical presentation, technical considerations, a literature review, and some recommendations of significant benefits to shoulder surgeons.<h4>Objective</h4>The author's objective in this report is to illustrate the deleterious metabolic effects of ochronosis on cartilage and the development of early arthritis.<h4>Design</h4>This is a case report study, done in May 2021.<h4>Setting</h4>Middle East, Jordan.<h4>Introduction</h4>Alkaptonuria is a metabolic disease of amino acid metabolism that can affect multiple organ systems, including the musculoskeletal system. The musculoskeletal system manifestations usually involve the spine, knee, and, uncommonly, the shoulder. Tissue ochronosis caused by alkaptonuria can cause significant damage to the joint and surrounding soft tissue envelope. In this case, we presented a patient who has end-stage glenohumeral arthritis and rotator cuff arthropathy secondary to ochronosis.<h4>Case presentation</h4>In this case report, we present a 42-year-old male patient who presented to the clinic with severe right shoulder pain and limitations of the range of motion, especially with abduction. The patient underwent radiographic assessment, which showed a rotator cuff arthropathy combined with advanced degenerative changes of the right glenohumeral joint. The patient underwent reverse total shoulder arthroplasty. After the surgery and on follow-up later on for a period of one year and after a period of physiotherapy and rehabilitation, the patient showed remarkable improvement in the pain and range of motion.<h4>Conclusion</h4>Alkaptonuria can have a detrimental effect on the articular cartilage and the surrounding soft tissue envelope, which might manifest clinically as early degenerative arthritis changes in a young adult patient. Shoulder involvement is extremely rare and can manifest with substantial injury to the glenohumeral joint; whenever such extensive damage is present, shoulder arthroplasty is the best treatment.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "37268334",
+    "pmid": "37268334",
+    "doi": "10.1016/bs.acc.2023.02.005",
+    "title": "Alkaptonuria - Past, present and future.",
+    "abstract": "Alkaptonuria (AKU) is an ultra-rare inherited inborn error of metabolism that afflicts the tyrosine metabolic pathway, resulting in the accumulation of homogentisic acid (HGA) in the circulation, and significant excretion in urine. Clinical manifestations, typically observed from the third decade of life, are lifelong and significantly affect the quality of life. This review provides a comprehensive overview of the natural history of AKU, including clinical, biochemical and genetic perspectives. An update on the major advances on studies in murine models and human subjects, providing mechanistic insight into the molecular and biochemical processes that underlie pathophysiology and its response to treatment are presented. The impact of treatment with nitisinone is also presented with a specific emphasis on hypertyrosinemia, as uncertainty on this topic remains. Future perspectives are explored, such as novel approaches to treat hypertyrosinemia including the use of binding agents and amino acid transporter inhibitors, as well as advanced potentially curative gene and cell therapy initiatives.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "PPR620598",
+    "pmid": "",
+    "doi": "10.1101/2023.02.21.23286262",
+    "title": "A Compendium of manually annotated genetic variants for Alkaptonuria-AKUHub",
+    "abstract": "1. Alkaptonuria or ‘black urine disease’ is a rare autosomal recessive disorder caused by dysfunctional homogentisate 1,2-dioxygenase (HGD) gene (3q13.33) leading to accumulation of homogentisic acid in the body. This inborn error in metabolism of phenylalanine and tyrosine causes accumulation of homogentisic acid leading to ochronosis, pigmentation in the sclera, ear cartilage, mitral valve calcification and osteoarthropathy. Advances in sequencing technologies have helped us to map genetic variants associated with alkaptonuria in diverse populations and regions. Currently, no centralized resource of all the reported actionable variants with uniformity in annotation exists for the HGD gene. We have compiled HGD exonic variants from various data sources and systematically annotated their pathogenicity according to American College of Medical Genetics and the Association of Molecular Pathologists (ACMG/AMP) variant classification framework. A total of 1686 exonic variants were catalogued and manually curated, creating one of the most comprehensive Alkaptonuria variant databases (AKUHub) which is publicly available.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "36821816",
+    "pmid": "36821816",
+    "doi": "10.1080/09273948.2023.2179498",
+    "title": "Sclerouveitis as Part of Multiple Autoimmune Syndrome in a Patient with Alkaptonuria: A Case Report.",
+    "abstract": "<h4>Purpose</h4>To present a novel association of multiple autoimmune syndrome (MAS) in a patient with sclerouveitis and alkaptonuria.<h4>Case report</h4>A 68-year-old female with alkaptonuria, Hashimoto's thyroiditis, and familial autoimmunity presented with decreased VA, red eye, foreign body sensation, and ocular pain. Ophthalmological examination: OD conjunctival hyperemia, ochronosis, a reddish-violet scleral nodule, keratic precipitates, 2+ cells in the anterior chamber, 0.5+ vitreous cells, and mild vitreous haze. The patient was diagnosed with anterior uveitis and anterior nodular scleritis. Due to the associated sicca symptoms, a salivary gland biopsy was ordered, confirming Sjögren's syndrome. Then, MAS was diagnosed, and immunomodulatory medications were started; however, as she was refractory to more than two of them, it was suggested to start biological treatment.<h4>Conclusion</h4>We present a novel MAS-type 2 pattern consisting of Hashimoto's thyroiditis, sclerouveitis, and Sjögren's syndrome. Its diagnosis and management represent a challenge, so a multidisciplinary approach should be provided.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "37404676",
+    "pmid": "37404676",
+    "doi": "10.1002/jmd2.12367",
+    "title": "Increased prevalence of Parkinson's disease in alkaptonuria.",
+    "abstract": "Amongst a cohort of 88 alkaptonuria (AKU) patients attending the United Kingdom National Alkaptonuria Centre (NAC), four unrelated patients had co-existing Parkinson's disease (PD). Two of the NAC patients developed PD before receiving nitisinone (NIT) while the other two developed overt PD during NIT therapy. NIT lowers redox-active homogentisic acid (HGA) and profoundly increases tyrosine (TYR). A further unpublished case of a Dutch patient with AKU and PD on deep brain stimulation is included in this report. A Pubmed search revealed a further five AKU patients with PD, all without NIT usage. The prevalence of PD in AKU in the NAC appears to be nearly 20-times higher than in the non-AKU population (<i>p</i> < 0.001) even when adjusted for age. We propose that life-long exposure to redox-active HGA may account for the higher prevalence of PD in AKU. Furthermore, the appearance of PD in AKU patients during NIT therapy may be due to unmasking dopamine deficiency in susceptible individuals, as a result of the tyrosinaemia during NIT therapy inhibiting the rate-limiting brain tyrosine hydroxylase.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "37025736",
+    "pmid": "37025736",
+    "doi": "10.7759/cureus.35792",
+    "title": "A Previously Undiagnosed Case of Alkaptonuria in an 80-Year-Old Patient: A Case Report.",
+    "abstract": "Alkaptonuria is a rare genetic metabolic disorder of autosomal recessive inheritance characterised by the accumulation of homogentisic acid in the body. It is diagnosed upon identification of characteristic symptoms, using various biochemical investigations, radiographic pictures, and a variety of specialised tests. Here we are discussing the case of an 80-year-old female patient with incidental findings of alkaptonuria. It is crucial to understand the fundamental diagnostic investigations that can be used in low-income nations or facilities where investigations like genetic testing, gas chromatography, and mass spectrometry are not readily available for the diagnosis of alkaptonuria.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "36880186",
+    "pmid": "36880186",
+    "doi": "10.2174/1389203724666230307104135",
+    "title": "Structure-Function Relationship of Homogentisate 1,2-dioxygenase: Understanding the Genotype-Phenotype Correlations in the Rare Genetic Disease Alkaptonuria.",
+    "abstract": "Alkaptonuria (AKU), a rare genetic disorder, is characterized by the accumulation of homogentisic acid (HGA) in organs, which occurs because the homogentisate 1,2-dioxygenase (HGD) enzyme is not functional due to gene variants. Over time, HGA oxidation and accumulation cause the formation of the ochronotic pigment, a deposit that provokes tissue degeneration and organ malfunction. Here, we report a comprehensive review of the variants so far reported, the structural studies on the molecular consequences of protein stability and interaction, and molecular simulations for pharmacological chaperones as protein rescuers. Moreover, evidence accumulated so far in alkaptonuria research will be re-proposed as the bases for a precision medicine approach in a rare disease.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "38162346",
+    "pmid": "38162346",
+    "doi": "10.13107/jocr.2023.v13.i12.4090",
+    "title": "Total Hip Arthroplasty in Ochronotic Arthropathy: A Case Report.",
+    "abstract": "<h4>Introduction</h4>Total hip arthroplasty (THA) is a common procedure used to treat various hip conditions. However, patients with ochronotic arthropathy, a rare genetic disorder characterized by the abnormal accumulation of homogentisic acid, are at a higher risk of post-surgical dislocation and instability due to poor bone quality and joint degeneration.<h4>Case report</h4>This case study features a 52-year-old male patient diagnosed with ochronotic arthropathy who underwent bilateral THA with the use of a dual mobility cup (DMC). Ochronotic arthropathy had caused significant joint degeneration and stiffness, leading to considerable functional impairment.<h4>Conclusion</h4>The application of a DMC in THA for patients with ochronotic arthropathy has shown promising outcomes. The DMC offers increased range of motion and improved stability, effectively reducing the risk of post-surgical dislocation and implant failure. This case study highlights the potential of DMC as a viable solution for addressing the challenges posed by poor bone quality in patients with ochronotic arthropathy undergoing THA.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "39769171",
+    "pmid": "39769171",
+    "doi": "10.3390/ijms252413406",
+    "title": "Exploring the Osteoinductive Potential of Bacterial Pyomelanin Derived from <i>Pseudomonas aeruginosa</i> in a Human Osteoblast Model.",
+    "abstract": "Alkaptonuria (AKU) is a genetically determined disease associated with disorders of tyrosine metabolism. In AKU, the deposition of homogentisic acid polymers contributes to the pathological ossification of cartilage tissue. The controlled use of biomimetics similar to deposits observed in cartilage during AKU potentially may serve the development of new bone regeneration therapy based on the activation of osteoblasts. The proposed biomimetic is pyomelanin (PyoM), a polymeric biomacromolecule synthesized by <i>Pseudomonas aeruginosa</i>. This work presents comprehensive data on the osteoinductive, pro-regenerative, and antibacterial properties, as well as the cytocompatibility, of water-soluble (PyoM<sub>sol</sub>) or water-insoluble (PyoM<sub>insol</sub>) PyoM. Both variants of PyoM support osteoinductive processes as well as the maturation of osteoblasts in cell cultures in vitro due to the upregulation of bone-formation markers, osteocalcin (OC), and alkaline phosphatase (ALP). Furthermore, the cytokines involved in these processes were elevated in cell cultures of osteoblasts exposed to PyoM: tumor necrosis factor (TNF)-α, interleukin (IL)-6, and IL-10. The PyoM variants are cytocompatible in a wide concentration range and limit the doxorubicin-induced apoptosis of osteoblasts. This cytoprotective PyoM activity is correlated with an increased migration of osteoblasts. Moreover, PyoM<sub>sol</sub> and PyoM<sub>insol</sub> exhibit antibacterial activity against staphylococci isolated from infected bones. The osteoinductive, pro-regenerative, and antiapoptotic effects achieved through PyoM stimulation prompt the development of new biocomposites modified with this bacterial biopolymer for medical use.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "37443717",
+    "pmid": "37443717",
+    "doi": "10.3390/cells12131683",
+    "title": "Evaluation of Homogentisic Acid, a Prospective Antibacterial Agent Highlighted by the Suitability of Nitisinone in Alkaptonuria 2 (SONIA 2) Clinical Trial.",
+    "abstract": "Despite urgent warnings about the spread of multidrug-resistant bacteria, the antibiotic development pipeline has remained sparsely populated. Naturally occurring antibacterial compounds may provide novel chemical starting points for antibiotic development programs and should be actively sought out. Evaluation of homogentisic acid (HGA), an intermediate in the tyrosine degradation pathway, showed that the compound had innate activity against Gram-positive and Gram-negative bacteria, which was lost following conversion into the degradation product benzoquinone acetic acid (BQA). Anti-staphylococcal activity of HGA can be attributed to effects on bacterial membranes. Despite an absence of haemolytic activity, the compound was cytotoxic to human HepG2 cells. We conclude that the antibacterial activity and in vitro safety profile of HGA render it more suitable for use as a topical agent or for inclusion in a small-molecule medicinal chemistry program.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "37446173",
+    "pmid": "37446173",
+    "doi": "10.3390/ijms241310996",
+    "title": "Nitisinone Treatment Affects Biomarkers of Bone and Cartilage Remodelling in Alkaptonuria Patients.",
+    "abstract": "Nitisinone has been approved for treatment of alkaptonuria (AKU). Non-invasive biomarkers of joint tissue remodelling could aid in understanding the molecular changes in AKU pathogenesis and how these can be affected by treatment. Serological and urinary biomarkers of type I collagen and II collagen in AKU were investigated in patients enrolled in the randomized SONIA 2 (NCT01916382) clinical study at baseline and yearly until the end of the study (Year 4). The trajectories of the biomarkers over time were observed. After treatment with nitisinone, the biomarkers of type I collagen remodelling increased at Year 1 (19% and 40% increase in CTX-I and PRO-C1, respectively), which was potentially reflected in the higher degree of mobility seen following treatment. The biomarkers of type II collagen remodelling decreased over time in the nitisinone group: C2M showed a 9.7% decline at Year 1, and levels then remained stable over the following visits; CTX-II showed a 26% decline at Year 3 and 4 in the nitisinone-treated patients. Nitisinone treatment induced changes in biomarkers of bone and cartilage remodelling. These biomarkers can aid patient management and deepen our knowledge of the molecular mechanisms of this rare disease.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "36684124",
+    "pmid": "36684124",
+    "doi": "10.3389/fsurg.2022.1040715",
+    "title": "Case report: Thoracolumbar spinal stenosis associated with alkaptonuria.",
+    "abstract": "<h4>Background</h4>Alkaptonuria is a rare autosomal genetic disorder with an incidence of about 1 in 1 million per year. Spinal involvement often manifests in the later stages of the disease. However, this is the first report of the presentation of thoracolumbar spinal stenosis.<h4>Case presentation</h4>We report the case of a 61-year-old female patient with significant thoracolumbar stenosis symptoms. The patient had obvious kyphosis with preoperative lower extremity muscle strength grade 2/5. Symptoms and imaging signs initially suggested ankylosing spondylitis. This patient was classified into motor incomplete injury (ASIA C). However, the patient was found to have melanin deposits on the sclera and skin, and the urine was darkened at rest. CT and MRI both suggested no bone bridge connection between vertebrae, which was the key difference between ankylosing spondylitis and alkaptonuria in imaging. Most importantly, urine specimen testing and intraoperative pathology demonstrated alkaptonuria. The patient underwent spinal decompression and vertebral body fixation. Postoperative recovery was good: the patient had significantly relieved pain and could stand and walk.<h4>Conclusion</h4>This case is the first report of thoracolumbar spinal stenosis associated with alkaptonuria involving the spine.",
+    "journal": "",
+    "year": "2022"
+  },
+  {
+    "id": "37533960",
+    "pmid": "37533960",
+    "doi": "10.1177/11795441231186822",
+    "title": "Spondyloarthropathies That Mimic Ankylosing Spondylitis: A Narrative Review.",
+    "abstract": "Ankylosing spondylitis is the most common type of seronegative inflammatory spondyloarthropathy often presenting with low back or neck pain, stiffness, kyphosis and fractures that are initially missed on presentation; however, there are other spondyloarthropathies that may present similarly making it a challenge to establish the correct diagnosis. Here, we will highlight the similarities and unique features of the epidemiology, pathophysiology, presentation, radiographic findings, and management of seronegative inflammatory and metabolic spondyloarthropathies as they affect the axial skeleton and mimic ankylosing spondylitis. Seronegative inflammatory spondyloarthropathies such as psoriatic arthritis, reactive arthritis, noninflammatory spondyloarthropathies such as diffuse idiopathic skeletal hyperostosis, and ochronotic arthritis resulting from alkaptonuria can affect the axial skeleton and present with symptoms similar those of ankylosing spondylitis. These similarities can create a challenge for providers as they attempt to identify a patient's condition. However, there are characteristic radiographic findings and laboratory tests that may help in the differential diagnosis. Axial presentations of seronegative inflammatory, non-inflammatory, and metabolic spondyloarthropathies occur more often than previously thought. Identification of their associated symptoms and radiographic findings are imperative to effectively diagnose and properly manage patients with these diseases.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "37288202",
+    "pmid": "37288202",
+    "doi": "10.7759/cureus.38597",
+    "title": "Bilateral Patellar Tendon Rupture Following Total Knee Arthroplasty in a Patient With Alkaptonuria: A Case Report.",
+    "abstract": "Alkaptonuria (AKU) is a rare hereditary disorder of tyrosine degradation. The disorder is characterized by the accumulation of a pigment called homogentisic acid. Its accumulation can lead to the breakdown of connective tissue, including tendons. This report presents a 46-year-old male with a history of bilateral total knee arthroplasty (TKA) who sustained bilateral patellar tendon rupture after an acute injury. A single-stage bilateral knee revision with direct repair of the extensor mechanism augmented with Achilles allograft was performed. The procedure was successful, and the patient had an excellent post-operative outcome at one year post-operatively. This case attempts to highlight the possible complications from AKU in order to better counsel patients with this condition who are undergoing TKA.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "39258064",
+    "pmid": "39258064",
+    "doi": "10.7759/cureus.66564",
+    "title": "An Unusual Presentation of a Black Discoloration on the Tympanic Membrane of a 10-Year-Old Girl: A Case Report.",
+    "abstract": "This case report details an unusual presentation of unilateral tympanic membrane discoloration in a 10-year-old girl. The mysterious black discoloration was explored by various medical specialties, revealing a complex diagnostic journey due to the lack of evidence for this specific finding. Initially, the patient consulted her primary care physician after inserting a graphite pencil into her left ear canal, but without associated symptoms, she was considered to have returned to her baseline. The abnormal discoloration on the left tympanic membrane was first observed 10 months later, following diagnoses of two episodes of otitis media, otitis externa, and a middle ear effusion over three separate visits. By this time, the patient had been seen by four different medical professionals. The lesion was described as \"a blackish discoloration in the posterior superior quadrant of the unperforated tympanic membrane near the umbo.\" This report underscores the need for thorough evaluation and consideration of atypical presentations when encountering unusual tympanic membrane discolorations.",
+    "journal": "",
+    "year": "2024"
+  },
+  {
+    "id": "PMC9628007",
+    "pmid": "",
+    "doi": "",
+    "title": "PSAT182 Dilemmas in the Diagnosis and Management of Osteoporosis in a patient with Alkaptonuria: Successful Treatment with Teriparatide",
+    "abstract": "Abstract <h4>Introduction</h4> Diagnosis and management of osteoporosis in patients with alkaptonuria can be challenging. Coexisting arthritis involving the lumbar spine (LS) and hips can falsely elevate bone density making DXA interpretation difficult. We report a patient with alkaptonuria who was successfully treated with teriparatide in addition to bisphosphonate therapy. <h4>Case History</h4> A 69-year-old female presented for evaluation of osteoporosis. She was diagnosed with alkaptonuria at age 29 when she reported bilateral conjunctival hyperpigmentation. She was also diagnosed with arthritis requiring left knee joint replacement at the age of 57 years. Subsequently, she underwent left hip, right knee, right hip, and left shoulder joint replacement surgeries. She also sustained fragility fractures in the foot and a 2-inches height loss. Physical examination: normal vital signs. Examination of eyes and ears: bluish black discoloration of the conjunctiva and ear lobes. Heart examination showed normal S1, split S2, and IV/VI systolic murmur over the right parasternal border; the rest of the physical examination revealed limited joint movements of thoracic and lumbar spines, wrists, ankles, knees and hip joints. Laboratory: serum PTH 33 pg./mL, 25-OH vitamins 28 ng/mL, 1,25 (OH)2 vitamin D 43 pg/mL, osteocalcin 11.6 mg/mL (ref 9.4-47.4), collagen cross-linked C-telopeptide 318 pg/mL (ref 104-1008), tyrosine 79.1 umol/L (ref 31.1-118.1), 24 hours urine homogentisic acid 4.2 gms (ref 20-30 mg). Genetic testing: compound heterozygous mutation for the HGD C. 496T2T>C and HGD C.1102A < G (p.mev368Va) variants, consistent with a diagnosis of alkaptonuria. DXA scan done at the age of 56 years showed osteoporosis (T score -2.7 femoral neck, 1.8 total hip, 2.5 LS). Patient was started on alendronate 70mg PO weekly for 5 years in addition to nitisinone. While on alendronate, she sustained fragility fractures of the right radius and left ankle. After 5 years of alendronate, the patient was transitioned to teriparatide 20-mcg subcutaneously (SC) daily for 2 years followed by annual intravenous zoledronic acid. For the subsequent 7 years, the patient led a healthy, active life with no fractures. Follow-up DXA showed improvement to the osteopenic range at the radius site as degenerative arthritis made interpretation of other sites impossible.This case illustrates the challenges in the diagnosis and treatment of osteoporosis in patients with alkaptonuria. DXA can be ineffective in this condition due to the hip and LS arthritis. Measurement of trabecular bone scoreS and CT of the LS may be better alternate choices. Bisphosphonates alone are typically not effective in preventing fragility fractures in this population but use of teriparatide may be an effective treatment. Further studies are needed to assess the effectiveness of teriparatide in this population but our case shows promise that this treatment result in BMD improvement and fracture prevention. Presentation: Saturday, June 11, 2022 1:00 p.m. - 3:00 p.m.",
+    "journal": "",
+    "year": "2022"
+  },
+  {
+    "id": "36684325",
+    "pmid": "36684325",
+    "doi": "10.3389/fsurg.2022.913120",
+    "title": "Total knee arthroplasty and physical therapy for arthropathy in alkaptonuria: A 4-year follow-up case report.",
+    "abstract": "<h4>Introduction</h4>Alkaptonuria is a rare autosomal recessive metabolic disorder which leads to accumulation of homogentisic acid in the body.<h4>Case presentation</h4>We report a rare case of an alkaptonuria-related knee arthritis who underwent left total knee arthroplasty and received postoperative systematic physical therapy in a 57-year-old male patient. The patient has suffered from bilateral knee pain for over 4 years. The patient developed melanin pigmentation on the skin of the whole body, especially on the face and auricle. He self-reported that fresh urine was normal color but after standing overnight, the color deepened to black or soy color. He underwent routine urine examination for many times, but no obvious abnormality was found. The patient has suffered from low back pain for more than 20 years. He had been considered for lumbar disc herniation and ankylosing spondylitis after many in-hospital visits. After symptomatic medication, there was no obvious relief. We followed the patient for 4 years after surgery.<h4>Result</h4>The patient presented with pain relief and enhanced range of motion at the 4-year follow-up. The improvements of daily living and the pain relief suggest that the surgery is appropriate for this rare disease.<h4>Conclusion</h4>It is rare that the knee pain is diagnosed as alkaptonuria. After total knee arthroplasty and physical therapy, the patient had a good outcome. This case provides experience for the diagnosis and treatment of alkaptonuria-related knee arthritis.",
+    "journal": "",
+    "year": "2022"
+  },
+  {
+    "id": "36966367",
+    "pmid": "36966367",
+    "doi": "10.2478/enr-2023-0008",
+    "title": "Nutritional interventions for patients with alkaptonuria: A minireview.",
+    "abstract": "Alkaptonuria (AKU, OMIM, No. 203500) is a rare, slow-progressing, irreversible, multisystemic disease resulting from a deficiency of the homogentisate 1,2-dioxygenase enzyme, which leads to the accumulation of homogentisic acid (HGA) and subsequent deposition as pigment in connective tissues called ochronosis. As a result, severe arthropathy of large joints and spondyloarthropathy with frequent fractures, ligament ruptures, and osteoporosis develops in AKU patients. Since 2020, the first-time treatment with nitisinone has become available in the European Union. Nitisinone significantly reduces HGA production and arrests ochronosis in AKU patients. However, blocking of the tyrosine metabolic pathway by the drug leads to tyrosine plasma and tissue concentrations increase. The nitisinone-induced hypertyrosinemia can lead to the development of corneal keratopathy, and once it develops, the treatment needs to be interrupted. A decrease in overall protein intake reduces the risk of the keratopathy during nitisinone-induced hypertyrosinemia in AKU patients. The low-protein diet is not only poorly tolerated by patients, but over longer periods, leads to a severe muscle loss and weight gain due to increased energy intake from carbohydrates and fats. Therefore, the development of novel nutritional approaches is required to prevent the adverse events due to nitisinone-induced hypertyrosinemia and the negative impact on skeletal muscle metabolism in AKU patients.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "37669658",
+    "pmid": "37669658",
+    "doi": "",
+    "title": "[Alkaptonuria: evolution and course of the disease towards ochronotic arthropathy. Series of cases managed with joint replacement].",
+    "abstract": "<h4>Introduction</h4>alkaptonuria is a very rare metabolic disease with autosomal recessive inheritance due to HGA oxidase deficiency. Classically described and diagnosed in the third to fourth decade of life, affecting both men and women; Its diagnostic impression is clinical based on the blue/black coloration of the conjunctivae, however it is confirmed by the specific analysis of the enzyme in the urine, to date there is no cure and its treatment is palliative and symptomatic.<h4>Material and methods</h4>descriptive, observational, case series study, the primary objective of which is to describe the progression of the disease and its involvement in the musculoskeletal system.<h4>Results</h4>two clinical cases are presented in women and men in which the broad clinic is illustrated, its progressive advance and the different alterations that it can generate in the musculoskeletal system.<h4>Conclusions</h4>alkaptonuria is a rare disease which leads to a severe secondary arthropathy, currently without a specific management which is based on treating the symptoms, in its final stages joint replacements are a management option with satisfactory results for the relief of pain.",
+    "journal": "",
+    "year": "2022"
+  },
+  {
+    "id": "36608845",
+    "pmid": "36608845",
+    "doi": "10.1016/j.amjms.2022.12.028",
+    "title": "Bacterial quality of urinary tract in patients with alkaptonuria.",
+    "abstract": "<h4>Background</h4>The aim of the current study was to determine whether there is an association between alkaptonuria (AKU) and urinary tract infection (UTI) by exploring the bacterial quality of the urinary tract, as most of the patients with AKU present with frequent occurrence of urinary tract symptoms such as incomplete emptying of urinary bladder, dysuria and nocturia.<h4>Methods</h4>Study samples were collected from 22 participants; 9 from patients with AKU, 9 from individuals who were AKU carriers, and 4 people served as control. Confirmation of AKU diagnosis was established by the ferric chloride test and quantitative determination of urinary homogentisic acid (HGA) levels.<h4>Results</h4>In the ferric chloride test, the urine samples of AKU patients showed a characteristic black ring upon addition of few drops of ferric chloride solution. During urinary HGA determination, patients with AKU had increased levels of urinary HGA as compared to carriers and controls. The following 10 bacterial species were isolated from the urinary tract of AKU patients, carriers and controls: Sphingomonas paucimobilis, Escherichia coli, Francisella tularensis, Staphylococcus hominis, Staphylococcus haemolyticus, Leuconostoc mesenteroides, Dermacoccus nishinomiyaensis, Kytococcus sedentarius, Serratia fonticola and Granulicatella adiacens. The presence of S. paucimobilis was found in three male patients, and one female each from the carrier and control groups. Almost all study samples were positive for D. nishinomiyaensis and K. sedentarius. S. fonticola and G. adiacens were found only in AKU carrier females.<h4>Conclusions</h4>The results deduced that males show symptoms of arthritis early and more severely than females and by this it appears that there is an association between these symptoms and the percentage of bacterial infection in males that requires more accurate diagnosis and treatment to clarify such relationship. In the current study, males (patients, carriers, and controls) were more likely to have bacterial infections than females (64% vs. 36%). The 16 and 2 bacterial isolates, detected in 7 males and 2 females AKU patients, respectively, revealed that male AKU patients had a 2.3-fold greater rate of bacterial infection than female AKU patients. Therefore, further studies are warranted to investigate if there's any relationship between higher incidence of bacterial infections and development of AKU-related clinical symptoms in the male population.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "36985595",
+    "pmid": "36985595",
+    "doi": "10.3390/molecules28062623",
+    "title": "Identification of Potential Inhibitors for the Treatment of Alkaptonuria Using an Integrated In Silico Computational Strategy.",
+    "abstract": "Alkaptonuria (AKU) is a rare genetic autosomal recessive disorder characterized by elevated serum levels of homogentisic acid (HGA). In this disease, tyrosine metabolism is interrupted because of the alterations in homogentisate dioxygenase (HGD) gene. The patient suffers from ochronosis, fractures, and tendon ruptures. To date, no medicine has been approved for the treatment of AKU. However, physiotherapy and strong painkillers are administered to help mitigate the condition. Recently, nitisinone, an FDA-approved drug for type 1 tyrosinemia, has been given to AKU patients in some countries and has shown encouraging results in reducing the disease progression. However, this drug is not the targeted treatment for AKU, and causes keratopathy. Therefore, the foremost aim of this study is the identification of potent and druggable inhibitors of AKU with no or minimal side effects by targeting 4-hydroxyphenylpyruvate dioxygenase. To achieve our goal, we have performed computational modelling using BioSolveIT suit. The library of ligands for molecular docking was acquired by fragment replacement of reference molecules by ReCore. Subsequently, the hits were screened on the basis of estimated affinities, and their pharmacokinetic properties were evaluated using SwissADME. Afterward, the interactions between target and ligands were investigated using Discovery Studio. Ultimately, compounds <b>c</b> and <b>f</b> were identified as potent inhibitors of 4-hydroxyphenylpyruvate dioxygenase.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "37795417",
+    "pmid": "37795417",
+    "doi": "10.3389/fmed.2023.1212580",
+    "title": "Ochronotic arthropathy effectively treated with total hip and total knee arthroplasty: a case report.",
+    "abstract": "Ochronosis is a rare autosomal recessive disorder of tyrosine metabolism characterized by multilevel spinal degeneration and arthritis of large weight-bearing joints, which is referred to as ochronotic arthropathy. In this case report, we describe diagnosis and treatment of ochronotic arthropathy in a patient who underwent total hip arthroplasty (THA) and total knee arthroplasty (TKA). The Harris hip score was 26 preoperatively and 45, 68, 76, 90, 92, and 94 at 1, 3, 6, 9, 11, and 14 months, respectively, postoperatively. The forgotten joint score (FJS) of the hip was 27.8, 52.8, 81.1, 89.0, 90.6, and 92.4 at 1, 3, 6, 9, 11, and 14 months, respectively, postoperatively. TKA was performed 8 months after THA. The Knee Society Score was 36 before TKA and 74, 82, and 90 at 1, 3, and 6 months, respectively, after TKA. The FJS of the knee was 36.6, 63.9, and 84.5 at 1, 3, and 6 months, respectively, after TKA. The patient's knee range of motion returned to normal, with significant reduction in pain and improved satisfaction levels after TKA. THA and TKA can achieve good clinical outcomes in patients with ochronosis accompanied by severe joint pain.",
+    "journal": "",
+    "year": "2023"
+  },
+  {
+    "id": "36600285",
+    "pmid": "36600285",
+    "doi": "10.1186/s13023-022-02606-0",
+    "title": "Clinical development innovation in rare diseases: overcoming barriers to successful delivery of a randomised clinical trial in alkaptonuria-a mini-review.",
+    "abstract": "Alkaptonuria is a rare inherited disorder for which there was no disease-modifying treatment. In order to develop a successful approved therapy of AKU multiple barriers had to be overcome. These included activities before the conduct of the study including deciding on the drug therapy, the dose of the drug to be used, clarify the nature of the disease, develop outcome measures likely to yield a positive outcome, have a strategy to ensure appropriate patient participation through identification, build a consortium of investigators, obtain regulatory approval for proposed investigation plan and secure funding. Significant barriers were overcome during the conduct of the multicentre study to ensure harmonisation. Mechanisms were put in place to recruit and retain patients in the study. Barriers to patient access following completion of the study and regulatory approval were resolved.",
+    "journal": "",
+    "year": "2023"
+  }
+]
