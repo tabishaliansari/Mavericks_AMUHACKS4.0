@@ -57,7 +57,7 @@ def extract_triples_from_abstract(abstract, disease_name):
 
 # Load the abstract file
 disease = 'charge_syndrome'
-with open(f"{disease}.json", "r", encoding="utf-8") as f:
+with open(f"/disease_abstract/{disease}.json", "r", encoding="utf-8") as f:
     abstracts_data = json.load(f)
 
 print(f"✅ Loaded {len(abstracts_data)} abstracts.")
@@ -77,7 +77,7 @@ for paper in abstracts_data:
     all_triples.extend(triples)
 
 # Save to output file
-with open(f"{disease}-triples.json", "w", encoding="utf-8") as f:
+with open(f"/diseases-triple/{disease}-triples.json", "w", encoding="utf-8") as f:
     json.dump(all_triples, f, indent=2, ensure_ascii=False)
 
 print(f"\n✅ Done! Extracted {len(all_triples)} triples saved to {disease}-triples.json.")
