@@ -1,0 +1,51 @@
+---
+config:
+  layout: fixed
+---
+flowchart TD
+ subgraph Frontend["Frontend"]
+        A1("User Interface (ReactJS / NextJS)")
+        A2("Interactive Knowledge Graph Viewer (HTML + JavaScript)")
+        A3("Natural Language Input Box")
+        A4("Authentication (Login/Register)")
+  end
+ subgraph Backend["Backend"]
+        B1("Flask API")
+        B2("Cypher Query Parser")
+        B3("NLP to Cypher Translator (e.g. LLM/RAG-based)")
+        B4("Search Engine & Filtering Logic")
+        B5("Graph Rendering Endpoint")
+  end
+ subgraph subGraph2["Database Layer"]
+        C1[("Neo4j Graph Database")]
+  end
+ subgraph subGraph3["AI/NLP Layer"]
+        D1("Information Extraction (Python Scripts)")
+        D2("Triples Generator")
+        D3("Triple Cleaning & Merging")
+        D4("Llama & TogetherAI")
+  end
+ subgraph subGraph4["Visualization Layer"]
+        E1("Mermaid.js / D3.js / Cytoscape.js Viewer")
+        E2("Graph.html files")
+        E3("Dynamic Filtering and Search UI")
+  end
+ subgraph subGraph5["Hosting & Deployment"]
+        F1("Vercel / Netlify (Frontend)")
+        F2("Render / Railway (Flask API)")
+        F3("Neo4j Aura or Localhost")
+  end
+    A1 --> A2 & A3 & A4 & F1
+    A3 --> B3
+    A2 --> B5
+    A4 --> B1
+    B1 --> B2 & F2
+    B2 --> C1
+    B3 --> D4
+    B5 --> E1
+    D1 --> D2
+    D2 --> D3
+    D3 --> C1
+    D4 --> B2
+    C1 --> E1 & F3
+    E1 --> A2
