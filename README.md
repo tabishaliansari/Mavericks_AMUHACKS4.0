@@ -213,8 +213,5 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for m
 
 > _Empowering researchers and clinicians with intelligent access to rare disease knowledge._
 
-```
 
----
-
-#AMUHACKS4.0 #CSSAMU #AMU #knowledge-graph #neo4j #biomedical-nlp #rare-diseases #open-source #machine-learning #natural-language-processing # ai-for-healthcare
+#AMUHACKS4.0 #CSSAMU #AMU #Knowledge-Graph #Neo4j #Biomedical-NLP #RareDiseases #OpenSource #MachineLearning #NaturalLanguageProcessing #AI-for-healthcare
